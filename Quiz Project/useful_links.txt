@@ -1,0 +1,1 @@
+use "opentdb.com" to generate question in JSON formate and add in your data file. 

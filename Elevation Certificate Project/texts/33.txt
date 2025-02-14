@@ -1,0 +1,920 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0008
+Federal Emergency Management Agency ene nee
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A — PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+A1. Building Owner's Name: Cervelle Homes Policy Number:
+
+    
+ 
+ 
+    
+     
+ 
+         
+      
+        
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: | Company NAIC Number:
+2217 Estancia Lane
+
+City: League City State. TX ZIP Code: 77539
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+Lot 25, Block 4, Pedregal, Section 3
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): _ Residential
+
+A5. Latitude/Longitude: Lat. N29d 26' 41.17" Long. W95d 07' 24.99 Horizontal Datum: [|] NAD 1927 [X]NAD 1983 [_] WGS 84
+A6. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+
+A7. Building Diagram Number: 1B
+
+       
+
+        
+        
+     
+   
+   
+   
+     
+
+A8. For a building with a crawispace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): 0.00 sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? ["] Yes [[]No [KX] N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: 0 Engineered flood openings: 0
+
+d) Total net open area of non-engineered flood openings in A8.c: 0.00 sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): 0.00 sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): 0.00 sq. ft.
+
+AQ. For a building with an attached garage:
+
+    
+      
+   
+   
+     
+
+a) Square footage of attached garage: 2,113.00 sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? []Yes [_]No [N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+
+  
+    
+         
+     
+   
+   
+     
+
+Non-engineered flood openings: 0 Engineered flood openings: 0
+
+d) Total net open area of non-engineered flood openings in A9.c: 0.00 sq. in.
+
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): 0.00 sq. ft.
+
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions): 0.00 sq. ft.
+B1.a. NFIP Community Name: City of League City B1.b. NFIP Community Identification Number: 485488
+B2. County Name: Galveston B3. State: TX B4. Map/Panel No.: 48167C0228 B5. Suffx:G
+B6. FIRM Index Date: 08/15/2019 B7. FIRM Panel Effective/Revised Date: 08/15/2019
+B8. Flood Zone(s): X B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): N/A
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+J Fis [FIRM []Community Determined [] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [[] NGVD 1929 [x] NAVD 1988 [_] Other/Source:
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? (1 Yes No
+Designation Date: (]CBRS [|] OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [—] Yes [Xx] No
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 2 of 19
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+2217 Estancia Lane
+City: League City State: TX ZIP Code: 77539
+
+Policy Number:
+Company NAIC Number:
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: [(] Construction Drawings* [(] Building Under Construction* [] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations - Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—-h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: League City Reference Mark-#102 Vertical Datum: NAVD 1988 2002 Adj
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+_] NGVD 1929 [[] NAVD 1988 |X] Other: NAVD 1988 2002 Adj
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? [-] Yes [kK] No
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 22.00 feet ["] meters
+b) Top of the next higher floor (see Instructions): [-] feet [[] meters
+c) Bottom of the lowest horizontal structural member (see Instructions): [_] feet meters
+d) Attached garage (top of slab): X] feet meters
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area): & feet meters
+
+f) Lowest Adjacent Grade (LAG) next to building: [7] Natural [X] Finished XX feet meters
+g) Highest Adjacent Grade (HAG) next to building: [~] Natural Finished ix] feet meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: [] feet meters
+
+SECTION D —- SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. | certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? [] Yes [k]No
+[_] Check here if attachments and describe in the Comments area.
+
+Certifiers Name: Troy Shanks License Number: 99552
+
+Title: Professional Engineer
+
+Company Name: Shanks Engineering & Surveying, Inc
+
+Address: 1446 Pirates Cove
+
+City; Houston State) TX — ZIP Code: 77058
+
+19%
+
+Signature: PE Date: 09/01/2023 ONAL
+Telephone: (281) 488-1486 :_____ Email: Shanksls@sbeglobal.com Place Seal Here
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+Benchmark is League City Reference Mark LC-2005-102, Brass disc on headwall. Elevation 19.88' NAVD 88.
+
+Comment AQa, garage is attached to the house by a breezeway.
+
+Comment C2e is the air conditioner along the exterior of the home.
+
+Closest 500 year flood plain elevation is 18.3' (Transect 95)
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 3 of 19
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+ 
+ 
+
+     
+  
+
+Building Street Address (including Apt. Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+2217 Estancia Lane
+City: League City State) TX ZIP Code: 77539
+
+     
+  
+
+Policy Number:
+Company NAIC Number:
+
+       
+
+     
+
+     
+  
+
+  
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View," or "Left Side View." Photographs must show the foundation. When fiood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+  
+    
+      
+   
+
+ 
+
+Clear Photo One
+
+ 
+
+ 
+     
+
+Photo Two Caption: Front Right View of Home (09/01/23)
+
+   
+
+Clear Photo Two
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 7 of 19
+
+ 
+
+Se
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+BUILDING PHOTOGRAPHS
+
+Continuation Page
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+2217 Estancia Lane
+
+City: League City State: TX — ZIP Code: 77539
+
+   
+  
+
+  
+
+FOR INSURANCE COMPANY USE
+
+   
+
+   
+   
+
+ 
+    
+  
+
+Policy Number:
+
+ 
+
+Company NAIC Number:
+
+ 
+ 
+  
+
+ 
+
+  
+ 
+ 
+
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View," “Rear View," "Right Side
+
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or
+vents, as indicated in Sections A8 and AQ.
+
+     
+    
+
+Photo Three
+
+    
+
+ 
+
+Photo Three Caption:
+
+ 
+       
+      
+ 
+
+Rear view of Home (09/01/23)
+
+Clear Photo Three
+
+Photo Four
+
+Photo Four Caption: Rear view of Home and AC (09/01/23)
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22)
+
+  
+    
+
+Page 8 of 19
+
+_ Se
+Report Date 1/11/2024
+
+Xa ct us yh Revor Number 110s1680
+Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 2217 ESTANCIA LN, LEAGUE CITY, TX 77539
+Standardized Location 2217 ESTANCIA LN, DICKINSON, TX 77539-2144
+
+Latitude, Longitude 29.444764, -95.12362 Parcel ID
+
+FIPS / MSA/ Tract 48167 / 26420 / 7206.05 Community No. 485488
+Community Name LEAGUE CITY, CITY OF
+
+County Name GALVESTON COUNTY
+
+ 
+
+Nae Mapbox ©,OpenStreeiMap
+Flood Zone Zone X Next Nearest Zone (Dist.) AE (2900 ft)
+BFE NOT APPLICABLE USGS Ground Elev 21 ft NAVD88
+FEMA Map 48167C0228G, 08/15/2019 Previous Map 4854880030E, 09/22/1999, Zone X
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 06/05/1970
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $/# $256,799,148 / 5496 NFIP PIF* 17760 NFIP Discount 25%
+Flood Source 952 ft Salt Water 40272 ft Fresh Water 1342 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+Texas Farmers Insurance Company
+
+fo" : Texas Farmers Insurance Company https://www.farmers.com/
+ree PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 2217 ESTANCIA LN, Dickinson, TX, 77539 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660008674 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660008674
+POLICY TERM: 02-11-2024 (12:01 AM) - 02-11-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: DELORES TAMBORELLO
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+DELORES TAMBORELLO & RONALD TAMBORELLO Dan Frickey
+2217 Estancia Ln, Alexandra Ryan
+Dickinson, TX, 77539 2911 S SHORE BLVD STE 100A, League City, TX, 77573
+
+Phone : 2814618707
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+ 
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 1,250 $ l 3 06
+Contents $ 100,000 $ 1,000 Total Anmyal Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $ 783
+Building Occupancy Single Family Contents Premium: $521
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $25
+First Floor Height (FFH) 1 Community Rating System Discount: $ (283.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 1,046
+Property Description Slab on Grade (non-elevated), 1 Floors , Discounted Premium: $ 1,046
+Frame Fees and Surcharges:
+
+Date of Construction 09-14-2023 Reserve Fund Assessment: $ 188
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $25
+
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+
+Total Premium $ 1,306
+ADDITIONAL INTERESTS
+
+First Mortgagee
+PENNYMAC LOAN SERVICES LLC ISAOA/ATIMA, ADDITIONALINSURED
+4349 HAZEL AVE STE 100, RONALD TAMBORELLO ,
+Fair Oaks, Sacramento County, CA, 95628 2217 Estancia Ln
+
+Loan # : 8207041476
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+iled: 01-24- a oe ——
+Date Mailed: 01-24-2024 To learn more about your flood risk, please visit FloodSmart.gov ———“
+C—O
+NATIONAL FLOOD
+
+INSURANCE PROGRAM
+for
+
+ 
+
+ 
+
+STANDARD FLOOD INSURANCE
+
+ 
+
+Texas Farmers Insurance
+
+Company
+
+ 
+
+ 
+
+ 
+
+FARMERS APPLICATION https://www.farmers.com/
+INSURANCE
+PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+
+Date Application Number Effective Date Expiration Date Waiting Period
+01-12-2024 FLD1660008674 02-11-2024 02-11-2025 Standard - 30 Day Wait
+ee ee eee
+DELORES TAMBORELLO ailing ress none perty | gency Name, ress one
+
+2217 Estancia Ln,Dickinson,TX,77539 2217 ESTANCIA LN, 77539, Dickinson, 2911 S SHORE BLVD STE 100A,League City,TX,77573
+
+, TX
+Home Phone: .
+Email:dfrickey@farmersagent.com
+Work Phone: .
+Property Address Type:Location Phone Number:28 14618707
+Cell Phone:(281)904-8483 .
+. : Agent Name:Dan Frickey
+
+Email:dtamborello@icloud.com
+Applicant Type:INDIVIDUAL
+Prior Company NAIC: .
+
+. . Other Policy Number:
+
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+Potential Duplicate Policy:
+
+ 
+
+1st Mortgagee
+PENNYMAC LOAN SERVICES LLC ISAOA/ATIMA
+
+2°
+
+Phone Number:(111) 111-1111
+Fax Number:
+
+Loan Number:8207041476
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:485488
+Map Panel:0228
+
+Map Panel Suffix:G
+
+Current Flood Zone:X
+Current Base Flood Elevation(BFE):21
+FIRM Date:1 1-20-1970
+Program:FLOODREGULAR
+Program Status:
+
+County:
+
+Current Map Date:08-15-2019
+Rating Map Date:
+
+ 
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:1 1-20-1970
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Construction Date
+Date of Original Construction:09- 14-2023
+
+Building Substantially Improved:NO
+Post-FIRM Construction:YES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:YES
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+Occupancy Type:Single Family
+Building Description:
+
+Is this the Applicant's Primary
+
+Is the insured a small business with
+NO
+
+Is the insured a nonprofit entity?:NO
+
+less than 100 employees?:
+
+Date:
+
+APC PRV 07 21
+
+ATIO
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+Texas Farmers Insurance
+
+co". STANDARD FLOOD INSURANCE QUOTE Company
+
+FARMERS
+
+ 
+
+ 
+
+ 
+
+https://www.farmers.com/
+
+ 
+
+ 
+
+eas PO Box 2057 Kalispell MT 59903 USA
+(888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+01-12-2024 FLD1660008674 02-11-2025 Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:250000
+Replacement Cost Value Returned by FEMA430282
+Total sq. footage of building:2863
+
+Total # of floors in building:1
+
+Total # of units in building:
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:09-01-2023
+Diagram Number:1B
+
+Top of Bottom Floor:22
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):21
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Flood Height:1
+FEMA First Floor Height:1
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 1,250.00
+Content 100,000.00 1,000.00
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 783.00
+Content Premium: $ 521.00
+Increased Cost of Compliance (ICC) Premium: $ 25.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (283.00)
+Full Risk Premium: $ 1,046.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,046.00
+Reserve Fund Assessment: $ 188.00
+HFIAA Surchange: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 1,306.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+RX
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD1660008674 / DELORES TAMBORELLO
+
+2217 ESTANCIA LN, Dickinson, Galveston County, TX,
+77539 - 4040
+
+2217 Estancia Ln, Dickinson, Galveston County, TX, 77539 -
+4040
+
+Renew indicator: BATCH RENEWAL
+
+Term Start Date : 02/11/2024 Term End Date :
+Transaction Eff. Dt. :
+
+Last Updated By :
+
+02/11/2024
+MARCUS DUNCAN
+
+Waiting Period:
+Applicant Date :
+
+Claims 0 Loss Run
+
+$1,306.00
+$1,306.00
+
+Total Premium Change : Bill To :
+
+Total Premium :
+
+Quote Source: AGENT
+
+dtamborello@icloud.com
+(281)904-8483
+
+Agent Tasks : File
+complete
+
+02/11/2025
+
+Standard - 30 Day Wait
+01/12/2024
+
+Risk Rating
+
+POLHOLDER
+
+ 
+
+Receivable View Invoicing Subledger
+
+[urvoste ]
+
+ 
+
+ACCOUNTING DT.
+
+01/12/2024
+
+TRANS TYPE TRANS REF CHECK NO
+
+PAYMENT F2166000006885
+
+01/24/2024 INVOICE INV00788282
+
+Log Documents Agent Customer
+Portal Portal
+
+Term Selection: (1139801)
+02-11-2024/02-11-2025 v
+
+Transaction Selection: (1541693)
+ENDORSE - ISSUED v
+
+Last transaction
+
+ 
+
+CERTIFIED DATE DEBIT
+
+01/12/2024 $0.00
+
+$1,306.00
+
+Transaction Type : New Busi
+
+Business
+
+last Updated Date : 01-24-20
+2.0
+
+Serv Rep:
+
+U/writer :
+
+Product Name : Flood Pre
+CREDIT BALANCE sys
+$(1,306.00) $(1,306.00) 01,
+$0.00 $0.00 01,
+   
+     
+
+Endorsement by ODESA
+RECIO
+
+Transaction date: 02-13-2024
+Transaction Eff. Dt. 2024-02-
+11
+
+Note
+
+(02-13-2024) Chat with agt
+Alexandra want to update the
+mortgagee/agt assisted/email
+the copy...
+
+ 
+
+a
+©
+
+ 
+
+ 
+
+Agency Info
+
+08811-00340-000 Dan
+Frickev
+Print Log
+
+ 
+
+Type note here
+
+ 
+
+ 
+
+0/500
+Make hidden?: (©
+(ra)
+Date Description Inserted By Mark Hidden
+
+02-13-2024 4:36:44 PM
+
+02-12-2024 12:26:19 PM
+
+02-06-2024 4:03:26 PM
+
+A1 3A INIA A.10-23 ARA
+4
+
+Mortgagee Clause PennyMac Loan Services, LLC PO
+Box 6618 Springfield, OH 45501-6618
+
+Chatted agent Alexandra looking for a policy
+declaration . Assisted and provided a copy of the
+policy declaration.
+
+Chat with agt Alexandra asking if there is still
+pending for the app/adv all good they can update
+the mortgagee/eoc
+
+Awemsel AID affartinin 2/11 /9NDA IBN Anis anit fram
+
+Alexandra Ryan
+
+ANALIZA MODELO
+
+ODESA RECIO
+
+RAADCIIC NIINICARNI

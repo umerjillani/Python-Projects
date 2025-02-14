@@ -1,0 +1,1907 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0008
+Federal Emergency Management Agency Expiration Date: 06/90/2026
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A— PROPERTY INFORMATION
+A1. Building Owner's Name: LETICIA GONZALEZ Policy Number:
+
+A2. Building Street Address {including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+13360 SW 90 TERRACE
+
+City: MIAMI State: FL ZIP Code: 33186
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+TAX PARCEL NO, 30-5902-018-1870
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): _ RESIDENTIAL
+A5. Latitude/Longitude: Lat, 25.68324 Long. -80.41088 Horiz. Datum: [7] NAD 1927 [xj NAD 1983 [_] WGS 84
+
+  
+ 
+  
+    
+  
+        
+       
+        
+          
+ 
+        
+     
+      
+   
+         
+     
+   
+   
+     
+
+        
+
+  
+
+   
+
+Company NAIC Number:
+
+      
+
+ 
+
+A6. Attach at least two and when possible four clear color photographs (one for each side) of the building (see Form pages 7 and 8).
+1A
+
+A8. For a building with a crawlspace or enclosure(s):
+
+    
+
+ 
+
+A?. Building Diagram Number:
+
+a) Square footage of crawlspace or enclosure(s): N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [_] Yes [[] No N/A
+
+¢) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+
+d)} Total net open area of non-engineered flood openings in A8.c: N/A sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): N/A sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable - see Instructions): N/A sq. ft.
+AQ. For a building with an attached garage:
+a) Square footage of attached garage: N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? []Yes []No [xX] N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A — Engineered flood openings: NO
+
+d) Total net open area of non-engineered flood openings in A9.c: N/A sq. in.
+
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): N/A sq. ft.
+
+  
+     
+           
+     
+   
+       
+
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions): N/A sq. ft.
+
+SECTION B= FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+Bt1.a. NFIP Community Name: MIAMI-DADE COUNTYUNINCORPORATED B1.b. NFIP Community Identification Number: 120635
+B2. County Name: MIAMI - DADE COUNTY B3. State: FL B4. Map/Panel No.: 12086C0441 BS. Suffix:h
+B6. FIRM Index Date: 09/11/2009 B7. FIRM Panel Effective/Revised Date: 09/11/2009
+
+B8. Flood Zone(s): AH B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 8 FT.
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+[1 FIS [FIRM [_] Community Determined [_] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: NGVD 1929 [_] NAVD 1988 [_] Other/Source:
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? (Yes No
+Designation Date: LICBRS [OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [7] Yes [x] No
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 2 of 8
+
+ 
+ 
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+13360 SW 90 TERRACE
+City: MIAMI State. FL ZIP Code: 33186
+
+Policy Number:
+
+Company NAIC Number:
+
+SECTION C - BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: [_] Construction Drawings* {[[] Building Under Construction* §] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1-A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: MIAMI-DADE CO, B.M, M-105 Vertical Datum: NGVD 1929
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+& NGvb 1929 [] NAVD 1988 [_] Other:
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? ["] Yes [7] No
+
+lf Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 9.6 feet [_] meters
+
+b) Top of the next higher floor (see Instructions): N/A {XJ feet [] meters
+
+c) Bottom of the lowest horizontal structural member (see Instructions): N/A feet [(] meters
+
+d) Attached garage (top of slab): N/A feet [_] meters
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area): 9.4 feet [] meters
+
+f} Lowest Adjacent Grade (LAG) next to building: [|] Natural >< Finished 8.8 feet [] meters
+g) Highest Adjacent Grade (HAG) next to building: [_] Natural Finished 8.9 feet [_] meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: [] feet [_] meters
+
+SECTION D —- SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. / certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? [_] Yes No
+
+[_] Check here if attachments and describe in the Comments area.
+
+Certifiers Name: CLYDE MCNEAL License Number: LB 8111 Cl d Digitally
+
+Title: REG. LAND SURVEYOR y e signed by
+
+Company Name: NEXGEN SURVEYING, LLC O Clyde O
+
+Address: 1547 PROSPERITY FARMS ROAD McNeal
+rt M N Date:
+
+City: LAKE PARK State: FL ZIP Code: 33403 cINe 2024.03.06
+
+Telephone: (561) 508-6272 Ext.: Email: a | 13:41:38
+-05'00'
+
+Digitally signed by Clyde O McNeal
+Signature: Clyde O McNeal Date: 2024.03.06 13:42:57 -05'00" Date: 03/06/2024 Place Seal Here
+
+ 
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+This information is being collected for the primary purpose of estimating the risk premium rates necessary to provide flood
+insurance and is not to be used for any construction permitting purposes.
+
+Latitude/Longitude in A5 derived from Google Maps. Machinery/Equipment in C2e is an A/C Pad.
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 3 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No..: FOR INSURANCE COMPANY USE
+
+13360 SW 90 TERRACE ;
+Policy Number:
+
+City: MIAMI State: FL ZIP Code: 33186
+
+Company NAIC Number:
+
+SECTION E — BUILDING MEASUREMENT INFORMATION (SURVEY NOT REQUIRED)
+FOR ZONE AO, ZONE AR/AO, AND ZONE A (WITHOUT BFE)
+
+For Zones AO, AR/AO, and A (without BFE), complete Items E1—E5. For Items E1~E4, use natural grade, if available. If the Certificate is
+intended to support a Letter of Map Change request, complete Sections A, B, and C. Check the measurement used. {n Puerto Rico only,
+enter meters.
+
+Building measurements are based on: [_] Construction Drawings* [_] Building Under Construction” [_] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+E1. Provide measurements (C.2.a in applicable Building Diagram) for the following and check the appropriate boxes to show whether the
+measurement is above or below the natural HAG and the LAG.
+
+a) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: [] feet ["] meters [-] aboveor [] below the HAG.
+
+b) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: [] feet [] meters [] aboveor [] below the LAG.
+
+. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1-2 of Instructions), the
+next higher floor (C2.b in applicable
+Building Diagram) of the building is: L] feet [[] meters [] aboveor [[] below the HAG.
+
+. Attached garage (top of slab) is: [_] feet [[] meters [[] aboveor [_] below the HAG.
+
+. Top of platform of machinery and/or equipment
+servicing the building is: [] feet [[] meters [_] aboveor [_] below the HAG.
+
+. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? ["] Yes [[] No [[] Unknown The local official must certify this information in Section G.
+
+SECTION F — PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without BFE) or Zone AO must
+sign here. The statements in Sections A, B, and E are correct to the best of my knowledge
+
+[_] Check here if attachments and describe in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+
+Address:
+
+City: ZIP Code:
+
+Telephone:
+
+Signature:
+
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 4 of 8
+
+ 
+ 
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+13360 SW 90 TERRACE
+
+Policy Number:
+City: MIAMI State; FL ZIP Code: 33186
+
+Company NAIC Number:
+SECTION G= COMMUNITY INFORMATION (RECOMMENDED: FOR COMMUNITY OFFICIAL COMPLETION)
+
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+Section A, B, C, E, G, or H of this Elevation Certificate. Complete the applicable item(s) and sign below when:
+
+G1. [[] The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+engineer, or architect who is authorized by state law to certify elevation information. (Indicate the source and date of the
+elevation data in the Comments area below.)
+
+. [1] A local official completed Section E for a building located in Zone A (without a BFE), Zone AO, or Zone AR/AO, or when item
+E5 is completed for a building located in Zone AO.
+
+[1 A local official completed Section H for insurance purposes.
+
+LI] In the Comments area of Section G, the local official describes specific corrections to the information in Sections A, B, E and H.
+[1] The following information (Items G5-G11) is provided for community floodplain management purposes.
+
+Permit Number: G6. Date Permit issued:
+
+Date Certificate of Compliance/Occupancy !ssued:
+
+This permit has been issued for: [_] New Construction [[] Substantial Improvement
+
+Elevation of as-built lowest floor (including basement) of the
+building: []feet [_] meters
+
+Elevation of bottom of as-built lowest horizontal structural
+member: [| feet [] meters
+
+BFE (or depth in Zone AO) of flooding at the building site: []feet [_] meters
+
+Community's minimum elevation (or depth in Zone AO)
+requirement for the lowest floor or lowest horizontal structural
+
+member: []feet [_] meters
+
+G11. Variance issued? []Yes []No_ Ifyes, attach documentation and describe in the Comments area.
+
+The local official who provides information in Section G must sign here. / have completed the information in Section G and certify that it is
+correct to the best of my knowledge. !f applicable, | have also provided specific corrections in the Comments area of this section.
+
+Local Official's Name: Title:
+NFIP Community Name:
+
+Telephone:
+Address:
+
+City: ZIP Code:
+
+Signature: Date:
+
+Comments (including type of equipment and location, per C2.e; description of any attachments; and corrections to specific information in
+Sections A, B, D, E, or H):
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 5 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+13360 SW 90 TERRACE .
+Policy Number:
+
+City: MIAMI State. FL ZIP Code: 33186
+
+Company NAIC Number:
+SECTION H - BUILDING'S FIRST FLOOR HEIGHT INFORMATION FOR ALL ZONES
+(SURVEY NOT REQUIRED) (FOR INSURANCE PURPOSES ONLY)
+
+The property owner, owner's authorized representative, or local floodplain management official may complete Section H for all flood zones
+to determine the building's first floor height for insurance purposes. Sections A, B, and | must also be completed. Enter heights to the
+nearest tenth of a foot (nearest tenth of a meter in Puerto Rico). Reference the Foundation Type Diagrams (at the end of Section H
+instructions) and the appropriate Building Diagrams (at the end of Section | Instructions) fo complete this section.
+
+H1. Provide the height of the top of the floor (as indicated in Foundation Type Diagrams) above the Lowest Adjacent Grade (LAG):
+
+a) For Building Diagrams 1A, 18, 3, and 5-8. Top of bottom []feet [] meters [_] above the LAG
+floor (include above-grade floors only for buildings with
+crawlspaces or enclosure floors) is:
+
+b) For Building Diagrams 2A, 2B, 4, and 6-9. Top of next []feet [] meters [_] above the LAG
+higher floor (i.e., the floor above basement, crawlspace, or
+enclosure floor) is:
+
+. Is all Machinery and Equipment servicing the building (as listed in Item H2 instructions) elevated to or above the floor indicated by the
+H2 arrow (shown in the Foundation Type Diagrams at end of Section H instructions) for the appropriate Building Diagram?
+
+[1 Yes [J] No
+SECTION | — PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+The property owner or owner's authorized representative who completes Sections A, B, and H must sign here. The statements in Sections
+A, B, and H are correct to the best of my knowledge. Note: If the local floodplain management official completed Section H, they should
+indicate in Item G2.b and sign Section G.
+[] Check here if attachments are provided (including required photos) and describe each attachment in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+
+Address: a
+
+ZIP Code:
+
+Telephone:
+
+Signature:
+
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 6 of 8
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-14
+BUILDING PHOTOGRAPHS
+See Instructions for Item A6.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+13360 SW 90 TERRACE
+City: MIAMI State: = FL ZIP Code: 33186
+
+Policy Number:
+
+Company NAIC Number:
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," “Rear View,"
+"Right Side View," or “Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+a s
+
+rer
+
+Photo One
+
+Photo One Caption: Photo Taken 03/05/2024 "Front View” Clear Photo One
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Phota Two
+Photo Two Caption: Photo Taken 03/05/2024 “Rear View"
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 7 of 8
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-14
+BUILDING PHOTOGRAPHS
+
+Continuation Page
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+13360 SW 90 TERRACE
+City: MIAMI State: FL ZIP Code: 33186
+
+Policy Number:
+
+Company NAIC Number:
+
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View," “Rear View," "Right Side
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or
+vents, as indicated in Sections A8 and A9.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+2h Te
+
+Photo Three
+
+Photo Three Caption: Photo Taken 03/05/2024 "Side View with A/C” Clear Photo Three
+
+Photo Four
+Photo Four Caption: Clear Photo Four
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 8 of 8
+
+ 
+
+ 
+   
+ 
+MONARCH NATIONAL INSURANCE
+
+96 MONARCH NATIONAL INSURANCE COMPANY hutps:/ smonarthtorerl eng!
+monarch PO Box 2057 Kalispell MT 59901 USA (800) 219-3102
+PROPERTY ADDRESS #: 13360 SW 90TH TERRACE, Miami, FL, 33186 POLICY FORM: Dwelling Policy NAIC#: 18715
+POLICY #: FLD5715006868 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 5715006868
+POLICY TERM: 03-08-2024 (At time of loan closing) - 03-08-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: MONARCH NATIONAL INSURANCE COMPANY
+PAYOR: LETICIA GONZALEZ MASEDA
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+LETICIA GONZALEZ MASEDA A AUTOMOTIVE INSURANCE
+13360 SW 90th Terrace, 7154 PEMBROKE RD, KLG INSURANCE GROUP, Hollywood, FL,
+Miami, FL, 33186 33023
+
+Phone : 9548930005
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ 8 5 O
+Contents $0 $0 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $ 798
+Building Occupancy Single Family Contents Premium: $0
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $15
+First Floor Height (FFH) 1 Community Rating System Discount: $ (154.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 659
+Property Description Slab on Grade (non-elevated), 2 Floors , Discounted Premium: $659
+Masonry Fees and Surcharges:
+Date of Construction 12-31-1981 Reserve Fund Assessment: $119
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $25
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $ 47
+Total Premium $ 850
+
+ADDITIONAL INTERESTS
+
+Loss Payee
+
+COLUMBUS CAPITAL LENDING LLC ISAOA ATIMA,
+9955 N KENDALL DR,
+
+Miami, Miami-Dade County, FL, 33176
+
+Loan # : 12102401067106
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+
+For questions about your flood insurance rating, contact your agent or insurance company.
+
+Date Mailed: 03-11-2024
+
+To learn more about your flood risk, please visit FloodSmart.gov
+
+———
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+
+ 
+MONARCH NATIONAL
+
+9B STANDARD FLOOD INSURANCE INSURANCE COMPANY
+
+APPLICATION s://monarchnational.co:
+monarch https:// hnational.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PO Box 2057 Kalispell MT 59901 USA (800) 219-3102
+Date Application Number Effective Date Expiration Date Waiting Period
+03-07-2024 FLD5715006868 03-08-2024 03-08-2025 Loan Transaction - No Wait
+‘ope ess
+LETICIA GONZALEZ MASEDA ailing Address & Phone perty _ Agency Name, Address & Phone
+13360 SW 90th Terrace,Miami,FL,33186 13360 SW 90TH TERRACE, 33186, Miami, 7154 PEMBROKE RD,Hollywood,FL,33023
+» FL
+
+Home Phone:
+
+Work Phone:
+
+Cell Phone:(786)303-8082
+Email:Letity79@gmail.com
+
+Email: guerrakl@hotmail.com
+Property Address Type:Location Phone Number:9548930005
+Agent Name:A AUTOMOTIVE INSURANCE
+
+Applicant Type:INDIVIDUAL
+
+Prior Company NAIC: .
+Other Policy Number:
+
+Prior Policy Number: . . .
+Potential Duplicate Policy:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+Additional Interest
+
+COLUMBUS CAPITAL LENDING LLC ISAOA ATIMA
+9955 N KENDALL DR,
+
+Miami, Miami-Dade County , FL, 33176
+
+Phone Number:
+Fax Number:
+
+Loan Number:12102401067106
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+ 
+
+Current Community Information
+
+Community Name:
+
+Community Number:120635
+
+Map Panel:0441 Prior Community Information
+Community Number:
+
+Map Panel Suffix:L
+Map Panel:
+Current Flood Zone:AH .
+. Map Panel Suffix:
+Current Base Flood Elevation(BFE):8
+Flood Zone:
+
+FIRM Date:09-29-1972
+Program:FLOODREGULAR
+
+Program Status:
+
+FIRM Date:09-29-1972
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+County:
+Current Map Date:09-11-2009
+Rating Map Date:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:NO
+Construction Date Prior Owner Policy Number:
+Date of Original Construction:12-31-1981 Prior Owner Company Name:
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+
+Date: Ai 6
+oe
+———=
+APC PRV 07 21 es
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+9B STANDARD FLOOD INSURANCE QUOTE
+
+monarch
+
+ 
+
+Date Application Number
+03-07-2024 FLD5715006868
+
+ 
+
+ 
+
+Effective Date
+
+MONARCH NATIONAL
+INSURANCE COMPANY
+
+https://monarchnational.com/
+
+PO Box 2057 Kalispell MT 59901 USA
+
+(800) 219-3102
+
+ 
+
+ 
+
+Expiration Date Waiting Period
+03-08-2025 Loan Transaction - No Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Masonry
+Construction Type Description:
+
+Estimated Building Replacement Cost:3305999
+Replacement Cost Value Returned by FEMA319405
+Total sq. footage of building:1772
+
+Total # of floors in building:2
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:03-06-2024
+Diagram Number:1A
+
+Top of Bottom Floor:9
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):8
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Flood Height:1
+FEMA First Floor Height:1
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 2,000.00
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 798.00
+Content Premium: $ 0.00
+Increased Cost of Compliance (ICC) Premium: $ 15.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (154.00)
+Full Risk Premium: $ 659.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 659.00
+Reserve Fund Assessment: $ 119.00
+HFIAA Surchange: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 850.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+es
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD5715006868 / LETICIA GONZALEZ MASEDA
+
+@ =13360 SW 90TH TERRACE, Miami, Miami-Dade County, Letity79@gmail.com #
+FL, 33186 - 1610 @
+
+% (786)303-8082 Ran #
+@ 13360 SW 90th Terrace, Miami, Miami-Dade County,
+FL, 33186 - 1610
+
+Renew indicator: BATCH RENEWAL Agent Tasks : Return Mail
+#
+Term Start Date: 03/08/2024 Term End Date: 03/08/2025 Transaction Type: = Endorsement-
+Building
+Information
+Transaction Eff. Dt.: 03/08/2024 Waiting Period: Loan Transaction - No last Updated Date: 04-23-2024
+Wait
+
+Last Updated By:  CHRISTINAPOWELL Applicant Date: 03/07/2024
+
+Claims 0 Loss Run Risk Rating 2.0
+Total Premium $(58.00) Bill To : POLHOLDER Serv Rep:
+Change:
+Total Premium : $792.00 U/writer :
+Product Name: Flood Program
+
+Coverage
+
+Property Info
+
+Additional info
+
+ 
+
+"Account View Receivable View Invoicing Subledger
+
+Policy Transaction
+
+ 
+
+ACCOUNTING DT. TRANSTYPE TRANS REF CHECKNO- CERTIFIEDDATE DEBIT CREDIT BALANCE SYSTEM DT
+
+03/07/2024 PAYMENT 1571500018879 03/07/2024 g@ $0.00 $(850.00) $(850.00) 03/07/2024
+03/11/2024 INVOICE INV00189298 $850.00 $0.00 $0.00 03/11/2024
+04/23/2024 INVOICE INV00192184 $0.00 $(58.00) $(58.00) 04/23/2024
+
+04/24/2024 REFUND INV00192184 800136920 $58.00 $0.00 $0.00 04/24/2024
+Report Date 3/7/2024
+
+¢,
+Xa C U S L Report Number 12081099
+a Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 13360 SW 90TH TERRACE, MIAMI, FL 33186
+Standardized Location 13360 SW 90TH TER, MIAMI, FL 33186-1635
+
+Latitude, Longitude 25.683277, -80.410752 Parcel ID 3059020181860
+FIPS / MSA/ Tract 12086 / 33124 / 190 Community No. 120635
+Community Name MIAMI-DADE COUNTY *
+
+County Name MIAMI-DADE COUNTY
+
+Zone Ne) ‘4
+
+= (SOM Ne
+
+TK tai |
+ii il cf ATL nn
+thd vile | ee ty
+4 ” a 'S» 4 Fa r
+tea ee, ee
+r . -_ a. LPL Sad. a ” oe nS
+1 errac a v7 ‘ mp
+i iss siee
+
+LUeeya-y oe
+
+Uke
+,
+A
+
+a
+
+Le
+
+| sak it i ie
+
+, eae 4
+
+=> ae 5 } Tae | *
+Zone AHF 3 : tt ray Nal
+
+aay St 080). | ABT)
+i
+
+ 
+
+Leaflet | © Mapbox © OpenStreetMap:)
+
+Flood Zone Zone X500 Next Nearest Zone (Dist.) AH (0 ft)
+
+BFE NOT APPLICABLE USGS Ground Elev 6 ft NAVD88
+
+FEMA Map 12086C0441L, 09/11/2009 Previous Map NOT AVAILABLE
+
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 09/30/1972
+LOMA or LOMR 2016-6-24 CBRS / OPA NO EC On-File NO
+Claims* $ / # $349,524,567 / 32071 NFIP PIF* 116173 NFIP Discount 25%
+Flood Source 956 ft Salt Water >6 miles Fresh Water 1043 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+04-23-2024 7:01:55 AM CHRISTINA POWELL - Processed refund for $58 CHRISTINA POWELL

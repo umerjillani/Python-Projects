@@ -1,0 +1,855 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY ELEVATION CERTIFICATE OMB No. 1660-0008
+
+Federal Emergency Management Agency Expires March 31, 2012
+
+National Flood Insurance Program Important: Read the instructions on pages 1-9.
+| SECTION A - PROPERTY INFORMATION For Insurance Company Use:
+
+A1. Building Owners Name KENNETH AND MARGARET GINEL ne
+
+     
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. | Company NAIC Number |
+8230 AQUILA STREET
+City PORT RICHEY State FL ZIP Code 34668-6143 a
+
+A3. Property Description (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+PARCEL 30-25-16-0060-00000-1250, LOT 125, SAND PEBBLE PARCEL NO 1, PLAT BOOK 38, PAGES 12- 14, PASCO
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.) RESIDENTIAL
+
+AS. Latitude/Longitude: Lat. 28.2767 Long. 82.7349 Horizontal Datum: C1 NAD 1927 x NAD 1983
+A6. Attach at least 2 photographs of the building if the Certificate is being used to obtain flood insurance.
+
+A7. Building Diagram Number _SIX
+
+A8. For a building with a crawlspace or enclosure(s): AQ. For a building with an attached garage:
+a) Square footage of crawlspace or enclosure(s) 1170__—s sqft a) Square footage of attached garage (IN ENCLOSURE)_sq ft
+b) No. of permanent flood openings in the crawlspace or b) No. of permanent flood openings in the attached garage
+enclosure(s) within 1.0 foot above adjacent grade Oo. within 1.0 foot above adjacent grade Q
+c) Total net area of flood openings in A8.b oO sq in c) Total net area of flood openings inA9.b O sq in
+d) Engineered flood openings? CI Yes X No d) Engineered flood openings? CO] Yes xX No
+
+SECTION B - FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1. NFIP Community Name & Community Number B2. County Name B3. State
+PORT RICHEY CITY OF 120234 PASCO FL
+
+ 
+
+ 
+
+B4, Map/Panel Number BS. Suffix B6. FIRM Index B7. FIRM Panel B8. Flood :
+Date Effective/Revised Date Zone(s) ‘ use base flood depth)
+
+120234 0003 B 06/30/1999 07/05/1983 A13 14.0 FEET
+
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in Item B9.
+C1 FIS Profile X FIRM C1 Community Determined LOther (Describe)
+
+B11. Indicate elevation datum used for BFE in Item B9: __ NGVD 1929 X NAVD 1988 C1 Other (Describe) __
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? O Yes Xx No
+
+DesignationDate __— ss —“‘“CS;OOOCOCOCOC;«*CCSC CBR‘ LIoPA
+
+SECTION C - BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+1. Building elevations are based on: CI Construction Drawings* Oi Building Under Construction” X Finished Corstruction
+
+*A new Elevation Certificate will be required when construction of the building is complete.
+C2. Elevations —- Zones A1-A30, AE, AH, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1-A30, AR/AH, AR/AO. Complete Items C2.a-h
+below according to the building diagram specified in Item A7. Use the same datum as the BFE.
+
+Benchmark Utilized __GPS Vertical Datum NAVD 1988
+
+Conversion/Comments. NONE Check the measurement used.
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor) __9.00 _X feet C] meters (Puerto Rico only)
+
+b) Top of the next higher floor 19.00 X feet C1 meters (Puerto Rico only)
+
+c) Bottom of the lowest horizontal structural member (V Zones only) _NA xfeet [4 meters (Puerto Rico only)
+
+d) Attached garage (top of slab) **“GARAGE AREA IS IN ENCLOSURE** 9.00 xX feet 1 meters (Puerto Rico only)
+
+e) Lowest elevation of machinery or equipment servicing the building 17.0 x feet [J meters (Puerto Rico only)
+(Describe type of equipment and location in Comments)
+
+f) Lowest adjacent (finished) grade next to building (LAG) 8.30 xfeet (1 meters (Puerto Rico only)
+
+g) Highest adjacent (finished) grade next to building (HAG) 8.90 xfeet [1 meters (Puerto Rico only)
+
+h) Lowest adjacent grade at lowest elevation of deck or stairs, including 8.30 xfeet [J meters (Puerto Rico only)
+
+structural support
+SECTION D - SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by law to certify elevation
+information. / certify that the information on this Certificate represents my best efforts to interpret the data available.
+! understand that any false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+XCheck here if comments are provided on back of form. Were latitude and longitude in Section A provided by a
+
+licensed land surveyor? X Yes 1 No
+Certifier's Name: BILL HYATT _ License Number: LS 4636
+Title: PRESIDENT Company Name : KNOW IT NOW INC
+Address: 1497 MAIN STREET #321 City: DUNEDIN State: Pi. ZIP Code: 34698
+
+ 
+
+ 
+
+Signature (SirtSy ot Date: 5/17/12 Telephone: 727-415-8305
+
+FEMA Form 81-31, Mar 09 See reverse side for continuation. Replaces all previous editions
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. | For insurance Company Use:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Building ‘Street Address (including Apt., Unit, Sulte, and/or Bidg. No.) “or P.O. Route and Box No. Policy Number i
+3230 AQUILA STREET
+City PORT RICHEY Siate FL ZIP Code 34668-6143 | Company NAIC Number ~
+
+Lacan crreraral namncerat ent lamcom
+
+Beeson
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION D - SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION (CONTINUED)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Copy both sides of this Elevation Certificate for (1) community official, (2) insurance agent/company, and (3) building owner.
+Comments
+
+ 
+
+ 
+
+ 
+
+EQUIPMENT ON PRIOR PAGE IS AIR CONDITIONING UNIT AND JS ELEVATED
+
+NOT TO BE USED FOR CONSTRUCTION OR DESIGN, IS FOR FLOOD INSURANCE USE ONLY
+
+GARAGE IS IN THE ENCLOSED BOTTOM FLOOR
+
+HAS 8 VENTS ON SIDE WALL BUT ALL ARE HIGHER THAN THE ONE FOOT FROM GROUND FEMA ALLOWS
+
+Signature LEAS > _Date 5/47/12 _X Check here if attachments,
+
+SECTION E - BUILDING ELEVATION INFORMATION (SURVEY NOT REQUIRED) FOR ZONE AO AND ZONE A (WITHOUT BFE)
+
+ 
+
+ 
+
+For Zones AG and A (without BFE), complete Items E1-E5. If the Certificate is intended to support a LOMA or LOMR-F request, complete Sections A, B,
+and C. For Items E1-E4, use natural grade, if available. Check the measurement used. In Puerto Rico only, enter meters.
+
+E1. Provide elevation information for the following and check the appropriate boxes to show whether the elevation is above or below the highest adjacent
+grade (HAG) and the lowest adjacent grade (LAG).
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure) is . Clfeet Cimeters Olabove or Clbelow the HAG.
+
+b) Top of bottom floor (including basement, crawlspace, or enclosure) is Clfeet [1 meters Clabove or Clbelow the LAG.
+£2. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 8-9 of Instructions), the next higher floor
+(elevation C2.b in the diagrams) of the building is . Cieet Limeters (1 above or [ below the HAG.
+
+E3. Attached garage (top of slab) is . Ci feet [meters Llabove or [1 below the HAG.
+E4. Top of platform of machinery and/or equipment servicing the building is Clfeet Cl meters Clabove or [1 below the HAG.
+E5. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's floodplain management
+ordinance? LlYes CINo [Unknown. The local official must Certify this information in Section G.
+SECTION F - PROPERTY OWNER (OR OWNER’S REPRESENTATI VE) CERTIFICATION
+The property owner or owner's auihorized representative who completes Sections A, B, and E for Zone A (without a FEMA-issued or community-issued BFE:
+or Zone AO must sign here. The siatemenis in Sections A, B, and E ere correct to the best of my knowledge.
+Property Owner's or Owner's Authorized Representative’s Name
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Address City State ZIP Code
+Signature Date Telephone
+Comments
+
+ 
+
+ 
+
+(J Check here if attachments
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTION G - COMMUNITY INFORMATION (OPTIONAL)
+
+ 
+
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete Sections A,B, C(orE),
+and G of this Elevation Certificate. Complete ihe applicable item(s) and sign below. Check the measurement used in Items G8 and G9.
+
+G1. ‘The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor, engineer, or architect who
+is authorized by law to certify elevation information. (Indicate the source and date of the elevation data in the Comments area below.)
+
+G2.[1 Acommunity official completed Section E for a building located in Zone A (without a FEMA-issued or community-issued BFE) or Zone AO.
+
+G3. The following information (Items G4-GQ) is provided for community floodplain management purposes.
+
+ 
+
+. G4, Permit Number G5. Date Permit Issued G6. Date Certificate Of Compliance/Occupancy Issued
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+G7. This permit has been issued for: C] New Construction C] Substantial Improvement
+G8. Elevation of as-built lowest floor (including basement) of the building: . CI feet (1 meters (PR) Datum
+G9. BFE or (in Zone AO) depth of flooding at the building site: . C1 feet [1 meters (PR) Datum
+G10. Community's design flood elevation . {J feet (1 meters (PR) Datum
+Local Officials Name Title
+Community Name Telephone
+Signature Date
+Gommenis
+
+ 
+
+ 
+
+ 
+
+ 
+
+(1 Check here if attachments
+
+ 
+
+FEMA Form 81-31, Mar 09 Replaces ail previous editions
+ 
+
+yuila Street Port Richey
+
+ 
+
+Address Verification Front
+
+ 
+
+ 
+
+Page 5 of 11
+
+WindSurance™ by BestInspectors.Net 4-Pt Inspection Photos ©2018 Management Science International, Inc.
+
+ 
+AUTO CLUB SOUTH INSURANCE COMPANY
+
+PO Box 2057 Kalispell MT 59903 USA
+
+AUTO CLUB SOUTH INSURANCE COMPANY
+
+https://www.acg.aaa.com/
+(800) 610-0865
+
+Insurance NAIC# : 41041
+PROPERTY ADDRESS #: 8230 AQUILA ST, Port Richey, FL, 34668 POLICY FORM: Dwelling Policy
+POLICY #: FLD1041001572 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1041001572
+POLICY TERM: 12-16-2023 (12:01 AM) - 12-16-2024 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: AUTO CLUB SOUTH INSURANCE COMPANY
+PAYOR: BARBARA WHELAN
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+BARBARA WHELAN
+
+. ACG SOUTH INSURANCE AGENCY LLC
+8230 Aquila St,
+; PO BOX 31087, Tampa, FL, 33631
+Port Richey, FL, 34668
+Phone : 8008914222
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+Policy Coverages & Endorsements
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ 2 5 O 2
+3’
+Contents $0 Total Annual Payment
+
+Coverage limitations may apply. See your Policy Form for details.
+
+Property Information
+
+Includes Premium, Discounts, Fees, and Surcharges
+
+Premium Calculations
+
+COMPONENTS OF THE TOTAL PREMIUM
+Building Premium: $ 2,116
+Primary Residence YES .
+Contents Premium: $0
+Building Occupancy Single Family . .
+Increased Cost of Compliance (ICC) Premium: $ 40
+Building Description Main House/Building ae .
+Mitigation Discounts: $ (97.00)
+First Floor Height (FFH) 11 . . .
+Community Rating System Discount: $0
+Method Used to Determine FFH EC . .
+Full-Risk Premium: $ 2,059
+. Elevated with enclosure on piers, posts & . .
+Property Description . Discounted Premium: $ 2,059
+piles, 2 Floors , Frame
+: Fees and Surcharges:
+Date of Construction 01-01-2000
+. : . Reserve Fund Assessment: $371
+Prior NFIP Claims 0 Claim(s)
+. . . HFIAA Surcharge: $25
+Your property’s NFIP flood claims history can affect your premium.
+Federal Policy Fee: $47
+Total Premium $ 2,502
+
+ADDITIONAL INTERESTS
+
+Date Mailed: 11-20-2023
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+To learn more about your flood risk, please visit FloodSmart.gov
+
+———
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+
+ 
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+AUTO CLUB SOUTH
+INSURANCE COMPANY
+
+https://www.acg.aaa.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+Insurance
+PO Box 2057 Kalispell MT 59903 USA (800) 610-0865
+
+Date Application Number Effective Date Expiration Date Waiting Period
+
+11-16-2023 FLD1041001572 12-16-2023 12-16-2024 Standard - 30 Day Wait
+
+‘ope ess
+BARBARA WHELAN ailing Address & Phone perty / Agency Name, Address & Phone
+8230 Aquila St,Port Richey,FL,34668 8230 AQUILA ST, 34668, Port Richey, PO BOX 31087,Tampa,FL,33631
+Pasco, FL
+
+Home Phone:
+Work Phone:
+Cell Phone:(727)597-3251
+Email:BHWHELAN@AOL.COM
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+Current Community Information
+Community Name:PORT RICHEY, CITY OF
+
+Community Number:120234
+Map Panel:0188
+
+Map Panel Suffix:G
+
+Current Flood Zone:AE
+Current Base Flood Elevation(BFE):8
+FIRM Date:08-17-1981
+Program:FLOODREGULAR
+Program Status:
+County:Pasco
+
+Current Map Date:06-05-2020
+Rating Map Date:
+
+Email:Correspondence@aaasouth.com
+Phone Number:8008914222
+Agent Name:ACG SOUTH INSURANCE AGENCY LLC
+
+Property Address Type:Location
+
+Other Policy Number:
+Potential Duplicate Policy:
+
+ 
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:08-17-1981
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Construction Date
+Date of Original Construction:01-01-2000
+
+Building Substantially Improved:NO
+Post-FIRM Construction:Y ES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:NO
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+Occupancy Type:Single Family
+
+Building Description:
+
+Is this the Applicant's Primary
+
+Residence: YES
+
+Is the insured a small business with
+less than 100 employees?: NO
+
+Is the insured a nonprofit entity?:NO
+
+Date:
+
+APC PRV 07 21
+
+Se
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+STANDARD FLOOD INSURANCE QUOTE
+
+ 
+
+ 
+
+ 
+
+AUTO CLUB SOUTH
+INSURANCE COMPANY
+
+https://www.acg.aaa.com/
+
+ 
+
+ 
+
+Insurance PO Box 2057 Kalispell MT 59903 USA
+(800) 610-0865
+Date Application Number Effective Date Expiration Date Waiting Period
+11-16-2023 FLD1041001572 12-16-2024 Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:250000
+Replacement Cost Value Returned by FEMA238598
+Total sq. footage of building:1413
+
+Total # of floors in building:2
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Elevated with enclosure on piers, posts & piles
+
+Enclosure/Crawlspace Size:
+
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: YES
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:05-17-2012
+Diagram Number:6
+
+Top of Bottom Floor:9
+
+Top of Next Higher Floor:19
+
+Lowest Adjacent Grade (LAG):8
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Flood Height:11
+FEMA First Floor Height:11
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 2,000.00
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 2,144.00
+Content Premium: $ 0.00
+Increased Cost of Compliance (ICC) Premium: $ 41.00
+Mitigation Discount: $ (98.00)
+Community Rating System Reduction: $ 0.00
+Full Risk Premium: $ 2,087.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 2,087.00
+Reserve Fund Assessment: $ 376.00
+HFIAA Surchange: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 2,535.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+es
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD1041001572 / BARBARA WHELAN
+
+@ 8230 AQUILA ST, Port Richey, Pasco County, FL, 34668
+- 613 @
+
+@ 8230 Aquila St, Port Richey, Pasco County, FL, 34668 -
+6143
+
+Renew indicator: BATCH RENEWAL
+
+Term Start Date: 12/16/2023 Term End Date: 12/16/2024
+Transaction Eff. Dt.: 12/16/2023 Waiting Period: Standard - 30 Day
+Wait
+
+Last Updated By: § CHRISTINAPOWELL Applicant Date: 11/16/2023
+
+Claims 0 Loss Run Risk Rating
+Total Premium $2,502.00 Bill To: POLHOLDER
+Change:
+
+Total Premium : $2,502.00
+
+Coverage
+
+Property Info
+
+Additional info
+
+ 
+
+M™ BHWHELAN@AOL.COM ¢
+
+& (727)597-3251 7
+
+Agent Tasks : Needs
+Photos
+
+Transaction Type: New Business-
+Agent Business
+
+last Updated Date: 11-20-2023
+
+2.0
+Serv Rep :
+U/writer :
+Product Name : Flood Program
+
+ 
+
+Policy Transaction
+
+¢
+
+ 
+
+"Account View | Receivable View Invoicing Subledger
+
+Unposted
+
+ 
+
+ACCOUNTING DT. TRANS TYPE TRANS REF CHECKNO CERTIFIED DATE DEBIT CREDIT BALANCE SYSTEM DT
+
+11/16/2023 PAYMENT A4104100002152 11/16/2023 g $0.00 $(2,535.00) $(2,535.00) 11/16/2023
+11/20/2023 INVOICE INV00276749 $2,502.00 $0.00 $(33.00) 11/20/2023
+11/21/2023 REFUND INV00276749 800130865 $33.00 $0.00 $0.00 11/21/2023
+Report Date 11/14/2023
+
+Xa ct U S YK ReportNumber = 11304329
+Standard X = Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 8230 AQUILA ST, PORT RICHEY, FL 34668
+Standardized Location 8230 AQUILA ST, PORT RICHEY, FL 34668-6143
+
+Latitude, Longitude 28.276924, -82.734999 Parcel ID 30-25-16-0060-00000-1250
+FIPS / MSA/ Tract 12101 / 45300 / 302.05 Community No. 120234
+
+Community Name PORT RICHEY, CITY OF
+
+County Name PASCO
+
+4
+ZonewE
+(el 15 ft) 7 ' = . 7) Pgs fren te
+7 ar > i, ree. Ae 5 Zone AE
+ga) ie IS a } ma, (el\11 ft)
+
+ 
+
+300 ft
+
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (3837 ft)
+
+BFE 11 Feet NAVD88 (11.84 ft NGVD29) USGS Ground Elev 8 ft NAVD8&8
+
+FEMA Map 12101C0188G, 06/05/2020 Previous Map = 12101C0188F, 09/26/2014, Zone AE
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 08/17/1981
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $2,574,986 / 124 NFIP PIF* 810 NFIP Discount 15%
+Flood Source 914 ft Salt Water 314 ft Fresh Water 124 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+Date Description Inserted By Mark Hidden
+
+11-20-2023 9:11:44 AM Revd photos, no change in premium

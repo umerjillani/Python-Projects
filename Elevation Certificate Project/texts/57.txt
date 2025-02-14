@@ -1,0 +1,1397 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY a oui plenty
+Federal Emergency Management Agency i
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building
+
+ee: SECTION A — PROPERTY INFORMATION
+
+Policy Number:
+
+ 
+
+ 
+ 
+  
+
+        
+ 
+ 
+
+A1. Building Owner's Name: Heidi Wilenius & Scot Pannepacker
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box
+No.: 33 West Broad Street
+
+City, Hopewell ———i—‘“—*s—s—sSSSSSC State: NI ZIP Code: 08525
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+
+Lot 70 Block 25, Borough of Hopewell
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): __ Residential
+
+     
+
+Company NAIC Number:
+
+ 
+
+AS. Latitude/Longitude: | g¢ N40°23'16.68" Long. W074°45'49.42" Horiz. Datum: [_] NAD 1927 [¥] NAD 1983 [_] WGS 84
+A6. Attach at least two and when possible four clear color photographs (one for each side) of the building (see Form pages 7 and 8).
+A7. Building Diagram Number; —__2A__ :
+
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [_] Yes []No [YJ N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: QO Engineered flood openings: 0
+
+d) Total net open area of non-engineered flood openings in A8.c: QO sq. in.
+
+ 
+
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): O sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): O sq. ft
+AQ. For a building with an attached garage:
+a) Square footage of attached garage: N/A_ sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? [] Yes [-] No ] N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: QO Engineered flood openings: 0
+
+d) Total net open area of non-engineered flood openings in A9.c: 0 sq. in.
+
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): 0 sq. ft.
+
+   
+
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions): 0 sq. ft.
+
+B1.a. NFIP Community Name: Borough of Hopewell C«£B.b. NFIP Community Identification Number: 340248
+
+ 
+
+ 
+       
+ 
+
+ 
+
+  
+
+B2. County Name: Mercer B3. State: NJ B4. Map/Panel No.: _34021C0019 B5. Suffix: F
+B6. FIRM Index Date; _07/20/2016 B7. FIRM Panel Effective/Revised Date: 07/20/2016
+B8. Flood Zone(s): A & AE B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 176
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+CI FIS [YJFIRM [7] Community Determined [] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [_] NGVD 1929 [Z] NAVD 1988 [_] Other/Source:
+
+ 
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [] Yes No
+Designation Date: [LJCBRS [] OPA
+
+| eta, Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [] Yes [/] No
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 2 of 8
+
+ 
+ 
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-14
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+33 West Broad Street Policy Number:
+City: Hopewell State:__NJ___ ZIP Code: 08525 Company NAIC Number:
+_ SECTION C - BUILDING ELEVATION INFORMATION (SURVEY REQUIRED) _
+C1. Building elevations are based on: [_] Construction Drawings* [] Building Under Construction* [¥] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: Topnet Live Vertical Datum: NAVD 1988
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+(] NGVD 1929 [¥] NAVD 1988 [_] Other:
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? [_] Yes [¥] No
+
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 174.4 feet [[] meters
+b) Top of the next higher floor (see Instructions): 181.7 feet [[] meters
+c) Bottom of the lowest horizontal structural member (see Instructions): N/A feet [[] meters
+d) Attached garage (top of slab): N/A feet [] meters
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+
+(describe type of M&E and location in Section D Comments area): 174.4 feet meters
+
+g) Highest Adjacent Grade (HAG) next to building: [¥] Natural [_] Finished 180.6 feet meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: 175.6 feet
+
+ee ~ SURVEYOR, ENGINEER, ORARCHITECT CERTIFICATION =
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. / certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+meters
+
+ 
+
+CL]
+
+f) Lowest Adjacent Grade (LAG) next to building: [¥] Natural [_] Finished 176.1 feet [_] meters
+O
+CL]
+
+ 
+
+   
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Yes [[]No
+(Check here if attachments and describe in the Comments area.
+
+Certifier's Name: Thomas A. Harris, Jr. License Number: 34858
+
+Title. Land Surveyor
+
+Company Name: Harris Surveying, Inc.
+
+Address: 2465 Old York Road, Suite B
+
+City, Bordentown State: NJ ZIP Code: 08505
+
+Telephone: (609) 259-3007 t.: Email: Tomjr@harrissurvey.com
+
+. Place Seal Here
+Date: 7/, J zez
+
+his Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building
+
+ 
+ 
+  
+
+Signature:
+Copy all pages
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+Lowest elevation of M & E servicing building is the HVAC located inside of building.
+
+job no. 240144
+
+ 
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 3 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+ 
+ 
+
+ 
+
+ 
+
+   
+
+FOR INSURANCE COMPANY USE
+
+ 
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+33 West Broad Street
+
+City, Hopewell  State:_NJ ZIP Code: 08525 __|_ Company NAIC Number:
+SECTION E — BUILDING MEASUREMENT INFORMATION (SURVEY NOT REQUIRED)
+
+FOR ZONE AO, ZONE AR/AO, AND ZONE A (WITHOUT BFE)
+
+For Zones AO, AR/AO, and A (without BFE), complete Items E1—E5. For Items E1—E4, use natural grade, if available. If the Certificate is
+intended to support a Letter of Map Change request, complete Sections A, B, and C. Check the measurement used. In Puerto Rico only,
+enter meters.
+
+    
+ 
+
+   
+ 
+
+Policy Number:
+
+        
+
+  
+  
+
+  
+   
+
+Building measurements are based on: [_] Construction Drawings* CE] Building Under Construction” C] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+E1. Provide measurements (C.2.a in applicable Building Diagram) for the following and check the appropriate boxes to show whether the
+measurement is above or below the natural HAG and the LAG.
+
+a) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: [] feet [] meters [{] aboveor [] below the HAG.
+
+b) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: [-] feet [J] meters [_] aboveor [] below the LAG.
+
+E2. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1-2 of Instructions), the
+next higher floor (C2.b in applicable
+
+Building Diagram) of the building is: [-] feet [[] meters [[] aboveor [] below the HAG.
+E3. Attached garage (top of slab) is: (] feet [] meters [[] aboveor [_] below the HAG.
+
+E4. Top of platform of machinery and/or equipment
+servicing the building is: [-] feet [] meters [[] aboveor [] below the HAG.
+
+E5. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? [] Yes [] No [[] Unknown The local official must certify this information in Section G.
+
+SECTION F - PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without BFE) or Zone AO must
+sign here. The statements in Sections A, B, and E are correct to the best of my knowledge
+
+ 
+
+      
+
+[-] Check here if attachments and describe in the Comments area.
+
+ 
+
+Property Owner or Owner's Authorized Representative Name:
+Address:
+City: State: ZIP Code:
+
+ 
+
+Telephone: Ext: Email:
+
+Signature: Date:
+
+Comments:
+
+ 
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 4 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+FOR INSURANCE COMPANY USE
+
+Policy Number:
+
+ 
+
+ 
+
+  
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+33 West Broad Street
+
+City: Hopewell State.__NJ ZIP Code: 08525 Company NAIC Number:
+SECTION G - COMMUNITY INFORMATION (RECOMMENDED FOR COMMUNITY OFFICIAL COMPLETION)
+
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+Section A, B, C, E, G, or H of this Elevation Certificate. Complete the applicable item(s) and sign below when:
+
+   
+
+   
+
+  
+   
+
+        
+   
+
+  
+     
+
+G1. [[] The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+engineer, or architect who is authorized by state law to certify elevation information. (Indicate the source and date of the
+elevation data in the Comments area below.)
+
+G2.a. [J A local official completed Section E for a building located in Zone A (without a BFE), Zone AO, or Zone AR/AO, or when item
+E5 is completed for a building located in Zone AO.
+
+G2.b. [1 A local official completed Section H for insurance purposes.
+
+G3. [J Inthe Comments area of Section G, the local official describes specific corrections to the information in Sections A, B, E and H.
+G4. [1] The following information (Items G5-G1 1) is provided for community floodplain management purposes.
+
+G5. Permit Number: G6. Date Permit Issued:
+
+G7. Date Certificate of Compliance/Occupancy Issued:
+
+ 
+
+G8. This permit has been issued for: [_] New Construction [[] Substantial Improvement
+
+G9.a. Elevation of as-built lowest floor (including basement) of the
+
+ 
+
+building: [_] feet [] meters  patum:
+G9.b. Elevation of bottom of as-built lowest horizontal structural
+
+member: [] feet [] meters patum:
+G10.a. BFE (or depth in Zone AO) of flooding at the building site: [] feet [] meters patum:
+
+G10.b. Community's minimum elevation (or depth in Zone AO)
+requirement for the lowest floor or lowest horizontal structural
+member: [] feet [] meters  patum:
+
+G11. Variance issued? [[] Yes []No_ Ifyes, attach documentation and describe in the Comments area.
+
+The local official who provides information in Section G must sign here. / have completed the information in Section G and certify that it is
+correct to the best of my knowledge. If applicable, | have also provided specific corrections in the Comments area of this section.
+
+Local Official's Name: Title:
+
+NFIP Community Name:
+
+ 
+
+Telephone: Ext.: Email:
+
+ 
+
+Address:
+City: State: ZIP Code:
+
+ 
+
+ 
+
+Signature: Date:
+
+ 
+
+Comments (including type of equipment and location, per C2.e; description of any attachments; and corrections to specific information in
+Sections A, B, D, E, or H):
+
+ 
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 5 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+FOR INSURANCE COMPANY USE
+
+  
+
+ 
+
+ 
+
+  
+ 
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+33 West Broad Street
+
+City: Hopewell State:__NJ ZIP Code: 08525
+
+     
+
+Policy Number:
+
+ 
+
+   
+
+Company NAIC Number:
+
+ 
+    
+
+SECTION H — BUILDING'S FIRST FLOOR HEIGHT INFORMATION FOR ALL ZONES
+(SURVEY NOT REQUIRED) (FOR INSURANCE PURPOSES ONLY)
+
+The property owner, owner's authorized representative, or local floodplain management official may complete Section H for all flood zones
+to determine the building's first floor height for insurance purposes. Sections A, B, and | must also be completed. Enter heights to the
+nearest tenth of a foot (nearest tenth of a meter in Puerto Rico). Reference the Foundation Type Diagrams (at the end of Section H
+Instructions) and the appropriate Building Diagrams (at the end of Section | Instructions) to complete this section.
+
+H1. Provide the height of the top of the floor (as indicated in Foundation Type Diagrams) above the Lowest Adjacent Grade (LAG):
+
+a) For Building Diagrams 1A, 1B, 3, and 5-8. Top of bottom [-] feet [-] meters [] above the LAG
+floor (include above-grade floors only for buildings with
+crawlspaces or enclosure floors) is:
+
+ 
+
+b) For Building Diagrams 2A, 2B, 4, and 6-9. Top of next [] feet [] meters [_] above the LAG
+higher floor (i.e., the floor above basement, crawlspace, or
+enclosure floor) is:
+
+ 
+
+H2. Is all Machinery and Equipment servicing the building (as listed in Item H2 instructions) elevated to or above the floor indicated by the
+H2 arrow (shown in the Foundation Type Diagrams at end of Section H instructions) for the appropriate Building Diagram?
+
+[] Yes [{] No
+SECTION | - PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and H must sign here. The statements in Sections
+A, B, and H are correct to the best of my knowledge. Note: If the local floodplain management official completed Section H, they should
+indicate in Item G2.b and sign Section G.
+
+         
+
+[_] Check here if attachments are provided (including required photos) and describe each attachment in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+
+Address:
+
+ 
+
+City: State: ZIP Code:
+
+Telephone: Ext.: Email:
+
+Signature: Date:
+
+Comments:
+
+ 
+
+ 
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 6 of 8
+ 
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-14
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+ 
+
+FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+
+___33West Broad Street icy Number
+City: Hopewell ——C—C—CSCSStahte:__ NJ ZIP Code: 08525 Company NAIC Number:
+
+ 
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View,” or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+ 
+
+Photo One
+
+Clear Photo One
+
+Photo One Caption:
+
+ 
+
+Photo Two
+
+ 
+
+ 
+
+Photo Two Caption: Rear View July 2024 Clear Photo Two |
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 7 of 8
+ 
+ 
+Report Date 8/7/2024
+
+¢,
+Xa C U S LB Report Number 13370849
+a Standard X
+
+FloodRisk Standard
+
+ 
+
+Provided Location 33 W BROAD ST, HOPEWELL, NJ 08525
+Standardized Location 33 W BROAD ST, HOPEWELL, NJ 08525
+
+Latitude, Longitude 40.388002, -74.763729 Parcel ID 1105 25 70
+FIPS / MSA/ Tract 34021 / 45940 / 39.02 Community No. 340248
+Community Name HOPEWELL, BOROUGH OF
+
+County Name MERCER COUNTY
+
+ 
+
+} 200% a ale" C, - a, Leaflet | © Mapbox © Ee oes ]
+Flood Zone Zone A Next Nearest Zone (Dist.) X500 (26 ft)
+
+BFE NOT APPLICABLE USGS Ground Elev 179 ft NAVD88
+
+FEMA Map 34021C0019F, 07/20/2016 Previous Map 3402480001C, 02/15/1978, Zone X500
+
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 02/15/1978
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+
+Claims* $ / # $218,416 /7 NFIP PIF* 9 NFIP Discount N/A
+
+Flood Source 141 ft Salt Water >6 miles Fresh Water 205 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+FARM FAMILY CASUALTY
+
+STANDARD FLOOD INSURANCE INSURANCE COMPANY
+APPLICATION null
+
+ 
+
+AN AMERICAN NATIONAL COMPANY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PO BOX 2057, KALISPELL, MT, 59903 null
+Date Application Number Effective Date Expiration Date Waiting Period
+10-14-2024 FLD3803000559 11-14-2024 11-14-2025 Standard - 30 Day Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+DR. BUNSEN HONEY DEW LLC 33 W Broad St, 33 W BROAD ST, 52 E BROAD ST STE 4, FARM FAMILY INSURANCE,
+Hopewell, NJ, 08525 Hopewell, NJ, 08525 Hopewell, NJ, 08525
+Home Phone: Email:
+Work Phone:
+Property Address Type:Location JEFFREY.WEISS@AMERICAN-NATIONAL.COM
+Cell Phone:(409)466-3265 Phone Number:6093095822
+Email:heidiwilenius@gmail.com Agent Name:WEISS, JEFFREY
+Applicant Type:BUSINESS
+Prior Company NAIC: .
+Other Policy Number:
+
+Prior Policy Number: . . .
+Potential Duplicate Policy:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:340248
+
+Map Panel:0019 Prior Community Information
+Community Number:
+
+Map Panel Suffix:F
+Map Panel:
+
+Current Flood Zone:A
+Map Panel Suffix:
+
+Current Base Flood Elevation(BFE):179
+FIRM Date:02-15-1978
+Program:FLOODREGULAR
+
+Program Status:
+
+County:Mercer County
+
+Current Map Date:07-20-2016
+
+Flood Zone:
+
+FIRM Date:02-15-1978
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Rating Map Date:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:YES
+Construction Date Prior Owner Policy Number:
+Date of Original Construction:12-31-1899 Prior Owner Company Name: ;
+Building Substantially Improved:YES Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+Substantial Improvement Date:01-01-2000 Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Non-Residential Building Is the insured a small business with
+Building Description: less than 100 employees?: YES
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Residence: NO
+
+Ir
+Date: fi 6
+
+ee
+a in,
+APC PRV 0721 ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+Family
+
+AN AMERICAN NATIONAL COMPANY
+
+ 
+
+ 
+
+Date
+10-14-2024
+
+Effective Date
+11-14-2024
+
+Application Number
+FLD3803000559
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO BOX 2057, KALISPELL, MT, 59903
+
+ 
+
+FARM FAMILY CASUALTY
+
+ 
+
+ 
+
+INSURANCE COMPANY
+null
+null
+
+Expiration Date Waiting Period
+
+11-14-2025 Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:‘NO
+Building Construction Type:Masonry
+Construction Type Description:
+
+Estimated Building Replacement Cost:239400
+Replacement Cost Value Returned by FEMA:
+Total sq. footage of building:5500
+
+Total # of floors in building:2
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Basement
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:07-01-2024
+Diagram Number:2A
+
+Top of Bottom Floor:174.4
+
+Top of Next Higher Floor:181.7
+Lowest Adjacent Grade (LAG):176.1
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height:5.6
+FEMA First Floor Height:5.6
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 500,000.00 5,000.00
+
+Content 50,000.00 5,000.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 5,240.00
+Content Premium: $ 652.00
+Increased Cost of Compliance (ICC) Premium: $ 75.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ 0.00
+Full Risk Premium: $ 5,967.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 5,967.00
+Reserve Fund Assessment: $ 1,074.00
+HFIAA Surcharge: $ 250.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 7,338.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+AIATINAIAL CIAAN
+  
+
+fan Farm
+Family
+
+AN AMERICAN NATIONAL COMPANY
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP240826762873
+
+Policy Number: FLD3803000559
+
+Insured Name: DR. BUNSEN HONEY DEW LLC
+Property Address: 33 W BROAD ST, Hopewell, NJ, 08525
+Transaction Date: 10/14/2024
+
+Remittance ID: 27IFE26N
+
+Premium Paid: $7338
+Valuation Detailed Report
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8/27/2024
+CoreLogic
+VALUATION
+Valuation Number: CLAS-662985 Effective Date: 07/12/2024
+Value Basis: Reconstruction Expiration Date: 07/12/2025
+Cost as of: 07/2024
+Valuation Modified Date: 08/27/2024
+BUSINESS
+DR. BUNSEN HONEY DEW LLC
+93 W PROSPECT ST
+HOPEWELL, NJ 08525-1909 USA
+LOCATION 1 - <UNKNOWN>
+<UNKNOWN>
+33 W BROAD ST
+HOPEWELL, NJ 08525-1928 USA
+Location Adjustments
+Climatic Region: 2 - Moderate
+High Wind Region: 1 - Minor Damage
+Seismic Zone: 3 - Moderate Damage
+BUILDING 1 - Building #1
+Main Structure
+SUPERSTRUCTURE
+Occupancy: 90% Store or Shop, General Story Height: 16 ft.
+10% Apartment, Low-Rise, Older 9 ft.
+Construction Type: 100% Masonry (ISO 2) Number of Stories: 2
+Gross Floor Area: 5,000 sq.ft. Irregular None
+Adjustment:
+Construction Quality: 1.0 - Economy
+Year Built: 1900
+Adjustments
+Hillside Construction: Degree of Slope: Level Site Accessibility: Excellent
+Site Position: Unknown Soil Condition: Excellent
+
+Fees
+
+Architect Fees:
+
+7% is included
+
+Page 1 of 4
+
+ 
+
+ 
+
+ 
+
+ 
+CoreLogic
+
+Valuation Detailed Report
+
+ 
+
+Policy Number: CLAS-662985 8/27/2024
+Overhead and Profit: 20% is included
+SUMMARY OF COSTS __ User Provided System Provided Reconstruction Exclusion
+
+ 
+
+ 
+
+SUPERSTRUCTURE
+Site Preparation
+Foundations
+Exterior
+Roof
+
+Material
+
+Interior
+Floor Finish
+
+Ceiling Finish
+
+Mechanicals
+
+Heating
+
+Cooling
+
+Plumbing
+Electrical
+Built-ins
+
+TOTAL RC Main Structure
+
+100% Built-Up,
+Smooth
+
+100% Hardwood
+
+100% Suspended
+Acoustical
+
+100% Electric
+Baseboard or Wall
+Unit
+
+100% Unit Air
+Conditioners, Air
+Cooled
+
+3 Total Fixtures
+100% Low Quality
+
+TOTAL RC BUILDING 1 Building #1
+
+Reconstruction
+
+$853
+$73,077
+$396,610
+$67,613
+
+$171,987
+
+$316,051
+
+$44,210
+$1,070,400
+
+$1,070,400
+
+Sq.Ft. $/Sq.Ft.
+
+ 
+
+ 
+
+ 
+
+ 
+
+LOCATION TOTAL, Location 1 $1,070,400 5,000 $214
+Reconstruction Sq.Ft. $/Sq.Ft.
+VALUATION GRAND TOTAL $1,070,400 5,000 $214
+
+ 
+
+Page 2 of 4
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Valuation Detailed Report
+
+SUMMARY REPORT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Policy Number: CLAS-662985 8/27/2024
+VALUATION
+Valuation Number: CLAS-662985 Effective Date: 07/12/2024
+Value Basis: Reconstruction Expiration Date: 07/12/2025
+Cost as of: 07/2024
+Valuation Modified Date: 08/27/2024
+BUSINESS
+DR. BUNSEN HONEY DEW LLC
+93 W PROSPECT ST
+HOPEWELL, NJ 08525-1909 USA
+LOCATION 1 - <UNKNOWN>
+<UNKNOWN>
+33 W BROAD ST
+HOPEWELL, NJ 08525-1928 USA
+BUILDING 1: SUPERSTRUCTURE Reconstruction Sq.Ft. $/Sq.Ft.
+Main 90% Store or Shop, General $1,070,400 5,000 $214
+Structure 10% Apartment, Low-Rise,
+Older
+Section Totals Reconstruction Sq.Ft. $/Sq.Ft.
+Main 90% Store or Shop, General $1,070,400 5,000 $214
+Structure 10% Apartment, Low-Rise,
+Older
+BUILDING TOTAL, Building 1 $1,070,400 5,000 $214
+BUILDING INSURANCE SUMMARY
+Total Insured Amount $0
+Percent of Insurance to Value 0%
+100% Co-insurance Requirement $1,070,400 $1,070,400
+-100% Variance ($1,070,400)
+Reconstruction Sq.Ft. $/Sq.Ft.
+LOCATION TOTAL, Location 1 $1,070,400 5,000 $214
+Reconstruction Sq.Ft. $/Sq.Ft.
+VALUATION GRAND TOTAL $1,070,400 5,000 $214
+
+ 
+
+ 
+
+Page 3 of 4
+
+ 
+
+ 
+S$ Valuation Detailed Report
+
+CoreLogic
+
+Policy Number: CLAS-662985 8/27/2024
+
+End of Report
+
+Page 4 of 4
+ 
+93W PROSPECT ST. |” a
+~ HOPEWELL NJ08525. - Ce AD f.. ". “ oe some
+
+Sheng Lee DR Bunsen HONEYDEW Lic
+
+pct
+
+5
+: : . GEEK EE eCr —
+Y PAY
+
+FO THE - «|.
+- ORDER OF
+
+‘eh Tle TE LRT EL
+
+Sea oe
+
+AD SER SHNT ant as ERS
+
+cro
+
+SS Eee tds
+
+Or
+
+Mi
+
+ 
+
+er “900 10e" 0242053760 BSOW2RA7 bin
+
+ 
+    
+
+Zines Vin Farm
+Family
+
+AN AMERICAN NATIONAL COMPANY
+
+PROPERTY ADDRESS #:
+
+POLICY #:
+
+NFIP POLICY #:
+POLICY TERM:
+POLICY ISSUED BY:
+PAYOR:
+
+FARM FAMILY CASUALTY INSURANCE
+
+COMPANY
+
+PO BOX 2057 KALISPELL MT 59903 UNITED
+
+33 W BROAD ST, Hopewell, NJ, 08525
+
+FLD3803000559
+
+3803000559
+
+STATES
+
+REASON FOR CHANGE:
+
+POLICY FORM:
+
+11-14-2024 (12:01 AM) - 11-14-2025 (12:01 AM) POLICY DECLARATIONS TYPE:
+FARM FAMILY CASUALTY INSURANCE COMPANY RATE CATEGORY :
+
+DR. BUNSEN HONEY DEW LLC
+
+ENDORSEMENT EFFECTIVE DATE:
+
+FARM FAMILY CASUALTY INSURANCE
+
+COMPANY
+null
+null
+
+NAIC# : 13803
+
+11-14-2024
+
+Building Information,
+Coverage/Deductible
+General property form
+Revised Policy Declarations
+
+RatingEngine
+
+ 
+
+INSURED NAME & MAILING ADDRESS
+DR. BUNSEN HONEY DEW LLC
+
+33 W Broad St,
+Hopewell, NJ, 08525
+
+Building
+
+Contents
+
+AGENT CONTACT INFORMATION
+
+WEISS, JEFFREY
+
+52 E BROAD ST STE 4, FARM FAMILY INSURANCE, Hopewell, NJ,
+
+08525
+Phone : 6093095822
+
+FLOOD INSURANCE POLICY DECLARATIONS
+
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE
+$ 500,000
+$ 50,000
+
+Coverage limitations may apply. See your Policy Form for details.
+
+Primary Residence
+Building Occupancy
+Building Description
+First Floor Height (FFH)
+
+Method Used to Determine FFH
+
+Property Information
+
+NO
+
+Non-Residential Building
+Commercial
+
+5.6
+
+EC
+
+DEDUCTIBLE
+
+$5.00 $ 7,949
+
+$ 5,000
+
+Total Annual Payment
+
+Includes Premium, Discounts, Fees, and Surcharges
+
+Premium Calculations
+
+COMPONENTS OF THE TOTAL
+
+Building Premium:
+
+Contents Premium:
+
+Increased Cost of Compliance (ICC) Premium:
+Community Rating System Discount:
+
+Full-Risk Premium:
+
+Property Description Basement, 3 Floors , Masonry Discounted Premium:
+Date of Substantial Improvement 01-01-2000 Fees and Surcharges:
+Prior NFIP Claims 0 Claim(s) Reserve Fund Assessment:
+Replacement Cost Value $ 1,070,400.00 HFIAA Surcharge:
+
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee:
+
+Total Premium
+
+ADDITIONAL INTERESTS
+
+PREMIUM
+$ 5,662
+
+$ 748
+
+$75
+
+$0
+
+$ 6,485
+
+$ 6,485
+
+$ 1,167
+$ 250
+$47
+
+$ 7,949
+
+Date Mailed: 12-10-2024
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+
+For questions about your flood insurance rating, contact your agent or insurance company.
+
+To learn more about your flood risk, please visit FloodSmart.gov
+
+nde
+
+NATIONAL FLOOD
+INSURANCE PROGRAM

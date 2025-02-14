@@ -1,0 +1,916 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0008
+Federal Emergency Management Agency Expiration Date: 06/30/2026
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A — PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+ 
+
+A1. Building Owner's Name: KB HOME TAMPA LLC Policy Number:
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: | Company NAIC Number:
+17359 GULF PRESERVE DRIVE
+
+City. FORT MYERS State: FL ZIP Code: 33908
+
+ 
+
+ 
+
+ 
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+LOT 190, COVES OF ESTERO BAY II
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): RESIDENTIAL
+A5. Latitude/Longitude: Lat. 26°29'23.01"N Long. 81°51'54.76"W Horizontal Datum: LE] NAD 1927 NAD 1983 | WGS 84
+
+A6. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+
+ 
+
+ 
+
+A7. Building Diagram Number: 1B
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [_] Yes [_] No N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in A8.c: N/A sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions):
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): N/A sq. ft.
+. For a building with an attached garage:
+a) Square footage of attached garage: 443.00 sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? [_] Yes No [JNA
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: 0 Engineered flood openings: 0
+
+d) Total net open area of non-engineered flood openings in A9.c: 0.00 sq. in.
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions):
+
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions): 0.00 sq. ft.
+
+SECTION B — FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1.a. NFIP Community Name: LEE COUNTY B1.b. NFIP Community Identification Number: 125124
+B2. County Name: LEE B3. State: FL B4. Map/Panel No.: 12071C0576 B5. Suffix: H
+B6. FIRM Index Date: 11/17/2022 B7. FIRM Panel Effective/Revised Date: 11/17/2022
+
+ 
+
+ 
+
+B8. Flood Zone(s): AE B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 11
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+[_] FIs FIRM [_] Community Determined [_] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [_] NGVD 1929 NAVD 1988 [_] Other/Source:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? |
+Designation Date: []CBRS [OPA
+
+Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [] Yes [x] No
+
+ 
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 2 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+17359 GULF PRESERVE DRIVE
+
+City. FORT MYERS State. FL ZIP Code: 33908
+
+ 
+
+Policy Number:
+
+ 
+
+Company NAIC Number:
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+ 
+
+C1. Building elevations are based on: [_] Construction Drawings* [_] Building Under Construction* Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: NGS BM G416 (PID #AD8320) Vertical Datum: NGVD29
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+|] NGVD 1929 NAVD 1988 [_] Other:
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? Xx] Yes [] No
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 11.60 feet [_] meters
+b) Top of the next higher floor (see Instructions): N/A feet [-] meters
+c) Bottom of the lowest horizontal structural member (see Instructions): N/A feet meters
+d) Attached garage (top of slab): 11.20 feet meters
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area): 11.30 feet meters
+
+f) Lowest Adjacent Grade (LAG) next to building: [_] Natural [x] Finished 10.60 feet meters
+g) Highest Adjacent Grade (HAG) next to building: [_] Natural Finished 10.90 feet meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: N/A feet [_] meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. | certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+ 
+
+ 
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Yes []No
+[_] Check here if attachments and describe in the Comments area.
+
+Certifiers Name: RICHARD M. RITZ License Number: 4009 Digitally signed by
+Richard M. Ritz, RLS.
+Title. REGISTERED LAND SURVEYOR 44009 State of Florida
+ee 7 using an SHA-1
+Company Name: BANKS ENGINEERING Sint %, — authentication code.
+
+Printed copies of this
+
+4 considered signed and
+
+4, STATE _OF ¢ g al n .
+City, FORT MYERS State: FL ZIP Code: 33966 Ronnie Senedand the SH
+
+ 
+
+ 
+
+ 
+
+authentication code
+
+<
+HED LAND Ss
+Mansi must be verified on
+
+p . any electronic copies.
+. . . Date: 2023.07.26
+Signature: cna tM. Date: 07/26/2023 13:57:13 -04'00'
+
+Telephone: (239) 939-5490 Ext.: Email: rritz@bankseng.com Place Seal Here
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+Latitude and longitude were obtained by real time GPS observation. The elevation of NGS benchmark G416 was converted
+from NGVD29 TO NAVD88 using US Army Corps of Engineers Corpscon 6.0.1 software. The local conversion factor from
+NGVD29 to NAVD88 is -1.18 feet. Structure was permitted October 14, 2022 using FIRM 12071C0576G, effective
+December 7, 2018, flood zone AE, BFE 10’.C2E is the concrete air conditioner pad.
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 3 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+17359 GULF PRESERVE DRIVE
+
+City. FORT MYERS State. FL ZIP Code: 33908
+
+ 
+
+Policy Number:
+
+ 
+
+Company NAIC Number:
+
+SECTION E — BUILDING MEASUREMENT INFORMATION (SURVEY NOT REQUIRED)
+FOR ZONE AO, ZONE AR/AO, AND ZONE A (WITHOUT BFE)
+
+For Zones AO, AR/AO, and A (without BFE), complete Items E1—E5. For Items E1—E4, use natural grade, if available. If the Certificate is
+intended to support a Letter of Map Change request, complete Sections A, B, and C. Check the measurement used. In Puerto Rico only,
+enter meters.
+
+Building measurements are based on: [| Construction Drawings* [_] Building Under Construction* [|] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+E1. Provide measurements (C.2.a in applicable Building Diagram) for the following and check the appropriate boxes to show whether the
+measurement is above or below the natural HAG and the LAG.
+
+a) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: [| feet [|] meters [| aboveor [_] below the HAG.
+
+ 
+
+ 
+
+b) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: feet [_] meters [ | aboveor below the LAG.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1-2 of Instructions), the
+next higher floor (C2.b in applicable
+Building Diagram) of the building is: [| feet [|] meters [| aboveor [_] below the HAG.
+
+ 
+
+ 
+
+. Attached garage (top of slab) is: [| feet [|] meters [| aboveor [_] below the HAG.
+
+ 
+
+ 
+
+. Top of platform of machinery and/or equipment
+servicing the building is: feet [_] meters [ | aboveor below the HAG.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? [_] Yes [_] No [_] Unknown The local official must certify this information in Section G.
+
+SECTION F — PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without BFE) or Zone AO must
+sign here. The statements in Sections A, B, and E are correct to the best of my knowledge
+
+[_] Check here if attachments and describe in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+
+ 
+
+Address:
+City: ZIP Code:
+
+ 
+
+Signature:
+
+ 
+
+Telephone:
+
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 4 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+17359 GULF PRESERVE DRIVE
+
+City. FORT MYERS State. FL ZIP Code: 33908
+
+ 
+
+Policy Number:
+
+ 
+
+Company NAIC Number:
+SECTION G — COMMUNITY INFORMATION (RECOMMENDED FOR COMMUNITY OFFICIAL COMPLETION)
+
+ 
+
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+Section A, B, C, E, G, or H of this Elevation Certificate. Complete the applicable item(s) and sign below when:
+
+G1. [_] The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+engineer, or architect who is authorized by state law to certify elevation information. (Indicate the source and date of the
+elevation data in the Comments area below.)
+
+ 
+
+A local official completed Section E for a building located in Zone A (without a BFE), Zone AO, or Zone AR/AO, or when item
+E5 is completed for a building located in Zone AO.
+
+A local official completed Section H for insurance purposes.
+
+In the Comments area of Section G, the local official describes specific corrections to the information in Sections A, B, E and H.
+
+ 
+
+The following information (Items G5-—G11) is provided for community floodplain management purposes.
+Permit Number: G6. Date Permit Issued:
+
+Date Certificate of Compliance/Occupancy Issued:
+
+ 
+
+ 
+
+This permit has been issued for: L_] New Construction [_] Substantial Improvement
+
+Elevation of as-built lowest floor (including basement) of the
+building: [ |feet [_] meters
+
+ 
+
+Elevation of bottom of as-built lowest horizontal structural
+member: feet [_] meters
+
+ 
+
+ 
+
+ 
+
+BFE (or depth in Zone AO) of flooding at the building site: [ |feet [_] meters
+
+Community's minimum elevation (or depth in Zone AO)
+requirement for the lowest floor or lowest horizontal structural
+member: [| feet [| meters Datum:
+
+ 
+
+ 
+
+ 
+
+ 
+
+G11. Variance issued? [|] Yes [_]No_ If yes, attach documentation and describe in the Comments area.
+
+ 
+
+ 
+
+The local official who provides information in Section G must sign here. / have completed the information in Section G and certify that it is
+correct to the best of my knowledge. If applicable, | have also provided specific corrections in the Comments area of this section.
+
+Local Official's Name: Title:
+
+ 
+
+ 
+
+NFIP Community Name:
+
+Telephone:
+
+Address:
+
+City: ZIP Code:
+
+ 
+
+ 
+
+Signature: Date:
+
+ 
+
+Comments (including type of equipment and location, per C2.e; description of any attachments; and corrections to specific information in
+Sections A, B, D, E, or H):
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 5 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+17359 GULF PRESERVE DRIVE
+
+ 
+
+Policy Number:
+
+City. FORT MYERS State. FL ZIP Code: 33908
+
+ 
+
+Company NAIC Number:
+
+SECTION H — BUILDING'S FIRST FLOOR HEIGHT INFORMATION FOR ALL ZONES
+(SURVEY NOT REQUIRED) (FOR INSURANCE PURPOSES ONLY)
+
+The property owner, owner's authorized representative, or local floodplain management official may complete Section H for all flood zones
+to determine the building's first floor height for insurance purposes. Sections A, B, and | must also be completed. Enter heights to the
+nearest tenth of a foot (nearest tenth of a meter in Puerto Rico). Reference the Foundation Type Diagrams (at the end of Section H
+Instructions) and the appropriate Building Diagrams (at the end of Section | Instructions) to complete this section.
+
+H1. Provide the height of the top of the floor (as indicated in Foundation Type Diagrams) above the Lowest Adjacent Grade (LAG):
+
+a) For Building Diagrams 1A, 1B, 3, and 5—9. Top of bottom [|feet [_] meters [_] above the LAG
+floor (include above-grade floors only for buildings with
+subgrade crawlspaces or enclosure floors) is:
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) For Building Diagrams 2A, 2B, 4, and 6—9. Top of next [_] feet [_] meters [ _] above the LAG
+higher floor (i.e., the floor above basement, crawlspace, or
+enclosure floor) is:
+
+. Is all Machinery and Equipment servicing the building (as listed in Item H2 instructions) elevated to or above the floor indicated by the
+H2 arrow (shown in the Foundation Type Diagrams at end of Section H instructions) for the appropriate Building Diagram?
+
+[] Yes []No
+SECTION I - PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and H must sign here. The statements in Sections
+A, B, and H are correct to the best of my knowledge. Note: If the local floodplain management official completed Section H, they should
+indicate in Item G2.b and sign Section G.
+
+ 
+
+ 
+
+ 
+
+[_] Check here if attachments are provided (including required photos) and describe each attachment in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+Address:
+City: ZIP Code:
+
+ 
+
+Signature:
+
+Telephone:
+
+ 
+
+ 
+
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 6 of 19
+ 
+Alfonso Saavedra Pics
+
+09/01/24
+
+ 
+Report Date 9/25/2024
+
+G,
+Xa C U S LB Report Number = 113814354
+v4 Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 17359 GULF PRESERVE DR, FORT MYERS, FL 33908
+Standardized Location 17359 GULF PRESERVE DR, FORT MYERS, FL 33908-5534
+
+Latitude, Longitude 26.489753, -81.865127 Parcel ID 12462438000010000
+FIPS / MSA/ Tract 12071 / 15980 / 501.06 Community No. 125124
+
+Community Name LEE COUNTY*
+
+County Name UNINCORPORATED AREAS
+
+fone AE
+tee
+
+fone AE fone AE
+Cel 4 (el 11) ft)
+
+ae
+
+ 
+
+eee SS PEP a ‘Leaflet |© eR © OpenStreetMap
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (5020 ft)
+BFE 11 Feet NAVD88 (12.18 ft NGVD29) USGS Ground Elev 3 ft NAVD88
+FEMA Map 12071C0576H, 11/17/2022 Previous Map 12071C0576G, 12/07/2018, Zone AE
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 09/19/1984
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $1,570,436,060 / 22192 NFIP PIF* 67118 NFIP Discount 25%
+Flood Source 628 ft Salt Water 11517 ft Fresh Water 57 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+Zug MAIN STANDARD FLOOD INSURANCE NGM INSURANCE COMPANY
+me Pee APPLIC ATION https://msainsurance.com
+
+INSURANCE
+. (800) 285-7240
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date Application Number Effective Date Expiration Date Waiting Period
+10-03-2024 FLD4788005637 10-25-2024 10-25-2025 Loan Transaction - No Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+MAYKOL ALFONSO-SAAVEDRA 17359 Gulf Preserve Dr, 17359 GULF PRESERVE DR, 5660 STRAND CT # 107,
+
+Fort Myers, FL, 33908 Fort Myers, FL, 33908 Naples, FL, 34110
+
+Home Phone: .
+
+Email:ofinsurance@aol.com
+Work Phone:
+
+Property Address Type:Location Phone Number:2397848764
+
+Cell Phone:(407)785-8541
+Agent Name:OUR FAMILY INSURANCE #2
+
+Email:alfonsomaykol@gmail.com
+
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+
+. . Other Policy Number:
+Prior Policy Number:
+
+Potential Duplicate Policy:
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+1st Mortgagee
+
+KBHS Home Loans LLC
+
+PO Box 29411,
+
+Phoenix, Maricopa County , AZ, 85038
+
+Phone Number:
+Fax Number:
+
+Loan Number:980121286441
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+ 
+
+Current Community Information
+
+Community Name:
+
+Community Number:125124
+
+Map Panel:0576 Prior Community Information
+
+Community Number:
+Map Panel Suffix:H ty
+
+Map Panel:
+Current Flood Zone:AE
+. Map Panel Suffix:
+Current Base Flood Elevation(BFE):3
+Flood Zone:
+
+FIRM Date:09-19-1984
+Program:FLOODREGULAR
+Program Status:
+
+FIRM Date:09-19-1984
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+County:Lee County
+Current Map Date:1 1-17-2022
+Rating Map Date:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:YES
+Construction Date Prior Owner Policy Number:
+Date of Original Construction:12-31-2023 Prior Owner Company Name: ;
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Residence: YES
+
+Ir
+Date: fi 6
+
+ee
+a in,
+APC PRV 0721 ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+« MAIN STANDARD FLOOD INSURANCE NGM INSURANCE COMPANY
+A onen APPLICATION https://msainsurance.com
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INSURANCE
+(800) 285-7240
+PO Box 2057, Kalispell, MT, 59903
+Date Application Number Effective Date Expiration Date Waiting Period
+10-03-2024 FLD4788005637 10-25-2024 10-25-2025 Loan Transaction - No Wait
+Building Information Building Located Over Water:Not over Water
+Building Located In CBRS/OPA:NO Building in Course of Construction:‘NO
+CBRS/OPA Designation Date: Building Construction Type:Masonry
+If the building is in the buffer zone, did USFWS issue an official determination Construction Type Description:
+showing the building outside the system unit or OPA?: Estimated Building Replacement Cost:300000
+Is the building use consistent with the Replacement Cost Value Returned by FEMA306159
+protected area purpose?: Total sq. footage of building:1876
+Prior NFIP Claims: Total # of floors in building:1
+Building Severe Repetitive Loss (SRL) Total # of units in building:1
+Property: What floor is the unit located on?:
+Property on NFIP SRL list, Document(s) Number of Detached Structures:0
+provided indicating non-SRL: Building Located on Federal Land:
+Coverage Req'd for Disaster Assistance: Is the policy force-placed by the lender?:
+Foundation Information Mobilehome/Travel Trailer Information
+Foundation:Slab on Grade (non-elevated) On Permanent Foundation:
+Enclosure/Crawlspace Size: Anchored By:
+Number of Elevators: Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+
+S . Area of Permanent Openings (Sq. In.):
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+. Has Engineered Openings:
+Number of Openings:
+
+ 
+
+Does the building contain machinery and
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+Are all appliances elevated above the first floor?: Is all machinery and equipment servicing
+the building, located inside or outside the
+
+building, elevated above the first floor?: NO
+
+equipment servicing the building?:
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:08-01-2024
+Diagram Number:1B
+
+Top of Bottom Floor:11.6
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):10.6
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height:1
+FEMA First Floor Height:1
+
+First Floor Height Method Used:EC
+
+Premium Calculations
+
+ 
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE AMOUNT DUE
+Building 250,000.00 10,000.00 Building Premium: $ 2,353.00
+Content 0.00 0.00 Content Premium: $ 0.00
+Increased Cost of Compliance (ICC) Premium: $ 45.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (550.00)
+Full Risk Premium: $ 1,848.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,848.00
+Reserve Fund Assessment: $ 333.00
+HFIAA Surcharge: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 2,253.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional) Date
+
+Ir
+me eda
+
+ee
+a in,
+APC PRV 0721 ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+MAIN
+STREET
+AMERICA
+
+INSURANCE
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP24092593 1406
+
+Policy Number: FLD4788005637
+
+Insured Name: MAYKOL ALFONSO-SAAVEDRA
+
+Property Address: 17359 GULF PRESERVE DR, Fort Myers, FL, 33908
+Transaction Date: 10/18/2024
+
+Remittance ID: 27IJOBDJ
+
+Premium Paid: $2253
+NGM INSURANCE COMPANY
+
+my ater NGM INSURANCE COMPANY https://msainsurance.com
+
+“es AMERICA PO Box 2057 Kalispell MT 59903 United States (800) 285-7240
+INSURANCE NAIC# : 14788
+
+PROPERTY ADDRESS #: 17359 GULF PRESERVE DR, Fort Myers, FL, 33908 POLICY FORM: Dwelling Policy
+
+POLICY #: FLD4788005637 POLICY DECLARATIONS TYPE: New Policy Declarations
+
+NFIP POLICY #: 4788005637
+
+POLICY TERM: 10-25-2024 (At time of loan closing) - 10-25-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+
+POLICY ISSUED BY: NGM INSURANCE COMPANY
+
+PAYOR: MAYKOL ALFONSO-SAAVEDRA
+
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+
+MAYKOL ALFONSO-SAAVEDRA
+17359 Gulf Preserve Dr,
+Fort Myers, FL, 33908
+
+OUR FAMILY INSURANCE #2
+5660 STRAND CT # 107, Naples, FL, 34110
+
+Phone : 2397848764
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 10,000 $ 2 5 2 5 3
+Contents $0 $0 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $ 2,353
+Building Occupancy Single Family Contents Premium: $0
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $ 45
+First Floor Height (FFH) 1 Community Rating System Discount: $ (550.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 1,848
+Property Description Slab on Grade (non-elevated), 1 Floors , Discounted Premium: $ 1,848
+Masonry Fees and Surcharges:
+
+Date of Construction 12-31-2023 Reserve Fund Assessment: $ 333
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $25
+
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+
+Total Premium $ 2,253
+ADDITIONAL INTERESTS
+
+First Mortgagee
+KBHS Home Loans LLC,
+PO Box 29411,
+
+Phoenix, AZ, 85038
+Loan # : 980121286441
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+i 2 10-31- : oe eee
+Date Mailed: 10-31-2024 To learn more about your flood risk, please visit FloodSmart.gov ———
+NATIONAL FLOOD
+
+INSURANCE PROGRAM

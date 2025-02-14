@@ -1,0 +1,1237 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY Eunination Dates OB/soIsOx8
+Federal Emergency Management Agency
+
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) i insurance agenU/company, and (3) building owner.
+
+_ SECTION A- - PROPERTY INFORMATION — FOR INSURANCE COMPANY USE
+A1. Building Owner's Name: PERRY HOMES, LLC
+
+ 
+
+ 
+
+ 
+
+ 
+
+Policy Number:
+
+ 
+
+ 
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: Company NAIC Number.
+21706 TURKEY TANGLE COURT
+
+City. CYPRESS State: TX ZIP Code: 77433
+
+ 
+
+ 
+
+ 
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+LOT 23, BLOCK 2, BRIDGELAND PRAIRIELAND VILLAGE SEC 17 (FILM CODE NO. 701449, M.R.H.C.TX.)
+
+ 
+
+ 
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): RESIDENTIAL
+A5. Latitude/Longitude: Lat. N 29" 56' 31.60" Long, W 95° 47° 12.70" Lotizontal Datum: [J NAD 1927 NAD 1983 [-] WGS 84
+
+A6, Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+
+ 
+
+A7. Building Diagram Number, 1B
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [[] Yes [_] No N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings inA8.c. N/A sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions); N/A sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions); N/A sq. ft.
+AQ. For a building with an attached garage:
+a) Square footage of attached garage: N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? [7] Yes [[] No N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+d) Total net open area of non-engineered flood openings inAQ.c. N/A sq. in.
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions). N/A sq. ft.
+
+f) Sum of AQ.d and A9.e rated area (if applicable — see Instructions). N/A sq. ft.
+
+| B - FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+   
+
+B1.a. NFIP Community Name: UNINCORPORATED HARRIS COUNTY B1.b. NFIP Community Identification Number. 480287
+
+B2. County Name: HARRIS B3. State: TX B4. Map/Panel No.; 48201C0385 B5. Suffix: N
+B6. FIRM Index Date: 11/15/2019 B7. FIRM Panel Effective/Revised Date: 11/15/2019
+B8. Flood Zone(s); AE BY. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 159.5'
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item BS:
+FIS [-] FIRM [] Community Determined [[] Other:
+
+B11. indicate elevation datum used for BFE in Item B9: [[] NGVD 1929 [[] NAVD 1988 Other/Source: NAVD88, 2001 ADJ.
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [[] Yes No
+Designation Date: [J] CcBRS [J] OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [[] Yes No
+
+ 
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 2 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+
+ 
+
+ 
+
+ 
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+ 
+
+21706 TURKEY TANGLE COURT
+
+Policy Number:
+City: CYPRESS State: TX ZIP Code: 77433
+
+ 
+
+Company NAIC Number:
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+ 
+
+ 
+
+C1. Building elevations are based on: [_] Construction Drawings* Building Under Construction* [] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: H.C.F.C. RM NO. 200120 Vertical Datum: NAVD88, 2001 ADJ.
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+[_] NGVD 1929 [[] NAVD 1988 Other: NAVD88, 2001 ADJ.
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? L] Yes No
+
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 166.5 feet [] meters
+b) Top of the next higher floor (see Instructions): N/A L] feet [] meters
+c) Bottom of the lowest horizontal structural member (see Instructions): N/A (] feet [[] meters
+d) Attached garage (top of slab): N/A [] feet [] meters
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+
+(describe type of M&E and location in Section D Comments area): N/A [] feet [] meters
+f) Lowest Adjacent Grade (LAG) next to building: [_] Natural Finished 163.7 feet [[] meters
+g) Highest Adjacent Grade (HAG) next to building: [-] Natural Finished 165.4 feet [] meters
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+
+support: N/A [I feet [] meters
+
+ 
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION —
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. / certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Yes [] No
+[_] Check here if attachments and describe in the Comments area.
+
+Certifier's Name: MARK S. BROWN License Number; 5953
+
+Title: R.P.L.S.
+
+Company Name: TRI-TECH SURVEYING COMPANY, L.P.
+Address: 10401 WESTOFFICE DRIVE fe “7,
+
+2. °
+Pengdorenenvosovosevs orev orenLoewr—e
+
+City; HOUSTON State: TX ZIP Code: 77042 f ...MARICS. BROWN
+
+Peguorecsecoaowoussoeses: eRe oven,
+
+_ LAO he — _ 4S 5583
+0 wie
+Signature: Al fen Date: 06-03-2024 dpe cae
+_ ‘.
+
+Telephone: (713) 667-0800 Ext: Email; Mbrown@tritechtx.com
+
+ 
+
+ 
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+BENCHMARK: H.C.F.C.RM NO. 200120, ELEV=158.60, NAVD88,2001 ADJ.
+
+C2.a TOP OF FORM.
+
+C2 f&g ARE EXISTING GRADES AT TIME OF SURVEY.
+
+STREET CROWN ELEVATION = 162.75'. TOP OF CURB ELEVATION = 162.90".
+
+500 YEAR = 160.2".
+
+JOB NO. Y39940-24 FIRM REG NO. 10115900
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 3 of 8
+
+ 
+DEPARTMENT OF HOMELAND SECURITY
+Federal Emergency Management Agency
+
+STANDARD FLOOD HAZARD DETERMINATION FORM (SFHDF) OMB Control No. 1660-0040
+Expires: 09-30-2023
+
+SECTION 1 - LOAN INFORMATION
+
+1. LENDER/SERVICER NAME AND ADDRESS | 2. COLLATERAL DESCRIPTION (Building/Mobile Home/Property) (See instructions for
+Crestmark Mortgage Company LTD more information)
+1177 West Loop S, Ste 700 Address: 21706 TURKEY TANGLE COURT , CYPRESS, TX 77433
+Houston, TX 77027 Latitude,Longitude: 29.942315,-95.786757 APN/Tax ID: 1465610020023
+Client Name: Reno, Ralph Albert
+
+3. LENDER SERVICER ID #|4. LOAN IDENTIFIER 5. AMOUNT OF FLOOD INSURANCE REQUIRED
+217520002 7300036667
+
+SECTION II
+A. NATIONAL FLOOD INSURANCE PROGRAM (NFIP) COMMUNITY JURISDICTION
+
+1. NFIP Community Name 2. County(ies) 3. State 4. NFIP Community Number
+Harris County*
+
+ 
+
+Harris County TX 480287
+
+B. NATIONAL FLOOD INSURANCE PROGRAM (NFIP) DATA AFFECTING BUILDING/MOBILE HOME
+
+1. NFIP Map Number or Community-Panel Number] 2. NFIP Map Panel Effective / 3. Is there a Letter of Map Change (LOMC)?
+(Community name, if not the same as "A") Revised Date
+NO
+
+Panel: 0385N 11/15/2019
+[]lyes_ (lf yes, and LOMC date/no. is available,
+enter date and case no. below).
+
+4. Flood Zone 5. No NFIP Map
+AE* Date Case No.
+
+C. FEDERAL FLOOD INSURANCE AVAILABILITY (Check all that apply.)
+
+  
+
+Map Number: 48201C0385N
+
+  
+
+1. [X] Federal Flood Insurance is available (community participates in the NFIP). X]Regular Program [_]Emergency Program of NFIP
+2.[_] Federal Flood Insurance is not available (community does not participate in the NFIP).
+
+3.[] Building/Mobile Home is in a Coastal Barrier Resources Area (CBRA) or Otherwise Protected Area (OPA). Federal Flood
+Insurance may not be available.
+
+CBRA/OPA Designation Date:
+
+ 
+
+| D. DETERMINATION |
+
+IS BUILDING/MOBILE HOME IN SPECIAL FLOOD HAZARD AREA (ZONES CONTAINING THE LETTERS "A" OR"V")? [X] YES [| NO
+If yes, flood insurance is required by the Flood Disaster Protection Act of 1973.
+
+If no, flood insurance is not required by the Flood Disaster Protection Act of 1973. Please note, the risk of flooding in this area is only
+reduced, not removed.
+
+This determination is based on examining the NFIP map, any Federal Emergency Management Agency revisions to it, and any other
+information needed to locate the building /mobile home on the NFIP map.
+
+E. COMMENTS (Optional) SERVICE TYPE: Life of Loan BFE: 159.5 Feet NAVD88 (159.47 ft NGVD29) PRELIMINARY MAP AVAILABLE:
+
+* Determination is currently based on the highest risk zone on the property. Submit building location information to customersupport@xactus.com for further review.
+
+THIS CERTIFICATION IS PROVIDED TO THE LENDER PURSUANT TO THE FLOOD DISASTER PROTECTION ACT AND MAY NOT BE RELIED UPON FOR ANY
+OTHER PURPOSE.
+
+PREVIOUS MAP#, DATE, ZONE, PANEL: 48201C0385M, 10/16/2013, Zone AE, 0385M ST:48 CO:201 MSA:26420 TRACT:5430.05 48201543005
+F. PREPARER'S INFORMATION
+
+NAME, ADDRESS, TELEPHONE NUMBER ([f other than Lender) DATE OF DETERMINATION
+ractus 4 Road. Suite 100 10/24/2024
+ee oad, ouite
+E> Flood ReportX
+
+ 
+
+f,
+Xa ct U S Za Beomall: PA 18008 DETERMINATION NUMBER
+a (844) 439-2378 14116509
+www.xactusflood.com
+
+FEMA FORM FF-206-FY-21-116 (formerly 086-0-32) (04/21) SFHDF - Form Page 1 of 1
+10/24/2024
+
+Determination Date
+Xa C U S Determination ID 14116509
+
+Flood Zone Determination Exhibit
+
+Submitted Location 21706 TURKEY TANGLE COURT , CYPRESS, TX 77433
+Standardized Location 21706 TURKEY TANGLE COURT , CYPRESS, TX 77433
+
+  
+    
+
+ 
+
+44
+j
+aT Ge TEE
+es
+ATONE POSE
+€. Zone)x500
+
+“Se.
+Leaflet | © Mapbox © OpenStreetMap
+
+      
+
+— Base
+100yr oF 500yr 1pct Future
+Floodplain “ eh Floodplain CoS tion g Levee Conditions
+
+ 
+
+Comments
+
+Copyright Xactus. All Rights Reserved. If you have questions about this report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+NOTICE OF SPECIAL FLOOD HAZARDS AND AVAILABILITY OF FEDERAL DISASTER RELIEF ASSISTANCE
+
+Loan Information
+
+Lender: Crestmark Mortgage Company LTD
+
+Borrower Name: Reno, Ralph Albert
+
+Property Address: 21706 Turkey Tangle Court , Cypress, TX 77433
+Loan Identifier: 7300036667
+
+Determination Date: 10/24/2024
+
+Determination Number: 14116509
+
+We are giving you this notice to inform you that:
+
+The building or mobile home securing the loan for which you have applied is or will be located in an area with special flood hazards.
+
+The area has been identified by the Administrator of the Federal Emergency Management Agency (FEMA) as a special flood hazard area using
+FEMA's Flood Insurance Rate Map or the Flood Hazard Boundary Map for the following community: Harris County*. This area has a one
+percent (1%) chance of a flood equal to or exceeding the base flood elevation (a 100-year flood) in any given year. During the life of a 30-year
+mortgage loan, the risk of a 100-year flood in a special flood hazard area is 26 percent (26%).
+
+Federal law allows a lender and borrower jointly to request the Administrator of FEMA to review the determination of whether the property
+securing the loan is located in a special flood hazard area. If you would like to make such a request, please contact us for further information.
+
+The community in which the property securing the loan is located participates in the National Flood Insurance Program (NFIP). Federal
+law will not allow us to make you the loan that you have applied for if you do not purchase flood insurance. The flood insurance must be
+maintained for the life of the loan. If you fail to purchase or renew flood insurance on the property, Federal law authorizes and requires us
+to purchase the flood insurance for you at your expense.
+
+« Ata minimum, flood insurance purchased must cover the lesser of: (1) the outstanding principal balance of the loan; or (2) the
+maximum amount of coverage allowed for the type of property under the NFIP.
+
+Flood insurance coverage under the NFIP is limited to the building or mobile home and any personal property that secures your loan and
+not the land itself.
+
+e Federal disaster relief assistance (usually in the form of a low-interest loan) may be available for damages incurred in excess of
+your flood insurance if your community's participation in the NFIP is in accordance with NFIP requirements.
+
+e Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage
+lender may still require you to do so to protect the collateral securing the mortgage. If you choose not to maintain flood insurance
+on a structure and it floods, you are responsible for all flood losses relating to that structure.
+
+Availability of Private Flood Insurance Coverage
+
+Flood insurance coverage under the NFIP may be purchased through an insurance agent who will obtain the policy either directly through
+the NFIP or through an insurance company that participates in the NFIP. Flood insurance that provides the same level of coverage as a
+standard flood insurance policy under the NFIP may be available from private insurers that do not participate in the NFIP. You should
+compare the flood insurance coverage, deductibles, exclusions, conditions, and premiums associated with flood insurance policies issued
+on behalf of the NFIP and policies issued on behalf of private insurance companies and contact an insurance agent as to the availability,
+cost, and comparisons of flood insurance coverage.
+
+Escrow Requirement for Residential Loans
+
+Federal law may require a lender or its servicer to escrow all premiums and fees for flood insurance that covers any residential building or
+mobile home securing a loan that is located in an area with special flood hazards. If your lender notifies you that an escrow account is
+required for your loan, then you must pay your flood insurance premiums and fees to the lender or its servicer with the same frequency as
+you make loan payments for the duration of your loan. These premiums and fees will be deposited in the escrow account, which will be
+used to pay the flood insurance provider.
+
+Flood insurance coverage under the NFIP is not available for the property securing the loan because the community in which the property
+is located does not participate in the NFIP. In addition, if the non-participating community has been identified for at least one year as
+containing a special flood hazard area, properties located in the community will not be eligible for Federal disaster relief assistance in the
+event of a Federally declared flood disaster.
+
+We have received, read, and understand a copy of this document.
+
+Borrower Date Co-Borrower Date
+Determination Date 10/24/2024
+x a C U S Determination ID 14116509
+
+   
+
+Submitted Location 21706 TURKEY TANGLE COURT , CYPRESS, TX 77433
+Standardized Location 21706 TURKEY TANGLE COURT , CYPRESS, TX 77433
+
+Latitude, Longitude 29.942315, -95.786757
+Peak Ground Acceleration 0.01 at 10% chance exceedance in 50 years
+
+Peak acceleration, expressed as.
+a fraction of standard gravity (9)
+
+Perceived
+Shaking
+
+Potential
+Damage
+
+Peak ACC
+
+Instrumental
+Intensity
+
+Wald, D.J., Quitoriano, V.,
+v. 15, no. 3, p. 557-564.
+
+ 
+
+EXPLANATION
+
+Agency Threshold: Refer to the Fannie Mae
+and Freddie Mac Seller Servicer Guides for
+more information.
+
+ 
+
+Not Felt Weak Light Moderate Strong Very Strong Severe Violent Extreme
+None None None Very Light Light Moderate vee Heavy Very Heavy
+< .0017 0017 - .014 014 - .039 .039-.092  .092-.18 .18 - .34 .34 - 65 65 - 1.24 >1.24
+
+Heaton, T.H., and Kanamori, H., 1999, Relationship between Peak Ground Acceleration, Peak Ground Velocity, and Modified Mercalli Intensity in California: Earthquake Spectra,
+
+Copyright Xactus. All Rights Reserved. Report is based on data available from the United States Geological Service. Data is presented as-is without warranty and guarantee
+either expressed or implied.
+Texas Farmers Insurance
+
+LOA STANDARD FLOOD INSURANCE Company
+FARMERS APPLICATION https://www.farmers.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INSURANCE
+PO Box 2057, Kalispell, MT, 59903 (888) 391-2810
+
+Date Application Number Effective Date Expiration Date Waiting Period
+10-28-2024 FLD1660095203 11-27-2024 11-27-2025 Standard - 30 Day Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+RALPH RENO 21706 Turkey Tangle Ct, 21706 TURKEY TANGLE CT, 15010 FM 529 RD,
+
+Cypress, TX, 77433 Cypress, TX, 77433 Houston, TX, 77095
+
+Home Phone: Email: @e. t
+
+Work Phone: mail:ggarza@farmersagent.com
+
+Property Address Type:Location Phone Number:28 16568340
+
+Cell Phone:(713)775-2780
+Agent Name:GABRIEL C GARZA INS AGENCY INC
+
+Email:reno.r@sbeglobal.net
+
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+
+. . Other Policy Number:
+Prior Policy Number:
+
+Potential Duplicate Policy:
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:480287
+
+Map Panel:0385 Prior Community Information
+Community Number:
+
+Map Panel Suffix:N
+Map Panel:
+
+Current Flood Zone:AE
+Map Panel Suffix:
+
+Current Base Flood Elevation(BFE):159.5
+FIRM Date:05-26-1970
+Program:FLOODREGULAR
+
+Program Status:
+
+County:Harris County
+
+Current Map Date:1 1-15-2019
+
+Flood Zone:
+
+FIRM Date:05-26-1970
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Rating Map Date:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:YES
+Construction Date Prior Owner Policy Number:
+Date of Original Construction:1 2-31-2023 Prior Owner Company Name: ;
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Residence: YES
+
+Ir
+Date: fi 6
+
+ee
+a in,
+APC PRV 0721 ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+va
+FARMERS
+
+INSURANCE
+
+ 
+
+ 
+
+Date
+10-28-2024
+
+Effective Date
+11-27-2024
+
+Application Number
+FLD1660095203
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+Texas Farmers Insurance
+Company
+https://www.farmers.com/
+
+(888) 391-2810
+
+ 
+
+ 
+
+Expiration Date
+11-27-2025
+
+Waiting Period
+Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:‘NO
+Building Construction Type:Masonry
+Construction Type Description:
+
+Estimated Building Replacement Cost:250000
+Replacement Cost Value Returned by FEMA444757
+Total sq. footage of building:2935
+
+Total # of floors in building:1
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:06-03-2024
+Diagram Number:1B
+
+Top of Bottom Floor:
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+
+Elevation Certificate First Floor Height:0
+
+FEMA First Floor Height:0.25
+
+First Floor Height Method Used:FEMA_ASSUMPTION
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 250,000.00 1,250.00
+
+Content 100,000.00 1,000.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 1,306.00
+Content Premium: $ 814.00
+Increased Cost of Compliance (ICC) Premium: $ 40.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (295.00)
+Full Risk Premium: $ 1,865.00
+Annual Increase Cap Discount: $ 0.00
+Newly Mapped Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,865.00
+Reserve Fund Assessment: $ 336.00
+HFIAA Surcharge: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 2,273.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+A
+
+AOA
+
+AIATINAIAL CIAAN
+FARMERS
+
+INSURANCE
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP241028504152
+
+Policy Number: FLD1660095203
+
+Insured Name: RALPH RENO
+
+Property Address: 21706 TURKEY TANGLE CT, Cypress, TX, 77433
+Transaction Date: 10/28/2024
+
+Remittance ID: 27IQGOIR
+
+Premium Paid: $2273
+Borrower Ralph Reno File Ho. 7300036667
+Property Address 21706 Turkey Tangle Ct
+
+ 
+
+ity Cypress County Harris State TX Zp Code 77433
+Lender/Client Crestmark Mortgage Compan
+
+APPRAISAL AND REPORT IDENTIFICATION
+
+This Report is one of the following types:
+
+x Appraisal Report (A written report prepared under Standards Rule 2-2(a) - pursuant to the Scope of Work, as disclosed elsewhere in this report.)
+
+ 
+
+Restricted (A written report prepared under Standards Rule 2-2(b) + pursuant to the Scope of Work, as disclosed elsewhere in this report
+Appraisal Report festrictec to the stated intended use only by the specified client and any other named intendec user(s).)
+
+ 
+
+ 
+
+ 
+
+Comments on Standards Rule 2-3
+
+| certify that, to the best of my knowledge and belief:
+
+he statements of fact contained in this report are true and correct.
+
+he reported analyses, opinions, and conclusions are limited only by the reported assumptions and limiting conditions and are my personal, impartial, and unbiased professional
+alyses, opinions, and conclusions.
+Unless otherwise indicated, | have no present or prospective interest in the property that is the subject of this report and no personal interest with respect to the parties involved.
+Unless otherwise indicated, | have performed no services, as an appraiser or in any other capacity, regarding the property that is the subject of this report within the three-year
+period immediately preceding acceptance of this assignment.
+- | have no bias with respect to the property that is the subject of this report or the parties involved with this assignment.
+
+- My engagement in this assignment was not contingent upon developing or reporting predetermined results.
+
+y compensation for completing this assignment is not contingent upon the development or reporting of a predetermined value or direction in value that favors the cause of the
+client, the amount of the value opinion, the attainment of a stipulated result, or the occurrence of a subsequent event directly related to the intended use of this appraisal.
+
+- My analyses, opinions, and conclusions were developed, and this report has been prepared, in conformity with the Uniform Standards of Professional Appraisal Practice that
+were in effect at the time this report was prepared.
+- Unless otherwise indicated, | have made a personal inspection of the property that is the subject of this report.
+
+Unless otherwise indicated, no one provided significant real property appraisal assistance to the person(s) signing this certification (if there are exceptions, the name of each
+individual providing significant real property appraisal assistance is stated elsewhere in this report).
+
+ 
+
+ 
+
+ 
+
+Reasonable Exposure Time (USPAP defines Exposure Time as the estimated length of time that the property interest being
+appraised would have been offered on the market prior to the hypothetical consummation of a sale at market value on the effective date of the appraisal.)
+
+My Opinion of Reasonable Exposure Time for the subject property at the market value stated in this report is: 3-6 months
+
+ 
+
+Comments on Appraisal and Report Identification
+
+Note any USPAP-related issues requiring disclosure and any state mandated requirements:
+
+To the best of the appraiser's knowledge, this appraisal and report have been prepared in accordance with the Uniform Standards of
+Professional Practice (USPAP) as approved by the Appraisal Standards Board of the Appraisal Foundation; the requirements of Title XI of
+the Financial Institution Reform, Recovery and Enforcement Act of 1989 (FIRREA); the Uniform Standards of Professional Appraisal
+Practice; all applicable state licensing and certification requirements; and applicable Supplemental Standards set forth herein.
+
+ 
+
+This is an Appraisal Report as set forth in Standard 2 of the Uniform Standards of Professional Appraisal Practice (USPAP). The use of
+the report is limited to the client only. The rationale for how the appraiser arrived at the opinions and conclusions set forth in the report
+may not be understood properly without additional information in the appraiser's work file.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPRAISER: SUPERVISORY or CO-APPRAISER (if applicable):
+Signature: Signature:
+
+ 
+
+ 
+
+Name: Derek Bolls Name: Gynell Vestal
+
+ 
+
+ 
+
+Appraiser Trainee Certified Residential
+
+ 
+
+ 
+
+State Certification # State Certification # 1336915
+
+ 
+
+ 
+
+or State License #: 1343815 Trainee or State License #:
+
+ 
+
+ 
+
+State. TK Expiration Date of Certification or License 08/31/2025 State TX Expiration Date of Certification or License 04/30/2025
+Date of Signature and Report 10/28/2024 Date of Signature: 10/28/2024
+
+ 
+
+ 
+
+Effective Date of Appraisal 10/21/2024
+Inspection of Subject: None x Interior and Exterior Exterior-Only Inspection of Subject x None Interior and Exterior Exterior-Only
+
+Date of Inspection (if applicable) 10/21/2024 Date of Inspection (if applicable)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Form ID20E - "TOTAL" appraisal software by a la mode, inc. - 1-800-ALAMODE
+Subject Photo Page
+
+Borrower Ralph Reno
+
+Property Address 21706 Turkey Tangle Ct
+
+City Cypress County Harris State TX ZipCode 77433
+Lender/Client Crestmark Mortgage Company, LTD
+
+ 
+
+ 
+
+ 
+
+ 
+
+Subject Front
+
+21706 Turkey Tangle Ct
+Sales Price 658,186
+Gross Living Area 3,050
+Total Rooms 10
+
+Total Bedrooms 4
+Total Bathrooms 3.0
+
+Location N;Res;
+View N;Res;
+Site 14874 sf
+Quality Q3
+
+Age 0
+
+ 
+
+ 
+
+Subject Rear
+
+Subject Street
+
+ 
+
+Form PICPIX.SR - "TOTAL" appraisal software by a la mode, inc. - 1-800-ALAMODE
+U.S. DEPARTMENT OF HOMELAND SECURITY vinalion Gate DRGoraaee
+Federal Emergency Management Agency
+
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+FOR INSURANCE COMPANY USE _
+
+     
+
+A1. Building Owner's Name: PERRY HOMES, LLC Policy Number:
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: Company NAIC Number:
+21706 TURKEY TANGLE COURT e =
+
+City. CYPRESS State: TX ZIP Code: 77433
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+LOT 23, BLOCK 2, BRIDGELAND PRAIRIELAND VILLAGE SEC 17 (FILM CODE NO. 701449, M.R.H.C.TX.)
+
+ 
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.); RESIDENTIAL
+AS. Latitude/Longitude: Lat. N 29° 56" 31.60" | ong, W 95° 47" 12.70" orizontal Datum: [NAD 1927 [XNAD 1983 [] WGS 84
+A6. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+A7. Building Diagram Number: 1B
+A8. Fora building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [-] Yes [_] No N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in A8.c: N/A sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions); N/A
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions); N/A sq. ft.
+. Fora building with an attached garage:
+a) Square footage of attached garage: N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? [[] Yes [[] No N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in AQ.c: N/A sq. in.
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): N/A
+
+f) Sum of AQ.d and AQ.e rated area (if applicable — see Instructions): N/A
+
+B1.a. NFIP Community Name: UNINCORPORATED HARRIS COUNTY B1.b. NFIP Community Identification Number: 480287
+B2. County Name: HARRIS B3. State: TX B4. Map/Panel No.: 48201C0385 B5. Suffix: N
+
+B6. FIRM Index Date: 11/15/2019 B7. FIRM Panel Effective/Revised Date: 11/15/2019
+B8. Flood Zone(s):. AE B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth); 159.5’
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+FIS [] FIRM [] Community Determined [[] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [-[] NGVD 1929 [[] NAVD 1988 Other/Source: NAVD88, 2001 ADJ.
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [] Yes No
+Designation Date: LICBRS []OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [] Yes No
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 2 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+
+ 
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+21706 TURKEY TANGLE COURT :
+
+Polley Number:
+City. CYPRESS State: TX ZIP Code; 77433
+
+Company NAIC Number: _
+
+ 
+
+C1. Building elevations are based on: [_] Construction Drawings* [[] Building Under Construction* Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: H.C.F.C. RM NO. 200120 Vertical Datum: NAVD88, 2001 ADJ.
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+[J NGVD 1929 _[] NAVD 1988 Other: NAVD88, 2001 ADJ.
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? C1 Yes No
+
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 166.6 feet [] meters
+
+b) Top of the next higher floor (see Instructions): N/A feet [[] meters
+feet [[] meters
+
+feet [[] meters
+
+c) Bottom of the lowest horizontal structural member (see Instructions): N/A
+
+kX OO f
+
+d) Attached garage (top of slab): 166.0
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area): 166.0
+
+f) Lowest Adjacent Grade (LAG) next to building: [[] Natural Finished 165.2
+g) Highest Adjacent Grade (HAG) next to building: [[] Natural Finished 166.0
+
+feet [] meters
+
+feet [[] meters
+
+kl kl Ki
+
+feet [] meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: N/A
+
+O
+
+feet [[] meters
+
+ 
+
+This certification is to be signed : and ‘sealed by a land surveyor, SngiNear or architect authorized by state law to certify alevation
+information. / certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1007.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Yes [_] No
+
+[_] Check here if attachments and describe in the Comments area.
+
+Certifier's Name. MARK S. BROWN License Number: 5553
+
+Tile: RPLS.
+
+Company Name: TRI-TECH SURVEYING COMPANY, LPo
+
+Address: 10401 WESTOFFICE DRIVE of
+
+city; HOUSTON State: TX __ZIP Code: 77042 pene “w NA
+
+« GEER \ eS eeoeccen: sneer every
+Signature: Bn Date: 08-19-2024 \, mee YF i
+Rinbe Se ahi”
+
+Telephone: (713) 667-0800 t:_____ Email: Mbrown@tritechb.com nd
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) ) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+BENCHMARK: H.C.F.C.RM NO. 200120, ELEV=158.60, NAVD88,2001 ADJ.
+
+C2 TOP OF AC PAD.
+
+C2 f&g ARE EXISTING GRADES AT TIME OF SURVEY.
+
+STREET CROWN ELEVATION = 162.75". TOP OF CURB ELEVATION = 162.80’.
+
+500 YEAR = 160.2".
+
+JOB NO. Y39940-24 FIRM REG NO. 10115900
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 3 of 8
+Texas Farmers Insurance Company
+
+fo" ‘ Texas Farmers Insurance Company https://www.farmers.com/
+FARMERS .
+ee waee PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 21706 TURKEY TANGLE CT, Cypress, TX, 77433 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660095203 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660095203
+POLICY TERM: 11-27-2024 (12:01 AM) - 11-27-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: RALPH RENO
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+RALPH RENO
+GABRIEL C GARZA INS AGENCY INC
+21706 Turkey Tangle Ct,
+
+15010 FM 529 RD, Houston, TX, 77095
+Cypress, TX, 77433
+
+Phone : 2816568340
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 1,250 $ l 5 7 5
+Contents $ 100,000 $ 1,000 Total Anmgal Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $ 889
+Building Occupancy Single Family Contents Premium: $ 548
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $27
+First Floor Height (FFH) 1.4 Community Rating System Discount: $ (190.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 1,274
+Property Description Slab on Grade (non-elevated), 1 Floors , Discounted Premium: $ 1,274
+Masonry Fees and Surcharges:
+Date of Construction 12-31-2023 Reserve Fund Assessment: $ 229
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $25
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+Total Premium $ 1,575
+ADDITIONAL INTERESTS
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+iled: 11-07- . we ee
+Date Mailed: 11-07-2024 To learn more about your flood risk, please visit FloodSmart.gov ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM

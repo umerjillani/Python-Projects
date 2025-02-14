@@ -1,0 +1,934 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB No. 1660-0008
+Federal Emergency Management Agency Expiration Date: November 30, 2022
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+
+Important: Follow the instructions on pages 1-9.
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A — PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+A1. Building Owner's Name Policy Number:
+HTS Job# 20-0677 cd
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Company NAIC Number:
+2320 Trinidad Drive
+
+City State ZIP Code
+
+Crystal Beach T™ 77650
+A3. Property Description (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+GCAD: 6275-0001-0007-000 LEGAL: Lot 7, Block 1, SANDPIPER BEACH SECTION ONE (1)
+
+  
+   
+  
+    
+
+  
+ 
+     
+        
+  
+
+  
+
+ 
+
+  
+  
+    
+
+. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.) RESIDENTIAL
+A5. Latitude/Longitude: Lat. 29°27'33.9" Long. 94°36'59.3" Horizontal Datum: [7] NAD 1927 [¥] NAD 1983
+
+  
+       
+     
+   
+   
+    
+      
+       
+      
+  
+
+A6. Attach at least 2 photographs of the building if the Certificate is being used to obtain flood insurance.
+A7. Building Diagram Number 5 (FIVE)
+A8. For a building with a crawlspace or enclosure(s):
+
+a) Square footage of crawlspace or enclosure(s) NA sq ft
+b) Number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade NA
+c) Total net area of flood openings in A8.b NA sqin
+
+d) Engineered flood openings? [] Yes No
+
+. For a building with an attached garage:
+
+a) Square footage of attached garage NA sq ft
+
+ 
+
+b) Number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade NA
+
+          
+     
+     
+
+c) Total net area of flood openings in A9.b NA sq in
+
+d) Engineered flood openings? ([_] Yes No
+
+  
+
+ 
+
+SECTION B —- FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1. NFIP Community Name & Community Number B2. County Name B3. State
+Galveston County, (Unincorp.) - 485470 Galveston TX - TEXAS
+
+B4. Map/Panel B5. Suffix | B6. FIRM Index B7. FIRM Panel B8. Flood B9. Base Flood Elevation(s)
+Number Date Effective/ Zone(s) (Zone AO, use Base Flood Depth)
+Revised Date
+
+48167C 0328 Aug 15, 2019 Aug 15, 2019
+
+ 
+ 
+   
+
+   
+
+ 
+    
+
+  
+
+    
+   
+   
+   
+     
+   
+
+VE 18
+
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in Item B9:
+{_] FIS Profile [¥] FIRM [_] Community Determined [] Other/Source:
+
+B11. Indicate elevation datum used for BFE in Item B9: [[] NGVD 1929 [¥] NAVD 1988 [_] Other/Source:
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? ["] Yes [¥] No
+Designation Date: [] CBRS [] OPA
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions.
+ELEVATION CERTIFICATE Expiration Date: November 30, 2022
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. Policy Number:
+2320 Trinidad Drive
+City ZIP Code Company NAIC Number
+
+Crystal Beach 77650
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: Construction Drawings* —[_] Building Under Construction* —_[_] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, A (with BFE), VE, V1—V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—-A30, AR/AH, AR/AO.
+Complete Items C2.a—h below according to the building diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: HGCSD 64 Vertical Datum: NAVD 88 *see comments
+Indicate elevation datum used for the elevations in items a) through h) below.
+
+[(-] NGVD 1929 [7] NAVD 1988 [] Other/Source: “See Comments
+
+Datum used for building elevations must be the same as that used for the BFE.
+Check the measurement used.
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor) Iv feet [_] meters
+b) Top of the next higher floor feet [_] meters
+c) Bottom of the lowest horizontal structural member (V Zones only) [YJ feet [_] meters
+d) Attached garage (top of slab) feet [_] meters
+
+e) Lowest elevation of machinery or equipment servicing the building tee
+
+(Describe type of equipment and location in Comments) [_] meters
+
+f) Lowest adjacent (finished) grade next to building (LAG) : [¥] feet [_] meters
+g) Highest adjacent (finished) grade next to building (HAG) ; lv] feet (| meters
+
+h) Lowest adjacent grade at lowest elevation of deck or stairs, including
+structural support [/] feet [| meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by law to certify elevation information.
+| certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any false
+statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1007.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Vives LINo [| Check here if attachments.
+
+ 
+
+Certifier's Name License Number
+
+Michael Hoover 5423
+
+Title
+
+Registered Professional Land Surveyor (RPLS)
+
+Company Name Branch Registration Number
+High Tide Land Surveying, LLC 10194364
+
+Address
+
+975 Lazy Lane West
+
+City State ZIP Code
+Crystal Beach TX 77650
+
+Signature Date Telephone Ext.
+Aug 18, 2020 (409) 684-6400
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Comments upeieaing pe of equipment and location, per Cae). eee pes
+
+*FOR THIS AREA: N 29 Datum is vertically equal to NA
+AS: LAT/LONG ESTABLISHED VIA RTK GPS AT SUBJECT TRACT.
+THIS CERTIFICATE IS BASED ON CONSTRUCTION DRAWINGS.
+
+NGVD 29 + 0.00 = NAVD 88)
+
+ 
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions.
+L/L
+
+Feedback
+
+(wyy'sbey
+\MM\//:S}]U)
+
+o
+Cc
+ix
+
+apoodizAgh}I9¢ wy" dnyoo|-apoo-dizjwioo'sdsn‘sjooy/:sdjjy
+
+(apoodiZAqAyI9g WY" dnyoo]-spod-diz/) uleBby youees pue yp
+
+wi2P0D dIZ A04JOUY df 4007
+
+ 
+
+GIOAV OL SAWYN ALIO
+
+XL HOWSd IWLSAYD
+
+wiGO9 dIZ SIHL NI SASSSAYCAV YOS GAZINDOOSY SAWVN ALIO HSAHLO
+
+XL YVAINOd LHOd
+AWVN ALID GAGNAWWOOSY
+
+OS9L2
+
+-Ppo19}]US NOA
+
+" ,8POD dIZ SIU} 10} a|qissod Jenoueym seweu AjI9 pezjubode/ 10 pepuswWODeJ By} Bsn eseeld ‘UaAIJEp pides e10WW 404
+
+wi2P0D dIZ Aq SAID
+
+‘vd BPOD dIZ & dN 4007
+
+ 
+
+(epood|zAqAy94 WyYy"dnyoo|-epod-d)z/) m2P9D dIZ Aq Sol}yI9
+
+(unysbey
+M//:S0}}U)
+
+(e1eIsKyoAqeuAy'dnyoo|-epoo-diz/) a}B¥S pue AYO Aq | @poD dIZ (ssesppekagunyrdnyoo| Booo-<iz/ ssaippy Aq | 8pod dlZ
+
+n
+
+SdSN | dNy4007 wi8P0D dIZ WY 20:8 ‘¥Z/91/8
+70”
+
+FEMA
+
+(/Awww.fema.gov/)
+
+7)
+
+ony
+NA,
+‘3 le
+% oy
+
+‘
+“ann se
+
+a
+
+Navigation
+
+Search
+
+MSC Home (/portal/)
+
+MSC Search by Address
+(/portal/search)
+
+MSC Search All Products
+(/portal/advanceSearch)
+
+v MSC Products and Tools
+(/portal/resources/productsandtools)
+
+Hazus
+(/portal/resources/hazus)
+
+LOMC Batch Files
+(/portal/resources/lomc)
+
+Product Availability
+(/portal/productAvailability)
+
+MSC Frequently Asked Questions
+(FAQs) (/portal/resources/faq)
+
+MSC Email Subscriptions
+(/portal/subscriptionHome)
+
+Contact MSC Help
+(/portal/resources/contact)
+
+FEMA Flood Map Service Center: Search By
+Address
+
+Enter an address, place, or coordinates: ®
+
+| 2320 TRINIDAD DR Port Bolivar, TX, 77650 - 2320 [ search |
+
+Whether you are in a high risk zone or not, you may need flood insurance (https://www.fema.gov/national-flood-
+insurance-program) because most homeowners insurance doesn't cover flood damage. If you live in an area with low
+or moderate flood risk, you are 5 times more likely to experience flood than a fire in your home over the next 30 years.
+For many, a National Flood Insurance Program's flood insurance policy could cost less than $400 per year. Call your
+insurance agent today and protect what you've built.
+
+ 
+
+ 
+
+Learn more about steps you can take (https://www.fema.gov/what-mitigation) to reduce flood risk damage.
+
+ 
+
+Search Results—Products for GALVESTON COUNTY
+
+| Show ALL Products » (https://msc.fema.gov/portal/availabilitySearch?addcommunity=48167C&communityName=GALVESTON
+
+ 
+
+ 
+
+The flood map for the selected area is number 48167C0328G, effective on 8/15/2019
+
+DYNAMIC MAP
+
+Q (https://msc.fema.gov/portal/firmette?latitude=29.459883&longitude=-94.616665)
+PRINT MAP/
+FIRMette
+
+MAP IMAGE
+
+DOWNLOAD
+
+Changes to this FIRM ®
+Revisions (0)
+Amendments (1)
+Revalidations (0)
+
+You can choose a new flood map or move the location pin by selecting a different location on the locator map below or by entering
+a new location in the search field above. It may take a minute or more during peak hours to generate a dynamic FiRMette.
+
+ 
+
+Go To NFHL Viewer » (https://fema.maps.arcgis.com/home/webmap/viewer.html?webmap=cbe088e7c8704464aa0fc34eb9°
+
+ 
+
+Feedback
+
+ 
+Loa
+FARMERS
+
+INSURANCE
+
+PROPERTY ADDRESS #: 2320 TRINIDAD DR, Port Bolivar, TX, 77650
+FLD1660041428
+
+POLICY #:
+
+NFIP POLICY #:
+POLICY TERM:
+POLICY ISSUED BY:
+PAYOR:
+
+1660041428
+
+05-29-2024 (12:01 AM) - 05-29-2025 (12:01 AM)
+
+Texas Farmers Insurance Company
+https://www.farmers.com/
+(888) 391-2810
+
+NAIC# : 21660
+Dwelling Policy
+
+Texas Farmers Insurance Company
+PO Box 2057 Kalispell MT 59903 USA
+
+POLICY FORM:
+POLICY DECLARATIONS TYPE: New Policy Declarations
+
+RATE CATEGORY : RatingEngine
+
+Texas Farmers Insurance Company
+
+JG LOTT LLC
+
+INSURED NAME & MAILING ADDRESS
+
+JG LOTT LLC
+24511 CLIFF LINE,
+San Antonio, TX, 78257
+
+Building
+
+Contents
+
+Coverage limitations may apply. See your Policy Form for details.
+
+AGENT CONTACT INFORMATION
+Jeffrey Burdick
+
+Jeffrey Burdick
+
+PO BOX 1980, Winnie, TX, 77665
+Phone : 4092963330
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+
+$ 250,000 $ 5,000 $ 2 067
+2
+
+$0 $0
+
+Total Annual Payment
+
+Includes Premium, Discounts, Fees, and Surcharges
+
+ 
+
+Property Information
+
+Premium Calculations
+
+COMPONENTS OF THE TOTAL PREMIUM
+Building Premium: $ 1,527
+Primary Residence NO .
+Contents Premium: $0
+Building Occupancy Single Family . .
+Increased Cost of Compliance (ICC) Premium: $29
+Building Description Main House/Building an .
+Mitigation Discounts: $ (56.00)
+First Floor Height (FFH) 16.3 . . .
+Community Rating System Discount: $0
+Method Used to Determine FFH EC
+Full-Risk Premium: $ 1,500
+, Elevated without enclosure on piers, posts & . .
+Property Description . Discounted Premium: $ 1,500
+piles, 2 Floors , Frame
+. Fees and Surcharges:
+Date of Construction 12-31-2023
+. . . Reserve Fund Assessment: $ 270
+Prior NFIP Claims 0 Claim(s)
+. . . HFIAA Surcharge: $ 250
+Your property’s NFIP flood claims history can affect your premium.
+Federal Policy Fee: $47
+Total Premium $ 2,067
+
+ 
+
+ADDITIONAL INTERESTS
+
+Date Mailed: 04-30-2024
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+To learn more about your flood risk, please visit FloodSmart.gov ———“
+C—O
+NATIONAL FLOOD
+
+INSURANCE PROGRAM
+for
+
+ 
+
+ 
+
+STANDARD FLOOD INSURANCE
+
+ 
+
+Texas Farmers Insurance
+
+Company
+
+ 
+
+ 
+
+ 
+
+FARMERS APPLICATION https://www.farmers.com/
+INSURANCE
+PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+
+Date Application Number Effective Date Expiration Date Waiting Period
+04-29-2024 FLD1660041428 05-29-2024 05-29-2025 Standard - 30 Day Wait
+ee ee eee
+JG LOTT LLC Mailing Address & Phone Property Address Agency Name, Address & Phone
+
+24511 CLIFF LINE,San Antonio,TX,78257 2320 TRINIDAD DR, 77650, Port Bolivar, PO BOX 1980,Winnie,TX,77665
+
+,TX
+Home Phone: a .
+Email:jburdick@farmersagent.com
+Work Phone: .
+Property Address Type:Location Phone Number:4092963330
+Cell Phone:(210)213-7953 .
+sy: Agent Name:Jeffrey Burdick
+
+Email:jg11958@aol.com
+Applicant Type:INDIVIDUAL
+Prior Company NAIC: .
+
+. . Other Policy Number:
+
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:485470
+Map Panel:0328
+
+Map Panel Suffix:G
+
+Current Flood Zone:VE
+Current Base Flood Elevation(BFE):19
+FIRM Date:04-09-1971
+Program:FLOODREGULAR
+Program Status:
+
+County:
+
+Current Map Date:04-09-1971
+Rating Map Date:
+
+Potential Duplicate Policy:
+
+ 
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:04-09-1971
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Construction Date
+Date of Original Construction:12-31-2023
+
+Building Substantially Improved:NO
+Post-FIRM Construction:YES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:YES
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+Occupancy Type:Single Family
+Building Description:
+
+Is this the Applicant's Primary
+
+Residence: NO
+
+Is the insured a small business with
+less than 100 employees?: NO
+
+Is the insured a nonprofit entity?:NO
+
+Date:
+
+APC PRV 07 21
+
+ATIO
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+Texas Farmers Insurance
+
+co". STANDARD FLOOD INSURANCE QUOTE Company
+
+FARMERS
+
+ 
+
+ 
+
+ 
+
+https://www.farmers.com/
+
+ 
+
+ 
+
+eas PO Box 2057 Kalispell MT 59903 USA
+(888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+04-29-2024 FLD1660041428 05-29-2025 Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:YES
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:425000
+Replacement Cost Value Returned by FEMA259494
+Total sq. footage of building:1742
+
+Total # of floors in building:2
+
+Total # of units in building:
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Elevated without enclosure on piers, posts & piles
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: YES
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:08-18-2020
+Diagram Number:5
+
+Top of Bottom Floor:24
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):7.7
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+
+Elevation Certificate First Floor Height:16.3
+FEMA First Floor Height:16.3
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 5,000.00
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 1,527.00
+Content Premium: $ 0.00
+Increased Cost of Compliance (ICC) Premium: $ 29.00
+Mitigation Discount: $ (56.00)
+Community Rating System Reduction: $ 0.00
+Full Risk Premium: $ 1,500.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,500.00
+Reserve Fund Assessment: $ 270.00
+HFIAA Surchange: $ 250.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 2,067.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+RX
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD1660041428 / JG LOTT LLC
+
+2320 TRINIDAD DR, Port Bolivar, Galveston County, TX,
+77650 - 2320
+
+24511 CLIFF LINE, San Antonio, Bexar County, TX, 78257
+Renew indicator: BATCH RENEWAL
+05/29/2024
+
+Term Start Date : Term End Date :
+
+Transaction Eff. Dt. :
+Last Updated By :
+
+05/29/2024
+MARCUS DUNCAN
+
+Waiting Period:
+Applicant Date :
+Claims 0 Loss Run
+
+$2,067.00 Bill To :
+$2,067.00
+
+Total Premium Change :
+Total Premium :
+
+Receivable View Invoicing Subledger
+
+Quote Source: AGENT
+
+jgl1958@aol.com
+(210)213-7953
+
+Agent Tasks :
+05/29/2025
+
+Standard - 30 Day Wait
+04/29/2024
+
+Risk Rating
+
+POLHOLDER
+
+[urs
+
+ 
+
+ACCOUNTING DT. TRANS TYPE TRANS REF CHECK NO
+04/29/2024 PAYMENT F2166000025862
+04/30/2024 INVOICE INV00822091
+Log Documents Agent Customer
+Portal Portal
+Term Selection: (1306601)
+05-29-2024/05-29-2025 v
+Transaction Selection: (1770338)
+NEWBUSINESS - ISSUED v
+
+Last transaction
+
+New Business by MARCUS
+
+DUNCAN
+Transaction date: 04-30-2024
+
+ 
+
+CERTIFIED DATE DEBIT
+04/29/2024 $0.00
+$2,067.00
+
+Transaction Type : New Busi
+
+Business
+
+last Updated Date : 04-30-20
+2.0
+
+Serv Rep:
+
+U/writer :
+
+Product Name : Flood Pre
+CREDIT BALANCE sys
+$(2,067.00) $(2,067.00) 04,
+$0.00 $0.00 04,
+Transaction Eff. Dt. 2024-05- (4
+29
+
+Note
+
+(04-30-2024) Aprvd NB
+effective 5/29/24, 30 day wait
+from Premium Submission
+date of 4/29/24...
+
+ 
+
+ 
+
+Agency Info
+
+08811-07492-000 Jeffrey
+Burdick
+Jeffrey Burdick
+
+mA RAL anann
+
+ 
+System Log
+
+Pivot Response Log
+
+ 
+
+ 
+
+Print Log
+Type note here
+0/500
+Make hidden? : O
+C=
+Date Description Inserted By Mark Hidden
+04-30-2024 2:28:24 PM Aprvd NB effective 5/29/24, 30 day wait from Premium MARCUS DUNCAN
+Submission date of 4/29/24. Premium received within 9
+days of Application Submission date of 4/29/24.
+Construction Drawings EC on file used for rating. No
+photos required. Not Primary Residence.
+04-30-2024 2:23:25 PM Property Address Changed to 2320 TRINIDAD DR,Port MARCUS DUNCAN
+4
+
+Beer

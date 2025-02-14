@@ -1,0 +1,1051 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY a ea
+Federal Emergency Management Agency P |
+National Flood insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A — PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+A‘. Building Owner's Name: HTS Job# 24-0360 CD
+
+     
+    
+ 
+   
+
+   
+    
+        
+ 
+          
+       
+ 
+       
+      
+     
+   
+ 
+    
+      
+    
+    
+   
+  
+        
+            
+          
+         
+       
+
+ 
+  
+ 
+ 
+  
+
+Policy Number:
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+
+11 HAWKEYE
+a
+City; HITCHCOCK State: TX ZIP Code: 77563
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+GCAD#: 3827-0002-0023-000 HARBORWALK SEC 6, BLOCK 2, Lot 23,
+pe NIE DLE EY,
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): RESIDENTIAL
+pe i epg oop ns
+AS. Latitude/Longitude: Lat, 29°17'32.2 Long. 94°57'35,3" Horiz. Datum: || NAD 1927 i NAD 1983 >> WGS 84
+
+A6. Attach at least two and when possible four clear color photographs (one for each side) of the building (see Form pages 7 and 8).
+A7. Building Diagram Number: SIX (6)
+
+Company NAIC Number:
+
+ 
+
+  
+
+ 
+
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): 687 sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? “ Yes tl No § N/A
+
+c) Enter number of permanent flood openings in the crawispace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: 2 Engineered flood openings: 0
+
+d) Total net open area of non-engineered flood openings in A8.c: 480 sq. in.
+e) Total rated area of engineered flood Openings in A8.c (attach documentation — see Instructions): 0 sq. ft.
+
+f) Sum of A8.d and A8.e rated area (if applicable ~ see Instructions): 480 sq. ft.
+A9. For a building with an attached garage:
+
+a) Square footage of attached garage: NA sq. ft.
+b) Is there at feast one permanent flood opening on two different sides of the attached garage? | Yes ~ No @ N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+
+Non-engineered flood openings: NA Engineered flood openings: NA
+d) Total net open area of non-engineered flood openings in A9.c: NA sq. in.
+
+€) Total rated area of engineered flood openings in AQ.c (attach documentation — see Instructions): NA sq. ft.
+
+f) Sum of AQ.d and A9.e rated area (if applicable — see Instructions): NA sq. ft.
+
+SECTION B ~ FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+B1.a. NFIP Community Name: HITCHCOCK, CITY OF B1.b. NFIP Community Identification Number: 485479
+
+B2. County Name: GALVESTON B3. State: TX B4. Map/Panel No.: 4816700415 B5. Suffix: G
+B6. FIRM Index Date: AUG 15, 2019 B7. FIRM Panel Effective/Revised Date: AUG 15, 2019
+B8. Flood Zone(s): VE
+
+  
+
+B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): A5'
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+| FIS Mf FIRM | Community Determined ~~ Other:
+See
+
+B11. Indicate elevation datum used for BFE in Item BS: |” NGVD 1929 & NAVD 1988 §  Other/Source:
+
+ 
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? | Yes i No
+Designation Date: [JCBRS []OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? fi Yes
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23)
+
+  
+
+  
+
+' No
+
+Form Page 2 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+FOR INSURANCE COMPANY USE
+
+   
+ 
+
+   
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+11 HAWKEYE
+
+City; HITCHCOCK State: TX ZIP Code: 77563
+
+      
+    
+
+Policy Number:
+
+   
+
+ 
+
+Company NAIC Number: |
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+ 
+ 
+
+C1. Building elevations are based on: i Construction Drawings” | Building Under Construction* {° Finished Construction
+“A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1-A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1~A30, AR/AH, AR/AO,
+AQ9. Complete Items C2.a~—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: HGCSD 62 (AW5708) Vertical Datum: NAVD 1988
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+NGVD 1929 If NAVD 1988 ~~ Other:
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factorused? = Yes jf No
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 6.5 fi feet [] meters
+b) Top of the next higher floor (see Instructions): 21.1 @ feet [_] meters
+¢) Bottom of the lowest horizontal structural member (see Instructions): 19.1 @ feet [] meters
+d) Attached garage (top of slab): NA @ feet [] meters
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area)
+
+21.1 @ feet [] meters
+f) Lowest Adjacent Grade (LAG) next to building: @ Natural {~ Finished 6.3 @ feet [] meters
+
+g) Highest Adjacent Grade (HAG) next to building: i Natural | Finished 6.6 @ feet [] meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: 6.3 @ feet [] meters
+
+SECTION D - SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+
+information. / certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+Were latitude and longitude in Section A provided by a licensed land surveyor? {@ Yes [-] No
+("] Check here if attachments and describe in the Comments area.
+
+Certifier's Name: Stephen C. Blaskey License Number: 5856
+
+Title: Registered Professional Land Surveyor
+Company Name: High Tide Land Surveying, LLC
+Address: 8017 HARBORSIDE DR
+
+City: GALVESTON
+
+ 
+
+State: Texas ZIP Code: 77554
+Telephone: 409-740-1517 Ext.: Email: stephen@hightidesurveying.com
+ae veprenenignugesurveying.com
+
+ 
+  
+ 
+
+Signature:
+
+ 
+ 
+
+ 
+
+Date: 08/08/2024
+
+Copy all pages of this Elevation Certificate and all attact}nents for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+  
+
+   
+
+Comments (including source of conversion factor in G2: type of equipment and location per C2.e; and description :
+: 2; of any a :
+AS: LAT/LONG ESTABLISHED VIA RTK GPS AT SUBJECT TRACT. . SUSE}
+
+THIS CERTIFICATE 1S BASED ON CONSTRUCTION DRAWINGS
+THERE IS A TEMPORARY BENCHMARK BEING A MAG-NAIL WITH
+
+SHINER, 46.9' SOUTHWEST OF THE SOUTHWEST Ni F : E
+THE ROAD, HAVING AN ELEVATION Re cae eee CORNER OF THE SUBJECT TRACT IN THE CENTERLINE OF
+PLEASE CHECK WITH LOCAL OFFICIALS FOR ADDITIONAL REQUIREMENTS.
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 3 of 8
+Texas Farmers Insurance
+
+LOA STANDARD FLOOD INSURANCE Company
+FARMERS APPLICATION https://www.farmers.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INSURANCE
+PO Box 2057, Kalispell, MT, 59903 (888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+10-23-2024 FLD1660094112 11-23-2024 11-23-2025 Standard - 30 Day Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+WATKINS REAL ESTATE DEVELOPMENT P.O. BOX 2328, 18 HAWKEYE, 18333 EGRET BAY BLVD STE 575,
+League City, TX, 77574 Hitchcock, TX, 77563 Houston, TX, 77058
+Home Phone: ae
+Email:tking2@farmersagent.com
+Work Phone: .
+Property Address Type:Location Phone Number:28 13358776
+Cell Phone:(713)202-6148 .
+. . . Agent Name:Troy King
+Email:alan@watkinsprojects.com
+Applicant Type:BUSINESS
+Prior Company NAIC: .
+Other Policy Number:
+
+Prior Policy Number: . . .
+Potential Duplicate Policy:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:485479
+
+Map Panel:0415 Prior Community Information
+Community Number:
+
+Map Panel Suffix:G
+Map Panel:
+
+Current Flood Zone:VE
+Map Panel Suffix:
+
+Current Base Flood Elevation(BFE):15
+FIRM Date:1 1-13-1970
+Program:FLOODREGULAR
+
+Program Status:
+
+County:Galveston County
+
+Current Map Date:08-15-2019
+
+Flood Zone:
+
+FIRM Date:1 1-13-1970
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Rating Map Date:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:YES
+Construction Date Prior Owner Policy Number:
+Date of Original Construction:1 2-31-2023 Prior Owner Company Name: ;
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: YES
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Residence: NO
+
+Ir
+Date: fi 6
+
+ee
+a in,
+APC PRV 0721 ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+va
+FARMERS
+
+INSURANCE
+
+ 
+
+ 
+
+Date
+10-23-2024
+
+Effective Date
+11-23-2024
+
+Application Number
+FLD1660094112
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+Texas Farmers Insurance
+Company
+https://www.farmers.com/
+
+(888) 391-2810
+
+ 
+
+ 
+
+Expiration Date
+11-23-2025
+
+Waiting Period
+Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:YES
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:250000
+Replacement Cost Value Returned by FEMA426684
+Total sq. footage of building:2900
+
+Total # of floors in building:2
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Elevated with enclosure on piers, posts & piles
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: YES
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:08-08-2024
+Diagram Number:6
+
+Top of Bottom Floor:6.5
+
+Top of Next Higher Floor:21.1
+Lowest Adjacent Grade (LAG):6.3
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+
+Elevation Certificate First Floor Height:14.8
+FEMA First Floor Height:14.8
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 250,000.00 5,000.00
+
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 2,260.00
+Content Premium: $ 0.00
+Increased Cost of Compliance (ICC) Premium: $ 43.00
+Mitigation Discount: $ (78.00)
+Community Rating System Reduction: $ (203.00)
+Full Risk Premium: $ 2,022.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 2,022.00
+Reserve Fund Assessment: $ 364.00
+HFIAA Surcharge: $ 250.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 2,683.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+AIATINAIAL CIAAN
+Report Date 9/19/2024
+
+G,
+x a C U S LB Report Number = 13767834
+as Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 18 HAWKEYE, HITCHCOCK, TX 77563
+Standardized Location 18 HAWKEYE, HITCHCOCK, TX 77563-2596
+
+Latitude, Longitude 29.291724, -94.960459 Parcel ID 4897
+FIPS / MSA/ Tract 48167 / 26420 / 7236 Community No. 485479
+Community Name HITCHCOCK, CITY OF
+
+County Name GALVESTON
+
+Zone AE ’ a _ aa
+hh) oT | ATONE aS
+: | Ww (el/16 ft)
+
+Zone AE ry
+
+ 
+
+CV y)/ cst | 5
+Dekh Y, ey) | e | PATI ‘7s va ad oe 4
+: . [ bh es) PAT) 3S br {es Hidde Leaflet | © Mapbox © OpenStreetMap>
+Flood Zone Zone VE Next Nearest Zone (Dist.) X500 (3218 ft)
+BFE 15 Feet NAVD88 (14.99 ft NGVD29) USGS Ground Elev 0 ft NAVD88
+FEMA Map 48167C0415G, 08/15/2019 Previous Map 4854700240C, 05/02/1983, Zone V21
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 11/17/1970
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $39,898,644 / 1511 NFIP PIF* 1148 NFIP Discount N/A
+Flood Source NOT AVAILABLE Salt Water 24 ft Fresh Water 674 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+peor FJ odin ©
+
+aduanyuo> '
+
+Burpying
+aAoyMeH LL
+
+ 
+
+quapul B  ~“ojysaoueunsuy poojyy @ “sOo" GMIAVM SIN @ 0 Leonie squesneysay pd
+
++
+
+162°67O/€9S//+K1 + W2OIUTIH + ‘eAS4MEH +1 1 /aoe|d/sdew/wore|Ho00b es
+
+x
+
+ 
+
+   
+
+UDe >
+
+sdeyy ajG009 - ahaymey . 1. & a
+
+ 
+
+ 
+
+— oud ° anuanyuoy
+
+ 
+
+aueus
+
+( > )
+
+wapul |
+
+akayMeH BL UO ipa ue jsabins
+
+¢
+
+SEX] "YOOOYSHH HINFDUZL =o * =
+
+S9G// XL YoooyouH ‘ehaymeH SL =)
+
+3uoud
+
+ol puss Aquean
+
+Fa pera
+/ fea
+
+“any
+\ fé ) \ io) }
+
+Sai re
+“O]4 e2UEINSU| Pool; e@
+
+L67°67O/E9S//+K1L + YOODUdH + eASyMeH+91/s0e/d/sdew/wosa|booh os
+
+suogsag
+
+vu
+) oy
+_/@
+
+FE
+
+ahad4MeH BL
+
+akaymMeH gL
+
+"40d GM IAVM SIN @
+
+UD €¢ >
+
+ 
+
+——
+FARMERS
+
+INSURANCE
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP240919046041
+
+Policy Number: FLD1660094112
+
+Insured Name: WATKINS REAL ESTATE DEVELOPMENT
+Property Address: 18 HAWKEYE, Hitchcock, TX, 77563
+Transaction Date: 10/23/2024
+
+Remittance ID: 27IMJPHA
+
+Premium Paid: $2683
+CES
+
+FEM A (ww fema.gow/)
+
+« )
+a
+
+ONS
+
+Navigation
+
+Search
+
+MSC Home (/portal/)
+
+MSC Search by Address
+(/portal/search)
+
+MSC Search All Products
+(/portal/advanceSearch)
+
+~ MSC Products and Tools
+(/portal/resources/productsandtools)
+
+Hazus (/portal/resources/hazus)
+
+LOMC Batch Files
+(/portal/resources/lomc)
+
+Product Availability
+(/portal/productAvailability)
+
+MSC Frequently Asked Questions
+(FAQs) (/portal/resources/faq)
+
+MSC Email Subscriptions
+(/portal/subscriptionHome)
+
+Contact MSC Help
+(/portal/resources/contact)
+
+FEMA Flood Map Service Center: Search By Address
+
+Enter an address, place, or coordinates: @
+
+212 N 34TH ST, Nederland, TX, 77627
+
+Whether you are in a high risk zone or not, you may need flood insurance (https://www.fema.gov/national-flood-insurance-program)
+because most homeowners insurance doesn't cover flood damage. If you live in an area with low or moderate flood risk, you are 5 times
+more likely to experience flood than a fire in your home over the next 30 years. For many, a National Flood Insurance Program's flood
+insurance policy could cost less than $400 per year. Call your insurance agent today and protect what you've built.
+
+Learn more about steps you can take (https://www.fema.gov/what-mitigation) to reduce flood risk damage.
+
+Search Results—Products for NEDERLAND,CITY OF
+
+Show ALL Products » (https://msc.fema.gov/portal/availabilitySearch?addcommunity=485492&communityName=NEDERLAND,CITY OF#searchr
+
+The flood map for the selected area is number 4854920005D, effective on 6/3/1991
+
+MAP IMAGE
+
+(https://msc.fema.gov/portal/viewProduct?productiID=4854920005D)
+
+VIEW/PRINT DOWNLOAD
+FIRM
+
+FIRM PANEL
+(httos://msc.fema.gov/portal/downloadProduct?
+productTypelD=FINAL PRODUCT&productSubTypelD=FIRM_ PANEL&productID=4854920005D)
+Changes to this FIRM @
+Revisions (0)
+Amendments (0)
+Revalidations (0)
+
+You can choose a new flood map or move the location pin by selecting a different location on the locator map below or by entering a new location in
+the search field above. It may take a minute or more during peak hours to generate a dynamic FIRMette.
+
+   
+
+Base Flood Elevation (BFE)
+
+ 
+
+Approximate location based on user input | Mites Sees 2©2 Cross Sections with 1% Annual Chance
+‘and does not represent an authontative ‘SPECIAL FLOOD __ With BFE or Depth Water Surface Elevation
+property location
+
+PIN HAZARD AREAS| =——Reulatory Floodway zone A&. A0, aH, ve, AR }@- — — Coastal Tra
+
+insect
+1 Base Flood Elevation Line (BFE)
+(0.2% Annual Chance Flood Hazard, Areas
+
+ 
+
+i
+i
+Feedback
+
+  
+
+ 
+
+ 
+
+ 
+
+_| =
+
+depth less than one foot or with drainage -— — Coastal Transect Baseline
+areas of less than one square mile Zooo x OTHER | —— profile Baseline
+Ce a Future Conditions 1% Annual FEATURES | _ydrographic Feature
+‘Chance Flood Hazard Zone x
+geygg Nea witn Reduced Flood Risk due to GENERAL |-—=~ Channel, Culvert, or Storm Sewer
+OTHER AREAS OF | - Levee. See Notes, Zone x STRUCTURES [1111118 Levee, Dike, or Floodwall
+
+ 
+
+"GP @ Area with Flood Risk due to Levee zone 0
+
+ 
+
+Otherwise Protected area
+OTHER AREAS [DSSS Coastal Sarvier Resource System Area
+
+v@ Share This Page.
+
+Home (//www.fema.gov/) Download Plug-ins (//www.fema.gov/download-plug-ins) About Us (//www.fema.gov/about-
+agency) Privacy Policy (//www.fema.gov/privacy-policy) FOIA (//www.fema.gov/foia) Office of the Inspector General
+(//www.oig.dhs.gov/) Strategic Plan (//www.fema.govw/fema-strategic-plan) Whitehouse.gov (//www.whitehouse.gov)
+DHS. gov (//www.dhs.gov) Ready.gov (//www.ready.gov) USA. gov (//www.usa.gov) DisasterAssistance.gov
+(//www.disasterassistance.gov/)
+
+Cra eat
+
+aa ry Senda he mme (Mttps://www.oig.dhs.gov/hotline)
+ee ee
+
+ 
+
+== Official website of the Department of Homeland Security
+
+Feedback
+Seek,
+
+W FEMA
+
+S
+S
+<anp seo
+
+oh _Up
+
+és
+
+(/www.fema.gov/)
+
+Navigation
+
+Search
+
+MSC Home (/portal/)
+
+MSC Search by Address
+(/portal/search)
+
+MSC Search All Products
+(/portal/advanceSearch)
+
+» MSC Products and Tools
+(/portal/resources/productsandtools)
+
+Hazus
+(/portal/resources/hazus)
+
+LOMC Batch Files
+(/portal/resources/lomc)
+
+Product Availability
+(/portal/productAvailability)
+
+MSC Frequently Asked Questions
+(FAQs) (/portal/resources/faq)
+
+MSC Email Subscriptions
+(/portal/subscriptionHome)
+
+Contact MSC Help
+(/portal/resources/contact)
+
+FEMA Flood Map Service Center: Search By Address
+
+Enter an address, place, or coordinates: @
+
+11 Hawkeye, Hitchcock, TX 77563
+
+Whether you are in a high risk zone or not, you may need flood insurance (https://www.fema.gov/national-flood-insurance-
+program) because most homeowners insurance doesn't cover flood damage. If you live in an area with low or moderate flood
+risk, you are 5 times more likely to experience flood than a fire in your home over the next 30 years. For many, a National
+Flood Insurance Program's flood insurance policy could cost less than $400 per year. Call your insurance agent today and
+
+protect what you've built.
+
+Learn more about steps you can take (https://www.fema.gov/what-mitigation) to reduce flood risk damage.
+
+Search Results—Products for HITCHCOCK, CITY OF
+
+Show ALL Products » (https://msc.fema.gov/portal/availabilitySearch?addcommunity=485479&communityName=HITCHCOCK, CITY
+
+The flood map for the selected area is number 48167C0415G, effective on 8/15/2019
+
+DYNAMIC MAP
+
+Q (https://msc.fema.gov/portal/firmette?|atitude=29.292248&longitude=-94.959851)
+
+PRINT MAP/
+FIRMette
+
+MAP IMAGE
+
+(https://msc.fema.gov/portal/downloadProduct?
+DOWNLOAD
+FIRM PANEL
+productTypelD=FINAL PRODUCT&productSubTypelD=FIRM PANEL&productID=48167C0415G)
+Changes to this FIRM @
+Revisions (0)
+Amendments (0)
+Revalidations (0)
+
+You can choose a new flood map or move the location pin by selecting a different location on the locator map below or by entering a
+new location in the search field above. It may take a minute or more during peak hours to generate a dynamic FiRMette.
+
+Go To NFHL Viewer » (https://hazards-fema.maps.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b55
+
+ 
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Approximate location based on user input Without Base Flood Elevation (BFE) Cross Sections with 1% Annual Chance
+and does not represent an authoritative With BFE or Depth 475 Water Surface Elevation
+PIN % HAZARD AREAS | Regulatory Floodway Zone AE, A0, aH, ¥E, AR }@- - — Coastal Transect
+<a; Base Flood Elevation Line (BFE)
+Selected Flooditap Boundary <= Limit of Stugy
+Oo - 0.2% Annual Chance Flood Hazard, Areas of
+[| Digital Data available ‘of 1% annual chance flood with average === Jurisdiction Boundary
+: depth less than one foot or with drainage — — Coastal Transect Baseline
+‘No Digital Data avaable areas of less than one square mile Zoe x OTHER |. —— profile Baseline
+MAP PANELS| |<) unmapped Future Conditions 1% Annual FEATURES Hydrographic Feature
+* Chance Flood Hazard Zooe x
+EE SEREEN) Area of Minimal Flood Hazard Zone x eeu Kren with Reduced Flood Risk due to GENERAL |-——~ Channel, Culvert, or Storm Sewer
+Effective LOMRS OTHER AREAS OF | ~~ Levee. See Notes. Zone x STRUCTURES | 1111111 Levee, Dike, or Floodwall
+area of ined Fk one D FLOOD HAZARD |") Area with Flood Risk due to Levee zone 0
+[SS STSSJ otherwise Protected area
+
+OTHER AREAS [DSSSSN Coastal Barrier Resource System Area
+
+wv Share This Page.
+
+Home (//www.fema.gov/) Download Plug-ins (https://www.fema.gov/about/website-information/plug-ins)
+About Us (https://www.fema.gov/about) Privacy Policy (https://www.fema.gov/about/website-
+information/privacy-policy) FOIA (https://www.fema.gov/foia) Office of the Inspector General
+(httos://www.oig.dhs.gov/) Strategic Plan (https://www.fema.gov/about/strategic-plan) Whitehouse.gov
+(httos://www.whitehouse.gov) DHS.gov (https://www.dhs.gov) Ready.gov (https://www.ready.gov) USA.gov
+(https://www.usa.gov) DisasterAssistance.gov (https://www.disasterassistance.gov/)
+
+M49 oic HoTLNE
+
+aig io eeudar hem (ttos://www.oig.dhs.gov/hotline)
+ee
+
+‘i
+
+ 
+
+& Official website of the Department of Homeland Security
+Texas Farmers Insurance Company
+
+fo" ‘ Texas Farmers Insurance Company https://www.farmers.com/
+FARMERS .
+ee waee PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 11 HAWKEYE, Hitchcock, TX, 77563 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660094112 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660094112
+POLICY TERM: 11-23-2024 (12:01 AM) - 11-23-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: WATKINS REAL ESTATE DEVELOPMENT
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+WATKINS REAL ESTATE DEVELOPMENT .
+Troy King
+P.O. BOX 2328,
+
+: 18333 EGRET BAY BLVD STE 575, Houston, TX, 77058
+League City, TX, 77574
+
+Phone : 2813358776
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 5,000 $ 2 6 8 5
+9
+Contents $0 $0 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Building Premium: $ 2,262
+Primary Residence NO .
+Contents Premium: $0
+Building Occupancy Single Family . .
+Increased Cost of Compliance (ICC) Premium: $ 43
+Building Description Main House/Building coo, .
+Mitigation Discounts: $ (78.00)
+First Floor Height (FFH) 14.8 . . .
+Community Rating System Discount: $ (203.00)
+Method Used to Determine FFH EC
+Full-Risk Premium: $ 2,024
+, Elevated with enclosure on piers, posts & piles, _. .
+Property Description Discounted Premium: $ 2,024
+2 Floors , Frame
+. Fees and Surcharges:
+Date of Construction 12-31-2023
+. . . Reserve Fund Assessment: $ 364
+Prior NFIP Claims 0 Claim(s)
+. . : HFIAA Surcharge: $ 250
+Your property’s NFIP flood claims history can affect your premium.
+Federal Policy Fee: $47
+Total Premium $ 2,685
+
+ADDITIONAL INTERESTS
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+iled: 11-05- . we ee
+Date Mailed: 11-05-2024 To learn more about your flood risk, please visit FloodSmart.gov ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM

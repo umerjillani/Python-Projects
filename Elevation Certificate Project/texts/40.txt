@@ -1,0 +1,1165 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0008
+Federal Emergency Management Agency Expiration Date: 08/30/2028
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+vation Certificate and all attachments for {1) community official, (2) i i ce agent/company, and (3) building owner.
+
+SECTION.A = PROPERTY INFORMATI FOR INSURANCE COMPANY USE _
+At. Building Owner's Name: CLAUDETTE HENDERSON
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O, Route and Box No.:
+1113 RL HENDERSON DR
+
+A eg RR RE TE
+
+City; PRICHARD State: AL ZIP Code; 36610 _
+
+   
+
+    
+
+    
+  
+  
+   
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+    
+  
+ 
+ 
+   
+
+  
+
+A3, Property Description (e.g., Lot and Block Numbers or Legal! Description) and/or Tax Parcel Number:
+LOTS 1 & 2, WASHINGTON TERRACE E (PARCEL. ID: 2208440014100)
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.}: RESIDENTIAL . _
+Ad, Latitude/Longitude: Lat. 30° 44° 43.94"N Long, 88° 04' 29.03" W Horizontal Datum: [] NAD 1927 [NAD 1983 [[] wes 64
+Aé. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+A7. Building Diagram Number: 5
+A8, For a building with a crawlspace or enclosure(s):
+
+a} Square footage of crawlspace or enclosure(s): N/A ___ 8q, ft.
+
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [[] Yes ([] No [my] N/A
+
+c) Enter number of permanent flood openings In the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Englneered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in A8.c: NA sq. in,
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): N/A sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable -- see Instructions: NWA sq. ft.
+AQ. For a building with an attached garage:
+a} Square footage of attached garage: N/A sq. ft.
+b) Is there at least one permanent fiood opening on two different sides of the attached garage? []Yes [[]No [i WA
+
+c) Enter number of permanent flood apenings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in A9.c: N/A sq. in.
+8) Total rated area of engineered flood openings in A9.c (attach documentation ~ see Instructions): N/A sq, ft.
+
+f) Sum of A9.d and AQ.e rated area (if applicable — see instructions): N/A sq. fi.
+
+ALOOE
+
+iv yi ru te Hi
+
+   
+
+itil Mil MLSE
+
+B1.a. NFIP Community Name: CITY OF PRICHARD B1.b, NFIP Community Identification Number: 010170 _
+B2. County Name: MOBILE _ «BB, State: AL B4, Map/Panel No.: 01097C 0552 _ Bd. Suffix: Lo
+B6. FIRM Index Date: 96/05/2020 B7, FIRM Panel Effective/Revised Date: 06/05/2020
+
+B8, Flood Zone{s): AE BY, Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 25.0 FEET
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item Ba:
+[C] Fis J) FIRM [] Community Determined [] Other:
+
+B11. Indicate elevation datum Used for BFE In Item B9: [_] NGVD 1929 [ii] NAVD 1988 [[] Other/Source:
+
+B12, |s the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [[] Yes [i] No
+Designation Date: [L]CBRS [OPA
+
+B13. Is the building iocated seaward of the Limit of Moderate Wave Action (LIMWA)?_[] Yes [li] No
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 2 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+1113 RL HENDERSON DR
+
+City, PRICHARD State: AL ZIP Code: 36610
+
+Policy Number:
+
+Company NAIC Number:
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: [[] Construction Drawings* [[] Building Under Construction* [fi] Finished Construction
+“A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1—V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: TOPNET LIVE - RTK+ SOUTHEAST Vertical Datum: NAVD 1988 W/2001 ADJ
+
+Indicate elevation datum used for the elevations in items a) through h) below,
+[-] NGVD 1929 [i] NAVD 1988 [[] Other:
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? [] Yes [i] No
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 30.45 feet [_] meters
+b) Top of the next higher floor (see Instructions): N/A feet [_] meters
+c) Bottom of the lowest horizontal structural member (see Instructions): N/A feet [_] meters
+d) Attached garage (top of slab): N/A feet [_] meters
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area): 30.42 feet meters
+
+f) Lowest Adjacent Grade (LAG) next to building: [_] Natural [lll] Finished 25.3 feet meters
+g) Highest Adjacent Grade (HAG) next to building: [[] Natural [lll] Finished 26.3 feet meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: 25:3 feet meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. | certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? [_] Yes [i] No
+
+[_] Check here if attachments and describe in the Comments area.
+
+Certifier's Name; CURTIS C HAMPTON License Number; 91648
+
+tile CIVLENGINEER ——
+
+Company Name: COBALT ENGINEERING & INSPECTIONS
+
+Address: 1ZOOSDELANY ROAD eee
+ciy; LAMARQUE————___ State; TX ZIP Code: 77568
+
+‘
+No. 51648 i,
+PROFESSIONAL
+
+fz
+— pone
+Signature: 7 - Date: 10/16/2024 1p HANS
+
+Telephone: (409) 354-5925 Ext.: Email: PROJECTS@COBALT-ENGINEERING.COM Place Seal Here
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+
+1. TBM EL = 26.76 FEET; SET PK NAIL INCENTER OF RL HENDERSON DR IN FRONT OF PROPERTY
+2. CENTERLINE STREET EL = 26.76 FEET (RL HENDERSON DR)
+3. SECTION C2a & C2e ARE BASED ON 3 FEET ABOVE LAG; SECTION C2e IS USED FOR THE A/C PAD
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 3 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+   
+  
+
+Bultding Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+1113 RL HENDERSON DR
+
+City: PRICHARD State: AL ZIP Code: 36610
+
+For Zones AO, AR/AO, and A (without BFE), ¢ complete items E1-E5, For items E1i- 4, use natural grade, if available. If the Certificate is
+intended to support a Letter of Map Change request, complete Sections A, B, and C. Check the measurement used. In Puerto Rico only,
+enter meters.
+
+Building measurements are based on: [_] Construction Drawings* [7] Building Under Construction* [7] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+E1, Provide measurements (C.2.a In applicable Building Diagram) for the fotlowing and check the appropriate boxes to show whether the
+measurement is above or below the natural HAG and the LAG.
+
+a) Top of bottom floor {including basement,
+crawlspace, or enclosure) is: () feet [] meters [] aboveor ["} below the HAG.
+
+b} Top of bottom floor {including basement,
+crawlspace, or enclosure) is: [] feet [] meters [] aboveor [7] below the LAG.
+
+E2. For Building Diagrams 6-9 with permanent flood apenings provided in Section A Items 8 and/or 9 (see pages 1—2 of instructions), the
+next higher fioor {C2.b in applicable
+Building Diagram) of the bullding is: [-] feet [] meters [] aboveor [_] below the HAG.
+
+£3. Attached garage (top of slab) is: L] feet [] meters [] aboveor [7] below the HAG.
+
+E4. Top of platform of machinery and/or equipment
+servicing the bullding is: L] feet [[] meters [(] aboveor [_] below the HAG.
+
+ES. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodpiain management ordinance? [J] Yes [-] No [] Unknown The local official must certify this information in Section G.
+
+ 
+
+The property owner or owner's authorized representative who completes Sections A B, and E for Zone A (without BFE) or Zone AO must
+sign here. The statements in Sections A, B, and E are correct fo the best of my knowledge
+
+[_] Check here if attachments and describe in the Comments area,
+
+Property Owner or Owner's Authorized Representative Name:
+
+Address: __. _ ee —
+City, Stats AIP Code _
+Signature: Date:
+
+Telephone: Ext.: Email: __
+Comments: —
+
+nee
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33} (10/22) Page 4 of 19
+
+ 
+
+ 
+
+ 
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O, Route and BoxNo,; | FOR INSURANCE COMPANY USE |
+4113 RL HENDERSON DR _ :. ee ee :
+City: PRICHARD State: AL ZIP Code: 36610
+
+ 
+ 
+  
+
+   
+
+ 
+ 
+ 
+
+   
+  
+
+Toe
+Ce
+
+  
+
+SONeLET
+
+Uli ON (R janet rsh canta !
+Li CN i el
+
+GOMMEN
+
+Heat
+
+   
+
+The local oficlal who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+Section A, B, ©, E, G, or H of this Elevation Certificate. Complete the applicable item(s) and sign below when:
+
+G1. [[] The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+engineer, or architect who is authorized by state law to certify elevation information. (Indicate the source and date of the
+elevation data in the Comments area below.)
+
+G2.a. [-] A local official completed Section E for a building located in Zone A (without a BFE), Zone AO, or Zone AR/AO, or when item
+E65 is completed for a building located in Zone AO.
+
+G2.b. [-] A local official completed Section H for Insurance purposes.
+G3. [] In the Comments area of Section G, the local official describes specific corrections to the information in Sections A, B, E and H.
+G4. [] The following information (Items G5-G11) is provided for community floodplain management purposes.
+
+GS. PermitNumber: G6. Date Permit Issued:
+
+G7. Date Certificate of Compliance/Occupancy Issued:
+
+ 
+
+G8. This permit has been issued for: [] New Construction [_] Substantial Improvement
+
+GS.a. Elevation of as-built lowest floor {including basement) of the
+
+ 
+
+building: Lifeet []meters Datum: _.
+G9.b. Elevation of bottom of as-built lowest horizontal structural
+member: _. _. L] feet [J meters Datum:
+G10.a. BFE (or depth in Zone AQ) of flooding at the building site: [_]feet [] meters Datum:
+
+G10.6. Community's minimum elevation (or depth in Zone AQ)
+requirement for the iowest floor or lowest horizontal structural
+member: [] feet [] meters Datum:
+
+G11. Varlance issued? [[] Yes [-]No_ Ifyes, attach documentation and describe in the Comments area,
+
+The local official who provides information in Section G must sign here. / have completed the information in Section G and certify that it is
+correct to the best of my knowledge. if applicable, { have also provided specific corrections in the Comments area of this section,
+
+Local Official's Name: Title:
+
+NFIP Community Name:
+
+Telephone: Ext: Email:
+Address: a,
+City: State: ZIP Code:
+
+Signature: Date:
+
+Comments (including type of equipment and location, per C2.e; deseription of any attachments; and corrections to specific information in
+Sections A, B, D, E, or H):
+
+ 
+
+ee
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 5 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+   
+  
+
+ 
+
+Building Street Address {including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: » FOR INSURANCE COMPANY USE.
+1113 RL HENDERSON DR = 7 -
+
+city, PRICHARD State; AL ZIP Code: 36610
+
+The property owner, owner's authorized representative, or local floodplain rnanagement official may complete Section H for all flood zones
+to determine the building's first floor height for insurance purpases. Sections A, B, and i must also be completed. Enter heights to the
+nearest tenth of a foot (nearest tenth of a meter in Puerto Rico). Reference the Foundation Type Diagrams (ai the end of Section H
+instructions) and the appropriate Building Diagrams (at the end of Section | instructions} to complete this section.
+
+Hi. Provide the height of the top of the floor (as indicated In Foundation Type Diagrams) above the Lowest Adjacent Grade (LAG);
+
+a) For Building Diagrams 1A, 1B, 3, and 5-9. Top of bottom LC] feet {{] meters [7] above the LAG
+floot (Include above-grade floors only for buildings with
+subgrade crawlspaces or enclosure floors) is:
+
+b) For Building Diagrams 2A, 2B, 4, and 6-9. Top of next Clfeet [] meters [_] above the LAG
+higher floor {i.e., the floor above basement, crawlspace, or
+enclosure floor) is:
+
+H2. Is all Machinery and Equipment servicing the building (as listed in ttem H2 instructions) elevated to or above the floor indicated by the
+H2 arrow (shown in the Foundation Type Diagrams at and of Section H instructions) for the appropriate Building Diagram?
+
+C] Yes oH No
+
+  
+
+eS TMs
+3 Bi esi Bi is i ih R inl ie iS CATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and H must sign here, The statements in Sections
+A, B, and H are correct to the best of my knowledge. Note: If the local floodplain management official completed Section H, they should
+indicate in item G2,b and sign Section G.
+
+  
+
+[] Check here if attachments are provided (including required photos) and describe each attachment in the Comments area.
+Property Owner or Owner's Authorized Representative Name:
+
+Address: es
+City, —iiisis—sCSS ttt: = IP Code:
+
+ 
+
+Signature: Date:
+
+Telephone: Ext.: Email:
+
+Comments:
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 6 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+1113 RL HENDERSON DR
+
+city, PRICHARD State; AL ZIP Code; 36610
+
+Policy Number:
+
+Company NAIC Number:
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View,” or “Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+Clear Photo One
+
+Photo Two
+Photo Two Caption: RIGHT (1 0/1 6/2024) Clear Photo Two |
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 7 of 19
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+BUILDING PHOTOGRAPHS
+
+Continuation Page
+FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+1113 RL HENDERSON DR
+
+City; PRICHARD State: AL ZIP Code; 36610
+
+Policy Number:
+
+Company NAIC Number:
+
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View," "Rear View," "Right Side
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or
+vents, as indicated in Sections A8 and AQ.
+
+Photo Three
+
+Photo Three Caption: REAR (1 0/1 6/2024)
+
+Photo Four
+Photo Four Caption: LEFT (10/16/2024)
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 8 of 19
+
+ 
+   
+
+ 
+
+ 
+
+M DO; Z e
+YP PUNY ns day 99
+
+‘aunjeuBis jueaiddy-oD
+
+ech UDOVA_) Hii DDH ecus
+x ) x Gp) H
+“sjemul Aw Aq payeoipur se ajAjs esnoy ayy pue ued
+400} 84} jog paydaoze eney pue yeas UOHSeI9S (dWHYH) wWesbolg ewegely
+Asanoday SWOH 3uj pamelnal aney | Jeu) aGpaymouyoe | WO) siu) Gurubis Ag
+
+saunjeubis
+
+ 
+
+            
+
+“*papiaoid
+9g [1M saul se6 oN “aoueldde Opy 10373 WWe Suipinoid
+
+8q ILM (dH) weiGolg ewegely fuancd8y awoY
+
+a
+
+odes [|
+
+euedoig [J
+
+somag tug J |
+
+Ja1eM Aud |
+
+seg remen snid upg [|
+
+omeaziv [|
+
+{Ajuo JOBUUODSIP JO}) :yjIM paddinbe awoy au) s}
+
+ 
+
+   
+
+seninn
+
+O/99S 7 PIG Ad
+HIT (4A ‘Zp issouppy
+
+OWEN jUeDIddy-o7D
+
+CPO AT offal Wl] D8 queayddy
+BLO IT e e
+
+e}eQ sAReNsIUIWpY
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+ 
+
+ajAjg JOUE}xXy AS 887'| ‘wooiujeg Z ‘Woolpag ¢ ‘(paonpay) ndsbuo7 ‘uejdiooj4
+}@8uUS UONDIEI8S (dWYH) Weiboig ewege|y Alenooay awoHY
+
+    
+
+ 
+Report Date 10/29/2024
+
+Xa C C U S RK — ——
+Standard X
+
+FloodRisk Standard
+
+ 
+
+Provided Location 1113 TAFT AVE, MOBILE, AL 36610
+
+Standardized Location 1113 RL HENDERSON DR MAIN HOUSE, MOBILE, AL 36610-1810
+
+Latitude, Longitude 30.745569, -88.074705 Parcel ID 2208440014100.000
+FIPS / MSA/ Tract 01097 / 33660 / 76 Community No. 010170
+Community Name PRICHARD, CITY OF
+
+County Name MOBILE COUNTY
+
+#
+
+,
+
+‘ ya
+ae * t lo
+Pe sa c
+Zone 2.5) et
+
+Ibert;Reese Drive =
+ee
+
+Zone)X500
+sy, Bf
+
+By as ‘
+cs \ ;
+iz} of
+o
+
+rat
+
+ 
+
+= ae | es i ie r _ . oer Leaflet © Mapbox © OpenStreetMap
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (1 ft)
+BFE 25 FEET NAVD88 (24.98 ft NGVD29) USGS Ground Elev 26 ft NAVD88
+FEMA Map 01097C0552L, 06/05/2020 Previous Map 01097C0552K, 03/17/2010, Zone X
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 02/04/1981
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $900,935 / 167 NFIP PIF* 44 NFIP Discount N/A
+Flood Source 101 ft Salt Water 23303 ft Fresh Water 116 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+BALDWIN MUTUAL
+
+BALDWIN STANDARD FLOOD INSURANCE INSURANCE COMPANY
+MUTUAL INSURANCE APPLICATION https://www.baldwinmutual.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PO Box 2057, Kalispell, MT, 59903 (800) 610-1521
+Date Application Number Effective Date Expiration Date Waiting Period
+10-29-2024 FLD1186000253 11-28-2024 11-28-2025 Standard - 30 Day Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+CLAUDETTE HENDERSON 1113 RL HENDERSON, 1113 RL HENDERSON, PO BOX 610,
+Prichard, AL, 36610 Prichard, AL, 36610 Foley, AL, 36536
+Home Phone: Email: lauriegilbert@baldwinmutual.com
+Work Phone: . Phone Number:2519438526
+Property Address Type:Location
+Cell Phone: Agent Name:
+Email:richard.byrd@brizoconstruction.co, BALDWIN MUTUAL INSURANCE COMPANY
+Applicant Type:INDIVIDUAL
+Prior Company NAIC: :
+Other Policy Number:
+
+Prior Policy Number: . . .
+Potential Duplicate Policy:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:010170
+
+Map Panel:0552 Prior Community Information
+Community Number:
+
+Map Panel Suffix:L
+Map Panel:
+
+Current Flood Zone:AE
+
+. Map Panel Suffix:
+
+Current Base Flood Elevation(BFE):25.0
+
+Flood Zone:
+
+FIRM Date:06-05-2020
+Program:FLOODREGULAR
+Program Status:
+
+FIRM Date:06-05-2020
+Has This Property Been Remapped?:
+
+. Map Revision Date:
+County:Mobile County
+
+Current Map Date:06-05-2020
+Rating Map Date:
+
+ 
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:NO
+
+Construction Date Prior Owner Policy Number:
+
+Date of Original Construction:08-27-2024 Prior Owner Company Name:
+
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Residence: YES
+
+Ir
+ms ede
+
+ee
+a in,
+APC PRV 0721 ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+BALDWIN
+
+MUTUAL INSURANCE
+
+ 
+
+ 
+
+Date
+10-29-2024
+
+Effective Date
+11-28-2024
+
+Application Number
+FLD1186000253
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+BALDWIN MUTUAL
+INSURANCE COMPANY
+
+https://www.baldwinmutual.com/
+
+(800) 610-1521
+
+ 
+
+ 
+
+Expiration Date
+11-28-2025
+
+Waiting Period
+Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:‘NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:250000
+Replacement Cost Value Returned by FEMA205938
+Total sq. footage of building:1288
+
+Total # of floors in building:1
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Elevated without enclosure on piers, posts & piles
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: YES
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:10-16-2024
+Diagram Number:5
+
+Top of Bottom Floor:30.4
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):25.3
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height:5.1
+FEMA First Floor Height:5.1
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 250,000.00 1,250.00
+
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 794.00
+Content Premium: $ 0.00
+Increased Cost of Compliance (ICC) Premium: $ 15.00
+Mitigation Discount: $ (31.00)
+Community Rating System Reduction: $ 0.00
+Full Risk Premium: $ 778.00
+Annual Increase Cap Discount: $ 0.00
+Newly Mapped Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 778.00
+Reserve Fund Assessment: $ 140.00
+HFIAA Surcharge: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 990.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+A
+
+AOA
+
+AIATINAIAL CIAAN
+BALDWIN
+
+MUTUAL INSURANCE
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP241029862585
+
+Policy Number: FLD1186000253
+
+Insured Name: CLAUDETTE HENDERSON
+
+Property Address: 1113 RLHENDERSON, Prichard, AL, 36610
+Transaction Date: 10/29/2024
+
+Remittance ID: 27IRHI24
+
+Premium Paid: $990
+COVERAGE ADJUSTMENT NOTICE BALDWIN MUTUAL
+INSURANCE COMPANY
+B A L D W | N https://www.baldwinmutual.com/
+
+MUTUAL INSURANCE (800) 610-1521
+BALDWIN MUTUAL INSURANCE COMPANY
+NAIC# : 31186
+
+PO Box 2057 Kalispell MT 59903 USA
+
+PROPERTY ADDRESS : 1113 R L HENDERSON DR, Prichard, AL, 36610
+POLICY # :FLD1186000253
+
+NFIP POLICY # :FLD1186000253
+
+POLICY ISSUED BY :BALDWIN MUTUAL INSURANCE COMPANY
+POLICY TERM : 11-28-2024 (12:01 AM) - 11-28-2025 (12:01 AM)
+
+PAYOR : CLAUDETTE HENDERSON
+
+INSURED NAME & MAILING ADDRESS PAYOR CONTACT INFORMATION
+CLAUDETTE HENDERSON CLAUDETTE HENDERSON
+1113 RL HENDERSON DR,
+
+1113 RL HENDERSON DR, Prichard, AL, 36610 .
+Prichard, AL, 36610
+
+DEAR CLAUDETTE HENDERSON,
+
+THIS IS A NOTICE OF PREMIUM DUE OF YOUR FLOOD POLICY FOR THE PROPERTY LOCATED AT:
+
+1113 R L HENDERSON DR, Prichard, AL, 36610
+As of today, we have not received the premium of $ 37
+Coverage has been reduced to what can be afforded with the premium on file.
+
+Requested Coverage Amount Reduced Coverage Amount
+Building $ 250,000 $ 234,000
+Contents $0 $0
+
+If the remaining payment of $ 37 is received by 11/28/2024, then coverage limits will be increased to the requested coverage amount. If payment is received after
+this date, there will be a 30-day wait from the premium receipt date to increase coverage.
+
+A copy of this premium request notice has been mailed to: 1. BALDWIN MUTUAL INSURANCE COMPANY
+
+Make check or money order payable to BALDWIN MUTUAL INSURANCE COMPANY - PO BOX 736675, Dallas, TX, 75373. Want to overnight your
+payment? BALDWIN MUTUAL INSURANCE COMPANY - 555 Corporate Drive, Suite 101, Kalispell, MT, 59901 . If there have been any mortgagee changes,
+
+please contact your agent.
+Dd
+
+IF YOU HAVE ANY QUESTIONS ON YOUR POLICY, PLEASE CONTACT YOUR AGENT FOR ASSISTANCE
+
+AGENT : BALDWIN MUTUAL INSURANCE
+AGENCY : BALDWIN MUTUAL INSURANCE COMPANY
+PHONE : (251) 943-8526
+
+ 
+
+Date Mailed: 10-30-2024 pili,
+ee
+———
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+BALDWIN
+
+MUTUAL INSURANCE
+
+BALDWIN MUTUAL INSURANCE COMPANY
+PO Box 2057 Kalispell MT 59903 USA
+
+BALDWIN MUTUAL INSURANCE COMPANY
+https://www.baldwinmutual.com/
+
+(800) 610-1521
+
+NAIC# : 31186
+
+POLICY FORM:
+
+POLICY DECLARATIONS TYPE:
+
+Dwelling Policy
+
+New Policy Declarations
+
+RATE CATEGORY : RatingEngine
+
+PROPERTY ADDRESS #: 1113 R L HENDERSON DR, Prichard, AL, 36610
+POLICY #: FLD1186000253
+
+NFIP POLICY #: 1186000253
+
+POLICY TERM: 11-28-2024 (12:01 AM) - 11-28-2025 (12:01 AM)
+POLICY ISSUED BY: BALDWIN MUTUAL INSURANCE COMPANY
+PAYOR: CLAUDETTE HENDERSON
+
+INSURED NAME & MAILING ADDRESS
+CLAUDETTE HENDERSON
+
+1113 RL HENDERSON DR,
+
+Prichard, AL, 36610
+
+AGENT CONTACT INFORMATION
+
+BALDWIN MUTUAL INSURANCE COMPANY
+PO BOX 610, Foley, AL, 36536
+
+Phone : 2519438526
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE
+Building $ 234,000
+Contents $0
+
+Coverage limitations may apply. See your Policy Form for details.
+
+Property Information
+
+Primary Residence YES
+
+Building Occupancy Single Family
+Building Description Main House/Building
+First Floor Height (FFH) 5.1
+
+Method Used to Determine FFH EC
+
+Elevated without enclosure on piers, posts &
+
+Property Description
+per'y P piles, 1 Floors , Frame
+
+08-27-2024
+0 Claim(s)
+
+Date of Construction
+Prior NFIP Claims
+
+Your property’s NFIP flood claims history can affect your premium.
+
+DEDUCTIBLE
+$1,250 ¢ 99]
+$0 Total Annual Payment
+
+Includes Premium, Discounts, Fees, and Surcharges
+
+Premium Calculations
+
+COMPONENTS OF THE TOTAL PREMIUM
+Building Premium: $ 764
+Contents Premium: $0
+Increased Cost of Compliance (ICC) Premium: $15
+Community Rating System Discount: $0
+Full-Risk Premium: $779
+Discounted Premium: $779
+Fees and Surcharges:
+
+Reserve Fund Assessment: $ 140
+HFIAA Surcharge: $ 25
+Federal Policy Fee: $47
+Total Premium $991
+
+ADDITIONAL INTERESTS
+
+Date Mailed: 10-30-2024
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+To learn more about your flood risk, please visit FloodSmart.gov
+COVERAGE ADJUSTMENT NOTICE BALDWIN MUTUAL
+INSURANCE COMPANY
+B A L D W | N https://www.baldwinmutual.com/
+
+MUTUAL INSURANCE (800) 610-1521
+BALDWIN MUTUAL INSURANCE COMPANY
+NAIC# : 31186
+
+PO Box 2057 Kalispell MT 59903 USA
+
+PROPERTY ADDRESS : 1113 R L HENDERSON DR, Prichard, AL, 36610
+POLICY # :FLD1186000253
+
+NFIP POLICY # :FLD1186000253
+
+POLICY ISSUED BY :BALDWIN MUTUAL INSURANCE COMPANY
+POLICY TERM : 11-28-2024 (12:01 AM) - 11-28-2025 (12:01 AM)
+
+PAYOR : CLAUDETTE HENDERSON
+
+INSURED NAME & MAILING ADDRESS PAYOR CONTACT INFORMATION
+
+CLAUDETTE HENDERSON CLAUDETTE HENDERSON
+
+1113 RL HENDERSON DR,
+
+1113 RL HENDERSON DR, Prichard, AL, 36610 .
+Prichard, AL, 36610
+
+DEAR CLAUDETTE HENDERSON,
+
+THIS IS A NOTICE OF PREMIUM DUE OF YOUR FLOOD POLICY FOR THE PROPERTY LOCATED AT:
+
+1113 R L HENDERSON DR, Prichard, AL, 36610
+As of today, we have not received the premium of $ 37
+Coverage has been reduced to what can be afforded with the premium on file.
+
+Requested Coverage Amount Reduced Coverage Amount
+Building $ 250,000 $ 234,000
+Contents $0 $ 0
+
+If the remaining payment of $ 37 is received by 11/28/2024, then coverage limits will be increased to the requested coverage amount. If payment is received after
+this date, there will be a 30-day wait from the premium receipt date to increase coverage.
+
+A copy of this premium request notice has been mailed to: 1. BALDWIN MUTUAL INSURANCE COMPANY
+
+Make check or money order payable to BALDWIN MUTUAL INSURANCE COMPANY - PO BOX 736675, Dallas, TX, 75373. Want to overnight your
+payment? BALDWIN MUTUAL INSURANCE COMPANY - 555 Corporate Drive, Suite 101, Kalispell, MT, 59901 . If there have been any mortgagee changes,
+
+please contact your agent.
+Dd
+
+IF YOU HAVE ANY QUESTIONS ON YOUR POLICY, PLEASE CONTACT YOUR AGENT FOR ASSISTANCE
+
+AGENT : BALDWIN MUTUAL INSURANCE
+AGENCY : BALDWIN MUTUAL INSURANCE COMPANY
+PHONE : 2519438526
+
+ 
+
+Date Mailed: 10-30-2024 pili,
+ee
+———
+
+NATIONAL FLOOD
+INSURANCE PROGRAM

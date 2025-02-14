@@ -1,0 +1,876 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB No. 1660-0008
+Federal Emergency Management Agency Expiration Date: November 30, 2022
+
+National Flood Insurance Program
+ELEVATION CERTIFICATE
+
+Important: Follow the instructions on pages 1-9.
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A —- PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+A1. Building Owner's Name Policy Number:
+Homebound Technologies
+
+ 
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Company NAIC Number:
+Box No. .
+
+2203 Gardenia Drive
+City State ZIP Code
+Houston Texas 76018
+
+ 
+
+ 
+
+A3. Property Description (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+Lot 13, Block 7, Oak Forest Addition HCAD TAX ID 0731000840013
+
+ 
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.) Residential
+
+ 
+
+ 
+
+A5. Latitude/Longitude: Lat. 29.82513 Long. -95.45049 Horizontal Datum: NAD 1927 NAD 1983
+
+ 
+
+ 
+
+ 
+
+A6. Attach at least 2 photographs of the building if the Certificate is being used to obtain flood insurance.
+A7. Building Diagram Number 7
+
+A8. For a building with a crawlspace or enclosure(s):
+
+a) Square footage of crawlspace or enclosure(s) 2193 sq ft
+b) Number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade 21
+
+c) Total net area of flood openings in A8.b 2352 sqin
+d) Engineered flood openings? [_]Yes [*] No
+. For a building with an attached garage:
+a) Square footage of attached garage 544 sq ft
+b) Number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade 5
+c) Total net area of flood openings in A9.b 560 sqin
+
+d) Engineered flood openings? [| Yes [x] No
+
+SECTION B —- FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1. NFIP Community Name & Community Number B2. County Name B3. State
+City of Houston 480296 HARRIS Texas
+
+ 
+
+B4. Map/Panel B5. Suffix | B6. FIRM Index B7. FIRM Panel B8. Flood BY. Base Flood Elevation(s)
+Number Date Effective/ Zone(s) (Zone AO, use Base Flood Depth)
+Revised Date
+
+48201C0695 M 11/15/2019 06-09-2014 AE 500yr bfe 68'
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in Item B9: ;
+FIS Profile FIRM Community Determined [«] Other/Source: North Atlantic Vertical Data 2001 Adjustment
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+North Atlantic Data
+B11. Indicate elevation datum used for BFE in Item B9: [_] NGVD 1929 [_] NAVD 1988 [x] Other/Source: 2001 Adjustment
+
+ 
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [_] Yes No
+
+ 
+
+Designation Date: [_] CBRS OPA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 1 of 6
+OMB No. 1660-0008
+ELEVATION CERTIFICATE Expiration Date: November 30, 2022
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. Policy Number:
+2203 Gardenia Drive
+
+City State ZIP Code Company NAIC Number
+Houston Texas 76018
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: Construction Drawings* —_[_] Building Under Construction* Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO.
+Complete Items C2.a—h below according to the building diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: Vertical Datum NAVD88 2001 Adjus Vertical Datum: Vertical Datum NAVD88 2001 Adit
+Indicate elevation datum used for the elevations in items a) through h) below.
+
+[_] NGVD 1929 NAVD 1988 [_] Other/Source:
+Datum used for building elevations must be the same as that used for the BFE.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Check the measurement used.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor) 63.8 [x] feet meters
+b) Top of the next higher floor 71.3 [x] feet meters
+
+ 
+
+ 
+
+ 
+
+ 
+
+c) Bottom of the lowest horizontal structural member (V Zones only) N/A feet meters
+d) Attached garage (top of slab) 63.5 feet meters
+
+ 
+
+ 
+
+e) Lowest elevation of machinery or equipment servicing the building
+(Describe type of equipment and location in Comments) 68.0 feet meters
+
+f) Lowest adjacent (finished) grade next to building (LAG) 62.9 feet meters
+g) Highest adjacent (finished) grade next to building (HAG) 63.9 feet meters
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+h) Lowest adjacent grade at lowest elevation of deck or stairs, including
+structural support 63.2 feet meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by law to certify elevation information.
+| certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any false
+statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? L*]yves LINo [_] Check here if attachments.
+Certifier's Name License Number
+Thomas Dixon 4324
+
+Title
+Surveyor
+
+ 
+
+ 
+
+Company Name
+Waterloo Surveyors LLC
+
+Address
+2208 W Anderson Lane
+
+City State ZIP Code
+Austin Texas 78757
+
+ 
+
+ 
+
+Signature ) Date Telephone Ext.
+: 5/23/2023 (512) 481-9602
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+ 
+
+500 yr BFE 68'
+
+VENTS- 8"X14" Be ae , ah ; lowest equipment measured, A/C wood pad
+
+ 
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 2 of 6
+ 
+National Flood Hazard Layer FlRMette
+
+95°27'21"W 29°49'46"N SEE FIS REPORT FOR DETAILED LEGEND AND INDEX MAP FOR FIRM PANEL LAYOUT
+
+- tee , - > Without Base Flood Elevation (BFE)
+
+Zone A, V, A99
+: / Vy
+Ba With BFE or Depth Zone AE, AO, AH, VE, AR
+
+. ~~ SPECIAL FLOOD
+. 66:120003 FEET - - : q ; Ny HAZARD AREAS|,— Regulatory Floodway
+. ”
+
+0.2% Annual Chance Flood Hazard, Areas
+of 1% annual chance flood with average
+depth less than one foot or with drainage
+areas of less than one square mile Zone xX
+
+qQw Future Conditions 1% Annual
+Chance Flood Hazard Zone x
+
+Area with Reduced Flood Risk due to
+"Sa
+
+OTHER AREAS OF Levee. See Notes. Zone x
+FLOOD HAZARD T 4 3 Area with Flood Risk due to Levee Zone D
+
+NOSCREEN Area of Minimal Flood Hazard Zone x
+
+C—~) Effective LOMRs
+
+OTHER AREAS Area of Undetermined Flood Hazard Zone D
+
+GENERAL | ==— == Channel, Culvert, or Storm Sewer
+STRUCTURES |t tt ttt Levee, Dike, or Floodwall
+
+Cross Sections with 1% Annual Chance
+Water Surface Elevation
+
+Coastal Transect
+
+Base Flood Elevation Line (BFE)
+
+Limit of Study
+
+Jurisdiction Boundary
+
+Coastal Transect Baseline
+
+- ‘ Profile Baseline
+ma FEATURES |__ Hydrographic Feature
+eff.'6/9/2014
+
+Digital Data Available N
+
+No Digital Data Available
+MAP PANELS Unmapped
+
+9 The pin displayed on the map is an approximate
+point selected by the user and does not represent
+an authoritative property location.
+
+This map complies with FEMA's standards for the use of
+digital flood maps if it is not void as described below.
+The basemap shown complies with FEMA's basemap
+accuracy standards
+
+The flood hazard information is derived directly from the
+authoritative NFHL web services provided by FEMA. This map
+was exported on 8/13/2024 at 8:50 AM and does not
+reflect changes or amendments subsequent to this date and
+time. The NFHL and effective information may change or
+become superseded by new data over time.
+
+This map image is void if the one or more of the following map
+elements do not appear: basemap imagery, flood zone labels,
+legend, scale bar, map creation date, community identifiers,
+FIRM panel number, and FIRM effective date. Map images for
+unmapped and unmodernized areas cannot be used for
+regulatory purposes.
+
+95°26'43"W 29°49'15"N
+
+Basemap Imagery Source: USGS National Map 2023
+
+ 
+Policy Number 87187694572023
+NFIP Policy Number 8718769457
+Policy Term
+
+AW
+s Dp 4 Mark Rafail Insurance Agency
+FARMERS Inc
+
+Agent Contact Information
+
+12/20/2023 at the time of loan closing - 12/20/2024 12:01 AM
+
+INSURANCE
+
+Texas Farmers Insurance
+Company
+
+3311 Richmond Ave Ste 350
+Houston, TX 77098-3026
+(713) 429-1790
+
+Insurer NAIC Number 21660
+
+Policy Form Dwelling Policy
+Policy Declarations Type New Policy Declarations
+Payor Insured
+
+Rate Category Rating Engine
+
+Flood Insurance Policy Declarations
+
+THIS IS NOT A BILL
+
+ 
+
+Insured Name and Mailing Address
+
+Kate Glywasky
+2203 Gardenia Dr
+Houston, TX 77018-4609
+
+Property Location
+2203 Gardenia Dr
+Houston, TX 77018-4609
+
+COVERAGE AND RATING
+
+Deductible
+$2,000
+$2,000
+
+PROPERTY INFORMATION
+
+Coverage
+Building $250,000
+Contents $100,000
+Flood Zone
+
+Primary Residence
+
+Building Occupancy
+
+Building Description
+
+Building Description Detail
+
+First Floor Height
+
+Method Used for 1st Floor Height
+Property Description
+
+Date of Const/Substantial Imp
+Replacement Cost Value
+
+Prior NFIP Claims
+
+Number of Units
+
+First Mortgagee
+
+Bay Equity, LLC ISAOA/ATIMA
+PO Box 29411
+
+Phoenix, AZ
+
+85038-9411
+
+Loan# 2311031695
+
+AE
+
+Yes
+
+Single-Family Home
+Main Dwelling
+
+8.4 Feet
+
+Elevation Certificate
+Elevated w/ enclsr. - other,
+2 Floors, Frame
+01/01/2023
+
+$900,000
+
+O claims
+
+1
+
+Premium Details
+
+ 
+
+Building Premium $1,573
+Contents Premium $943
+ICC Premium $48
+Mitigation Discounts (-$0)
+CRS Discount (-$592)
+Full-Risk Premium $1,972
+Statutory Discounts
+
+Annual Increase Cap Discount (-$0)
+Pre-FIRM Discount (-$0)
+Newly Mapped Discount (-$0)
+Other Statutory Discounts (-$0)
+
+Discounted Premium $1,972
+Fees and Surcharges
+
+ 
+
+Reserve Fund Assessment $355
+HFIAA Surcharge $25
+Federal Policy Fee $47
+Probation Surcharge $0
+Total Annual Premium $2,399
+
+Your property’s NEFIP flood claims history can
+affect your premium.
+
+MORTGAGE INFORMATION
+
+Coverage limitations may apply. See your policy form for details.
+For Questions about your flood insurance policy rating, contact your agent or insurance company. To learn more about your flood. risk please visit FloodSmart.gov/floodcosts.
+
+Policy Issued By: Fire Insurance Exchange
+
+ 
+
+Printed: 11/09/2023
+Application Document
+
+ 
+
+NAIC number : 21660
+
+WYO Name : Fire Insurance Exchange
+
+Agency Name : Mark Rafail Insurance Agency Inc
+
+Agent Name : Mark Rafail Insurance Agency Inc
+Transaction Type : PRE_TYPE_APPLICATION
+
+Policy Number : 8718769457
+
+Prior Policy Number :
+
+UUID : 72e94d4d-b4b4-4c06-9453-867760db15d7
+
+WYO and Agency
+
+Policy Form : Dwelling Policy
+Policy Start Date :
+
+Policy Expiration Date :
+
+Waiting Period : LOAN_CLOSING
+
+Agent Signature Date : 11/8/2023
+
+Cash Receipt Date : 11/8/2023
+
+Certified Cash Receipt Date :
+
+Is policy Mortgage Force Place? :NO
+
+Renewal Bill Payor : INSURED
+
+Insured Name 1 : Kate Glywasky
+Insured Name 2 :
+
+Insured Email Address : kglywasky@yahoo.com
+Insured Phone Number : 2108656720
+Mailing Address : 2203 Gardenia Dr,Houston,TX,77018-4609
+Is the Property a Rental Property? :NO
+
+Is the Applicant a Tenant? :NO
+
+Is the Applicant a Small Business? :NO
+
+Is the Applicant a Non-Profit Organization? :NO
+
+Address Type : STREET ADDRESS
+Address line 1 : 2203 Gardenia Dr
+Address line 2 : 2203 Gardenia Dr
+City : Houston
+
+State :TX
+
+Zip : 77018-4609
+Latitude : 29.825098
+Longitude : -95.450460
+
+Is Building located in a CBRS Unit or OPA? :NO
+
+If OPA or CBRS, year added
+If in OPA, is building use consistent with protected area purposes?
+
+If in a buffer zone, did USFWS issue an official determination showing building
+outside system unit or OPA?
+
+Community & Flood Zone information
+
+Current Community number : 0296
+
+Current Community Name : HOUSTON, CITY OF
+Current program status : REGULAR
+
+Current Flood Zone : AE
+
+Current Map Panel Number : 0655
+
+Current Map Suffix :M
+
+Current Map Panel Effective Date 21/29/2021
+
+Initial FIRM Date : 12/11/1979
+
+Building Description : MAIN_BUILDING
+Building Occupancy : RESIDENTIAL_SINGLE_FAMILY
+Number of Units i1
+
+Is Building Insured’s Primary Residence? : YES
+
+Floor Unit is Located on
+[Building Information
+
+Under Construction
+
+Date of Construction
+
+Substantial Improvement Date
+
+Is Building pre-FIRM or Post-FIRM?
+Foundation
+
+Construction Type
+
+Over Water
+
+Is the building properly floodproofed?
+Building Square Footage
+
+Number of Detached Structures
+Number of Floors
+
+Number of elevators
+
+Is the Machinery and Equipment above the first floor?
+
+Replacement Cost Value
+
+:NO
+: 1/1/2023
+
+: POST_FIRM
+
+: WALKOUT_BASEMENT
+: FRAME
+
+:NO
+
+:NO
+
+: 3894
+
+: THREE
+
+:0
+
+:NO
+
+: $900,000.00
+
+Enclosure & Crawlspace information
+
+Size of enclosure or crawlspace
+
+Number of Vents within 1 ft of the ground
+Area of Vents
+
+Are the vents engineered openings?
+Engineered openings make & model
+
+Mobile Home Information
+
+Mobile Home Serial Number
+
+Insured Provided Elevation Certificate - Section C data
+
+Elevation Certificate Signature Date
+
+Building Diagram Number
+
+Lowest Adjacent Grade
+
+Lowest Floor Elevation
+
+Section C Calculated First Floor Height
+Photographs taken within 90 days of submission
+
+: 5/23/2023
+:7
+
+: 62.9
+271.3
+
+28.4
+
+: YES
+
+Insured Provided Elevation Certificate - Section E data
+
+Elevation Certificate Signature Date
+
+Building Diagram Number
+
+Section E Calculated First Floor Height
+Photographs taken within 90 days of submission
+
+First Floor Height- additional information
+
+Method Used
+
+First Floor Height Used
+Name
+
+Loan number
+
+Address
+
+City, state, zip code
+
+Name
+
+Loan number
+Address
+
+City, state, zip code
+
+Name
+
+Loan number
+Address
+
+City, state, zip code
+
+:EC
+: 8.40
+
+: Bay Equity, LLC ISAOA/ATIMA
+: 2311031695
+
+: PO Box 29411
+
+: Phoenix,AZ,85038-9411
+
+2nd Mortgage Information
+
+Loss Payee Information
+
+Disaster Agency Information
+
+Agency Type
+Agency Name
+Case file number
+Address
+
+City, state, zip code
+
+Coverages and Deductibles
+
+Building Coverage
+
+: $250,000.00
+Building Deductible : $2,000.00
+
+Contents Coverage : $100,000.00
+Contents Deductible : $2,000.00
+Rate Category : RATING ENGINE
+Is the building eligible for the Machinery and Equipment Mitigation Discount? :NO
+
+Did the applicant have a prior NFIP policy that received a Newly Mapped discount -NO
+
+and lapsed?
+
+If yes, did the lapse occur for a valid reason? :
+
+Is the property eligible for the Newly Mapped Discount? :NO
+
+Did the applicant have a prior NFIP policy that received a Pre-FIRM discount and “NO
+lapsed?
+
+If yes, did the lapse occur for a valid reason? :
+
+Building Premium : $1,573.00
+Contents Premium : $943.00
+ICC Premium : $48.00
+Mitigation Discount : $0.00
+CRS Discount : -$592.00
+Full Risk Premium : $1,972.00
+Annual Increase Cap : $0.00
+Pre-FIRM Discount : $0.00
+Newly Mapped Discount : $0.00
+Other Statutory Discounts : $0.00
+Discounted Premium : $1,972.00
+Reserve Fund Assessment : $355.00
+HFIAA Surcharge : $25.00
+Federal Policy Fee : $47.00
+Probation Surcharge : $0.00
+
+Total Amount Due
+
+: $2,399.00
+
+ 
+Policy #8718769457
+
+2203 Gardenia Dr,
+Houston, TX, 77018-4609
+
+Kate Glywasky
+
+=+ °
+& @ 7 Q
+File Claim Cancel Endorse Renew
+Summary Notes Account Documents Claims Transaction
+
+POLICY BALANCE: $0.00
+
+Date 4 Event % Amount “4 Receipt ID 4
+11/09/2023 Premium Receipt -$26.00 648086
+11/09/2023 New Business -$2,399.00
+
+11/09/2023 Premium Receipt
+
+$2,425.00 6b7c7a4f-22b6-4c7...
+
+Receipt Date *
+
+11/09/2023
+
+11/08/2023
+
+Certified Date #8
+Policy #8718769457
+
+2203 Gardenia Dr,
+Houston, TX, 77018-4609
+
+Kate Glywasky
+
+=+ °
+& @ 7 Q
+File Claim Cancel Endorse Renew
+Summary Notes Account Documents Claims Transaction
+Internal user only
+User 4% Date 4 Note *
+kristinec1 11/13/2023 Chatted with agt Donna why the premium changed/ provided info
+11/09/2023 Corrected NHF, refunded $26
+
+christinap

@@ -1,0 +1,1693 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY
+Federal Emergency Management Agency
+National Flood Insurance Program
+
+OMB Na. 1660-0008
+Expiration Date: November 30, 2018
+
+ELEVATION CERTIFICATE a/M/1 7
+
+Important: Follow the instructions on pages 1-9. CBE/b- O7¢3§
+K. flac
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A — PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+Ai. Building Owner's Name Policy Number:
+Weekley Homes, LLC
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Company NAIC Number:
+Box No. .
+
+ 
+
+  
+
+  
+  
+
+  
+       
+  
+
+    
+
+    
+ 
+
+ 
+
+  
+ 
+
+765 Columbus Dr.
+City State ZIP Code
+Tierra Verde FL 33715
+
+      
+ 
+
+ 
+
+. Property Description (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+Lot 23, Block J, Tierra Verde Unit One, Fourth Replat (Plat Book 60, Pages 25-27)
+
+      
+
+ 
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.) Residential
+
+ 
+
+     
+
+AS. Latitude/Longitude: Lat. N27°40'58.9" Long. W82°43'48.4" Horizontal Datum: [_] NAD 1927 NAD 1983
+
+       
+
+A6. Attach at least 2 photographs of the building if the Certificate is being used to obtain flood insurance.
+AT.
+
+ 
+ 
+
+N
+
+Building Diagram Number 1B
+
+ 
+ 
+
+A8. For a building with a crawlspace or enclosure(s):
+
+ 
+    
+
+a) Square footage of crawlspace or enclosure(s) N/A sq ft
+
+    
+
+b) Number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade N/A
+
+   
+
+c) Total net area of flood openings in A8.b N/A sq in
+
+        
+ 
+
+d) Engineered flood openings? [] Yes No
+
+ 
+
+ 
+  
+
+. For a building with an attached garage:
+
+    
+
+a) Square footage of attached garage 620 sq ft
+
+   
+  
+
+b) Number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade
+
+    
+  
+   
+
+c) Total net area of flood openings in A9.b
+
+Yes
+
+sq in
+
+  
+
+800
+[-] No
+
+  
+ 
+ 
+  
+ 
+
+ 
+
+d) Engineered flood openings?
+
+  
+
+SECTION B - FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+B1. NFIP Community Name & Community Number
+Pinellas County 425139
+
+ 
+
+  
+ 
+
+    
+  
+
+B3. State
+FL
+
+B2. County Name
+Pinellas
+
+     
+
+        
+  
+
+         
+       
+   
+
+      
+      
+    
+
+     
+
+      
+
+B4. Map/Pane!
+Number
+
+B5. Suffix
+
+      
+        
+ 
+
+B6. FIRM Index
+Date
+
+B7. FIRM Panel
+Effective/
+Revised Date
+
+09/03/03
+
+B8. Flood Zone(s) B9. Base Flood Elevation(s)
+(Zone AO, use Base
+
+Flood Depth)
+10'
+
+ 
+
+      
+
+      
+
+   
+
+1210300286 08/18/09 AE
+
+   
+
+ 
+
+ 
+ 
+
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in Item B9:
+[] FIS Profile FIRM [_] Community Determined [] Other/Source:
+
+ 
+  
+
+B11. Indicate elevation datum used for BFE in Item B9: [_] NGVD 1929 NAVD 1988 [_] Other/Source:
+
+   
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [_] Yes No
+Designation Date: N/A L] CBRS [] OPA
+
+      
+ 
+
+FEMA Form 086-0-33 (7/15) Replaces all previous editions. Form Page 1 of 6
+OMB No. 1660-0008
+ELEVATION CERTIFICATE Expiration Date: November 30. 2018
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address {inciuding Apt., Unit, Suite, and/or Bldg. No.) cr P.O. Route and Box No. Policy Number:
+765 Columbus Dr.
+
+City State ZIP Code Company NAIC Number
+Tierra Verde FL 33715
+
+ 
+    
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: [_] Construction Drawings* [7] Building Under Construction* [X] Finished Construction
+*A new Elevation Certificate wil! be required when construction of the buliding is comolete.
+
+C2. Elevations — Zones A1—A30, AE. AH. A (with BFE), VE, V1-V30, V (with BFE). AR, AR/A, AR/AE AR/A1-A30, AR/AH, AR/AO.
+Complete !tems C2.a—h below according to the building diagrarn specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized. PX! sveet near N prop line Elev = 5.64 Vertical Datum: NAVD 1988
+Indicate elevation datum used for the elevations in items a) through h) below.
+
+L] NGVB 1929 [xX] NAVD 1888 [[] Other/Source:
+Datum used for building elevations must be the same as that used for the BFE.
+
+ 
+
+Check the measurement used.
+a) Top of bottom floor (including basement, crawlsoace, or enclostire flcor) 41. 27 [xX feet
+
+(_j meters
+b) Top of the next higher floor —__ N/A.) feet «= 7) meters
+c} Bottom of the lowest horizontai structura! member (V Zones only} —_ NA CJ] feet [| meters
+d) Attached garage (top of slab) 7,30  & feet [7 meters
+e) Lowest elevation of machinery or equipment servicing the building — 17 200 ™! feet {7 meters
+
+(Describe type of equipment and location in Commenis)
+f) Lowest adjacent (finished) grade next to building (LAG)
+g} Highest adjacent (finished) grade next to building (HAG)
+
+feet {| meters
+
+i> Li o>
+Ico | |oo
+Bd
+
+feet [(_] meters
+h} Lowest adjacent grade at lowest elevation of deck or stairs, including (x! feet [|] meters
+structural support
+
+SECTION D - SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and seaied by a land surveyor, engineer, or architect authorized oy law to certify elevation information.
+i certify that the information on this Certificate represents my best efforts to interpret the data avaiiadle | undarstand that any false
+statement may be punishable by fine or imprisonment under 18 U.S Cade, Section 1601,
+
+Were latitude and longitude in Section A provided by a licensed iand surveyor? Xl yes LINo [Xi Check here if attachments.
+
+ 
+  
+ 
+ 
+ 
+   
+ 
+
+Certifier's Name License Number
+
+Thomas Michael Rooks Jr. PSM6347
+Title
+
+Professional Surveyor and Mapper
+Company Name
+
+Landmark Engineering & Surveying Corp.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Address |
+8515 Palm River Road {, ae
+City tate ZIP Code —
+4
+Tampa EL 33619 PSM6347 08/09/2017
+Signature : Date Telephone
+08/09/2017 813-621-7841
+
+Copy all pages: of this Elevation Certificate and all attachments for (1)
+
+     
+
+ 
+
+community official, (2) insurance agent/company, and (3} building owner.
+Comments (including type of equipment and location, per C2(e), if applicable)
+
+Not valid without the signature and originai seal of a Florida Registered Surveyor and Mapper. Date of Field Work:
+08/09/2017. Latitude and Longitude obtained with a hand held GPS device. The equipment referenced in C2e is the water
+heater, located inside the structure. The total net area of flocd openings in AQc is calculated as follows: 4 Smart Vent
+insulated Flood Vents (rode! 1540-524}, 2 in the garage door and 2 in the garage wall, each certified to handle 200 square
+feet. Air Condition Eley = 12.73' Attachment: Smart Vent Certification.
+
+FEMA Form 086-0-33 (7/15) Replaces all previous editions. Form Page 2 of 6
+j : OMB No. 1660-0008
+ELEVATION CERTIFICATE Expiration Date: Novernber 30, 2018
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. Policy Number:
+765 Columbus Dr.
+
+City ZIP Code Company NAIC Number
+Tierra Verde FL 33715
+
+SECTION E — BUILDING ELEVATION INFORMATION (SURVEY NOT REQUIRED)
+FOR ZONE AO AND ZONE A (WITHOUT BFE)
+
+For Zones AO and A (without BFE), complete Items E1-E5. If the Certificate is intended to support a LOMA or LOMR-F request,
+complete Sections A, B,and C. For Items E1-E4, use natural grade, if available. Check the measurement used. In Puerto Rico only,
+enter meters.
+E1. Provide elevation information for the following and check the appropriate boxes to show whether the elevation is above or below
+the highest adjacent grade (HAG) and the lowest adjacent grade (LAG).
+a) Top of bottom floor (including basement,
+
+crawlspace, or enclosure) is —_— ._____ [_]feet []meters [] above or [] below the HAG.
+b) Top of bottom floor (including basement,
+
+crawlspace, or enclosure) is — [|feet [meters [_] above or [_] below the LAG.
+
+. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1-2 of Instructions),
+the next higher floor (elevation C2.b in
+
+the diagrams) of the building is Cs J feet (J meters [7] above or [_] below the HAG.
+. Attached garage (top of slab) is ee —__ [| feet [] meters [] above or [_] below the HAG.
+
+ 
+
+. Top of platform of machinery and/or equipment
+servicing the building is a L]feet [-]meters [] above or [_]below the HAG.
+
+. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? [_] Yes [_] No [_] Unknown. The local official must certify this information in Section G.
+
+SECTION F —- PROPERTY OWNER (OR OWNER'S REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without a FEMA-issued or
+community-issued BFE) or Zone AO must sign here. The statements in Sections A, B, and E are correct to the best of my knowledge.
+
+Property Owner or Owner's Authorized Representative’s Name
+
+ 
+
+Address ZIP Code
+
+Signature Telephone
+
+ 
+
+Comments
+
+ 
+
+ 
+
+[_] Check here if attachments.
+FEMA Form 086-0-33 (7/15) Replaces all previous editions. Form Page 3 of 6
+OMB No. 1860-0008
+ELEVATION CERTIFICATE Expiration Date: November 30, 2018
+
+IMPORTANT: in these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE |
+Building Street Address (including Apt., Unit, Suite, and/or Bidg. No.) or P.O. Route and Box No. Policy Number:
+
+765 Columbus Dr.
+
+ 
+
+City State ZIP Code Company NAIC Number
+Tierra Verde FL 33715
+
+SECTION G - COMMUNITY INFORMATION (OPTIONAL) - a
+
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+
+Sections A, B, C (or E), and G of this Elevation Certificate. Complete the applicable item(s) and sign below. Check the measurement
+used in Items G8—G10. In Puerto Rico only, enter meters.
+
+G1. [| The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+
+engineer, or architect who is authorized by law to certify elevation information. (Indicate the source and date of the elevation
+data in the Comments area below.)
+
+A community official completed Section E for a building located in Zone A (without a FEMA-issued or community-issued BFE)
+or Zone AO.
+
+The following information (Iterns G4—G10) is provided for community fleodpiain management purposes.
+
+ 
+
+i
+i
+
+a” L
+
+G7. This permit has been issued for: {_| New Construction [_] Substantial improvement
+
+Compliance/Occupancy issued
+
+34, Permit Number | G5. Date Permit Issued G6 Date Certificate of
+
+ 
+
+G8. Elevation of as-built lowest floor (including basement}
+
+ 
+
+ 
+
+of the building: ts feet ST meters patum
+G9. BFE or (in Zone AQ) depth of flooding at the building site: . (| feet Lj meters Datum
+G10. Community's design fiood elevation: . _| feet | meters Datum
+Local Official's Name Title
+
+ 
+
+Community Name Telephone
+
+ 
+
+ 
+
+ 
+
+Signature Date
+
+ 
+
+ 
+
+ 
+
+Comments (including type of equipment and Iccation, per C2(e), if appiicabie}
+
+[_] Check here if attachments.
+
+ 
+
+FEMA Form 086-0-33 (7/15) Replaces ail previous editions. Form Page 4 of 6
+BUILDING PHOTOGRAPHS
+ELEVATION CERTIFICATE
+
+. OMB No. 1660-0008
+See Instructions for Item A6. Expiration Date: November 30, 2018
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.
+765 Columbus Dr.
+
+Policy Number:
+City ZIP Code
+Tierra Verde
+
+Company NAIC Number
+33715
+
+If using the Elevation Certificate to obtain NFIP flood insurance, affix at least 2 building photographs below according to the
+
+instructions for Item A6. Identify all photographs with date taken; "Front View" and "Rear View"; and, if required, "Right Side View" and
+
+“Left Side View." When applicable, photographs must show the foundation with representative examples of the flood openings or
+vents, as indicated in Section A8. If submitting more photographs than will fit on this page, use the Continuation Page.
+
+Photo One Caption Front View 07/26/2017
+
+ 
+
+Photo Two Caption Rear View 07/26/2017
+
+FEMA Form 086-0-33 (7/15) Replaces all previous editions.
+
+Form Page 5 of 6
+   
+
+§ Pinellas County Property Appraiser - www.pcpao.gov Generated on 10/25/2024 09:34 AM
+
+arcel Summary (as of 25-Oct-2024) Parcel Map
+
+Parcel Number
+
+19-32-16-90900-010-0230
+
+Owner Name
+APONTE, PEDRO PASTRANA
+PASTRANA, KELLY JO
+
+Property Use
+0110 Single Family Home
+
+Site Address
+765 COLUMBUS DR
+TIERRA VERDE, FL 33715 (Unincorporated)
+
+Mailing Address
+765 COLUMBUS DR
+TIERRA VERDE, FL 33715-2033
+
+Legal Description
+TIERRA VERDE UNIT 1 4TH REP BLK J, LOT 23
+
+Current Tax District
+TIERRA VERDE FIRE (TVF)
+
+ 
+
+ 
+
+Year Built
+
+2017
+
+Living SF | Gross SF | Living Units | Buildings
+3,182 4,058 | 1 .
+Year Homestead Use % Status Property Exemptions & Classifications
+2026 Yes 100% Assuming no ownership changes before Jan. 1, 2026. No Property Exemptions or Classifications
+2025 Yes 100% Assuming no ownership changes before Jan. 1, 2025. found. Please note that Ownership
+
+Exemptions (Homestead, Senior,
+
+2024 Yes 100% Widow/Widower, Veterans, First
+
+Responder, etc... will not display here).
+
+ 
+
+Miscellaneous Parcel Info
+
+Last Recorded Sales Evacuation Elevation
+
+Deed Comparison Census Tract Zone Flood Zone Certificate Zoning Plat Bk/Pg
+22075/0637 $1,659,900 201.06 A Se Check forEC Zoning Map 60/25
+
+2024 Preliminary Values
+
+ 
+
+Year Just/Market Value Assessed Value/SOH Cap County Taxable Value School Taxable Value Municipal Taxable Value
+
+ 
+
+2024 $1,388,413 $1,278,079 $1,228,079 $1,253,079 $1,228,079
+Value History (yellow indicates corrected value)
+
+Year Homestead Just/Market Assessed Value/SOH County Taxable School Taxable Municipal Taxable
+Exemption Value Cap Value Value Value
+
+2023 Y $1,321,912 $1,240,853 $1,190,853 $1,215,853 $1,190,853
+
+2022 Y $954,845 $667,063 $617,063 $642,063 $617,063
+
+2021 Y $734,025 $647 634 $597,634 $622,634 $597,634
+
+2020 Y $674,712 $638,692 $588,692 $613,692 $588,692
+
+2019 Y $645,389 $624,332 $574,332 $599,332 $574,332
+ 
+
+2023 Tax Information
+
+Do not rely on current taxes as an estimate following a
+
+ 
+
+ 
+
+ 
+
+change in ownership. A significant change in taxable : 2023 Millage _..
+value may occur after a transfer due to a loss of argc ill Rate , Tax District
+exemptions, reset of the Save Our Homes or 10% Cap, . .
+and/or market conditions. Please use our Tax Estimator View 2023 Tax Bill 16.4146 (IVF)
+to estimate taxes under new ownership.
+Sy Lal cela
+Sale Date Price oained J econ Grantor Grantee Book / Page
+nqualified Improved
+APONTE PEDRO
+18-May-2022 $1,750,000 Q | GERRITS ROGER GERALD PASTRANA 22075/0637
+21-Aug-2017 $775,800 Q | WEEKLEY HOMES LLC GERRITS ROGER | 49752/0034
+GERALD
+WOLFE DIANA DAY PERSONAL WEEKLEY
+12-Dec-2014 $228,000 U V REPRESENTATIVE HOMES LLC 18672/1262
+30-Dec-1999 $92,000 Q Vv APOSTOLOV GARY DAY, KEANNETH 4077110877
+03-Nov-1997 $61,500 U Vv FERRARA JOHN ae etey 09891/2356
+2024 Land Information
+Land Area: = 9,901 sf | = 0.22 acres Frontage and/or View: None Seawall: No
+Land . . Total Adjusted
+Property Use Dimensions Unit Value Units Method Adjustments Value
+Single Family 82x120 $6,450 82.50 FF 1.0486 $557,986
+2024 Building 1 Structural Elements and Sub Area Information
+Structural Elements Sub Area Living Area SF Gross Area SF
+Foundation | Wood/Block Above Ground Footing Base (BAS) 3,182 3,182
+Floor System Slab Above Grade Low Garage (GRF) 0 663
+Exterior Walls Cb Stucco/Cb Reclad Open Porch (OPF) 0 213
+Unit Stories 1 Total Area SF 3,182 4,058
+Living Units 1 2a i,
+Roof Frame Gable Or Hip q OPF g
+Roof Cover = Concrete Tile/Metal iF
+Year Built 2017 35
+Building Type Single Family
+Quality Above Average
+Floor Finish Carpet/Hardtile/Hardwood 55
+
+Interior Finish
+Heating
+Cooling
+Fixtures
+Effective Age
+
+Upgrade
+
+Central Duct
+Cooling (Central)
+10
+
+8
+
+BAS
+
+1
+2024 Extra Features
+
+Description Value/Unit Units Total Value as New Depreciated Value Year
+PATIO/DECK $24.00 260.0 $6,240 $4,992 2017
+POOL $85,000.00 1 $85,000 $68,000 2017
+
+Permit Data
+
+Permit information is received from the County and Cities. This data may be incomplete and may exclude permits that do not result in
+field reviews (for example for water heater replacement permits). We are required to list all improvements, which may include
+
+unpermitted construction. Any questions regarding permits, or the status of non-permitted improvements, should be directed to the
+permitting jurisdiction in which the structure is located.
+
+Permit Number Description Issue Date Estimated Value
+PER-H-CB17-02315 POOL 04/10/2017 $44,300
+PER-H-CB16-09438 PATIO/DECK 01/10/2017 $546,605
+
+PER-H-CW16-13658 NEW IMPROVEMENT 12/07/2016 $575,000
+. BUILDING PHOTOGRAPHS
+ELEVATION CERTIFICATE
+
+; OMB No. 1660-0008
+Continuation Page Expiration Date: November 30, 2018
+IMPORTANT: In these spaces, copy the corresponding information from Section A.
+
+FOR INSURANCE COMPANY USE
+Building Street Address (including Apt., Unit, Suite, and/or Bidg. No.) or P.O. Route and Box No. Policy Number:
+765 Columbus Dr.
+
+City ZIP Code
+Tierra Verde
+
+Company NAIC Number
+33715
+
+If submitting more photographs than will fit on the preceding page, affix the additional photographs below. Identify all photographs
+
+with: date taken; "Front View" and “Rear View"; and, if required, "Right Side View" and "Left Side View." When applicable,
+photographs must show the foundation with representative examples of the flood openings or vents, as indicated in Section A8.
+
+Sato
+
+ 
+
+Photo Two Caption
+
+Garage Wall Vent 07/26/2017
+FEMA Form 086-0-33 (7/15)
+
+Replaces all previous editions. Form Page 6 of 6
+E S arty matt Most Widely Accepted and Trusted
+SERVICE
+
+ae ‘eG ene ites
+; RESEARCH LABS
+
+ICC-ES Report ESR-2074
+
+ICC-ES | (800) 423-6587 | (562) 699-0543 | www.icc-es.org ae Te a pai
+
+ 
+
+DIVISION: 08 00 OO—OPENINGS
+SECTION: 08 95 43—VENTS/FOUNDATION FLOOD VENTS
+
+REPORT HOLDER:
+
+SMARTVENT PRODUCTS, INC.
+
+430 ANDBRO DRIVE, UNIT 1
+PITMAN, NEW JERSEY 08071
+
+EVALUATION SUBJECT:
+
+SMART VENT® AUTOMATIC FOUNDATION FLOOD VENTS:
+MODELS #1540-520; #1540-521; #1540-510; #1540-511;
+#1540-570; #1540-574; #1540-524; #1540-514
+
+ICC. ICG . 1c.
+
+c PMG LISTED
+Look for the trusted marks of Conformity!
+
+“2014 Recipient of Prestigious Western States Seismic Policy Council
+(WSSPC) Award in Excellence”
+
+ICC-ES Evaluation Reports are not to be construed as representing aesthetics or any other attributes not
+specifically addressed, nor are they to be construed as an endorsement of the subject of the report or a
+
+recommendation for its use. There is no warranty by ICC Evaluation Service, LLC, express or implied, as
+
+      
+
+to any finding or other matter in this report, or as to any product covered by the report. PRODUCT CERTIFICATION
+
+Copyright ~ 2017 ICC Evaluation Service, LLC. All rights reserved.
+a
+ES EVALUATION
+Bai
+
+ae ea ianapa
+
+thpdioe dey
+
+Most Widely Accepted and Trusted
+
+ 
+
+iICC-ES Evaluation Report
+
+ 
+
+ 
+
+ay | (800) 423-6587 | (562) 699-0543
+
+ESR-2074
+Reissued February 2017
+This report is subject to renewal February 2019.
+
+ 
+
+A Subsidiary of the International Code Councif®
+
+ 
+
+DIVISION: 08 00 OO—OPENINGS
+Section: 08 95 43—Vents/Foundation Flood Vents
+
+REPORT HOLDER:
+
+SMARTVENT PRODUCTS, INC.
+430 ANDBRO DRIVE, UNIT 1
+PITMAN, NEW JERSEY 08071
+(877) 441 -8368
+wWwwsmartventcom
+Infogdamns arly
+
+  
+
+EVALUATION SUBJECT:
+
+SMART VENT® AUTOMATIC FOUNDATION FLOOD VENTS:
+MODELS #1540-520; #1540-521; #1540-510; #1540-511;
+#1540-570; #1540-574; #1540-524; #1540-514
+
+1.0 EVALUATION SCOPE
+Compliance with the following codes:
+
+B 2015, 2012, 2009 and 2006 /nternational Building
+Code® (IBC)
+
+@ 2015, 2012, 2009 and 2006 International Residential
+Code® (IRC)
+
+® 2013 Abu Dhabi International Building Code (ADIBC)t
+
+‘The ADIBC is based on the 2009 IBC. 2009 IBC code sections referenced
+in this report are the same sections in the ADIBC.
+
+Properties evaluated:
+@ Physical operation
+@ Water flow
+
+2.0 USES
+
+The Smart Vent® units are engineered mechanically
+operated flood vents (FVs) employed to equalize
+hydrostatic pressure on walls of enclosures subject to
+rising or falling flood waters. Certain models also allow
+natural ventilation.
+
+3.0 DESCRIPTION
+3.1 General:
+
+When subjected to rising water, the Smart Vent® FVs
+internal floats are activated, then pivot open to allow flow in
+either direction to equalize water level and hydrostatic
+pressure from one side of the foundation to the other. The
+FV pivoting door is normally held in the closed position by
+a buoyant release device. When subjected to rising water,
+the buoyant release device causes the unit to unlatch,
+allowing the door to rotate out of the way and allow flow.
+
+The water level stabilizes, equalizing the lateral forces.
+Each unit is fabricated from stainless steel. Smart Vent®
+Automatic Foundation Flood Vents are available in
+various models and sizes as described in Table 1. The
+SmartVENT® Stacking Model #1540-511 and FloodVENT®
+Stacking Model #1540-521 units each contain two
+vertically arranged openings per unit.
+
+3.2 Engineered Opening:
+
+The FVs comply with the design principle noted in Section
+2.7.2.2 and Section 2.7.3 of ASCE/SEI 24-14 [Section
+2.6.2.2 of ASCE/SEI 24-05 (2012, 2009, 2006 IBC and
+IRC)] for a maximum rate of rise and fall of 5.0 feet per
+hour (0.423 mm/s). In order to comply with the engineered
+opening requirement of ASCE/SEI 24, Smart Vent FVs
+must be installed in accordance with Section 4.0.
+
+3.3 Ventilation:
+
+The SmartVENT® Model #1540-510 and SmartVENT®
+Overhead Door Model #1540-514 both have screen covers
+with ‘/4-inch- by-"/4-inch (6.35 by 6. 35 mm) openings,
+yielding 51 square inches (32 903 mm 2) of net free area to
+supply natural ventilation. The SmartVENT® Stacking
+Model #1540-511 consists of two Model #1540-510 units
+in one assembly, and provides 102 square inches
+(65 806 mm?) of net free area to supply natural ventilation.
+Other FVs recognized in this report do not offer natural
+ventilation.
+
+4.0 DESIGN AND INSTALLATION
+
+SmartVENT® and FloodVENT® are designed to be
+installed into walls or overhead doors of existing or new
+construction from the exterior side. Installation of the
+vents must be in accordance with the manufacturer’s
+instructions, the applicable code and this report.
+Installation clips allow mounting in masonry and concrete
+walls of any thickness. In order to comply with the
+engineered opening design principle noted in Section
+2.7.2.2 and 2.7.3 of ASCE/SE! 24-14 [Section 2.6.2.2 of
+ASCE/SEI 24-05 (2012, 2009, 2006 IBC and IRC)], the
+Smart Vent® FVs must be installed as follows:
+
+@ With a minimum of two openings on different sides of
+each enclosed area.
+
+mg With a minimum of one FV for every 200 square
+feet (18.6 m?) of enclosed area, except that the
+SmartVENT® Stacking Model #1540-511 and
+FloodVENT® Stacking Model #1540-521 must be
+installed with a minimum of one FV for every
+400 square feet (37.2 m i) of enclosed area.
+
+@ Below the base flood elevation.
+
+ 
+
+ICC-ES Evaluation Reports are not to be construed as representing aesthetics or any other attributes not specifically addressed, nor are they to be construed
+as an endorsement of the subject of the report or a recomunendation for its use. There is no warranty by ICC Evaluation Service, LLC, express or implied, as i
+to any finding or other matter in this report, or as to any product covered by the report.
+
+Copyright © 2017 ICC Evaluation Service, LLC. All rights reserved.
+
+   
+
+‘Page 1 of 3
+    
+  
+
+ESR-2074 | Most Widely Accepted and Trusted
+
+@ With the bottom of the FV located a maximum of
+12 inches (305.4 mm) above the higher of the final
+grade or floor and finished exterior grade immediately
+under each opening.
+
+5.0 CONDITIONS OF USE
+
+The Smart Vent® FVs described in this report comply with,
+or are suitable alternatives to what is specified in, those
+codes listed in Section 1.0 of this report, subject to the
+following conditions:
+
+5.1 The Smart Vent® FVs must be installed in accordance
+with this report, the applicable code and the
+manufacturer's installation instructions. In the event of
+a conflict, the instructions in this report govern.
+
+5.2 The Smart Vent® FVs must not be used in the place
+of “breakaway walls” in coastal high hazard areas, but
+
+_Page 2 of 3
+
+ 
+
+ 
+
+are permitted for use in conjunction with breakaway
+walls in other areas.
+
+6.0 EVIDENCE SUBMITTED
+
+Data in accordance with the ICC-ES Acceptance Criteria
+for Mechanically Operated Flood Vents (AC364), dated
+August 2015.
+
+7.0 IDENTIFICATION
+
+The Smart VENT® models recognized in this report must
+be identified by a label bearing the manufacturer's name
+(Smartvent Products, Inc.), the model number, and the
+evaluation report number (ESR-2074).
+
+TABLE 1—MODEL SIZES
+
+  
+
+  
+
+MODEL NAME
+
+MODEL NUMBER
+
+ 
+
+  
+
+ 
+ 
+
+Flood VENT®
+
+ 
+
+ 
+
+1540-520
+
+MODEL SIZE (in.) COVERAGE (sq. ft.)
+15°/4" X Ta" 200
+00
+
+ 
+
+   
+
+ 
+
+SmartVENT® 1540-510 15°54" X 7344" 2
+FloodVENT® Overhead Door 1540-524 1574" X 7/4" 200
+18 Xe
+
+  
+ 
+
+Wood Wall Flood VENT® Overhead Door 1540-574
+
+ 
+ 
+
+1540-511
+1540-521
+
+ 
+
+SmartVENT® Stacker
+FloodVent” Stacker
+
+For SI: 1 inch = 25.4 mm; 1 square foot = m?
+
+ 
+
+  
+
+ 
+   
+ 
+
+14" X 87/4"
+16" X 16"
+
+ 
+
+400
+
+   
+
+ 
+
+   
+
+16" X 16" 400
+
+ 
+ESR-2074 | Most Widely Accepted and Trusted Page 3 of 3
+
+ 
+
+FIGURE 1—SMART VENT: MODEL 1540-510
+
+FIGURE 2—SMART VENT MODEL 1540-520
+
+ 
+
+ 
+
+ 
+
+FIGURE 3—SMART VENT: SHOWN WITH FLOOD DOOR PIVOTED OPEN
+ICC
+Sh: Most Widely Accepted and Trusted
+
+eet 6 Biacadal clad
+Prineetonnis
+
+ 
+
+iCC-ES Evaiuation Report ESR-2074 CBC and CRC Suppiement
+Issued January 2017
+This report is subject to renewal February 2019.
+
+ 
+
+ore | (800) 423-6587 | (562) 699-0543 A Subsidiary of the International Code Council®
+
+  
+
+ 
+
+DIVISION: 08 00 00O—OPENINGS
+Section: 08 95 43—Vents/Foundation Flood Vents
+
+REPORT HOLDER:
+
+SMARTVENT PRODUCTS, INC.
+430 ANDBRO DRIVE, UNIT 4
+PITMAN, NEW JERSEY 08071
+(877) 441-8368
+
+rtvent.com
+
+EVALUATION SUBJECT:
+
+  
+   
+
+SMART VENT® AUTOMATIC FOUNDATION FLOOD VENTS: MODELS #1540-520; #1540-521 ; #1540-510; #1540-511; #1540-570;
+#1540-574; #1540-524; #1540-514
+
+1.0 REPORT PURPOSE AND SCOPE
+
+Purpose:
+The purpose of this evaluation report supplement is to indicate that Smart Vent® Automatic Foundation Flood Vents,
+ee in ICC-ES master evaluation report ESR-2074, have also been evaluated for compliance with codes noted
+Applicable code edition:
+@ 2016 California Building Code (CBC)
+@ 2016 California Residential Code (CRC)
+2.0 CONCLUSIONS
+2.1 CBC:
+
+The Smart Vent® Automatic Foundation Flood Vents, described in Sections 2.0 through 7.0 of the master evaluation report
+ESR-2074, comply with 2016 CBC Chapter 12, provided the design and installation are in accordance with the 2015
+International Building Code® (IBC) provisions noted in the master report and the additional requirements of CBC Chapters
+12, 16 and 16A, as applicable.
+
+The products recognized in this supplement have not been evaluated under CBC Chapter 7A for use in the exterior design
+and construction of new buildings located in any Fire Hazard Severity Zone within State Responsibility Areas or any
+Wildland-Urban Interface Fire Area.
+
+2.2 CRC:
+
+The Smart Vent® Automatic Foundation Flood Vents, described in Sections 2.0 through 7.0 of the master evaluation report
+ESR-2074, comply with the 2016 CRC, provided the design and installation are in accordance with the 2015 /nternational
+Residential Code™ (IRC) provisions noted in the master report.
+
+The products recognized in this supplement have not been evaluated under 2016 CRC Chapter R337, for use in the
+exterior design and construction of new buildings located in any Fire Hazard Severity Zone within State Responsibility Areas
+or any Wildland-Urban Interface Fire Area.
+
+The products recognized in this supplement have not been evaluated for compliance with the International Wildland—Urban
+Interface Code®.
+
+This supplement expires concurrently with the master report, reissued February 2017.
+
+ 
+
+as an endorsement of the subject of the report ar a recommendation for its use. There is no warranty by ICC Evaluation Service, LLC, express or implied, as
+
+ICC-ES Evaluation Reports are not to be construed as representing aesthetics or any other attributes not specifically addressed, nor are they to be construed ES. aD
+to any finding or other matter in this report, or as to any product covered by the report. Reap tS
+
+Copyright © 2017 ICC Evaluation Service, LLC. All rights reserved. Page 1 of 1
+a
+ois
+i) .
+Sade Most Widely Accepted and Trusted
+
+—ereirnd EAL LD
+g ppre nt
+
+ 
+
+iCC-ES Evaluation Report ESR-2074 FBC Supplement
+Reissued February 2017
+This report is subject to renewal February 2019.
+
+ci | (800) 423-6587 | (562) 699-0543 A Subsidiary of the International Code Council®
+
+wew.ics-
+
+ 
+
+ 
+
+DIVISION: 08 00 0O—OPENINGS
+Section: 08 95 43—Vents/Foundation Flood Vents
+
+REPORT HOLDER:
+
+SMARTVENT PRODUCTS, INC.
+430 ANDBRO DRIVE, UNIT 1
+PITMAN, NEW JERSEY 08071
+(877) 441-8368
+
+afivent.com
+
+   
+
+EVALUATION SUBJECT:
+
+SMART VENT® AUTOMATIC FOUNDATION FLOOD VENTS: MODELS #1540-520; #1540-521 ; #1540-510; #1540-511; #1540-570;
+#1540-574; #1540-524; #1540514
+
+1.0 REPORT PURPOSE AND SCOPE
+
+Purpose:
+
+The purpose of this evaluation report supplement is to indicate that Smart Vent® Automatic Foundation Flood Vents, recognized
+in ICC-ES master report ESR-2074, have also been evaluated for compliance with the codes noted below.
+
+Applicable code editions:
+
+@ 2014 Florida Building Code—Building (FBC)
+
+mg 2014 Florida Building Code—Residential (FRC)
+2.0 CONCLUSIONS
+
+The Smart Vent® Automatic Foundation Flood Vents, described in Sections 2.0 through 7.0 of the master evaluation report
+ESR-2074, comply with the FBC and the FRC, provided the design and installation are in accordance with the /nternational
+Building Code® provisions noted in the master report.
+
+Use of the Smart Vent® Automatic Foundation Flood Vents has also been found to be in compliance with the High-Velocity
+Hurricane Zone provisions of the FBC and the FRC.
+
+For products falling under Florida Rule 9N-3, verification that the report holder's quality assurance program is audited by a
+quality assurance entity approved by the Florida Building Commission for the type of inspections being conducted is the
+responsibility of an approved validation entity (or the code official when the report holder does not possess an approval by
+the Commission).
+
+This supplement expires concurrently with the master report, reissued February 2017.
+
+ICC-ES Evaluation Reports are not to be construed as representing aesthetics or any other attributes not specifically addressed, nor are they to be construed ©
+as an endorsement of the subject of the report or a recommendation for its use. There is no warranty by ICC Evaluation Service, LLC, express or implied, as
+to any finding or other matter in this report, or as to any product covered by the report.
+
+ire
+a Egle at,
+
+ 
+
+Copyright © 2017 ICC Evaluation Service, LLC. All rights reserved. Page 1 of 1
+ 
+Report Date 10/24/2024
+
+G,
+Xa C U S LB Report Number 14119019
+as Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 765 COLUMBUS DR, ST. PETERSBURG, FL 33715
+Standardized Location 765 COLUMBUS DR, ST PETERSBURG, FL 33715-2033
+
+Latitude, Longitude 27 .683242, -82.730065 Parcel ID 16 32 19 90900 010 0230
+FIPS / MSA / Tract 12103 / 41304 / 201.06 Community No. 125139
+
+Community Name PINELLAS COUNTY *
+
+County Name UNINCORPORATED AREAS
+
+Zone\VE
+(el\11 ft)
+
+a
+
+ae
+raetitait al zone\VE —
+aa CAG
+
+ 
+
+one)VE Zone\VE Ss EL ES S
+
+PPA Ela 3 MOU a |
+
+|soot | iow ye i : corer "© Mabox © OpenstreetMMag
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (333 ft)
+
+BFE 9 Feet NAVD88 (9.94 ft NGVD29) USGS Ground Elev 3 ft NAVD88
+
+FEMA Map 12103C0286H, 08/24/2021 Previous Map 12103C0286G, 09/03/2003, Zone AE
+
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 06/18/1971
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+
+Claims* $ / # $28,831,294 / 5764 NFIP PIF* 27357 NFIP Discount 40%
+
+Flood Source 248 ft Salt Water 272 ft Fresh Water 4935 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+PROGRESSIVE
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP241024140019
+
+Policy Number: FLD1660094554
+
+Insured Name: PEDRO PASTRANA
+
+Property Address: 765 COLUMBUS DR, Saint Petersburg, FL, 33715
+Transaction Date: 10/24/2024
+
+Remittance ID: 27INAFI1I
+
+Premium Paid: $6786
+STANDARD FLOOD INSURANCE Progressive
+APPLIC ATION https://www.foremost.com/
+
+(800) 260-9270
+
+PROGRESSIVE
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date Application Number Effective Date Expiration Date Waiting Period
+
+10-24-2024 FLD1660094554 11-23-2024 11-23-2025 Standard - 30 Day Wait
+
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+
+PEDRO PASTRANA 765 Columbus Dr, 765 COLUMBUS DR, PO BOX 2057,
+Saint Petersburg, FL, 33715 Saint Petersburg, FL, 33715 Kalispell, MT, 59903
+Home Phone: : : : .
+
+Email:Progressiveflood@nationalfloodservices.com
+
+Work Phone:
+
+Property Address Type:Location Phone Number:8883918533
+
+Cell Phone:(317)590-5262
+Agent Name:NATIONAL FLOOD SERVICES LLC
+
+Email:kellyjbrown77@yahoo.com
+
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+
+. . Other Policy Number:
+Prior Policy Number:
+
+Potential Duplicate Policy:
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:125139
+
+Map Panel:0286 Prior Community Information
+Community Number:
+
+Map Panel Suffix:H
+Map Panel:
+
+Current Flood Zone:AE
+Map Panel Suffix:
+
+Current Base Flood Elevation(BFE):2.8
+FIRM Date:06-18-1971
+Program:FLOODREGULAR
+
+Program Status:
+
+County:Pinellas County
+
+Current Map Date:08-24-2021
+
+Flood Zone:
+
+FIRM Date:06-18-1971
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Rating Map Date:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:NO
+Construction Date Prior Owner Policy Number:
+Date of Original Construction:0 1-01-2017 Prior Owner Company Name: ;
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Residence: YES
+
+Ir
+Date: fi 6
+
+ee
+a in,
+APC PRV 0721 ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PROGRESSIVE
+
+Progressive
+https://www.foremost.com/
+
+(800) 260-9270
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+ 
+
+Date
+10-24-2024
+
+Effective Date
+11-23-2024
+
+Application Number
+FLD1660094554
+
+ 
+
+ 
+
+ 
+
+Expiration Date
+11-23-2025
+
+Waiting Period
+Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:‘NO
+Building Construction Type:Masonry
+Construction Type Description:
+
+Estimated Building Replacement Cost:250000
+Replacement Cost Value Returned by FEMA 658280
+Total sq. footage of building:3 182
+
+Total # of floors in building:1
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:08-09-2017
+Diagram Number:1B
+
+Top of Bottom Floor:11.2
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):6.8
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height:4.4
+FEMA First Floor Height:4.4
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 250,000.00 2,000.00
+
+Content 100,000.00 2,000.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 5,275.00
+Content Premium: $ 2,890.00
+Increased Cost of Compliance (ICC) Premium: $ 75.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (2,550.00)
+Full Risk Premium: $ 5,690.00
+Annual Increase Cap Discount: $ 0.00
+Newly Mapped Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 5,690.00
+Reserve Fund Assessment: $ 1,024.00
+HFIAA Surcharge: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 6,786.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+A
+
+AOA
+
+AIATINAIAL CIAAN
+@
+
+Progressive
+
+Progressive https://www.foremost.com/
+
+PO Box 2057 Kalispell MT 59903 USA (800) 260-9270
+NAIC# : 21660
+
+PROPERTY ADDRESS #: 765 COLUMBUS DR, Tierra Verde, FL, 33715 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660094554 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660094554
+
+POLICY TERM: 11-23-2024 (12:01 AM) - 11-23-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+
+POLICY ISSUED BY: Foremost Insurance Company, Grand Rapids, MI
+
+PAYOR: PEDRO PASTRANA
+
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+
+PEDRO PASTRANA & KELLY JO PASTRANA
+
+765 COLUMBUS DR, NATIONAL FLOOD SERVICES LLC
+
+: PO BOX 2057, Kalispell, MT, 59903
+Tierra Verde, FL, 33715
+
+Phone : 8883918533
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ 6 466
+9
+Contents $ 100,000 $ 2,000 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Building Premium: $ 5,275
+Primary Residence YES .
+Contents Premium: $ 2,890
+Building Occupancy Single Family . .
+Increased Cost of Compliance (ICC) Premium: $75
+Building Description Main House/Building coo, .
+Mitigation Discounts: $ (255.00)
+First Floor Height (FFH) 44 . . .
+Community Rating System Discount: $ (2,566.00)
+Method Used to Determine FFH EC
+Full-Risk Premium: $ 5,419
+, Slab on Grade (non-elevated), 1 Floors , . .
+Property Description Discounted Premium: $5,419
+Masonry
+. Fees and Surcharges:
+Date of Construction 01-01-2017
+. . . Reserve Fund Assessment: $ 975
+Prior NFIP Claims 0 Claim(s)
+. . : HFIAA Surcharge: $ 25
+Your property’s NFIP flood claims history can affect your premium.
+Federal Policy Fee: $47
+Total Premium $ 6,466
+ADDITIONAL INTERESTS
+Additional Insured
+KELLY JO PASTRANA ,
+
+765 Columbus Dr,
+Saint Petersburg, FL, 33715
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+iled: 10-28- . we ee
+Date Mailed: 10-28-2024 To learn more about your flood risk, please visit FloodSmart.gov ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM

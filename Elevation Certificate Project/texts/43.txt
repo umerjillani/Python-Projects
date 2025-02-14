@@ -1,0 +1,840 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Contr No, 1660-0008
+Federal Emergency Management Agency Expiration Date: 08/30
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+Copy al all pages of this Elevation Certifi cate and all attachments for (1) community official, (2) i insurance agent/company, and (3) building owner.
+
+A-PROPERTYINFORMATION —————S—Ss=s|- FOR INSURANCE COMPANY USE |
+
+ 
+
+A1. Building Owner's Name: MARK DYE Policy Number:
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:_ | Company NAIC Number:
+517 RIVER OAKS DRIVE
+
+City: AUSTIN State. TX ZIP Code: 78748
+
+ 
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+LOT 167 SAN LEANNA ESTATES, PROPERTY 1D:349551
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): RESIDENTIAL
+Ad. Latitude/Longitude: Lat. 30°08'52.50" Long. -97°48'54.02" Horiz. Datum: [| NAD 1927 [_] NAD 1983 [x] WGS 84
+A8. Attach at least two and when possible four clear color photographs (one for each side) of the building (see Form pages 7 and 8).
+AT. Building Diagram Number: iA
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [|] Yes [|] No [X] N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A _ Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in A8.c: N/A sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): N/A sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): N/A sq. ft.
+AQ. For a building with an attached garage:
+a) Square footage of attached garage: N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? []Yes [-]No [XxX] N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A _ Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in AQ.c: N/A sq. in.
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): N/A sq. ft.
+
+f) Sum of A9.d and A9Y.e rated area (if applicable ~ see Instructions): N/A sq. ft.
+
+ 
+
+B1.a. NFIP Community Name: VILLAGE OF SAN LEANNA B1.b. NFIP Community Identification Number: 481305
+
+B2. County Name: TRAVIS B3. State: TX B4. Map/Panel No.: 48453C0590 B5. Suffix: J
+B6. FIRM Index Date: 01/22/2020 B7. FIRM Panel Effective/Revised Date:
+B8. Flood Zone(s): X B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): N/A
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+FIS [-] FIRM [_] Community Determined [_] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: ["] NGVD 1929 [x] NAVD 1988 [_] Other/Source:
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [] Yes [xX] No
+Designation Date: []CBRS []OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [_] Yes [x] No
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 2 of 8
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+517 RIVER OAKS DRIVE
+
+City: AUSTIN State: TX — ZIP Code: 78748
+
+Policy Number:
+Company NAIC Number:
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: [_] Construction Drawings* [_] Building Under Construction* Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations —- Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+Ag¥. Complete Items C2Z.a—h below according to the Building Diagram specified in Item AT. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: LCRA BM E335 Vertical Datum: NAVD88
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+
+LJ NGVvD 1929 [xX] NAVD 1988 [_] Other:
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? [] Yes [X] No
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+
+Check the measurement used:
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 629.1 [xX] feet [] meters
+b) Top of the next higher floor (see Instructions): 639.1 [xX] feet [] meters
+c) Bottom of the lowest horizontal structural member (see Instructions): N/A {X] feet [_] meters
+d) Attached garage (top of slab): N/A {X] feet [] meters
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area): 628.0 <j feet [] meters
+
+f) Lowest Adjacent Grade (LAG) next to building: [X] Natural [_] Finished 627.4 [X feet [] meters
+g) Highest Adjacent Grade (HAG) next to building: [x] Natural [_] Finished 628.2 [X] feet [] meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: N/A &] feet [-] meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. / certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? [_] Yes No
+[_]Check here if attachments and describe in the Comments area.
+
+Certifier's Name: COLIN BROMLEY License Number: 6955
+
+Title: RPLS
+
+Company Name: TRI-TECH SURVEYING
+
+Address: 155 RIVERWALK DRIVE
+
+City: SAN MARCOS State: TX — ZIP Code: 78666
+Telephone: (512) 440-0222 Ext: Email: CBROMLEY@TRITECHTX.COM
+
+4
+Signature: bh he Date: OO /26/24
+
+Copy all pages of this Elevation Certificate and all attachments for (1) cornmunily official, (2) insurance agent/company, and (3) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+B(9) - NEAREST ADJACENT BFE = 627.0'
+
+C(2)e - A/C PAD
+
+C(2)f-g - ADJACENT GRADE AT TIME OF SURVEY
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 3 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+517 RIVER OAKS DRIVE
+City: AUSTIN State. TX ZIP Code: 78748
+
+Policy Number:
+Company NAIC Number:
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,”
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+Photo One Caption: FRONT Clear Photo One
+
+Photo Two Caption: REAR Clear Photo Two
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 7 of 8
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+BUILDING PHOTOGRAPHS
+
+Continuation Page
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+517 RIVER OAKS DRIVE
+
+ine a a Policy Number:
+City: AUSTIN __IX on
+ity: AUSTIN, state ZIP Code: 78748 Company NAIC Number:
+
+ 
+
+ 
+
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View," "Rear View," "Right Side
+
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or
+vents, as indicated in Sections A8 and AQ.
+
+Photo Three Caption: LEFT Clear Photo Three
+
+5
+ap
+J
+Z
+s
+a
+
+Photo Four Caption: RIGHT Clear Photo Four
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 8 of 8
+STANDARD FLOOD INSURANCE Progressive
+APPLICATION https:/Avww.foremost.com/
+
+(800) 260-9270
+
+PROGRESSIVE
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date Application Number Effective Date Expiration Date Waiting Period
+
+10-11-2024 FLD1660090871 11-10-2024 11-10-2025 Standard - 30 Day Wait
+
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+
+MARK & JUDITH DYE 517 River Oaks Dr, 517 RIVER OAKS DR, PO BOX 2057,
+Austin, TX, 78748 Austin, TX, 78748 Kalispell, MT, 59903
+Home Phone: . . . .
+
+Email:Progressiveflood@nationalfloodservices.com
+
+Work Phone:
+
+Property Address Type:Location Phone Number:88839 18533
+
+Cell Phone:(512)300-9901
+Agent Name:NATIONAL FLOOD SERVICES LLC
+
+Email:markdyemark@msn.com
+Applicant Type:INDIVIDUAL
+
+Prior Company NAIC: .
+Other Policy Number:
+
+Prior Policy Number: . . .
+Potential Duplicate Policy:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:481305
+Map Panel:0590 Prior Community Information
+
+Community Number:
+Map Panel Suffix:J
+
+Current Flood Zone:X
+Current Base Flood Elevation(BFE):
+FIRM Date:03-11-1980
+
+Map Panel:
+
+Map Panel Suffix:
+Flood Zone:
+
+FIRM Date:03-11-1980
+
+Program:FLOODREGULAR .
+Has This Property Been Remapped?:
+Program Status: _
+. Map Revision Date:
+County:Travis County
+
+Current Map Date:01-22-2020
+Rating Map Date:
+
+ 
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:YES
+
+Construction Date Prior Owner Policy Number:
+
+Date of Original Construction:01-01-1984 Prior Owner Company Name:
+
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+Is this the Applicant's Primary Is the insured a nonprofit entity? :NO
+Residence: YES
+
+Date:
+
+APC PRV 07 21
+
+ 
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PROGRESSIVE
+
+Progressive
+https://www.foremost.com/
+
+(800) 260-9270
+
+PO Box 2057, Kalispell, MT, 59903
+
+Date
+10-11-2024
+
+Application Number
+FLD1660090871
+
+Effective Date
+11-10-2024
+
+ 
+
+SS
+Expiration Date
+
+11-10-2025
+
+ 
+
+Waiting Period
+Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:646189
+Replacement Cost Value Returned by FEMA:268673
+Total sq. footage of building:1729
+
+Total # of floors in building:2
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:06-26-2024
+Diagram Number:1A
+
+Top of Bottom Floor:629.1
+
+Top of Next Higher Floor:640
+
+Lowest Adjacent Grade (LAG):628
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height:1.1
+FEMA First Floor Height:1.1
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 80,000.00 2,000.00
+
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 1,765.00
+Content Premium: $0.00
+Increased Cost of Compliance (ICC) Premium: $ 34.00
+Mitigation Discount: $0.00
+Community Rating System Reduction: $0.00
+Full Risk Premium: $ 1,799.00
+Annual Increase Cap Discount: $0.00
+Pre-Firm Discount: $0.00
+Discounted Premium: $ 1,799.00
+Reserve Fund Assessment: $ 324.00
+HFIAA Surcharge: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $0.00
+Total Quoted Premium $ 2,195.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+SS
+
+AATIAALALD FAA
+
+ 
+@
+
+Progressive
+
+Progressive https://www.foremost.com/
+
+PO Box 2057 Kalispell MT 59903 USA (800) 260-9270
+NAIC# : 21660
+
+PROPERTY ADDRESS #: 517 RIVER OAKS DR, Austin, TX, 78748 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660090871 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660090871
+
+POLICY TERM: 11-10-2024 (12:01 AM) - 11-10-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+
+POLICY ISSUED BY: Foremost Insurance Company, Grand Rapids, MI
+
+PAYOR: MARK & JUDITH DYE
+
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+
+MARK & JUDITH DYE
+
+517 River Oaks Dr, NATIONAL FLOOD SERVICES LLC
+
+PO BOX 2057, Kalispell, MT, 59903
+Austin, TX, 78748 » Kalispell, 5
+
+Phone : 8883918533
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 80,000 $ 2,000 $ 2 l 02
+9
+Contents $0 $0 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+. . Building Premium: $ 1,688
+Primary Residence YES
+Contents Premium: $0
+Building Occupancy Single Family . .
+_ : a Increased Cost of Compliance (ICC) Premium: $ 32
+Building Description Main House/Building . . .
+. . Community Rating System Discount: $0
+First Floor Height (FFH) 1.7
+Full-Risk Premium: $ 1,720
+Method Used to Determine FFH EC
+Discounted Premium: $ 1,720
+Property Description Slab on Grade (non-elevated), 2 Floors , Frame
+; Fees and Surcharges:
+Date of Construction 01-01-1984
+. . . Reserve Fund Assessment: $310
+Prior NFIP Claims 0 Claim(s)
+; ; ; HFIAA Surcharge: $ 25
+Your property’s NFIP flood claims history can affect your premium. .
+Federal Policy Fee: $47
+Total Premium $ 2,102
+
+ADDITIONAL INTERESTS
+
+ 
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+
+For questions about your flood insurance rating, contact your agent or insurance company.
+
+Date Mailed: 10-30-2024
+
+To learn more about your flood risk, please visit FloodSmart.gov
+
+SS
+
+Meant noon
+
+ 
+Report Date 10/8/2024
+
+¢,
+Xa C U S dD Report Number 13943068
+4 Standard X
+
+FloodRisk Standard
+
+ 
+
+Provided Location 517 RIVER OAKS DR, AUSTIN, TX 78748
+Standardized Location 517 RIVER OAKS DR, AUSTIN, TX 78748-3844
+
+Latitude, Longitude 30.147912, -97.814966 Parcel ID 0438190410
+FIPS / MSA/ Tract 48453 / 12420 / 24.07 Community No. 481305
+Community Name SAN LEANNA, VILLAGE OF
+
+County Name TRAVIS
+
+Hilal) PrFTe | fd k=?
+J "
+
+a5
+
+-.
+
+eer
+'
+o
+a.
+Mo
+
+SEI BO Lerma]
+
+jew
+
+ra
+
+nigel
+wa
+
+r ac
+
+EO
+vat
+ie
+
+wrk
+
+ 
+
+NY Y
+a
+cs
+oF Leaflet | © Mapbox © OpenStreetMap
+Flood Zone Zone X500 Next Nearest Zone (Dist.) AE (95 ft)
+BFE NOT APPLICABLE USGS Ground Elev 621 ft NAVD88
+FEMA Map 48453C0590J, 01/22/2020 Previous Map 48453C0590H, 09/26/2008, Zone X
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 09/28/1979
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $41,600 / 4 NFIP PIF* 12 NFIP Discount N/A
+Flood Source 299 ft Salt Water >6 miles Fresh Water 333 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+ 
+
+Lae ch are ST oe Te Pow ee, ME eee ee See eee tee ee Spb penee- ens Ms A Py Ps eer een ke ee
+
+ 
+
+ 
+
+«
+
+ 
+
+sheet
+
+ 
+
+ 
+
+“Bt 7 River Oaks: Dr ee
++ Austin, TX 78748. .; -
+
+EN Hehe Adame ppm Aaa rae ©
+
+ 
+
+ieee oe Fee ee . ; . , 6 ow Kelby
+: , age
+
+ 
+
+- Becurity
+, Features.”
+eo aile on
+Back.
+
+~ owt
+
+ 
+ 
+
+eeanie
+
+- Randolph Brooks
+POBOw2097 ss: Sates x | ote
+“Universal City> TX 78148-2097 “-. SOOT SRI
+
+FL 2166007047
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+:
+:
+:
+«|
+:
+
+ 
+
+ae EY ceee-t meer meee SOURS met SRO ITY COWEN SORRY cree meade memeoiy  merymete
+
+ 
+
+ 
+
+.
+q ; = Te: F i FEES ee eae ae eee al Ea BIA FTE EO Si PR ora are ep Ray EES TE
+ 
+
+ 
+
+ENDORSE HERE
+
+[I CHECK BOX FOR MOBILE/REMOTE DEPOSIT
+
+WRITE NAME OF FINANCIAL INSTITUTION ON LINE ABOVE“
+
+OR AGEN ALDOCUMEN TOR TUENALINIC UMEM TOA ECENALROC UME GR EP EUALOOCUMENTOR FGENALOGS OMENT
+
+yoeg pue jody Yjog uO ueadde sjods pazojod 26 SuLE}S UNMOIG o
+paigaddesip sey 20 uid syoo) y9eg WO yu] BANONY ©
+
+nasayje seadde 10 Buissiw ae @AOge paysi| Saunjeay ayy jo Auy o
+“j] YS23 jou OQ
+
+ORG PUL IYO UO B/qISTA WOR} YOOIPeg o
+
+yg By) SSOU9e ANAINNIO TWNIDIYO,, SPIGM 3411 0
+
+yaeq pue judg} UO pajud Saul) (yyy) JULdOZIIIAI o
+
+pnesj 18}9p 0} poubisap yoeq Uo WayEd @aaeapy AyNIaS ayy o
+BIIATP B]iGow CIA Paysodap usag sey ysays
+
+S}LINPU! O} HILW YIAYS WSOdaG sfIqOIAY ‘@yeNNANGOIN ©
+
+lapnjgul pue spaepuejs Aysnpul pagoxa sasnyeay Aqunaes
+Keep this stub as your record Notice Date: [11-2
+
+COMET ETOH S ENS TRENT EER EHH TEPER ET OTH ETTORE KOHN HTH OTERO RHEE MERE ER ET EERO NTT EER Ee veneer err wen EHO vero ER eR
+
+CHECKS GK DRAFTS ACCEPT rp IN PAYMENT “ONT Y IN EVE ENT THEY ARE HE YNORED WHEN. FIRST PRESENTED, £0 lee ASIS FRE FOR A RETURNED
++0 i004 OF7I
+To pay by check or money order: POLICY #
+
+© Make payment for the exact amount of the coverage option selected insurep Mark st Juditn Dagiark & JU
+© Full payment is required for the Option selected EFFECTIVE DATE:
+
+¢ Payment Stub - please detach and return this portion with your payment . a _
+@ Please include policy number on your check Option a
+
+F 209s
+
+$ 2195
+
+SELECT ONE
+
+ 
+
+   
+
+ee Or scan
+the code:
+
+Waat to overnight your payment? 555 Corporate Drive, Suite MM
+Kalispell MT S9901
+
+Progressive
+PO Box 2057
+cee eee . . Kalispell MT $9903 won
+
+Notive Date : 10-11-2024
+
+QOOODLELOOWOA? LZ LLGO7 SLL 7 Sone Lasoao0o0onn0eDs
+
+Dye. M Flood Policy Invoice.pdf
+
+aA
+
+FLD) ©
+i
+
+hy
+
+ 
+MR EO As WA. “eer
+PUSS be FP
+
+RIO GRANDE DISTRICT
+12 OCT 2024 PM3.L
+
+Mark Dye
+
+517 River Oaks Dr.
+Austin, TX 78748
+
+ 
+ 
+
+Tre oresyi€
+
+PO Box ZOo/
+
+BSGCS-EnETE7 yp Pee hoagie fbysene AAT halo tNd yg foal ft
+a
+
+ 
+
+ 
+
+“ty
+t
+{
+
+rt _—-
+i ae

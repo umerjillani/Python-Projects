@@ -1,0 +1,856 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB No. 1660-0008
+Federal Emergency Management Agency Expiration Date: November 30, 2022
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+
+Important: Follow the instructions on pages 1-9.
+
+Copy all pages of this Elevation Certificate and ali attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A = PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+A1. Building Owner's Name Policy Number:
+MICHAEL MITCHELL
+
+A2. Bulleng Street Address (including Apt., Unit, Suite, and/or Bidg. No.) or P.O. Route and Company NAIC Number:
+
+125 SW 26 RD
+
+State ZIP Code
+Florida 33129
+
+A3. Property Description (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+FOLIO 01-4139-005-0920, LOT 12 & SOUTHEASTERLY 20' OF LOT 43 BK 20 OF BRICKELL HAMMOCK UNIT #1 PB 5 PG 113
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.) RESIDENTIAL
+A5. Latitude/Longitude: Lat, 25°45'12.93"'N Long. 80°12'22.25"W Horizontal Datum: [_] NAD 1927 NAD 1983
+A6. Attach at least 2 photographs of the building if the Certificate is being used to obtain flood insurance.
+A7. Building Diagram Number 1B
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawispace or enclosure(s) N/A sq ft
+
+b) Number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade N/A
+
+c) Total net area of flood openings in A8.b N/A sq in
+d) Engineered flood openings? [_] Yes No
+. For a building with an attached garage:
+a) Square footage of attached garage N/A sq ft
+b) Number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade N/A
+
+c) Total net area of flood openings in A9.b N/A sq in
+
+d) Engineered flood openings? [_] Yes No
+
+SECTION B —- FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1. NFIP Community Name & Community Number B2. County Name B3. State
+CITY OF MIAMI 126650 MIAMI-DADE COUNTY Florida
+B4. Map/Panei 85. Suffix | B6. FIRM Index B7. FIRM Panel B8. Flood B9. Base Flood Elevation(s)
+
+Nurmber Date Effective/ Zone(s) (Zone AO, use Base Fload Depth)
+- Revised Date
+
+12086C0314 . . 09-11-2009 09-11-2009 Xx N/A
+
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in Item B9:
+_] FIS Profile [x] FIRM [[] Community Determined ["] Other/Source:
+
+B11. Indicate elevation datum used for BFE in Item B9: NGVD 1929 [_] NAVD 1988 [(] Other/Source:
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? C] Yes No
+Designation Date: [] CBRS [] OPA
+
+ 
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 1 of 6
+OMB No. 1660-0008
+ELEVATION CERTIFICATE Expiration Date: November 30, 2022
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. Policy Number:
+
+  
+  
+ 
+     
+
+     
+   
+
+125 SW 26 RD
+
+City State ZIP Code Company NAIC Number
+MIAMI Florida 33129
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: + [_] Construction Drawings* [_] Building Under Construction* —_ [x] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO.
+Complete Items C2.a—h below according to the building diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: E-269 Vertical Datum: NGVD 1929
+Indicate elevation datum used for the elevations in items a) through h) below.
+
+NGVD 1929 [_] NAVD 1988 [_] Other/Source:
+
+Datum used for building elevations must be the same as that used for the BFE.
+Check the measurement used.
+
+   
+    
+
+  
+
+     
+      
+
+ 
+    
+      
+   
+     
+   
+     
+     
+   
+       
+
+ 
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor) 12.7 feet [_] meters
+b) Top of the next higher floor 13.0 feet [_] meters
+c) Bottom of the lowest horizontal structural member (V Zones only) N/A feet [_] meters
+d) Attached garage (top of slab) N/A feet [(] meters
+
+e) Lowest elevation of machinery or equipment servicing the building
+
+  
+       
+    
+
+(Describe type of equipment and location in Comments) Ci feet [_] meters
+f) Lowest adjacent (finished) grade next to building (LAG) 117 feet (_] meters
+g) Highest adjacent (finished) grade next to building (HAG) 11.8 feet [| meters
+h) Lowest adjacent grade at lowest elevation of deck or stairs, including
+
+structural support N/A feet [_] meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by law to certify elevation information.
+| certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any false
+statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Yes LINo [_] Check here if attachments.
+
+      
+  
+      
+   
+   
+
+ 
+ 
+
+  
+
+Certifier's Name
+OSCAR E BAEZ
+
+Title
+REGISTERED SURVEYOR AND MAPPING LLC
+
+Company Name
+360° SURVEYING AND MAPPING, LLC
+
+Address
+2935 SW 82ND AVENUE
+
+City State ZIP Code
+
+License Number
+5034
+
+ 
+     
+
+ 
+   
+
+vibbality,
+yy er, BAEZ. 6
+Ne Fett Cug,
+ROR LNG ENS “8
+
+   
+  
+ 
+ 
+       
+  
+  
+
+  
+
+  
+
+   
+  
+
+      
+      
+
+MIAMI J Florida 33155
+
+Signature YY] Date Telephone Ex¥
+by y 10-25-2021 (305) 265-1002 M/A
+Vee
+
+Copy all pages/of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+including type of equipment and location, per C2(e), if applicable)
+DATA IN C2.a-h IS ONLY ACCURATE TO 0.1', SECTION C., C.2., e, TYPE OF EQUIPMENT = A/C REAR SIDE VIEW
+LATITUDE, LONGITUDE FROM GOOGLE EARTH,
+CROWN OF ROAD ELEVATION = 11.76' N.G.V.D.
+
+This Elevation Certificate not valid without the Electronic Signature and Digital Seal and/or the Signature and Original Raised Seal of a
+Florida Licensed Surveyor and Mapper
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 2 of 6
+OMB No. 1660-0008
+ELEVATION CERTIFICATE Expiration Date: November 30, 2022
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bidg. No.) or P.O. Route and Box No. Policy Number:
+125 SW 26 RD
+
+State ZIP Code Company NAIC Number
+Florida 33129
+
+SECTION E — BUILDING ELEVATION INFORMATION (SURVEY NOT REQUIRED)
+FOR ZONE AO AND ZONE A (WITHOUT BFE)
+
+For Zones AO and A (without BFE), complete Items E1—E5. If the Certificate is intended to support a LOMA or LOMR-F request,
+complete Sections A, B,and C. For Items E1-E4, use natural grade, if available. Check the measurement used. In Puerto Rico only,
+enter meters,
+E1. Provide elevation information for the following and check the appropriate boxes to show whether the elevation is above or below
+the highest adjacent grade (HAG) and the lowest adjacent grade (LAG).
+a) Top of bottom floor {including basement,
+crawlspace, or enclosure) is —_S:~*é«dE feet’ [E] meters] above or [J beiow the HAG.
+b) Top of bottom floor (including basement,
+crawlspace, or enclosure) is L}feet []meters [] above or [_] below the LAG.
+
+. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1—2 of Instructions),
+the next higher floor (elevation C2.b in
+
+the diagrams) of the building is _ SCS feet [meters [J above or [_]below the HAG.
+
+. Attached garage (top of slab) is _ et SC«d feet (-] meters [[] above or [_|below the HAG.
+
+. Top of platform of machinery and/or equipment
+servicing the building is ss |feet []meters [] above or [_]below the HAG.
+
+. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? [] Yes [-] No [] Unknown. The local official must certify this information in Section G.
+
+SECTION F - PROPERTY OWNER (OR OWNER'S REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without a FEMA-issued or
+community-issued BFE) or Zone AO must sign here. The statements in Sections A, B, and E are correct to the best of my knowledge.
+
+Property Owner or Owner's Authorized Representative's Name
+
+Address City ZIP Code
+Signature Telephone
+
+Comments
+
+{] Check here if attachments.
+
+ 
+
+FEMA Form 086-0-33 (12/19) Replaces ail previous editions. Form Page 3 of 6
+ 
+
+OMB No. 1660-0008
+ELEVATION CERTIFICATE Expiration Date: November 30, 2022
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. Na.) or P.O. Route and Box No. Policy Number:
+125 SW 26 RD
+
+State ZIP Code Company NAIC Number
+Florida 33129
+
+SECTION G — COMMUNITY INFORMATION (OPTIONAL)
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+
+Sections A, B, C (or £), and G of this Elevation Certificate. Complete the applicable itern(s) and sign below. Check the measurement
+used in Items G8—G10. In Puerto Rico only, enter meters.
+
+G1. (1 The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+
+engineer, or architect who is authorized by law to certify elevation information. (Indicate the source and date of the elevation
+data in the Comments area below.)
+
+[_] Acommunity official completed Section E for a building located in Zone A (without a FEMA-issued or community-issued BFE)
+: or Zone AO.
+
+_ []_ The following information (Items G4—G10) is provided for community floodplain management purposes.
+
+. Permit Number G5. Date Permit Issued G6. Date Certificate of
+Compliance/Occupancy Issued
+
+G7. This permit has been issued for: [_] New Construction [_] Substantial Improvement
+
+G8. Elevation of as-built lowest floor (including basement)
+of the building: —_s_J feet [J meters Datum
+
+G9. BFE or (in Zone AO) depth of flooding at the building site: ____=====—S—SCSCSsé<~CZd feet. [[] meets actu
+
+G10. Community's design flood elevation: L] feet [] meters Datum
+
+Local Official's Name Title
+Community Name Telephone
+
+Signature Date
+
+Comments (including type of equipment and location, per C2(e), if applicable)
+
+ 
+
+(_] Check here if attachments.
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 4 of 6
+BUILDING PHOTOGRAPHS
+ELEVATION CERTIFICATE See Instructions for Item A6. Se anatch Deke November 30, 2022
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. Policy Number:
+125 SW 26 RD
+
+State ZIP Code Company NAIC Number
+Florida 33129
+
+If using the Elevation Certificate to obtain NFIP flood insurance, affix at least 2 building photographs below according to the
+instructions for Item A6. Identify all photographs with date taken; "Front View" and "Rear View"; and, if required, "Right Side View" and
+"Left Side View." When applicable, photographs must show the foundation with representative examples of the flood openings or
+vents, as indicated in Section A8. If submitting more photographs than will fit on this page, use the Continuation Page
+
+Photo One
+
+Photo One Caption FRONT VIEW 09/23/2021 Clear Photo One
+
+Photo Two
+
+Photo Two Caption LEFT SIDE VIEW 09/23/2021 Clear Photo Two
+FEMA Form 086-0-33 (12/19) Replaces all previous editions Form Page 5 of 6
+
+ 
+BUILDING PHOTOGRAPHS
+ELEVATION CERTIFICATE Contaugiian Puss Expiration Date: November 30, 2022
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No Policy Number:
+125 SW 26 RD
+
+ 
+
+State ZIP Code Company NAIC Number
+Florida 33129
+
+ 
+
+If submitting more photographs than will fit on the preceding page, affix the additional photographs below. Identify all photographs
+with: date taken; "Front View" and "Rear View"; and, if required, "Right Side View" and "Left Side View." When applicable,
+photographs must show the foundation with representative examples of the flood openings or vents, as indicated in Section A8
+
+Photo Three
+
+Photo Three Caption REAR VIEW 09/23/2021 Clear Photo Three
+
+Photo Four
+
+Photo Four Caption RIGHT SIDE VIEW 09/23/2021 Clear Photo Four
+
+ 
+
+ 
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions Form Page 6 of 6
+ 
+ 
+Foremost Insurance Company
+
+eo STANDARD FLOOD INSURANCE Grand Rapids MI
+F —— APPLICATION https://www.foremost.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PO Box 2057, Kalispell, MT, 59903 (800) 260-9270
+Date Application Number Effective Date Expiration Date Waiting Period
+10-09-2024 FLD1660089670 11-08-2024 11-08-2025 Standard - 30 Day Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+MICHAEL MITCHELL 125 SW 26th Rd, 125 SW 26TH RD, PO BOX 751525,
+Miami, FL, 33129 Miami, FL, 33129 Dayton, OH, 45475
+
+Email:GASALES@FARMERSINSURANCE.COM
+Phone Number:8776380022
+
+Property Address Type:Location Agent Name:
+FARMERS GENERAL INSURANCE AGENCY, INC
+C/O FARMERS GENERAL INS AGY INC
+
+Home Phone:
+
+Work Phone:
+
+Cell Phone:(786)897-1078
+Email:michael33129@outlook.com
+
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+
+Other Policy Number:
+Prior Policy Number:
+
+Potential Duplicate Policy:
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+ 
+
+Current Community Information
+
+Community Name:
+
+Community Number:120650
+
+Map Panel:0314 Prior Community Information
+
+Community Number:
+Map Panel Suffix:L
+
+Map Panel:
+Current Flood Zone:X
+. Map Panel Suffix:
+Current Base Flood Elevation(BFE):
+Flood Zone:
+
+FIRM Date:09-29-1972
+Program:FLOODREGULAR
+Program Status:
+County:Miami-Dade County
+Current Map Date:09-11-2009
+Rating Map Date:
+
+FIRM Date:09-29-1972
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:YES
+
+Construction Date Prior Owner Policy Number:
+
+Date of Original Construction:12-31-1961 Prior Owner Company Name:
+
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:NO the building that lapsed?:
+
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Residence: YES
+
+pate =) FOREMOST ADO
+
+Se
+APC PRV 0721 A Farmers Insurance® Company = "aaa
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+FOREMOST
+
+‘A Farmers Insurance® Company
+
+E
+
+ 
+
+ 
+
+Date
+10-09-2024
+
+Effective Date
+11-08-2024
+
+Application Number
+FLD1660089670
+
+ 
+
+Foremost Insurance Company
+Grand Rapids MI
+https://www.foremost.com/
+
+(800) 260-9270
+
+ 
+
+ 
+
+Expiration Date
+11-08-2025
+
+Waiting Period
+Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:‘NO
+Building Construction Type:Masonry
+Construction Type Description:
+
+Estimated Building Replacement Cost:1635692
+Replacement Cost Value Returned by FEMA:1232061
+Total sq. footage of building:5715
+
+Total # of floors in building:2
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:10-25-2021
+Diagram Number:1B
+
+Top of Bottom Floor:12.7
+
+Top of Next Higher Floor:13
+
+Lowest Adjacent Grade (LAG):11.7
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height:1
+FEMA First Floor Height:1
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 250,000.00 5,000.00
+
+Content 100,000.00 2,000.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 1,221.00
+Content Premium: $ 755.00
+Increased Cost of Compliance (ICC) Premium: $ 38.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (363.00)
+Full Risk Premium: $ 1,651.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,651.00
+Reserve Fund Assessment: $ 297.00
+HFIAA Surcharge: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 2,020.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+FOREMOST AGEG
+
+A Farmers Insurance® Company
+
+=
+
+AIATINAIAD CLAAN
+Report Date 10/8/2024
+
+¢,
+Xa C U S LB Report Number 13956922
+a Standard X
+
+FloodRisk Standard
+
+ 
+
+Provided Location 125 SW 26TH RD, MIAMI, FL 33129
+
+Standardized Location 125 SW 26TH RD, MIAMI, FL 33129-2302
+
+Latitude, Longitude 25.753558, -80.206209 Parcel ID 0141390050920
+FIPS / MSA / Tract 12086 / 33124 / 67.15 Community No. 120650
+Community Name MIAMI, CITY OF
+
+County Name MIAMI-DADE
+
+ 
+
+? _ x
+‘ rr Ow a A e F, Leaflet | Mapbox © aR |
+
+Flood Zone Zone X Next Nearest Zone (Dist.) AE (1884 ft)
+
+BFE NOT APPLICABLE USGS Ground Elev 19 ft NAVD88
+
+FEMA Map 12086C0314L, 09/11/2009 Previous Map NOT AVAILABLE
+
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 09/29/1972
+
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+
+Claims* $ / # $118,927 ,682 / 6776 NFIP PIF* 57061 NFIP Discount 20%
+
+Flood Source 2270 ft Salt Water 2498 ft Fresh Water 4582 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+cE FOREMOST
+
+A Farmers Insurance® Company
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP241009229341
+
+Policy Number: FLD 1660089670
+
+Insured Name: MICHAEL MITCHELL
+
+Property Address: 125 SW 26TH RD, Miami, FL, 33129
+Transaction Date: 10/09/2024
+
+Remittance ID: 27IBTSVO
+
+Premium Paid: $2020
+E FOREMOST
+A Farmers Insurance® Company
+
+PROPERTY ADDRESS #:
+
+POLICY #:
+
+NFIP POLICY #:
+POLICY TERM:
+POLICY ISSUED BY:
+PAYOR:
+
+INSURED NAME & MAILING ADDRESS
+MICHAEL MITCHELL & MONICA MITCHELL
+
+125 SW 26th Rd,
+Miami, FL, 33129
+
+Foremost Insurance Company Grand Rapids MI
+
+Foremost Insurance Company Grand Rapids MI
+PO Box 2057 Kalispell MT 59903 USA
+
+https://www.foremost.com/
+
+(800) 260-9270
+
+NAIC# : 21660
+125 SW 26TH RD, Miami, FL, 33129
+
+FLD1660089670
+
+1660089670
+
+11-08-2024 (12:01 AM) - 11-08-2025 (12:01 AM)
+Foremost Insurance Company Grand Rapids MI
+MICHAEL MITCHELL
+
+POLICY FORM:
+POLICY DECLARATIONS TYPE:
+
+Dwelling Policy
+
+New Policy Declarations
+
+RATE CATEGORY : RatingEngine
+
+AGENT CONTACT INFORMATION
+
+FARMERS GENERAL INSURANCE AGENCY, INC C/O FARMERS
+GENERAL INS AGY INC
+
+PO BOX 751525, Dayton, OH, 45475
+
+Phone : 8776380022
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 5,000 $ 2 02 '@)
+Contents $ 100,000 $ 2,000 Total Anngal Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $ 1,221
+Building Occupancy Single Family Contents Premium: $ 755
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $ 38
+First Floor Height (FFH) 1 Community Rating System Discount: $ (363.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 1,651
+Property Description Slab on Grade (non-elevated), 2 Floors , Discounted Premium: $ 1,651
+Masonry Fees and Surcharges:
+Date of Construction 12-31-1961 Reserve Fund Assessment: $ 297
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $25
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+Total Premium $ 2,020
+
+Additional Insured
+MONICA MITCHELL ,
+125 SW 26th Rd,
+Miami, FL, 33129
+
+ADDITIONAL INTERESTS
+
+Date Mailed: 10-28-2024
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+To learn more about your flood risk, please visit FloodSmart.gov ———
+NATIONAL FLOOD
+
+INSURANCE PROGRAM

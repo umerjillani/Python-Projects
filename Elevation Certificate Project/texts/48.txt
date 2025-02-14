@@ -1,0 +1,996 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0008
+I Ee:
+Federal Emergency Management Agency Piration Date: 06/20
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A - PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+g Own . /
+A2. Building Street Address (including Apt Lin, Suite_andloe Bldg_No,).0t P.O. Route and Box-No Policy Number: 2
+
+643 Longhorn Trail
+
+   
+
+ 
+
+ 
+   
+ 
+
+  
+ 
+  
+
+Company NAIC Number:
+
+ 
+      
+
+       
+ 
+
+City: _ Angleton State: Tx ZIP Code: 77515
+
+ 
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+Lot 438 Block 3 Bar X Sec 2 S/D
+
+ 
+   
+  
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.); Residential
+
+A5. Latitude/Longitude: Lat. 29.130578 Long. -95-543489 Horizontal Datum: (JNAD 1927 §JNAD 1983 CJWGS 84
+
+        
+   
+  
+
+A6. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+1A
+
+ 
+
+A7. Building Diagram Number:
+
+ 
+    
+
+A8. For a building with a crawlspace or enclosure(s):
+
+    
+
+a) Square footage of crawlspace or enclosure(s): NA sq. ft.
+
+         
+
+Ovyes
+
+ 
+
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? GNo  CINA
+
+  
+   
+     
+ 
+  
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: 0 Engineered flood openings: 0
+
+d) Total net open area of non-engineered flood openings in A8.c: 0 sq. in.
+
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): 0 sq. ft.
+
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): 0 sq. ft.
+
+ 
+   
+ 
+
+AQ, For a building with an attached garage:
+
+ 
+ 
+
+a) Square footage of attached garage: to be determined sq. ft.
+
+b) Is there at least one permanent flood opening on two different sides of the attached garage? GJYes CINo N/A
+
+ 
+ 
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+
+ 
+       
+  
+ 
+
+  
+            
+ 
+
+Non-engineered flood openings: 0 Engineered flood openings: 0
+d) Total net open area of non-engineered flood openings in A9.c: 0 sq. in.
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): 0 sq. ft.
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions): 0 sq. ft.
+B1.a. NFIP Community Name: _ Brazoria County B1.b. NFIP Community Identification Number: 485467
+B2. County Name: Brazoria B3. State: Tx B4. Map/Panel No.: 4803900420 BS. Suffix: _K_
+B6, FIRM Index Date: 12/30/2020 B7. FIRM Panel Effective/Revised Date: 12/30/2020
+
+       
+   
+ 
+
+    
+
+ 
+
+B8. Flood Zone(s): AE B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 28
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+Oris BFIRM Ocommunity Netermined Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: {JNGVD 1929 [{§NAVD 1988 {(JOther/Source:
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? Yes {No
+Designation GICBRS €}J0PA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)?
+
+     
+
+ 
+
+        
+        
+     
+
+CiYes &jNo
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 2 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE -.
+643 Longhorn Trail s * —
+Policy: Number:
+
+Company NAIC Number...
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: Construction Drawings* (Building Under Construction* (Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—-A30, AR/AH, AR/AO,
+A99. Complete Items C2.a-h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: M1220 Vertical Datum: 1973
+
+City, Angleton State: TX ZiPCode: 77515
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+@INGVD 1929 “{JNAVD 1988 = CjOther:
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? GYes {3No
+
+if Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 31* © feet © meters
+b) Top of the next higher floor (see Instructions): —_ma_ OV feet =O meters
+c) Bottom of the lowest horizontal structural member (see Instructions): na Ofeet O meters
+d) Attached garage (top of slab): QO feet O meters
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+
+(describe type of M&E and location in Section D Comments area): OWfeet O meters
+
+f) Lowest Adjacent Grade (LAG) next to building: §§jNaturat {[jFinished @ feet O meters
+g) Highest Adjacent Grade (HAG) next to building: Natural (JFinished @feet OC meters
+
+h) Finished LAG at jowest elevation of attached deck or stairs, including structural
+support: CB feet =O meters
+
+SECTION D - SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation information.
+! certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any false
+Statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? €JYes {JNo
+@ Check here if attachments and describe in the Comments area.
+
+Certifier's Name: S.S. Aguirre License Number: Tx 2552
+Title: Registered Professional Land Surveyor
+
+Company Name: S.S. Aguirre R.P.L.S. , P.E.
+
+Address: 64 Mistletoe Ct
+
+City: Lake Jackson State. Tx ZIP Code: 77566
+
+Date: 08-31-2024
+
+Telephone: 979-415-4239 Email: Saguirre@lakejacksontx.gov
+
+Copy alt pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building
+owner.
+
+Comments {including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+TBM- Top of Telephone pedestal at front right lot corner Elev -31.94
+
+Consult with County flood piain administrator required minimum finished floor elevation a*30.00' . House next door @ 713 Longhorn
+TR finished floor elevation - 31.5"
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 3 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+FOR INSURANCE COMPANY USE
+
+    
+  
+   
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+
+    
+
+Policy Number:
+
+   
+   
+ 
+
+City, State: ZIP Conde: Company: NAIC: Number::
+
+SECTION G ~- COMMUNITY INFORMATION (RECOMMENDED FOR COMMUNITY OFFICIAL COMPLETION)
+
+The local official who is authorized by law or ordinance to administer the community's floodpiain management ordinance can complete
+Section A, B, C, E, G, or H of this Elevation Certificate. Complete the applicable item(s) and sign below when:
+
+ 
+    
+       
+  
+
+    
+
+G1. The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+
+engineer, or architect who is authorized by state law to certify elevation information. (Indicate the source and date of the elevation
+data in the Comments area below.)
+
+ 
+     
+    
+
+G2.a. cy’ |0cal official completed Section E for a building located in Zone A (without a BFE), Zone AO, or Zone AR/AO, or when item E5 is
+completed for a building located in Zone AO.
+
+    
+ 
+
+G2.b. {JA local official completed Section H for insurance purposes.
+
+ 
+ 
+
+G3. {ln the Comments area of Section G, the local official describes specific corrections to the information in Sections A, B, E and H.
+
+ 
+ 
+
+G4. (The following information (items G5~G11) is provided for community floodplain management purposes.
+
+   
+
+G5. Permit Number: G6. Date Permit Issued:
+
+    
+
+Date Certificate of Compliance/Occupancy Issued:
+
+      
+
+G8. This permit has been issued for: (iNew Construction €}Substantial Improvement
+
+    
+
+G9.a. Elevation of as-built lowest floor (including basement) of the
+building: Cfeet Oneters Datum:
+
+     
+    
+ 
+
+G9.b. Elevation of bottom of as-built lowest horizontal structural
+member: Bfeet Obncterg Datum:
+
+G10.a. BFE (or depth in Zone AO) of flooding at the building site: Ofect
+
+     
+    
+
+Oheters Datum:
+
+    
+ 
+
+G10.b. Community's minimum elevation (or depth in Zone AO)
+requirement for the lowest floor or lowest horizontal structural
+
+member:
+Ofeet Ohneters Datum:
+
+G11. Variance issued? Oves Ono
+
+ 
+    
+     
+      
+ 
+
+if yes, attach documentation and describe in the Comments area.
+
+       
+
+The local official who provides information in Section G must sign here. | have completed the information in Section G and certify that it is
+correct to the best of my knowledge. If applicable, | have also provided specific corrections in the Comments area of this section.
+
+ 
+  
+
+  
+
+Local Official's Name: Title:
+
+   
+
+ 
+
+ 
+  
+
+NFIP Community Name:
+
+  
+  
+
+Telephone:
+
+Address:
+eee
+
+City: State: ZIP Code:
+eee —___
+
+   
+    
+ 
+ 
+
+ 
+
+Date:
+
+ 
+    
+
+Comments (inciuding type of equipment and location, per C2.e; description of any attachments; and corrections to specific information in
+Sections A, B, D, E, or H):
+
+  
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 5 of 19
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE :
+
+Policy Number:
+Company NAIC Nuniber:’:
+
+SECTION E - BUILDING MEASUREMENT INFORMATION (SURVEY NOT REQUIRED)
+FOR ZONE AO, ZONE AR/AO, AND ZONE A (WITHOUT BFE)
+
+For Zones AO, AR/AO, and A (without BFE), complete items E1-E5. For Items E1-E4, use natural grade, if available. If the Certificate is
+intended to support a Letter of Map Change request, complete Sections A, B, and C. Check the measurement used. In Puerto Rico only,
+enter meters.
+
+City: State: ZIP Code:
+
+Building measurements are based on: [JConstruction Drawings* (Building Under Construction* {[JFinished Construction
+“A new Elevation Certificate will be required when construction of the building is complete.
+
+E1. Provide measurements (C.2.a in applicable Building Diagram) for the following and check the appropriate boxes to show whether the
+measurement is above or below the natural HAG and the LAG.
+
+a) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: O feet O meters Gaboveor (below the HAG.
+
+b) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: O feet © meters @above or Opbelow the LAG.
+
+E2. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1-2 of Instructions), the
+next higher floor (C2.b in applicable
+Building Diagram) of the building is: O feet © meters Gabove or  (€Jbelow the HAG.
+
+E3. Attached garage (top of slab) is: Q feet © meters Qabove or (Jbelow the HAG.
+
+E4. Top of platform of machinery and/or equipment
+servicing the building is: O feet © meters Qlabove or GOpbelow the HAG.
+
+ES. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodptain management ordinance? £3} Yes No ©) Unknown The tocal official must certify this information in Section G.
+
+SECTION F —- PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without BFE) or Zone AO must
+sign here. The statements in Sections A, B, and E are correct to the best of my knowledge
+
+Check here if attachments and describe in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+
+Address:
+
+City: ZIP Code:
+
+Telephone:
+
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 4 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No,; | FOR INSURANCE COMPANY USE
+Policy Number: ci Be
+
+City: State: ZIP Code: Company NAIC Number: Vedas age
+
+SECTION H — BUILDING'S FIRST FLOOR HEIGHT INFORMATION FOR ALL ZONES
+(SURVEY NOT REQUIRED) (FOR INSURANCE PURPOSES ONLY)
+
+The property owner, owner's authorized representative, or focal floodplain management official may complete Section H for all flood zones
+to determine the building's first floor height for insurance purposes. Sections A, B, and | must also be completed. Enter heights to the
+nearest tenth of a foot (nearest tenth of a meter in Puerto Rico). Reference the Foundation Type Diagrams (at the end of Section H
+Instructions) and the appropriate Building Diagrams (at the end of Section | Instructions) to complete this section.
+
+H1, Provide the height of the top of the floor (as indicated in Foundation Type Diagrams) above the Lowest Adjacent Grade (LAG):
+
+a) For Building Diagrams 1A, 1B, 3, and 5-9. Top of bottom feet Ohneters  Olahove the LAG
+floor (include above-grade floors only for buildings with
+subgrade crawlspaces or enclosure floors) is:
+
+b) For Building Diagrams 2A, 2B, 4, and 6-9. Top of next Geet Oneters  Olahave the LAG
+higher floor (i.e., the floor above basement, crawlspace, or
+enclosure floor) is:
+
+. Is all Machinery and Equipment servicing the building {as listed in Item H2 instructions) elevated to or above the floor indicated by the
+H2 arrow (shown in the Foundation Type Diagrams at end of Section H instructions) for the appropriate Building Diagram?
+
+Ges ONe
+SECTION | - PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and H must sign here. The statements in Sections
+A, B, and H are correct to the best of my knowledge. Note: If the local floodplain management official completed Section H, they should
+indicate in Item G2.b and sign Section G.
+
+Cicheck here if attachments are provided (including required photos) and describe each attachment in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+
+Address:
+eee
+City: ZIP Code:
+
+Telephone: 2
+
+Sct rrr rep
+
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 6 of 19
+fo"
+
+ 
+
+ 
+
+ 
+
+ 
+
+STANDARD FLOOD INSURANCE
+
+ 
+
+Texas Farmers Insurance
+
+Company
+
+ 
+
+ 
+
+ 
+
+ 
+
+FARMERS APPLICATION https://www.farmers.com/
+INSURANCE
+PO Box 2057, Kalispell, MT, 59903 (888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+10-31-2024 FLD1660096216 10-31-2024 10-31-2025 Loan Transaction - No Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+
+MICHAEL P ODOM 101 WEST RD, Bar X,
+
+Lake Jackson, TX, 77566
+
+Home Phone:
+
+Work Phone:
+
+Cell Phone:(979)417-1054
+Email:mpodomdesigns@gmail.com
+Applicant Type:INDIVIDUAL
+
+Prior Company NAIC:
+
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+643 LONGHORN TRAIL, Bar X,
+Angleton, TX, 77515
+
+PO BOX 67,
+Clute, TX, 77531
+
+Email:nmaddox@farmersagent.com
+Phone Number:9792652878
+Agent Name:Nicole Maddox
+
+Property Address Type:Location
+
+Other Policy Number:
+Potential Duplicate Policy:
+
+ 
+
+1st Mortgagee
+
+First National Bank of Lake Jackson
+
+PO Box 3100,
+
+Lake Jackson, Brazoria County , TX, 77566
+
+Phone Number:
+Fax Number:
+
+Loan Number:000
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:485458
+Map Panel:48039C
+
+Map Panel Suffix:0585K
+Current Flood Zone:AE
+Current Base Flood Elevation(BFE):27.4
+FIRM Date:05-08-1971
+Program:FLOODREGULAR
+Program Status:
+County:Brazoria County
+Current Map Date:12-30-2020
+Rating Map Date:
+
+ 
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:05-08-1971
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Construction Date
+Date of Original Construction:1 1-01-2024
+
+Building Substantially Improved:NO
+Post-FIRM Construction:YES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:YES
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+Occupancy Information
+Occupancy Type:Single Family
+Building Description:
+
+Is this the Applicant's Primary
+
+Residence: NO
+
+Is the insured a small business with
+less than 100 employees?: YES
+
+Is the insured a nonprofit entity?:NO
+
+Date:
+
+APC PRV 07 21
+
+AGIA
+Sr
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+va
+FARMERS
+
+INSURANCE
+
+ 
+
+ 
+
+Date
+10-31-2024
+
+Effective Date
+10-31-2024
+
+Application Number
+FLD1660096216
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+Texas Farmers Insurance
+Company
+https://www.farmers.com/
+
+(888) 391-2810
+
+ 
+
+ 
+
+Expiration Date
+10-31-2025
+
+Waiting Period
+Loan Transaction - No Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:YES
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:3 15000
+Replacement Cost Value Returned by FEMA275708
+Total sq. footage of building:1972
+
+Total # of floors in building:1
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:08-3 1-2024
+Diagram Number:1A
+
+Top of Bottom Floor:31
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):29.7
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+
+Elevation Certificate First Floor Height:1.3
+
+FEMA First Floor Height:0.25
+
+First Floor Height Method Used:FEMA_ASSUMPTION
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 250,000.00 2,000.00
+
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 701.00
+Content Premium: $ 0.00
+Increased Cost of Compliance (ICC) Premium: $ 13.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ 0.00
+Full Risk Premium: $ 714.00
+Annual Increase Cap Discount: $ 0.00
+Newly Mapped Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 714.00
+Reserve Fund Assessment: $ 129.00
+HFIAA Surcharge: $ 250.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 1,140.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+A
+
+AOA
+
+AIATINAIAL CIAAN
+Report Date 10/30/2024
+
+G,
+Xa C U S LB Report Number 14180886
+as Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 643 LONGHORN TRAIL, ANGLETON, TX 77515
+Standardized Location 643 LONGHORN TRL, ANGLETON, TX 77515
+
+Latitude, Longitude 29.12158, -95.544623 Parcel ID 184021
+FIPS / MSA / Tract 48039 / 26420 / 6625 Community No. 485458
+Community Name BRAZORIA COUNTY *
+
+County Name UNINCORPORATED AREAS
+
+ISS MM),
+IS
+
+Ye, EX Y i
+
+ 
+
+YA Leatiet | © Mapbox ©, OpenStreetMap
+
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (15067 ft)
+
+BFE 27.4 Feet NAVD88 (27.44 ft NGVD29) USGS Ground Elev 31 ft NAVD88
+
+FEMA Map 48039C0585K, 12/30/2020 Previous Map 48039C0585H, 06/05/1989, Zone AE
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 05/08/1971
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $336,387,405 / 9932 NFIP PIF* 11664 NFIP Discount N/A
+
+Flood Source 1279 ft Salt Water >6 miles Fresh Water 60 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+FARMERS
+
+INSURANCE
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP241030625251
+
+Policy Number: FLD1660096216
+
+Insured Name: MICHAEL P ODOM
+
+Property Address: 643 LONGHORN TRAIL, Bar X, Angleton, TX, 77515
+Transaction Date: 10/31/2024
+
+Remittance ID: 27IUGDM1
+
+Premium Paid: $1140
+Texas Farmers Insurance Company
+
+fo" ‘ Texas Farmers Insurance Company https://www.farmers.com/
+FARMERS .
+ee waee PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 643 LONGHORN TRAIL, Bar X, Angleton, TX, 77515 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660096216 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660096216
+POLICY TERM: 10-31-2024 (At time of loan closing) - 10-31-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: MICHAEL P ODOM
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+MICHAEL P ODOM .
+Nicole Maddox
+101 WEST RD, Bar X,
+PO BOX 67, Clute, TX, 77531
+Lake Jackson, TX, 77566
+Phone : 9792652878
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+Policy Coverages & Endorsements
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ l l AO
+9
+Contents $0 $0 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Building Premium: $701
+Primary Residence NO
+a. : . Contents Premium: $0
+Building Occupancy Single Family : .
+| . : a Increased Cost of Compliance (ICC) Premium: $13
+Building Description Main House/Building . . .
+. . Community Rating System Discount: $0
+First Floor Height (FFH) 0.25
+Full-Risk Premium: $714
+Method Used to Determine FFH FEMA Determined
+Discounted Premium: $714
+Property Description Slab on Grade (non-elevated), 1 Floors , Frame
+Fees and Surcharges:
+Date of Construction 11-01-2024
+j j ; Reserve Fund Assessment: $ 129
+Prior NFIP Claims 0 Claim(s)
+HFIAA Surcharge: $ 250
+Your property’s NFIP flood claims history can affect your premium. .
+Federal Policy Fee: $47
+Total Premium $ 1,140
+ADDITIONAL INTERESTS
+First Mortgagee
+First National Bank of Lake Jackson,
+PO Box 3100,
+Lake Jackson, TX, 77566
+Loan # : 000
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+i 2 11-01- : oe eee
+Date Mailed: 11-01-2024 To learn more about your flood risk, please visit FloodSmart.gov ———
+NATIONAL FLOOD
+
+INSURANCE PROGRAM

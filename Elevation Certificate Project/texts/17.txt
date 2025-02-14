@@ -1,0 +1,1427 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB No. 1660-0008
+Federal Emergency Management Agency Expiration Date: November 30, 2022
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+
+Important: Follow the instructions on pages 1-9,
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A — PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+A1. Building Owner's Name Policy Number:
+
+Arthur J Klein and Barbara C Klein
+A2. nae Street Address (including Apt., Unit, Suite, and/or Bidg. No.) or P.O. Route and Company NAIC Number:
+
+27 Bedford Drive
+
+City State
+Palm Coast Florida
+
+A3. Property Description (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+Lot 52, Sea Colony Subdivision, Phase |, Flagler County, Florida PID# 20-10-31-5365-00010-0520
+
+   
+ 
+ 
+   
+
+  
+ 
+
+ 
+ 
+   
+    
+ 
+
+   
+   
+       
+  
+ 
+
+  
+ 
+  
+
+  
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.) Residential
+AS. Latitude/Longitude: Lat. 29.626320 Long. -81.200620 Horizontal Datum: NAD 1927 [_] NAD 1983
+
+  
+   
+ 
+ 
+
+A6. Attach at least 2 photographs of the building if the Certificate is being used to obtain flood insurance.
+A7. Building Diagram Number 1B
+
+A8. For a building with a crawlspace or enclosure(s):
+
+  
+       
+
+a) Square footage of crawlspace or enclosure(s) N/A sq ft
+ites remtepe—pi nea
+
+   
+
+b) Number of permanent flood openings in the crawispace or enclosure(s) within 1.0 foot above adjacent grade N/A
+Cc) Total net area of flood openings in A8.b N/A sqin
+
+   
+     
+
+d) Engineered flood openings? (] Yes No
+
+  
+  
+
+A. For a building with an attached garage:
+
+ 
+
+a) Square footage of attached garage 420.00 sq ft
+
+   
+
+b) Number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade N/A
+
+    
+
+c) Total net area of flood Openings in A9.b N/A sqin
+
+    
+
+d) Engineered flood openings? [[] Yes [—X] No
+
+    
+   
+ 
+
+   
+ 
+ 
+   
+  
+
+SECTION B - FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1. NFIP Community Name & Community Number
+Flagler County Unincorp 120085
+
+    
+
+ 
+  
+ 
+ 
+    
+   
+ 
+
+B2. County Name
+Flagler County
+
+ 
+
+B3. State
+Florida
+
+      
+
+      
+     
+      
+
+   
+
+     
+    
+  
+
+     
+
+   
+  
+
+  
+   
+
+B4. Map/Panel B6. FIRM Index B7. FIRM Panel B8. Flood B9. Base Flood Elevation(s)
+Number Date Effective/ Zone(s) (Zone AO, use Base Flood Depth)
+Revised Date
+12035C/0039 06-06-2018 06-06-2018 AE 6.00'
+
+  
+    
+  
+
+ 
+
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in Item B9:
+(J FIS Profile [X] FIRM [7] Community Determined [_] Other/Source:
+
+  
+ 
+ 
+
+ 
+
+ 
+ 
+
+B11. Indicate elevation datum used for BFE in Item B9: (_-] NGVD 1929 NAVD 1988 [] Other/Source:
+
+ 
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [] Yes No
+Designation Date: [] CBRS [] OPA
+
+   
+ 
+ 
+     
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 1 of 6
+OMB No. 1660-0008
+ELEVATION CERTIFICATE Expiration Date: November 30, 2022
+
+FOR INSURANCE COMPANY USE
+
+Policy Number:
+
+Company NAIC Number
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: (J Construction Drawings* [_] Building Under Construction* [x] Finished Construction
+“A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations - Zones A1-A30, AE, AH, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1-A30, AR/AH, AR/AO.
+Complete Items C2.a-h below according to the building diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: Local Vertical Datum: NAVD 1988
+> a eS
+Indicate elevation datum used for the elevations in items a) through h) below.
+
+(-] NGVD 1929 NAVD 1988 ["] Other/Source:
+Datum used for building elevations must be the same as that used for the BFE.
+
+Check the measurement used.
+
+   
+  
+
+ 
+     
+  
+
+  
+    
+   
+  
+   
+ 
+
+IMPORTANT: In these Spaces, copy the corresponding information from Section A.
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.
+27 Bedford Drive
+
+City State ZIP Code
+Palm Coast Florida 32137
+
+    
+
+  
+   
+
+  
+  
+   
+
+       
+       
+       
+   
+     
+    
+ 
+
+ 
+
+   
+      
+  
+
+@) Top of bottom floor (including basement, crawlspace, or enclosure floor) 8.4 [x] feet [] meters
+b) Top of the next higher floor 18.3 [Xx] feet [] meters
+c) Bottom of the lowest horizontal structural member (V Zones only) N/A [1] feet [[] meters
+d) Attached garage (top of slab) 78 [XK] feet (] meters
+
+  
+     
+  
+
+e) Lowest elevation of machinery or equipment servicing the building
+
+            
+   
+
+(Describe type of equipment and location in Comments) a? ==. one feet (_] meters
+f) Lowest adjacent (finished) grade next to building (LAG) 7.0 feet [] meters
+9) Highest adjacent (finished) grade next to building (HAG) 75 feet [] meters
+
+ 
+
+ 
+
+   
+     
+  
+ 
+
+  
+
+h) Lowest adjacent grade at lowest elevation of deck or stairs, including
+
+structural support 7.0 [|X] feet [] meters
+
+SECTION D ~- SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect au rized by law to certify elevation information.
+| certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any false
+statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Kl Yes LINo [_] Check here if attachments.
+
+   
+  
+
+  
+ 
+
+ 
+
+  
+
+   
+     
+    
+    
+ 
+
+   
+
+   
+
+ 
+
+Certifier's Name License Number
+Kimberly Atchison LB#8039, LS#6964
+
+Title
+Professional Surveyor & Mapper
+
+ 
+ 
+  
+ 
+  
+ 
+ 
+
+   
+ 
+  
+
+Company Name
+Atchison Surveying & Mapping, Inc.
+Address
+
+16 Lake Success Place
+
+City State
+Palm Coast Florida 32137
+
+ 
+   
+    
+ 
+
+    
+        
+
+   
+    
+
+zs Date Telephone
+/) Uiteh LSovc (04-13-2022 (386) 597-4705
+
+did n Certificate and all attachments for (1) community official, (2) insurance agent/company,
+
+Signature
+
+   
+  
+ 
+ 
+
+   
+
+and (3) building owner.
+
+  
+
+Comments (including type of equipment and location, per C2(e), if applicable)
+Equipment listed in section C2(e) is the A/C pad/unit located on the left side of the dwelling/building.
+
+ 
+ 
+  
+   
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 2 of 6
+ELEVATION CERTIFICATE ee ry oA
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. Policy Number:
+27 Bedford Drive
+
+City State ZIP Code
+
+Company NAIC Number
+Palm Coast Florida 32137
+
+SECTION E ~ BUILDING ELEVATION INFORMATION (SURVEY NOT REQUIRED)
+FOR ZONE AO AND ZONE A (WITHOUT BFE)
+
+For Zones AO and A (without BFE), complete Items E1-E5. If the Certificate is intended to support a LOMA or LOMR-F request,
+complete Sections A, B,and C. For Items E1-E4, use natural grade, if available. Check the measurement used. In Puerto Rico only,
+enter meters.
+
+E1. Provide elevation information for the following and check the appropriate boxes to show whether the elevation is above or below
+the highest adjacent grade (HAG) and the lowest adjacent grade (LAG).
+a) Top of bottom floor (including basement,
+
+   
+   
+     
+ 
+
+  
+   
+  
+
+   
+   
+   
+
+   
+
+    
+  
+
+   
+       
+      
+        
+  
+
+crawispace, or enclosure) is ——___________ []feet [meters [] above or [[] below the HAG.
+b) Top of bottom floor (including basement,
+crawlspace, or enclosure) is —_—________.___[_]feet [) meters [above or [] below the LAG.
+
+   
+      
+
+E2. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1-2 of Instructions),
+the next higher floor (elevation C2.b in
+the diagrams) of the building is
+
+    
+ 
+
+(_]feet []meters [] above or [] below the HAG.
+
+   
+
+ 
+
+          
+    
+
+E3. Attached garage (top of slab) is —___________ [feet [] meters [above or []below the HAG.
+E4. Top of platform of machinery and/or equipment
+servicing the building is —_—__________ [feet []meters [above or [_]below the HAG.
+
+   
+  
+  
+   
+
+E5. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? [_] Yes [_] No [_] Unknown. The local official must certify this information in Section G.
+
+SECTION F - PROPERTY OWNER (OR OWNER'S REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without a FEMA-issued or
+community-issued BFE) or Zone AO must sign here. The statements in Sections A, B, and E are correct to the best of my knowledge.
+
+Property Owner or Owner's Authorized Representative's Name
+
+Address City State ZIP Code
+
+   
+   
+ 
+   
+  
+
+    
+ 
+ 
+
+Signature Date Telephone
+
+   
+
+Comments
+
+  
+
+{_] Check here if attachments.
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 3 of 6
+OMB No. 1660-0008
+Expiration Date: November 30, 2022
+
+FOR INSURANCE COMPANY USE
+
+Policy Number:
+
+ELEVATION CERTIFICATE
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.
+27 Bedford Drive
+
+City State ZIP Code Company NAIC Number
+Palm Coast Florida 32137
+
+   
+  
+   
+   
+
+   
+  
+ 
+
+      
+   
+  
+
+    
+
+    
+
+   
+   
+ 
+  
+
+  
+
+SECTION G — COMMUNITY INFORMATION (OPTIONAL)
+
+      
+  
+
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+Sections A, B, C (or E), and G of this Elevation Certificate. Complete the applicable item(s) and sign below. Check the measurement
+used in Items G8—G10. In Puerto Rico only, enter meters.
+
+  
+
+   
+
+  
+
+   
+
+G1. [The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+engineer, or architect who is authorized by law to certify elevation information. (Indicate the source and date of the elevation
+data in the Comments area below.)
+
+ 
+     
+
+G2 [] A community official completed Section E for a building located in Zone A (without a FEMA-issued or community-issued BFE)
+: or Zone AO.
+
+  
+
+   
+
+G3. [] The following information (Items G4—G10) is provided for community floodplain management purposes.
+
+ 
+ 
+
+G5. Date Permit Issued
+
+  
+ 
+
+G4. Permit Number G6. Date Certificate of
+
+Compliance/Occupancy Issued
+
+  
+ 
+  
+
+  
+
+. This permit has been issued for: [_] New Construction ["] Substantial Improvement
+
+ 
+ 
+  
+
+G8. Elevation of as-built lowest floor (including basement)
+of the building:
+
+  
+ 
+ 
+
+CT feet C] meters Datum
+
+ 
+
+    
+
+G9. BFE or (in Zone AO) depth of flooding at the building site: (] feet [J meters Datum
+
+ 
+
+   
+ 
+
+  
+
+G10. Community's design flood elevation: C] feet [] meters Datum
+
+ 
+
+  
+ 
+  
+
+Local Official's Name
+
+   
+
+Community Name Telephone
+
+  
+
+   
+
+Comments (including type of equipment and location, per C2(e), if applicable)
+
+   
+
+ 
+
+(-] Check here if attachments.
+
+  
+ 
+
+  
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 4 of 6
+BUILDING PHOTOGRAPHS
+ELEVATION CERTIFICATE See Instructions for Item A6. ot Ge ie armen. ee
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A.
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.
+27 Bedford Drive
+
+City State ZIP Code
+Paim Coast Florida 32137
+
+    
+   
+   
+  
+
+   
+  
+
+   
+  
+   
+
+FOR INSURANCE COMPANY USE
+Policy Number:
+
+Company NAIC Number
+
+If using the Elevation Certificate to obtain NFIP flood insurance, affix at least 2 building photographs below according to the
+instructions for Item A6. Identify all photographs with date taken; "Front View" and "Rear View", and, if required, "Right Side View” and
+“Left Side View." When applicable, photographs must show the foundation with representative examples of the flood openings or
+vents, as indicated in Section A8. If submitting more photographs than will fit on this page, use the Continuation Page.
+
+   
+ 
+
+ 
+
+    
+    
+     
+       
+    
+ 
+  
+
+    
+
+Photo One
+Photo One Caption Front View Photo Taken on 4/12/2022 Clear Photo One
+
+      
+
+Photo Two
+
+ 
+   
+
+Photo Two Caption Left Side View
+
+   
+
+Photo Taken 4/12/2022 Clear Photo Two
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 5 of 6
+BUILDING PHOTOGRAPHS
+ELEVATION CERTIFICATE Gortialien Pace bah ae i anecn.aen
+
+FOR INSURANCE COMPANY USE
+
+Policy Number:
+
+ 
+    
+  
+ 
+  
+ 
+  
+
+ 
+ 
+    
+
+   
+    
+   
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.
+27 Bedford Drive
+
+City State ZIP Code Company NAIC Number
+Palm Coast Florida 32137
+
+If submitting more photographs than will fit on the preceding page, affix the additional photographs below. Identify all photographs
+with: date taken; "Front View" and "Rear View", and, if required, "Right Side View" and “Left Side View." When applicable,
+photographs must show the foundation with representative examples of the flood openings or vents, as indicated in Section A8.
+
+        
+  
+
+    
+
+  
+  
+   
+   
+ 
+ 
+   
+
+  
+
+ 
+
+  
+ 
+
+Photo Three Caption Clear Photo Three
+
+     
+
+       
+
+Photo Four Caption Rear View Photo Taken on 4/12/2022 Clear Photo Four
+FEMA Form 086-0-33 (12/1 9) Replaces all previous editions. Form Page 6 of 6
+
+  
+
+ 
+01-08-2024 9:57:05 AM Revd photos dated 12/22/23, apprvd NB eff 02/01/2024STD SHELBIA FOUNTAIN
+30DW from PR date 1/2/24, addresses match for prim res, EC
+
+applied
+
+01-02-2024 8:30:03 AM Agent task : Needs Photos. UW Note: Please provide photos of SHELBIA FOUNTAIN
+the front and back of the building, including the number of
+floors and the foundation. The photos must be taken within 90
+days of submission. Also, provide the date the photos were
+
+taken.
+ 
+See
+
+“y 4,
+
+ 
+ 
+
+Photos taken 12/20/2023 for wind mitigation report
+National Flood Hazard Layer FlRMette
+
+81°12'21"W 29°37'50"N SEE FIS REPORT FOR DETAILED LEGEND AND INDEX MAP FOR FIRM PANEL LAYOUT
+
+Without Base Flood Elevation (BFE)
+Zone A, V, A99
+
+SPECIAL FLOOD With BFE or Depth Zone AE, AO, AH, VE, AR
+HAZARD AREAS Regulatory Floodway
+
+0.2% Annual Chance Flood Hazard, Areas
+of 1% annual chance flood with average
+depth less than one foot or with drainage
+areas of less than one square mile Zone xX
+
+qQw Future Conditions 1% Annual
+Chance Flood Hazard Zone x
+
+Area with Reduced Flood Risk due to
+10S R31E $17, ] OTHER AREAS OF Levee. See Notes. Zone X
+FLOOD HAZARD Area with Flood Risk due to Levee Zone D
+
+NOSCREEN Area of Minimal Flood Hazard Zone x
+
+Cc ~] Effective LOMRs
+
+OTHER AREAS Area of Undetermined Flood Hazard Zone D
+
+GENERAL | =-— == Channel, Culvert, or Storm Sewer
+STRUCTURES |t tt ttt Levee, Dike, or Floodwall
+
+Cross Sections with 1% Annual Chance
+Water Surface Elevation
+
+Coastal Transect
+
+Base Flood Elevation Line (BFE)
+
+Limit of Study
+
+Jurisdiction Boundary
+
+Coastal Transect Baseline
+OTHER Profile Baseline
+FEATURES Hydrographic Feature
+
+Digital Data Available
+No Digital Data Available
+MAP PANELS|  — Unmapped
+
+The pin displayed on the map is an approximate
+point selected by the user and does not represent
+an authoritative property location.
+
+Zone AE This map complies with FEMA's standards for the use of
+7, a digital flood maps if it is not void as described below.
+(EL 6 Feet) ; The basemap shown complies with FEMA's basemap
+accuracy standards
+
+The flood hazard information is derived directly from the
+authoritative NFHL web services provided by FEMA. This map
+was exported on and does not
+reflect changes or amendments subsequent to this date and
+time. The NFHL and effective information may change or
+become superseded by new data over time.
+
+This map image is void if the one or more of the following map
+elements do not appear: basemap imagery, flood zone labels,
+legend, scale bar, map creation date, community identifiers,
+FIRM panel number, and FIRM effective date. Map images for
+unmapped and unmodernized areas cannot be used for
+regulatory purposes.
+
+81°11'44"W 29°37'19"N
+
+Basemap Imagery Source: USGS National Map 2023
+
+ 
+AUTO CLUB SOUTH INSURANCE COMPANY
+PO Box 2057 Kalispell MT 59903 USA
+
+POLICY FORM:
+POLICY DECLARATIONS TYPE:
+
+RATE CATEGORY :
+
+AUTO CLUB SOUTH INSURANCE COMPANY
+
+https://www.acg.aaa.com/
+(800) 610-0865
+NAIC# : 41041
+
+Dwelling Policy
+
+New Policy Declarations
+
+RatingEngine
+
+PAYOR: BARBARA KLEIN
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+AGENT CONTACT INFORMATION
+
+ACG SOUTH INSURANCE AGENCY LLC
+
+PO BOX 31087, ST AUGUSTINE 5814, Tampa, FL, 33631
+
+Phone : 8008914222
+
+Policy Coverages & Endorsements
+
+Insurance
+PROPERTY ADDRESS #: 27 BEDFORD DR, Palm Coast, FL, 32137
+POLICY #: FLD1041002334
+NFIP POLICY #: 1041002334
+POLICY TERM: 02-01-2024 (12:01 AM) - 02-01-2025 (12:01 AM)
+POLICY ISSUED BY: AUTO CLUB SOUTH INSURANCE COMPANY
+INSURED NAME & MAILING ADDRESS
+BARBARA KLEIN
+27 Bedford Dr,
+Palm Coast, FL, 32137
+
+COVERAGE DEDUCTIBLE
+
+Building $ 250,000 $ 1,250
+Contents $ 100,000 $ 1,000
+
+Coverage limitations may apply. See your Policy Form for details.
+
+Property Information
+
+$ 2,518
+
+Total Annual Payment
+
+Includes Premium, Discounts, Fees, and Surcharges
+
+Premium Calculations
+
+Primary Residence YES
+
+Building Occupancy Single Family
+Building Description Main House/Building
+First Floor Height (FFH) 1
+
+Method Used to Determine FFH EC
+
+— Slab on Grade (non-elevated), 2 Floors ,
+Property Description
+
+Frame
+Date of Construction 12-31-1987
+Prior NFIP Claims 0 Claim(s)
+
+Your property’s NFIP flood claims history can affect your premium.
+
+COMPONENTS OF THE TOTAL
+
+Building Premium:
+
+Contents Premium:
+
+Increased Cost of Compliance (ICC) Premium:
+
+Community Rating System Discount:
+
+Full-Risk Premium:
+Discounted Premium:
+Fees and Surcharges:
+Reserve Fund Assessment:
+HFIAA Surcharge:
+Federal Policy Fee:
+
+Total Premium
+
+PREMIUM
+$ 1,381
+$1,114
+$47
+
+$ (469.00)
+$ 2,073
+
+$ 2,073
+
+$ 373
+$25
+$47
+
+$ 2,518
+
+ADDITIONAL INTERESTS
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+
+Date Mailed: 01-08-2024
+
+For questions about your flood insurance rating, contact your agent or insurance company.
+To learn more about your flood risk, please visit FloodSmart.gov
+
+ 
+
+———
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+ 
+
+ 
+
+ 
+
+ 
+
+AUTO CLUB SOUTH
+INSURANCE COMPANY
+
+https://www.acg.aaa.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+Insurance
+PO Box 2057 Kalispell MT 59903 USA (800) 610-0865
+Date Application Number Effective Date Expiration Date Waiting Period
+01-02-2024 FLD1041002334 02-01-2024 02-01-2025 Standard - 30 Day Wait
+Insured Name(s) MailneAdies&PLoue ad h Property Addr dar h
+‘ope ess
+BARBARA KLEIN ailing Address & Phone perty Agency Name, Address & Phone
+27 Bedford Dr,Palm Coast,FL,32137 27 BEDFORD DR, 32137, Palm Coast, PO BOX 31087,Tampa,FL,33631
+Flagler, FL
+
+Home Phone:
+Work Phone:
+Cell Phone:(910)409-9065
+Email:BARBCKLEIN@GMAIL.COM
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+Current Community Information
+Community Name:FLAGLER COUNTY *
+
+Community Number:120085
+Map Panel:0039
+
+Map Panel Suffix:E
+
+Current Flood Zone:X
+Current Base Flood Elevation(BFE):7
+FIRM Date:02-05-1986
+Program:FLOODREGULAR
+Program Status:
+County:Flagler
+
+Current Map Date:06-06-2018
+Rating Map Date:
+
+Email:correspondence@acg.aaa.com
+Phone Number:8008914222
+Agent Name:ACG SOUTH INSURANCE AGENCY LLC
+
+Property Address Type:Location
+
+Other Policy Number:
+Potential Duplicate Policy:
+
+ 
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:02-05-1986
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Construction Date
+Date of Original Construction:12-31-1987
+
+Building Substantially Improved:NO
+Post-FIRM Construction:Y ES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:NO
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+Occupancy Type:Single Family
+
+Building Description:
+
+Is this the Applicant's Primary
+
+Residence: YES
+
+Is the insured a small business with
+less than 100 employees?: NO
+
+Is the insured a nonprofit entity?:NO
+
+Date:
+
+APC PRV 07 21
+
+Se
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+STANDARD FLOOD INSURANCE QUOTE
+
+ 
+
+ 
+
+ 
+
+AUTO CLUB SOUTH
+INSURANCE COMPANY
+
+https://www.acg.aaa.com/
+
+ 
+
+ 
+
+Insurance PO Box 2057 Kalispell MT 59903 USA
+(800) 610-0865
+Date Application Number Effective Date Expiration Date Waiting Period
+01-02-2024 FLD1041002334 02-01-2025 Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:600000
+Replacement Cost Value Returned by FEMA340703
+Total sq. footage of building:2168
+
+Total # of floors in building:2
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:04-13-2022
+Diagram Number:1B
+
+Top of Bottom Floor:8
+
+Top of Next Higher Floor:18
+
+Lowest Adjacent Grade (LAG):7
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Flood Height:1
+FEMA First Floor Height:1
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 1,250.00
+Content 100,000.00 1,000.00
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 1,381.00
+Content Premium: $ 1,114.00
+Increased Cost of Compliance (ICC) Premium: $ 47.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (469.00)
+Full Risk Premium: $ 2,073.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 2,073.00
+Reserve Fund Assessment: $ 373.00
+HFIAA Surchange: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 2,518.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+es
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD1041002334 / BARBARA KLEIN
+
+@ 27 BEDFORD DR, Palm Coast, Flagler County, FL, 32137
+
+-2523@
+
+@ 27 Bedford Dr, Palm Coast, Flagler County, FL, 32137 -
+
+2523
+
+Renew indicator :
+
+Term Start Date:
+
+Transaction Eff. Dt. :
+Last Updated By:
+Claims
+
+Total Premium
+
+Change:
+Total Premium :
+
+Coverage
+
+Property Info
+
+Additional info
+
+ 
+
+Policy Transaction
+
+BATCH RENEWAL
+
+02/01/2024 Term End Date :
+
+02/01/2024 Waiting Period:
+SHELBIA FOUNTAIN Applicant Date :
+
+0 Loss Run
+
+$2,518.00 Bill To :
+
+$2,518.00
+
+"Account View Receivable View Invoicing Subledger
+
+BARBCKLEIN@GMAIL.COM
+
+& (910)409-9065 Ml
+
+02/01/2025 Transaction Type :
+
+Standard - 30 Day Wait last Updated Date :
+
+01/02/2024
+Risk Rating
+POLHOLDER Serv Rep:
+U/writer :
+Product Name:
+
+Agent Tasks: ¢
+
+New Business-
+Agent Business
+
+01-08-2024
+
+2.0
+
+Flood Program
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACCOUNTING DT. TRANSTYPE TRANS REF
+
+01/02/2024
+
+01/08/2024
+
+INVOICE
+
+PAYMENT A4104100004313
+
+INV00279304
+
+CHECK NO CERTIFIED DATE DEBIT
+
+01/02/2024 g $0.00
+
+CREDIT
+
+$2,518.00 $0.00
+
+$0.00
+
+BALANCE SYSTEM DT
+
+$(2,518.00) $(2,518.00) 01/02/2024
+
+01/08/2024

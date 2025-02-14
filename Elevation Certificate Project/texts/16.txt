@@ -1,0 +1,1437 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB No. 1660-0008
+Federal Emergency Management Agency Expiration Date: November 30, 2018
+
+National Flood Insurance Program
+ELEVATION CERTIFICATE
+
+Important: Follow the instructions on pages 1-9.
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A —- PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+A1, Building Owner's Name Policy Number:
+MWN, LLC.
+A2. Ban Street Address (including Apt., Unit, Suite, and/or Bidg. No.) or P.O. Route and Company NAIC Number:
+
+   
+      
+   
+       
+
+  
+  
+ 
+
+ 
+  
+
+Box No.
+
+ 
+
+13639 N. OLA AVENUE
+City State ZIP Code
+TAMPA Florida 33613
+
+ 
+
+A3. Property Description (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+W. 175' OF N 1/4 OF LOT 2, BLOCK 9, NORTH TAMPA HGTS LAND DEV CO, PB 3, PG 73, HILLSBOROUGH COUNTY, FLORIDA.
+
+ 
+
+ 
+
+      
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.) | RESIDENTIAL
+
+ 
+
+       
+
+Ad. Latitude/Longitude; Lat. 28°04'22.14" Long. -82°27'47.17" Horizontal Datum: [_] NAD 1927 NAD 1983
+
+ 
+
+      
+   
+
+A6. Attach at least 2 photographs of the building if the Certificate is being used to obtain flood insurance.
+AZ. 9
+
+       
+
+Building Diagram Number
+
+      
+    
+
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s) 1,723 sq ft
+b) Number of permanent flood openings in the crawispace or enclosure(s) within 1.0 foot above adjacent grade 7
+c) Total net area of flood openings in A8.b 1,362  sqin
+
+d) Engineered flood openings? [_] Yes No
+
+      
+ 
+    
+ 
+  
+
+      
+
+ 
+
+. For a building with an attached garage:
+
+  
+   
+
+a) Square footage of attached garage 0 sq ft
+
+b) Number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade
+
+   
+   
+    
+
+ 
+
+Cc) Total net area of flood openings in A9.b 0 sq in
+[]Yes [X] No
+
+SECTION B — FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1, NFIP Community Name & Community Number B2. County Name B3. State
+120112 HILLSBOROUGH COUNTY HILLSBOROUGH Florida
+
+ 
+       
+
+d) Engineered flood openings?
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+         
+
+     
+
+ 
+
+ 
+
+         
+     
+
+   
+
+B4, Map/Panel B5. Suffix | B6. FIRM Index B7. FIRM Panel B8. Flood Zone(s) | BY. Base Flood Elevation(s)
+Number Date Effective/ (Zone AO, use Base
+Revised Date Flood Depth)
+12057C 0204 H 09/27/2013 08/28/2008 AE 44.5'
+
+ 
+
+ 
+
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in Item B9:
+(FIs Profile [x] FIRM ] Community Determined Other/Source:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+         
+   
+        
+ 
+
+B11. Indicate elevation datum used for BFE in Item B9: [_] NGVD 1929 NAVD 1988 [_] Other/Source:
+
+ 
+
+ 
+
+ 
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? (Yes [x] No
+Designation Date: (J cars [] OPA
+
+ 
+
+FEMA Form 086-0-33 (7/15) Replaces all previous editions. Form Page 1 of 6
+ 
+
+OMB No. 1660-0008
+ELEVATION CERTIFICATE Expiration Date: November 30, 2018
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O, Route and Box No. Policy Number:
+
+Company NAIC Number
+
+City State ZIP Code
+SECTION C - BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+TAMPA Florida 33613
+C1. Building elevations are based on: + [_] Construction Drawings* [_] Building Under Construction* [x] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations - Zones A1—A30, AE, AH, A (with BFE), VE, V1—V30, V (with BFE), AR, AR/A, AR/AE, AR/A1-A30, AR/AH, AR/AO.
+Complete Items C2.a—h below according to the building diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: VA-523 Vertical Datum: NAVD1988
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+(] NGVD 1929 [x] NAVD 1988 Other/Source:
+
+Datum used for building elevations must be the same as that used for the BFE.
+
+       
+  
+   
+   
+   
+      
+     
+       
+ 
+      
+   
+   
+   
+   
+   
+     
+ 
+       
+ 
+
+   
+   
+
+    
+  
+  
+
+ 
+
+ 
+
+ 
+
+   
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Check the measurement used,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor) 44.7 [x] feet meters
+b) Top of the next higher floor 46.7 [x] feet [[] meters
+¢) Bottom of the lowest horizontal structural member (V Zones only) N/A, [kK] feet [[] meters
+d) Attached garage (top of slab) NAL (X] feet [] meters
+e) Lowest elevation of machinery or equipment servicing the building aa) 456. [x] feet [[] meters
+(Describe type of equipment and location in Comments)
+f) Lowest adjacent (finished) grade next to building (LAG) ali teat SHO ROD SS ERI teat meters
+g) Highest adjacent (finished) grade next to building (HAG) 45,3 X] feet [] meters
+h) Lowest adjacent grade at lowest elevation of deck or stairs, including wei aN = [xX] feet ([] meters
+
+structural support
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by law to certify elevation information.
+| certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any false
+statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Klyes LINo Check here if attachments.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+ 
+
+ 
+
+  
+      
+ 
+   
+   
+  
+
+ 
+
+Certifier's Name License Number
+Miguel A. Cortes 5820
+
+Title
+PSM
+Company Name
+V.I.P. Surveying, Inc.
+
+Address
+4034 Laurel Branch Lane
+
+ 
+
+ 
+
+   
+  
+
+     
+ 
+  
+ 
+ 
+
+Pr a
+STATE OF FLORIDA
+
+ 
+
+   
+      
+
+   
+
+ 
+
+ 
+
+City State ZIP Code
+
+Orlando , = Florida 32817
+
+Signature Baz oie a MEE Date Telephone
+—— é 08/01/2016 (407) 810-0838
+
+  
+     
+ 
+   
+
+ 
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+ 
+
+  
+
+Comments (including type of equipment and location, per C2(e), if applicable)
+Benchmark Elevation 43.19', Equipment is A/C Pad outside.
+
+EC #V11458
+
+FEMA Form 086-0-33 (7/15) Replaces all previous editions. Form Page 2 of 6
+
+ 
+(HOUSE DOCTORS
+
+HOME INSPECTION SERVICES
+
+ 
+
+House Doctors Home Inspection Services
+
+Ed (813) 263-2654 / David (813) 751-9842 / Phil (813) 787-3466 / Ronelson (954)
+860-2232
+www.hdinspections.org
+hdinspect8@gmail.com
+Inspected By: Ronelson Gustave
+
+ 
+
+ete ages AUR Ae eet
+weet ae eee Bee ee
+
+Four Point Inspection Report
+Prepared For:
+Alejandro Marsan
+Property Address:
+
+13639
+N Ola Ave
+
+Tampa, FL 33613
+Inspected on Tue, Aug 13 2024 at 12:56
+13639, N Ola Ave, Tampa, FL 33613
+
+General
+
+A Four Point Inspection is far less in scope than a standard home inspection. It is a
+
+limited, visual survey, of the Roof, HVAC, Electrical, and Plumbing systems.
+
+ 
+
+Inspector Signature:
+
+Inspector License: H16873
+Photo of Each Side of Home:
+
+ 
+
+Page 2 of 10
+13639, N Ola Ave, Tampa, FL 33613
+
+(General continued)
+
+ 
+
+Year Built: 1940
+Approximate Age: 84 Years
+Age Based On: Property Appraiser
+
+Roofing
+
+Inspection Method: Walked Roof/Arms Length
+Photo of Each Slope:
+
+ 
+
+ 
+
+Page 3 of 10
+13639, N Ola Ave, Tampa, FL 33613
+
+(Roofing continued)
+
+ 
+
+Permit / Project information
+
+Project No; ROFSI7TES
+
+Description, SESE ROOF
+SHINGLES/ANOT PART OF NEW ADDITION
+Address: 13625 OLA Ave
+
+City: TPA 33633
+
+Parcel: 078778.0008
+
+Permit tssue Date: 4or200S
+
+Permit Status: FINAL
+
+Select the type of information you would
+Dice $0 See fot shes permet from the maces
+alow
+
+Roof Design:
+Predominant Roof:
+
+Approximate Roof Age:
+Remaining Useful Life:
+Predominant Roof Last Permit
+Date:
+
+Date of Last Update Predominant
+Roof:
+
+Predominant Roof Last Updated :
+
+ 
+
+ 
+
+Gable
+
+Dimensional Shingles
+Condition: Satisfactory
+6 Years
+
+14 +/- Years
+04/09/2018
+
+04/09/2018
+
+Full replacement
+
+Page 4 of 10
+13639, N Ola Ave, Tampa, FL 33613
+
+(Roofing continued)
+
+Overall Condition: Satisfactory
+Visible Damage: None
+Visible Signs Of Leaks: None
+Electrical
+
+Service Panel Location: Exterior
+
+Photo Inside Electrical Panel:
+
+  
+
+Page 5 of 10
+13639, N Ola Ave, Tampa, FL 33613
+
+(Electrical continued)
+
+Photo Outside of Electrical Panel:
+
+Service Panel Manufacturer:
+Main Panel Type:
+
+Service Amperage:
+
+Amperage Sufficient for Current
+Usage:
+
+Branch Circuit Wiring:
+
+Age of Electrical Panel:
+
+Last Year Panel Updated:
+Electrical Hazards Present:
+General Condition of Electrical
+System:
+
+ 
+
+Square D
+
+Condition: Satisfactory
+Circuit breaker
+Condition: Satisfactory
+200 amps
+
+Yes
+
+Non-Metallic Shielded Copper, Stranded Copper
+Condition: Satisfactory
+
+84 Years
+
+2023
+
+None
+
+Satisfactory
+
+ 
+
+Sub Panel
+
+Page 6 of 10
+13639, N Ola Ave, Tampa, FL 33613
+
+HVAC
+
+Central AC:
+Central Heat:
+Photo of Equipment:
+
+Yes
+Yes
+
+ 
+
+HVAC in Good Working Order:
+Date of Last Service/Inspection:
+Age of System:
+
+Year Last Updated:
+
+Wood Burning Stove Or Gas
+Furnace Not Professionally
+Installed:
+
+Space Heater Used As Primary
+Heat Source:
+
+Is Source Portable:
+
+Yes
+Unknown
+¢ Years
+2017
+
+No
+
+No
+
+Page 7 of 10
+13639, N Ola Ave, Tampa, FL 33613
+
+(HVAC continued)
+
+Signs Of Condensate Drain No
+Blockage:
+
+Plumbing
+
+The plumbing system is inspected visually and by operating a representative
+
+number of fixtures and drains. Private water and waste systems are beyond the
+scope of a home inspection.
+
+ 
+
+Photos of Exposed Valves:
+
+ 
+
+Supply Pipe Material: CPVC
+Condition: Satisfactory
+Indication of Prior Leak: No
+
+Page 8 of 10
+(Plumbing continued)
+
+Indication of Active Leak:
+
+Age of Piping:
+Dishwasher :
+
+Refrigerator :
+Washing Machine :
+Shower/Tubs:
+Toilets:
+
+Sinks:
+
+Sump Pump:
+Main Shut Off Valve:
+
+All Other Visible:
+Water Heater:
+
+13639, N Ola Ave, Tampa, FL 33613
+
+No
+
+Original to home
+Dishwasher
+
+Condition: Satisfactory
+Refrigerator
+
+Condition: Satisfactory
+Washing Machine
+Condition: Satisfactory
+Showers/Tubs
+Condition: Satisfactory
+Toilets
+
+Condition: Satisfactory
+Sinks
+
+Condition: Satisfactory
+Not Present
+
+Main Shut Off Valve
+Condition: Satisfactory
+N/A
+
+Water Heater
+Condition: Satisfactory
+
+Water Heater
+
+Water Heater Location: Pantry
+
+Page 9 of 10
+13639, N Ola Ave, Tampa, FL 33613
+
+(Water Heater continued)
+
+Photo of Water Heater:
+
+  
+
+Approximate Age: 6 Years
+Temp & Pressure Relief Valve: Present With Blow Off Leg
+Condition: Satisfactory
+
+Disclaimer
+
+Comment 1:
+
+Be advised that Underwriting will rely on the information in this sample form, or a
+similar form, that is obtained from the Florida licensed professional of your choice.
+This information only is used to determine insurability and is not a warranty or
+assurance of the suitability, fitness or longevity of any of the systems inspected.
+
+Page 10 of 10
+Report Date 8/15/2024
+
+Xa ct U S yh Report Number 13462153
+Standard X = Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 13639 N OLA AVE, TAMPA, FL 33613
+Standardized Location 13639 N OLA AVE, TAMPA, FL 33613-3240
+
+Latitude, Longitude 28.072773, -82.46315 Parcel ID 1828010TD000009000023U
+FIPS / MSA/ Tract 12057 / 45294 / 112.04 Community No. 120112
+
+Community Name HILLSBOROUGH COUNTY*
+
+County Name UNINCORPORATED AREAS
+
+Wildwood-Street
+
+eS UE See
+
+ 
+
+|= aa Gi,
+E ICA is
+a = JD seca. :
+3 UNCUT MEP heretic ley) : in ie is it Reel
+as FBS Sr ie SNe ah
+a \e SF oe} ro eR yet RS, |
+: . ae a | LW Oe An AAS suet a) ye i}
+= zi =i | a hal re,
+Ree Pray ia ae ane ae rant ee Be 4 (Gl ons sah :
+300 TES Le Nn Mapbox © OpenStreetMap
+Flood Zone Zone AE Next Nearest Zone (Dist.) X (151 ft)
+BFE 44.5 Feet NAVD88 (45.34 ft NGVD29) USGS Ground Elev 44 ft NAVD88
+FEMA Map 12057C0204H, 08/28/2008 Previous Map NOT AVAILABLE
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 06/18/1980
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $42,163,300 / 3854 NFIP PIF* 34922 NFIP Discount 25%
+Flood Source 386 ft Salt Water >6 miles Fresh Water 426 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+Docusign Envelope ID: E2D8EED1-862F-454B-9A96-40976A656CD8
+PEOPLE'S TRUST
+
+a —oOo™_ STANDARD FLOOD INSURANCE INSURANCE COMPANY
+PTIElood Flood APPLICATION https://peoplestrustinsurance.com
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PO Box 2057, Kalispell, MT, 59903 (561) 417-1111
+
+Date Application Number Effective Date Expiration Date Waiting Period
+09-18-2024 FLD3125000939 10-18-2024 10-18-2025 Standard - 30 Day Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+ALEJANDRO MARSAN 13639 N Ola Ave, 13639 N OLA AVE, 1501 SW 11th Way Ste 100,
+
+Tampa, FL, 33613 Tampa, FL, 33613 Deerfield Beach, FL, 33441
+
+Home Phone:
+
+Work Phone: Email:nickf@toplineinsurance.com
+
+Cell Phone:(813)337-9087 Property Address Type:Location Phone Number:
+
+Email: Agent Name:TopLine Insurance Agency, LLC
+
+ALEJANDROMARSAN30@GMAIL.COM
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+
+. Other Policy Number:
+Prior Policy Number:
+
+Potential Duplicate Policy:
+Prior Company Name:
+
+Renewal Billing:
+
+ 
+
+1st Mortgagee
+
+SUNCOAST CREDIT UNION
+
+PO BOX 310139,
+
+Tampa, Hillsborough County , FL, 33680
+
+Phone Number:
+Fax Number:
+
+Loan Number:8 100167682
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:120112
+
+Map Panel:0204 Prior Community Information
+Community Number:
+
+Map Panel Suffix:H.
+Map Panel:
+
+Current Flood Zone:AE
+
+. Map Panel Suffix:
+
+Current Base Flood Elevation(BFE):44
+
+Flood Zone:
+
+FIRM Date:06-18-1980
+Program:FLOODREGULAR
+Program Status:
+County:Hillsborough County
+Current Map Date:08-28-2008
+Rating Map Date:
+
+FIRM Date:06-18-1980
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Prior Policy Information
+Is this a new purchase (within the last year)? ‘NO
+
+Construction Date Prior Owner Policy Number:
+
+Date of Original Construction:12-31-1939 Prior Owner Company Name:
+
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:NO the building that lapsed?:
+
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+
+eee
+Date: fi 6
+
+ee
+a in,
+APC PRV 0721 ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+Docusign Envelope ID: E2D8EED1-862F-454B-9A96-40976A656CD8
+
+i
+
+PTIFlocd
+
+ 
+
+Date
+09-18-2024
+
+Application Number
+FLD3125000939
+
+ 
+
+PEOPLE'S TRUST
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+INSURANCE COMPANY
+https://peoplestrustinsurance.com
+
+(561) 417-1111
+
+ 
+
+ 
+
+ 
+
+Effective Date
+10-18-2024
+
+Expiration Date
+10-18-2025
+
+Waiting Period
+Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:‘NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:299106
+Replacement Cost Value Returned by FEMA374699
+Total sq. footage of building:2159
+
+Total # of floors in building:2
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Crawlspace (includes subgrade)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: YES
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:01-01-2018
+Diagram Number:9
+
+Top of Bottom Floor:44.7
+
+Top of Next Higher Floor:46.7
+Lowest Adjacent Grade (LAG):45
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height:1.7
+FEMA First Floor Height:1.7
+
+First Floor Height Method Used:EC
+
+ 
+
+  
+
+ 
+
+  
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE AMOUNT DUE
+Building 250,000.00 2,000.00 Building Premium: $ 403.00
+Content 100,000.00 2,000.00 Content Premium: $ 281.00
+Increased Cost of Compliance (ICC) Premium: $ 13.00
+Mitigation Discount: $ (25.00)
+Community Rating System Reduction: $ (119.00)
+Full Risk Premium: $ 553.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 553.00
+Reserve Fund Assessment: $ 100.00
+HFIAA Surcharge: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+DocuSigned by: Signed by: Total Quoted Premium $ 725.00
+
+  
+
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+MCKOULS FERLUNTI9/18/2024
+
+UE MAMRO MARS AN9/18/2024
+
+Signature of Policy Holder (Optional)
+
+  
+
+Date
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+ 
+
+THIS 1S WATERMARKED. Are DO NOT ACCEPT WITHOUT NOTING WATERMARK - HOLD TO LIGHT TO VERIFY WATERMARK
+
+Suncoast
+Credit Union
+
+CASHTER'S CHECK
+
+ 
+
+ 
+
++
++
+*
+wi
+tH
+<a
+i
+=z
+g
+0
+8]
+i
+Oo
+|
+=
+bj
+Z
+tJ
+eG
+ty
+Ki
+<j
+E3
+oO
+oO
+o
+re
+2
+vo)
+HM
+oO
+oO
+oS
+O
+i
+Z
+ry
+ep}
+*~
+*
++
+Features Included Eb Details on back
+
+PEOPLE'S TRUST INSURANCE CO
+RE: MARSAN
+POLICY FLD3125000939
+
+ 
+
+ 
+
+No, 4002245407
+
+ 
+
+10/21/24
+
+$725.00
+
+ 
+
+cer RD RE TG te
+
+ 
+
+Tae
+
+0
+‘en
+if
+
+THE PURCHASE OF AN INDEMNITY BOND MAY BE
+REQUIRED BEFORE AN OFFICIAL CHECK OF THIS
+CREDIT UNION WILL BE REPLACED OR REFUNDED
+IN FHE EVENT IT 1S LOST, MISPLACED OR STOLEN.
+
+anes
+
+Securi
+
+   
+
+iD R90 TENS
+
+ 
+
+MLOO22GSLO?M" WABIAB CHa PEAO’COREM
+
+ 
+
+“00000 7 2500;"
+COVERAGE ADJUSTMENT NOTICE PEOPLE'S TRUST INSURANCE
+—S_ COMPANY
+
+PTIflood | Fl ood https://peoplestrustinsurance.com
+
+ANRUSANSE PEOPLE'S TRUST INSURANCE COMPANY (961) 417-1111
+PO Box 2057 Kalispell MT 59903 United States NAICH: 13125
+
+PROPERTY ADDRESS : 13639 N OLA AVE, Tampa, FL, 33613
+POLICY # :FLD3125000939
+
+NFIP POLICY # :FLD3125000939
+
+POLICY ISSUED BY :PEOPLE'S TRUST INSURANCE COMPANY
+POLICY TERM : 10-18-2024 (12:01 AM) - 10-18-2025 (12:01 AM)
+PAYOR : SUNCOAST CREDIT UNION
+
+INSURED NAME & MAILING ADDRESS PAYOR CONTACT INFORMATION
+ALEJANDRO MARSAN SUNCOAST CREDIT UNION
+PO BOX 310139,
+
+13639 N Ola Ave, Tampa, FL, 33613
+Tampa, FL, 33680
+
+DEAR ALEJANDRO MARSAN,
+THIS IS A NOTICE OF PREMIUM DUE OF YOUR FLOOD POLICY FOR THE PROPERTY LOCATED AT:
+
+13639 N OLA AVE, Tampa, FL, 33613
+
+As of today, we have not received the premium of $ 22
+
+Coverage has been reduced to what can be afforded with the premium on file.
+
+Requested Coverage Amount Reduced Coverage Amount
+Building $ 250,000 $ 218,000
+Contents $ 100,000 $ 87,000
+
+If the remaining payment of $ 22 is received by 11/28/2024, then coverage limits will be increased to the requested coverage amount. If payment is received after
+this date, there will be a 30-day wait from the premium receipt date to increase coverage.
+
+A copy of this premium request notice has been mailed to: 1. ALEJANDRO MARSAN
+2. TopLine Insurance Agency, LLC
+
+Make check or money order payable to PEOPLE'S TRUST INSURANCE COMPANY - PO BOX 736675, Dallas, TX, 75373. Want to overnight your payment?
+PEOPLE'S TRUST INSURANCE COMPANY - 555 Corporate Drive Suite 101, Kalispell, MT, 59901 . If there have been any mortgagee changes, please contact
+
+your agent.
+dad
+
+IF YOU HAVE ANY QUESTIONS ON YOUR POLICY, PLEASE CONTACT YOUR AGENT FOR ASSISTANCE
+
+AGENT : TOPLINE INSURANCE AGENCY LLC
+AGENCY : TopLine Insurance Agency, LLC
+PHONE : () -
+
+ 
+
+Date Mailed: 10-30-2024 pili,
+ee
+———
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+—o—™S __
+
+PTIEleod
+
+PEOPLE'S TRUST INSURANCE COMPANY
+https://peoplestrustinsurance.com
+
+(561) 417-1111
+
+NAIC# : 13125
+
+PEOPLE'S TRUST INSURANCE COMPANY
+PO Box 2057 Kalispell MT 59903 United States
+
+PROPERTY ADDRESS #: 13639 N OLA AVE, Tampa, FL, 33613 POLICY FORM: Dwelling Policy
+POLICY #: FLD3125000939 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 3125000939
+
+POLICY TERM: 11-27-2024 (12:01 AM) - 11-27-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+
+POLICY ISSUED BY: PEOPLE'S TRUST INSURANCE COMPANY
+
+PAYOR: SUNCOAST CREDIT UNION
+
+INSURED NAME & MAILING ADDRESS
+
+AGENT CONTACT INFORMATION
+
+ALEJANDRO MARSAN & MAYLA R PURPURA
+
+13639 N Ola Ave,
+Tampa, FL, 33613
+
+TopLine Insurance Agency, LLC
+1501 SW 11th Way Ste 100, Deerfield Beach, FL, 33441
+
+Phone:
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 218,000 $ 2,000 $ 72 6
+Contents $ 87,000 $ 2,000
+
+Coverage limitations may apply. See your Policy Form for details.
+
+Property Information
+
+Total Annual Payment
+
+Includes Premium, Discounts, Fees, and Surcharges
+
+Premium Calculations
+
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $ 392
+Building Occupancy Single Family Contents Premium: $ 268
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $13
+First Floor Height (FFH) 1.7 Community Rating System Discount: $ (119.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 554
+Property Description Crawlspace (includes subgrade), 2 Floors , Discounted Premium: $ 554
+Frame Fees and Surcharges:
+Date of Construction 12-31-1939 Reserve Fund Assessment: $ 100
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $ 25
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+Total Premium $ 726
+ADDITIONAL INTERESTS
+First Mortgage Additional Insured
+SUNCOAST CREDIT UNION, MAYLA R PURPURA ,
+PO BOX 310139,
+
+Tampa, FL, 33680
+Loan # : 8100167682
+
+13639 N Ola Ave,
+Tampa, FL, 33613
+
+Date Mailed: 10-30-2024
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+To learn more about your flood risk, please visit FloodSmart.gov
+COVERAGE ADJUSTMENT NOTICE PEOPLE'S TRUST INSURANCE
+—S_ COMPANY
+
+PTIflood | Fl ood https://peoplestrustinsurance.com
+
+ANRUSANSE PEOPLE'S TRUST INSURANCE COMPANY (961) 417-1111
+PO Box 2057 Kalispell MT 59903 United States NAICH: 13125
+
+PROPERTY ADDRESS : 13639 N OLA AVE, Tampa, FL, 33613
+POLICY # :FLD3125000939
+
+NFIP POLICY # :FLD3125000939
+
+POLICY ISSUED BY :PEOPLE'S TRUST INSURANCE COMPANY
+POLICY TERM : 11-27-2024 (12:01 AM) - 11-27-2025 (12:01 AM)
+PAYOR : SUNCOAST CREDIT UNION
+
+INSURED NAME & MAILING ADDRESS PAYOR CONTACT INFORMATION
+ALEJANDRO MARSAN SUNCOAST CREDIT UNION
+
+PO BOX 310139,
+
+13639 N Ola Ave, Tampa, FL, 33613
+Tampa, FL, 33680
+
+DEAR ALEJANDRO MARSAN,
+THIS IS A NOTICE OF PREMIUM DUE OF YOUR FLOOD POLICY FOR THE PROPERTY LOCATED AT:
+
+13639 N OLA AVE, Tampa, FL, 33613
+
+As of today, we have not received the premium of $ 22
+
+Coverage has been reduced to what can be afforded with the premium on file.
+
+Requested Coverage Amount Reduced Coverage Amount
+Building $ 250,000 $ 218,000
+Contents $ 100,000 $ 87,000
+
+If the remaining payment of $ 22 is received by 11/28/2024, then coverage limits will be increased to the requested coverage amount. If payment is received after
+this date, there will be a 30-day wait from the premium receipt date to increase coverage.
+
+A copy of this premium request notice has been mailed to: 1. ALEJANDRO MARSAN
+2. TopLine Insurance Agency, LLC
+
+Make check or money order payable to PEOPLE'S TRUST INSURANCE COMPANY - PO BOX 736675, Dallas, TX, 75373. Want to overnight your payment?
+PEOPLE'S TRUST INSURANCE COMPANY - 555 Corporate Drive Suite 101, Kalispell, MT, 59901 . If there have been any mortgagee changes, please contact
+
+your agent.
+a0
+
+IF YOU HAVE ANY QUESTIONS ON YOUR POLICY, PLEASE CONTACT YOUR AGENT FOR ASSISTANCE
+
+AGENT : TOPLINE INSURANCE AGENCY LLC
+AGENCY : TopLine Insurance Agency, LLC
+PHONE :
+
+ 
+
+Date Mailed: 10-30-2024 pili,
+ee
+———
+
+NATIONAL FLOOD
+INSURANCE PROGRAM

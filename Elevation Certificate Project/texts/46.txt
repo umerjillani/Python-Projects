@@ -1,0 +1,1070 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY one ai je. eee
+Federal Emergency Management Agency —
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A — PROPERTY INFORMATION
+
+     
+ 
+ 
+
+  
+
+   
+   
+
+A‘. Building Owner's Name: Kelly Dorgan Policy Number:
+
+  
+
+    
+       
+       
+       
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+930 Channel Vista
+
+City: Port Aransas State. TX ZIP Code: 78373
+
+Company NAIC Number:
+
+ 
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+
+Lot 10 & 11 Block 2, Channel vista -PA
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): Residential
+
+AS. Latitude/Longitude: Lat. 27.834510° Long. -97.073029° Horizontal Datum: [[] NAD 1927 NAD 1983 [-] WGS 84
+
+A6. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+
+      
+      
+       
+
+A7. Building Diagram Number: 1A
+
+      
+   
+      
+   
+   
+   
+   
+   
+   
+       
+    
+     
+     
+   
+     
+
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): 0.00 sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? L1Yes L]No [kX] N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: Q Engineered flood openings:
+
+d) Total net open area of non-engineered flood openings in A8.c: 0.00 sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): 0.00 sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): 0.00 sq. ft.
+AQ. For a building with an attached garage:
+a) Square footage of attached garage: 350.00 sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? LlYes KJNo [JNA
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+
+ 
+  
+
+        
+
+Non-engineered flood openings: Q Engineered flood openings: 0
+
+d) Total net open area of non-engineered flood openings in A9.c: 0.00 sq. in.
+
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): 0.00 sq. ft.
+
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions): 0.00 sa. ft.
+B1.a. NFIP Community Name: City of Port Aransas B1.b. NFIP Community Identification Number: 485498
+B2. County Name: Nueces B3. State: TX B4. Map/Panel No.: 48355C 0380 B5. Suffx:G
+B6. FIRM Index Date: 10/13/2022 B7. FIRM Panel Effective/Revised Date: 10/13/2022
+B8. Flood Zone(s): AE BQ. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 7.9
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item Bg:
+CIFIS & FIRM []Community Determined [1 Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [-] NGVD 1929 [Xx] NAVD 1988 [_] Other/Source:
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [] Yes XJNo
+Designation Date: []CBRS []OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [] Yes [XJ No
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 2 of 19
+
+    
+    
+     
+
+ 
+
+      
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+FOR INSURANCE COMPANY USE
+
+Policy Number:
+
+ 
+   
+ 
+ 
+
+  
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+930 Channel Vista
+
+City: Port Aransas State. TX ZIP Code: 78373
+
+  
+       
+        
+      
+        
+
+   
+
+ 
+
+ 
+ 
+  
+
+Company NAIC Number:
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: [_] Construction Drawings* [_] Building Under Construction* Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1-A30, AR/AH, AR/AO,
+A99. Complete Items C2.a-h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: AllTerra VRS Network Vertical Datum: NAVD 1988
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+[_] NGVD 1929 NAVD 1988 [_] Other:
+
+ 
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? [] Yes [X] No
+
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+         
+      
+     
+       
+  
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 9.00 feet [] meters
+b) Top of the next higher floor (see Instructions): 18.10 |X] feet [| meters
+c) Bottom of the lowest horizontal structural member (see Instructions): 0.00 [] feet [] meters
+d) Attached garage (top of slab): 8.80 |X] feet [] meters
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+
+(describe type of M&E and location in Section D Comments area): 12.50 [XX] feet [_] meters
+f) Lowest Adjacent Grade (LAG) next to building: [_] Natural Finished 8.70 [—& feet [] meters
+g) Highest Adjacent Grade (HAG) next to building: [_] Natural [X] Finished 8.90 [Xx feet [] meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: 8.80 [Xx] feet [] meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. | certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+       
+        
+ 
+  
+    
+ 
+
+  
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Yes [-]No
+[_] Check here if attachments and describe in the Comments area.
+
+Certifiers Name: Ronald E Brister License Number: RPLS 5407
+
+   
+
+Title: President
+
+  
+
+Company Name: Brister Surveying Inc.
+Address: 5506 Cain Dr
+
+  
+   
+
+   
+   
+    
+ 
+ 
+  
+
+ 
+
+E RONALD E BRISTER /
+
+easpenccnesnecseenne® iy
+
+ 
+
+City: Corpus Christi _ State: TX ZIP Code: 78411
+Pw, |
+
+Signature:
+Telephone: (361) 850-1800
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+  
+ 
+  
+
+  
+  
+    
+    
+
+Date: 10/14/2024
+
+Email: bristersurveying@corpus.twcbc.com
+
+2
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 3 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+930 Channel Vista
+City: Port Aransas State: TX — ZIP Code: 78373
+
+Policy Number:
+Company NAIC Number:
+SECTION E — BUILDING MEASUREMENT INFORMATION (SURVEY NOT REQUIRED)
+
+FOR ZONE AO, ZONE AR/AO, AND ZONE A (WITHOUT BFE)
+
+For Zones AO, AR/AO, and A (without BFE), complete Items E1-E5. For Items E1—-E4, use natural grade, if available. If the Certificate is
+intended to support a Letter of Map Change request, complete Sections A, B, and C. Check the measurement used. In Puerto Rico only,
+enter meters.
+
+Building measurements are based on: [_] Construction Drawings* [_] Building Under Construction* [“] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+E1. Provide measurements (C.2.a in applicable Building Diagram) for the following and check the appropriate boxes to show whether the
+measurement is above or below the natural HAG and the LAG.
+
+a) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: [-] feet [] meters [_] aboveor [_] below the HAG.
+
+b) Top of bottom floor (including basement,
+crawlspace, or enclosuire) is: (-] feet ( meters [_] aboveor [_] below the LAG.
+
+. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1-2 of Instructions), the
+next higher floor (C2.b in applicable
+Building Diagram) of the building is: [] feet [] meters [_] aboveor [] below the HAG.
+
+. Attached garage (top of slab) is: [_] feet [[] meters [_] aboveor [_] below the HAG.
+
+. Top of platform of machinery and/or equipment
+servicing the building is: [] feet [ meters [_] aboveor [] below the HAG.
+
+. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? [] Yes [|] No [] Unknown The local official must certify this information in Section G.
+
+SECTION F —- PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without BFE) or Zone AO must
+sign here. The statements in Sections A, B, and E are correct to the best of my knowledge
+
+[-] Check here if attachments and describe in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+
+Address:
+
+City: ZIP Code:
+
+Signature:
+
+Telephone:
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 4 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+930 Channel Vista
+City: Port Aransas State) TX ZIP Code: 78373
+
+Policy Number:
+Company NAIC Number:
+
+SECTION G — COMMUNITY INFORMATION (RECOMMENDED FOR COMMUNITY OFFICIAL COMPLETION)
+
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+Section A, B, C, E, G, or H of this Elevation Certificate. Complete the applicable item(s) and sign below when:
+
+G1. [[] The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+engineer, or architect who is authorized by state law to certify elevation information. (Indicate the source and date of the
+elevation data in the Comments area below.)
+
+G2.a. [] A local official completed Section E for a building located in Zone A (without a BFE), Zone AO, or Zone AR/AO, or when item
+E5 is completed for a building located in Zone AO.
+
+G2.b. CJ A local official completed Section H for insurance purposes.
+
+G3. (J Inthe Comments area of Section G, the local official describes specific corrections to the information in Sections A, B, E and H.
+G4. (J The following information (Items G5—G11) is provided for community floodplain management purposes.
+
+G5. Permit Number: G6. Date Permit Issued:
+
+G7. Date Certificate of Compliance/Occupancy Issued:
+
+G8. ‘This permit has been issued for: (-] New Construction [] Substantial Improvement
+
+Elevation of as-built lowest floor (including basement) of the
+building: L] feet [[] meters
+
+Elevation of bottom of as-built lowest horizontal structural
+member: {_] feet [_] meters
+
+BFE (or depth in Zone AO) of flooding at the building site: (| feet [_] meters
+
+Community's minimum elevation (or depth in Zone AO)
+requirement for the lowest floor or lowest horizontal structural
+
+member: [_] feet [_] meters
+
+G11. Variance issued? []Yes [_]No _Ifyes, attach documentation and describe in the Comments area.
+
+The local official who provides information in Section G must sign here. / have completed the information in Section G and certify that it is
+correct to the best of my knowledge. If applicabie, | have also provided specific corrections in the Comments area of this section.
+
+Local Official's Name: Title:
+NFIP Community Name:
+
+Telephone:
+Address:
+
+City: ZIP Code:
+
+Signature: Date:
+
+Comments (including type of equipment and location, per C2.e; description of any attachments; and corrections to specific information in
+Sections A, B, D, E, or H):
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 085-0-33) (10/22) Page 5 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+930 Channel Vista
+City: Port Aransas State. TX — ZIP Code: 78373
+
+Policy Number:
+Company NAIC Number:
+
+SECTION H — BUILDING'S FIRST FLOOR HEIGHT INFORMATION FOR ALL ZONES
+(SURVEY NOT REQUIRED) (FOR INSURANCE PURPOSES ONLY)
+
+The property owner, owner's authorized representative, or local floodplain management official may complete Section H for all flood zones
+to determine the building's first floor height for insurance purposes. Sections A, B, and | must also be completed. Enter heights to the
+nearest tenth of a foot (nearest tenth of a meter in Puerto Rico). Reference the Foundation Type Diagrams (at the end of Section H
+Instructions) and the appropriate Building Diagrams (at the end of Section | Instructions) to complete this section.
+
+H1. Provide the height of the top of the floor (as indicated in Foundation Type Diagrams) above the Lowest Adjacent Grade (LAG):
+
+a) For Building Diagrams 1A, 1B, 3, and 5-9. Top of bottom 0.30 [x] feet [| meters [| above the LAG
+floor (include above-grade floors only for buildings with
+subgrade crawlispaces or enclosure floors) is:
+
+b) For Building Diagrams 2A, 2B, 4, and 6-9. Top of next [_] feet [-] meters [_] above the LAG
+higher floor (i.e., the floor above basement, crawlspace, or
+enclosure floor) is:
+
+. Is all Machinery and Equipment servicing the building (as listed in Item H2 instructions) elevated to or above the floor indicated by the
+H2 arrow (shown in the Foundation Type Diagrams at end of Section H instructions) for the appropriate Building Diagram?
+
+[]Yes []No
+
+SECTION |— PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and H must sign here. The statements in Sections
+A, B, and H are correct to the best of my knowledge. Note: If the local floodplain management official completed Section H, they should
+indicate in Item G2.b and sign Section G.
+
+[_] Check here if attachments are provided (including required photos) and describe each attachment in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name: Ronald E Brister
+Address: 5506 Cain Dr
+City: Corpus Christi State: TX ZIP Code: 78411
+
+Signature: + > : L Date: 10/14/2024
+Telephone: (361) 850-1800 s Email: bristersurveying@corpus.twcbc.com
+
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 6 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+930 Channel Vista
+City: Port Aransas State. TX ZIP Code: 78373
+
+    
+       
+    
+ 
+ 
+
+ 
+       
+ 
+
+   
+
+ 
+
+Policy Number:
+
+   
+   
+
+Company NAIC Number:
+
+ 
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and Ag.
+
+      
+     
+   
+   
+
+   
+
+Photo One
+
+Photo One Caption: Clear Photo One
+
+   
+ 
+  
+
+ 
+
+Photo Two
+
+  
+
+Photo Two Caption:
+
+Clear Photo Two
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 7 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+BUILDING PHOTOGRAPHS
+
+Continuation Page
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+930 Channel Vista .
+Policy Number:
+
+City: Port Aransas State. TX ZIP Code: 78373
+
+Company NAIC Number:
+
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View," "Rear View," "Right Side
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or
+vents, as indicated in Sections A8 and AQ.
+
+Photo Three
+
+Photo Three Caption: Clear Photo Three
+
+Photo Four
+
+Photo Four Caption: [ Clear Photo Four | Photo Four
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 8 of 19
+ 
+ 
+ 
+ 
+Report Date 10/7/2024
+
+¢,
+Xa C U S L Report Number = 13935303
+” Standard X
+
+FloodRisk Standard
+
+ 
+
+Provided Location 930 CHANNEL VISTA DR, PORT ARANSAS, TX 78373
+Standardized Location 930 CHANNEL VISTA DR, PORT ARANSAS, TX 78373-4209
+
+Latitude, Longitude 27.834408, -97.072882 Parcel ID 153400020100
+FIPS / MSA/ Tract 48355 / 18580 / 51.03 Community No. 485498
+Community Name PORT ARANSAS, CITY OF
+
+County Name NUECES
+
+Zone)xX500
+
+Wa) a - is
+| 300 ft ff * . n
+
+-
+
+ 
+
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (356 ft)
+
+BFE 7 Feet NAVD88 (7.39 ft NGVD29) USGS Ground Elev 9 ft NAVD88
+
+FEMA Map 48355C0380G, 10/13/2022 Previous Map 4854980003F, 09/30/1992, Zone AE
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 06/26/1971
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $140,499,793 / 3226 NFIP PIF* 5641 NFIP Discount N/A
+
+Flood Source 1565 ft Salt Water 1926 ft Fresh Water 3616 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+fo"
+
+ 
+
+ 
+
+ 
+
+ 
+
+STANDARD FLOOD INSURANCE
+
+ 
+
+Texas Farmers Insurance
+
+Company
+
+ 
+
+ 
+
+ 
+
+ 
+
+FARMERS APPLICATION https://www.farmers.com/
+INSURANCE
+PO Box 2057, Kalispell, MT, 59903 (888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+10-24-2024 FLD1660094688 10-24-2024 10-24-2025 Loan Transaction - No Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+KELLY DORGAN 930 Channel Vista Dr, 930 CHANNEL VISTA DR, 5656 S STAPLES ST STE 200,
+
+Port Aransas, TX, 78373
+Home Phone:
+Work Phone:
+Cell Phone:(510)418-1373
+Email:kelly.dorgan@gmail.com
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+Port Aransas, TX, 78373 Corpus Christi, TX, 78411
+
+Email:swaterman@farmersagent.com
+Phone Number:3619069400
+Agent Name:Stephanie Waterman
+
+Property Address Type:Location
+
+Other Policy Number:
+Potential Duplicate Policy:
+
+ 
+
+1st Mortgagee
+
+Rally Credit Union ISAOA
+
+PO Box 961292,
+
+Fort Worth, Tarrant County , TX, 76161
+
+Phone Number:
+Fax Number:
+
+Loan Number:01522333754
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:485498
+Map Panel:0380
+
+Map Panel Suffix:G
+
+Current Flood Zone:AE
+Current Base Flood Elevation(BFE):7
+FIRM Date:06-25-1971
+Program:FLOODREGULAR
+Program Status:
+County:Nueces County
+Current Map Date:10-13-2022
+Rating Map Date:
+
+ 
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:06-25-1971
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Construction Date
+Date of Original Construction:01-01-1997
+
+Building Substantially Improved:NO
+Post-FIRM Construction:YES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:YES
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+Occupancy Information
+Occupancy Type:Single Family
+Building Description:
+
+Is this the Applicant's Primary
+
+Residence: YES
+
+Is the insured a small business with
+less than 100 employees?: NO
+
+Is the insured a nonprofit entity?:NO
+
+Date:
+
+APC PRV 07 21
+
+AGIA
+Sr
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+va
+FARMERS
+
+INSURANCE
+
+ 
+
+ 
+
+Date
+10-24-2024
+
+Effective Date
+10-24-2024
+
+Application Number
+FLD1660094688
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+Texas Farmers Insurance
+Company
+https://www.farmers.com/
+
+(888) 391-2810
+
+ 
+
+ 
+
+Expiration Date
+10-24-2025
+
+Waiting Period
+Loan Transaction - No Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:‘NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:426000
+Replacement Cost Value Returned by FEMA273683
+Total sq. footage of building:1988
+
+Total # of floors in building:3
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:10-14-2024
+Diagram Number:1A
+
+Top of Bottom Floor:9
+
+Top of Next Higher Floor:18.1
+Lowest Adjacent Grade (LAG):8.7
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height:0.3
+FEMA First Floor Height:1.1
+
+First Floor Height Method Used:TOOL
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 250,000.00 2,000.00
+
+Content 100,000.00 2,000.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 757.00
+Content Premium: $ 482.00
+Increased Cost of Compliance (ICC) Premium: $ 24.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ 0.00
+Full Risk Premium: $ 1,263.00
+Annual Increase Cap Discount: $ 0.00
+Newly Mapped Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,263.00
+Reserve Fund Assessment: $ 227.00
+HFIAA Surcharge: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 1,562.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+A
+
+AOA
+
+AIATINAIAL CIAAN
+FARMERS
+
+INSURANCE
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP241007171424
+
+Policy Number: FLD1660094688
+
+Insured Name: KELLY DORGAN
+
+Property Address: 930 CHANNEL VISTA DR, Port Aransas, TX, 78373
+Transaction Date: 10/28/2024
+
+Remittance ID: 27IQG3IV
+
+Premium Paid: $1562
+a. g
+
+S ZIP Code™ by Address (/zip-code-lookup.htm?byaddress) z
+
+S . =
+
+5 ZIP Code™ by City and State (/zip-code-lookup.htm?bycitystate) $
+_ a
+
+Sifies by ZIP Code™ (/zip-code-lookup.htm?citybyzipcode) FAQs =
+
+a0
+
+co
+
+Es
+
+Look Up a ZIP Code’ ras
+ZIP Code™ by Address
+
+You entered:
+
+930 CHANNEL VISTA
+PORT ARANSAS TX
+78373
+
+If more than one address matches the information provided, try narrowing your search by
+entering a street address and, if applicable, a unit number. Edit and search again. (zip-code-
+
+lookup.htm?byaddress)
+
+930 CHANNEL VISTA DR
+PORT ARANSAS TX 78373-4209
+
+Look Up Another ZIP Code™
+Edit and Search Again (/zip-code-lookup.htm?byaddress)
+
+faqs.htm)
+
+yoeqpss
+Texas Farmers Insurance Company
+
+fo" ‘ Texas Farmers Insurance Company https://www.farmers.com/
+Bec! hile > PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 930 CHANNEL VISTA DR, Port Aransas, TX, 78373 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660094688 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660094688
+POLICY TERM: 10-24-2024 (At time of loan closing) - 10-24-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: KELLY DORGAN
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+
+KELLY DORGAN & MICHAEL PRUETT
+930 Channel Vista Dr,
+Port Aransas, TX, 78373
+
+Stephanie Waterman
+5656 S STAPLES ST STE 200, Corpus Christi, TX, 78411
+
+Phone : 3619069400
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ l 5 62
+9
+Contents $ 100,000 $ 2,000 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+. . Building Premium: $ 757
+Primary Residence YES
+a. : . Contents Premium: $ 482
+Building Occupancy Single Family : .
+| . : a Increased Cost of Compliance (ICC) Premium: $24
+Building Description Main House/Building . . .
+. . Community Rating System Discount: $0
+First Floor Height (FFH) 1.1
+Full-Risk Premium: $ 1,263
+Method Used to Determine FFH FEMA Determined
+. Discounted Premium: $ 1,263
+Property Description Slab on Grade (non-elevated), 3 Floors , Frame
+. Fees and Surcharges:
+Date of Construction 01-01-1997
+j j ; Reserve Fund Assessment: $ 227
+Prior NFIP Claims 1 Claim(s)
+: . : HFIAA Surcharge: $ 25
+Your property’s NFIP flood claims history can affect your premium. .
+Federal Policy Fee: $47
+Total Premium $ 1,562
+ADDITIONAL INTERESTS
+First Mortgagee Additional Insured
+Rally Credit Union ISAOA, MICHAEL PRUETT
+PO Box 961292, 930 Channel Vista Dr,
+Fort Worth, TX, 76161 Port Aransas, TX, 78373
+
+Loan # : 01522333754
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+i 2 10-29- : oe eee
+Date Mailed: 10-29-2024 To learn more about your flood risk, please visit FloodSmart.gov ———
+NATIONAL FLOOD
+
+INSURANCE PROGRAM

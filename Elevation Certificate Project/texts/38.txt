@@ -1,0 +1,861 @@
+SECTION B – FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+SECTION A – PROPERTY INFORMATION
+FOR INSURANCE COMPANY USE
+Policy Number:
+Company NAIC Number:
+A1.  Building Owner's Name:
+A2.  Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+City: 
+State:
+ZIP Code:
+A3.  Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+A4.  Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.):
+A5.  Latitude/Longitude: Lat. 
+Long. 
+Horizontal Datum:
+NAD 1927
+NAD 1983
+WGS 84
+A6.  Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+A7.  Building Diagram Number:
+A8.  For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s):
+sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area?
+No
+Yes
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings:
+Engineered flood openings:
+sq. in.
+d) Total net open area of non-engineered flood openings in A8.c:
+sq. ft.
+e) Total rated area of engineered flood openings in A8.c (attach documentation – see Instructions):
+sq. ft.  
+f)
+Sum of A8.d and A8.e rated area (if applicable – see Instructions):
+A9.  For a building with an attached garage:
+sq. ft.
+a) Square footage of attached garage:
+Yes
+No
+N/A
+b) Is there at least one permanent flood opening on two different sides of the attached garage?
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings:
+Engineered flood openings:
+sq. in.
+d) Total net open area of non-engineered flood openings in A9.c:
+sq. ft.
+e) Total rated area of engineered flood openings in A9.c (attach documentation – see Instructions):
+sq. ft. 
+f)
+Sum of A9.d and A9.e rated area (if applicable – see Instructions):
+B1.a. NFIP Community Name:
+B1.b. NFIP Community Identification Number:
+B2. County Name:
+B3. State:
+B4. Map/Panel No.:
+B5. Suffix:
+B6. FIRM Index Date:
+B7. FIRM Panel Effective/Revised Date:
+B8. Flood Zone(s):
+B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth):
+B10.  Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+FIS
+FIRM
+Community Determined
+Other:
+B11.  Indicate elevation datum used for BFE in Item B9:
+NGVD 1929
+NAVD 1988
+Other/Source:
+B12.  Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)?
+Yes
+No
+Designation Date:
+CBRS
+OPA
+B13.  Is the building located seaward of the Limit of Moderate Wave Action (LiMWA)?
+Yes
+No
+N/A
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+U.S. DEPARTMENT OF HOMELAND SECURITY 
+Federal Emergency Management Agency  
+National Flood Insurance Program 
+ELEVATION CERTIFICATE 
+OMB Control No. 1660-0008 
+Expiration Date: 06/30/2026
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22)
+Page 2 of 19
+SECTION D – SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+SECTION C – BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+FOR INSURANCE COMPANY USE
+Policy Number:
+Company NAIC Number:
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+City: 
+State:
+ZIP Code:
+C1.  Building elevations are based on:
+Construction Drawings* 
+Building Under Construction*
+Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+C2.  Elevations – Zones A1–A30, AE, AH, AO, A (with BFE), VE, V1–V30, V (with BFE), AR, AR/A, AR/AE, AR/A1–A30, AR/AH, AR/AO, 
+A99. Complete Items C2.a–h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized:
+Vertical Datum:
+Indicate elevation datum used for the elevations in items a) through h) below.
+NGVD 1929
+NAVD 1988
+Other:
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used?  
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Yes
+No
+Check the measurement used:
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor):
+feet
+meters
+b) Top of the next higher floor (see Instructions):
+feet
+meters
+c) Bottom of the lowest horizontal structural member (see Instructions):
+feet
+meters
+d) Attached garage (top of slab):
+feet
+meters
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area):
+meters
+feet
+f)
+Lowest Adjacent Grade (LAG) next to building:
+Natural
+Finished
+feet
+meters
+g) Highest Adjacent Grade (HAG) next to building:
+Natural
+Finished
+feet
+meters
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support:
+feet
+meters
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation 
+information. I certify that the information on this Certificate represents my best efforts to interpret the data available. I understand that any 
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+Were latitude and longitude in Section A provided by a licensed land surveyor?
+Yes
+No
+Check here if attachments and describe in the Comments area.
+Certifier's Name:
+License Number:
+Title:
+Company Name:
+Address:
+City:
+State:
+ZIP Code:
+Ext.:
+Email:
+Telephone:
+Signature:
+Date:
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+Place Seal Here
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22)
+Page 3 of 19
+ELEVATION CERTIFICATE 
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+  Donald D Stouten
+Digitally signed by 
+Donald D Stouten 
+DN: cn=Donald D 
+Stouten, 
+o=Ardurra Group, 
+Inc, ou=Ardurra 
+Group, Inc, 
+email=dstouten@a
+rdurra.com, c=US 
+Date: 2023.09.21 
+07:43:05 -04'00'
+FOR INSURANCE COMPANY USE
+Policy Number:
+Company NAIC Number:
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+City: 
+State:
+ZIP Code:
+SECTION E – BUILDING MEASUREMENT INFORMATION (SURVEY NOT REQUIRED) 
+FOR ZONE AO, ZONE AR/AO, AND ZONE A (WITHOUT BFE)
+For Zones AO, AR/AO, and A (without BFE), complete Items E1–E5. For Items E1–E4, use natural grade, if available. If the Certificate is 
+intended to support a Letter of Map Change request, complete Sections A, B, and C. Check the measurement used. In Puerto Rico only, 
+enter meters.
+Building measurements are based on:
+*A new Elevation Certificate will be required when construction of the building is complete.
+Construction Drawings*
+Building Under Construction*
+Finished Construction
+E1.  Provide measurements (C.2.a in applicable Building Diagram) for the following and check the appropriate boxes to show whether the 
+measurement is above or below the natural HAG and the LAG. 
+a)  Top of bottom floor (including basement, 
+crawlspace, or enclosure) is:
+meters
+feet
+above or
+below the HAG.
+b)  Top of bottom floor (including basement, 
+crawlspace, or enclosure) is:
+below the LAG.
+above or
+meters
+feet
+E2.  For Building Diagrams 6–9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1–2 of Instructions), the 
+next higher floor (C2.b in applicable  
+Building Diagram) of the building is:
+below the HAG.
+above or
+meters
+feet
+E3.  Attached garage (top of slab) is:
+below the HAG.
+above or
+meters
+feet
+E4.  Top of platform of machinery and/or equipment 
+servicing the building is:
+below the HAG.
+above or
+meters
+feet
+E5.  Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's 
+floodplain management ordinance?
+Yes
+No
+Unknown
+The local official must certify this information in Section G.
+SECTION F – PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without BFE) or Zone AO must 
+sign here. The statements in Sections A, B, and E are correct to the best of my knowledge
+Check here if attachments and describe in the Comments area.
+Comments:
+Property Owner or Owner's Authorized Representative Name:
+Address:
+City:
+State:
+ZIP Code:
+Ext.:
+Email:
+Telephone:
+Signature:
+Date:
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22)
+Page 4 of 19
+ELEVATION CERTIFICATE 
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+FOR INSURANCE COMPANY USE
+Policy Number:
+Company NAIC Number:
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+City: 
+State:
+ZIP Code:
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete 
+Section A, B, C, E, G, or H of this Elevation Certificate. Complete the applicable item(s) and sign below when:
+G1.
+The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor, 
+engineer, or architect who is authorized by state law to certify elevation information. (Indicate the source and date of the 
+elevation data in the Comments area below.)
+G2.a.
+A local official completed Section E for a building located in Zone A (without a BFE), Zone AO, or Zone AR/AO, or when item 
+E5 is completed for a building located in Zone AO.
+G2.b.
+A local official completed Section H for insurance purposes.
+G3.
+In the Comments area of Section G, the local official describes specific corrections to the information in Sections A, B, E and H.
+G4.
+The following information (Items G5–G11) is provided for community floodplain management purposes.
+Permit Number:
+G8. 
+This permit has been issued for:
+New Construction
+Substantial Improvement
+G9.a. Elevation of as-built lowest floor (including basement) of the 
+building:
+Datum:
+meters
+feet
+G9.b. Elevation of bottom of as-built lowest horizontal structural 
+member:
+Datum:
+G10.a. BFE (or depth in Zone AO) of flooding at the building site:
+Datum:
+G10.b.
+Datum:
+Community's minimum elevation (or depth in Zone AO) 
+requirement for the lowest floor or lowest horizontal structural 
+member:
+G11.
+Variance issued?
+Yes
+No
+If yes, attach documentation and describe in the Comments area.
+The local official who provides information in Section G must sign here. I have completed the information in Section G and certify that it is 
+correct to the best of my knowledge. If applicable, I have also provided specific corrections in the Comments area of this section.
+NFIP Community Name:
+Local Official's Name:
+Title:
+Comments (including type of equipment and location, per C2.e; description of any attachments; and corrections to specific information in 
+Sections A, B, D, E, or H):
+SECTION G – COMMUNITY INFORMATION (RECOMMENDED FOR COMMUNITY OFFICIAL COMPLETION)
+G6. Date Permit Issued:
+Date Certificate of Compliance/Occupancy Issued:
+G5.
+G7.
+meters
+feet
+meters
+feet
+meters
+feet
+Address:
+City:
+State:
+ZIP Code:
+Ext.:
+Email:
+Telephone:
+Signature:
+Date:
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22)
+Page 5 of 19
+ELEVATION CERTIFICATE 
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+FOR INSURANCE COMPANY USE
+Policy Number:
+Company NAIC Number:
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+City: 
+State:
+ZIP Code:
+SECTION H – BUILDING'S FIRST FLOOR HEIGHT INFORMATION FOR ALL ZONES  
+(SURVEY NOT REQUIRED) (FOR INSURANCE PURPOSES ONLY)
+The property owner, owner's authorized representative, or local floodplain management official may complete Section H for all flood zones 
+to determine the building's first floor height for insurance purposes. Sections A, B, and I must also be completed. Enter heights to the 
+nearest tenth of a foot (nearest tenth of a meter in Puerto Rico). Reference the Foundation Type Diagrams (at the end of Section H 
+Instructions) and the appropriate Building Diagrams (at the end of Section I Instructions) to complete this section.
+H1.  Provide the height of the top of the floor (as indicated in Foundation Type Diagrams) above the Lowest Adjacent Grade (LAG): 
+a)  For Building Diagrams 1A, 1B, 3, and 5–9. Top of bottom 
+floor (include above-grade floors only for buildings with 
+subgrade crawlspaces or enclosure floors) is:
+meters
+above the LAG
+feet
+b)  For Building Diagrams 2A, 2B, 4, and 6–9. Top of next 
+higher floor (i.e., the floor above basement, crawlspace, or 
+enclosure floor) is:
+above the LAG
+meters
+feet
+H2.  Is all Machinery and Equipment servicing the building (as listed in Item H2 instructions) elevated to or above the floor indicated by the 
+H2 arrow (shown in the Foundation Type Diagrams at end of Section H instructions) for the appropriate Building Diagram? 
+Yes
+No
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22)
+Page 6 of 19
+ELEVATION CERTIFICATE 
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+The property owner or owner's authorized representative who completes Sections A, B, and H must sign here. The statements in Sections 
+A, B, and H are correct to the best of my knowledge. Note: If the local floodplain management official completed Section H, they should 
+indicate in Item G2.b and sign Section G.
+Check here if attachments are provided (including required photos) and describe each attachment in the Comments area.
+Property Owner or Owner's Authorized Representative Name:
+Comments:
+SECTION I – PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+Address:
+City:
+State:
+ZIP Code:
+Ext.:
+Email:
+Telephone:
+Signature:
+Date:
+FOR INSURANCE COMPANY USE
+Policy Number:
+Company NAIC Number:
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+City: 
+State:
+ZIP Code:
+ELEVATION CERTIFICATE 
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19 
+BUILDING PHOTOGRAPHS 
+See Instructions for Item A6.
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be 
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View," 
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one 
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and A9.
+Photo One
+Photo One Caption:
+Clear Photo One
+Photo Two
+Photo Two Caption:
+Clear Photo Two
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22)
+Page 7 of 19
+FOR INSURANCE COMPANY USE
+Policy Number:
+Company NAIC Number:
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+City: 
+State:
+ZIP Code:
+ELEVATION CERTIFICATE 
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19 
+BUILDING PHOTOGRAPHS 
+Continuation Page
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View," "Rear View,"  "Right Side 
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or 
+vents, as indicated in Sections A8 and A9.
+Photo Three
+Photo Three Caption:
+Clear Photo Three
+Photo Four
+Photo Four Caption:
+Clear Photo Four
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22)
+Page 8 of 19
+ 
+324 Nicholas Pkwy. W, Suite A, Cape Coral, FL 33991 
+Phone: (239) 673-9541  
+    Fax: (239) 424-8181 
+     www.ardurra.com 
+Jeffrey D. Stouten, P.S.M. 
+            
+David K. Cramer, P.S.M. 
+                 Don Stouten, P.S.M.  
+     John Harris, P.S.M.         
+ 
+ 
+Section D – Continued 
+Latitude and longitude were obtained from GeoView ESRI/ArcGIS web mapping tool on Lee County Property Appraiser’s 
+Website. Orthorectified aerial photos acquisition date (October 2022). 
+ 
+C2 - Utilized CORPSCON Conversion Factor of (-1.18') to Convert BM to NAVD'88. 
+C2(a) - Finished Floor. 
+C2(e) – Air Conditioner.  
+**Last Date of Field Work: 09-19-23** 
+"2022-0003-00:0207:005" 
+**See FEMA Memorandum [W-22020] regarding the expiration date of this form. 
+**This structure was permitted using Flood Insurance Rate Maps 12071 C 0235 F, Effective date of August 28, 2008, 
+Base Flood elevation of 7 feet in zone AE.  
+ 
+ 
+ 
+ 
+Donald D. Stouten, P.S.M. 
+LS 3839 
+  Donald D Stouten
+MONARCH NATIONAL INSURANCE COMPANY
+PO Box 2057 Kalispell MT 59901 USA
+MONARCH NATIONAL INSURANCE
+COMPANY
+https://monarchnational.com/
+(800) 219-3102
+NAIC# : 15715
+PROPERTY ADDRESS #:
+4102 NW 26TH ST, Cape Coral, FL, 33993
+POLICY FORM:
+Dwelling Policy
+POLICY #:
+FLD5715006753
+POLICY DECLARATIONS TYPE:
+New Policy Declarations
+NFIP POLICY #:
+5715006753
+POLICY TERM:
+02-27-2024 (At time of loan closing) - 02-27-2025 (12:01 AM) 
+RATE CATEGORY :
+RatingEngine
+POLICY ISSUED BY:
+MONARCH NATIONAL INSURANCE COMPANY
+PAYOR:
+STEVE WENGER
+INSURED NAME & MAILING ADDRESS
+AGENT CONTACT INFORMATION
+STEVE WENGER
+12441 SW FIRST COURT,
+Fort Lauderdale, FL, 33325
+SHARZANNE ENTERPRISES
+584 NW UNIVERSITY BLVD STE 706, DBA JAGUAR INSURANCE,
+Port Saint Lucie, FL, 34986
+Phone : 7727818076
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy.THIS IS NOT A BILL.
+Policy Coverages & Endorsements
+COVERAGE
+DEDUCTIBLE
+$ 3,551
+Total Annual Payment
+Includes Premium, Discounts, Fees, and Surcharges
+Building
+$ 250,000
+$ 10,000
+Contents
+$ 0
+$ 0
+Coverage limitations may apply. See your Policy Form for details.
+Property Information
+Premium Calculations
+Primary Residence
+NO
+Building Occupancy
+Single Family
+Building Description
+Main House/Building
+First Floor Height (FFH)
+1
+Method Used to Determine FFH
+EC
+Property Description
+Slab on Grade (non-elevated), 1 Floors ,
+Masonry
+Date of Construction
+12-31-2022
+Prior NFIP Claims
+0 Claim(s)
+Your property’s NFIP flood claims history can affect your premium.
+COMPONENTS OF THE TOTAL
+PREMIUM
+Building Premium:
+$ 3,545
+Contents Premium:
+$ 0
+Increased Cost of Compliance (ICC) Premium:
+$ 67
+Community Rating System Discount:
+$ (854.00)
+Full-Risk Premium:
+$ 2,758
+Discounted Premium:
+$ 2,758
+Fees and Surcharges:
+Reserve Fund Assessment:
+$ 496
+HFIAA Surcharge:
+$ 250
+Federal Policy Fee:
+$ 47
+Total Premium
+$ 3,551
+ADDITIONAL INTERESTS
+First Mortgagee
+Preferred Mortgage Bankers LLC ISAOA ATIMA,
+209 Northeast 95th Street,
+Miami Shores, Miami-Dade County, FL, 33138
+Loan # : 24020101
+  Date Mailed: 03-04-2024
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+To learn more about your flood risk, please visit FloodSmart.gov
+STANDARD FLOOD INSURANCE
+APPLICATION
+PO Box 2057 Kalispell MT 59901 USA
+MONARCH NATIONAL
+INSURANCE COMPANY
+https://monarchnational.com/
+(800) 219-3102
+Date
+02-27-2024
+Application Number
+FLD5715006753
+Effective Date
+02-27-2024
+Expiration Date
+02-27-2025
+Waiting Period
+Loan Transaction - No Wait
+Insured Name(s)
+STEVE WENGER
+Mailing Address & Phone
+12441 SW FIRST COURT,Fort
+Lauderdale,FL,33325
+Property Address
+4102 NW 26TH ST, 33993, Cape Coral,
+, FL
+Agency Name, Address & Phone
+584 NW UNIVERSITY BLVD STE 706,Port Saint
+Lucie,FL,34986
+Home Phone:
+Work Phone:
+Cell Phone:(786)399-5469
+Email:none@gmail.com
+Property Address Type:Location
+Email:SAM@JAGUARAGENCY.COM
+Phone Number:7727818076
+Agent Name:SHARZANNE ENTERPRISES
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+Prior Policy Number:
+Prior Company Name:
+Renewal Billing:
+Other Policy Number:
+Potential Duplicate Policy:
+1st Mortgagee
+Preferred Mortgage Bankers LLC ISAOA ATIMA
+209 Northeast 95th Street,
+Miami Shores, Miami-Dade County , FL, 33138
+Phone Number:
+Fax Number:
+Loan Number:24020101
+Required under
+Mandatory
+Purchase:
+Current Community Information
+Community Name:
+Community Number:125095
+Map Panel:0233
+Map Panel Suffix:G
+Current Flood Zone:AE
+Current Base Flood Elevation(BFE):5
+FIRM Date:08-17-1981
+Program:FLOODREGULAR
+Program Status:
+County:
+Current Map Date:11-17-2022
+Rating Map Date:
+Prior Community Information
+Community Number:
+Map Panel:
+Map Panel Suffix:
+Flood Zone:
+FIRM Date:08-17-1981
+Has This Property Been Remapped?:
+Map Revision Date:
+Construction Date
+Date of Original Construction:12-31-2022
+Building Substantially Improved:NO
+Post-FIRM Construction:YES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+Prior Policy Information
+Is this a new purchase (within the last year)?:YES
+Prior Owner Policy Number:
+Prior Owner Company Name:
+Did the applicant have a prior NFIP policy for
+the building that lapsed?:
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+Occupancy Information
+Occupancy Type:Single Family
+Building Description:
+Is this the Applicant's Primary
+Residence:
+NO
+Is the insured a small business with
+less than 100 employees?:
+NO
+Is the insured a nonprofit entity?:NO
+  Date:
+   APC PRV 07 21
+STANDARD FLOOD INSURANCE QUOTE
+PO Box 2057 Kalispell MT 59901 USA
+MONARCH NATIONAL
+INSURANCE COMPANY
+https://monarchnational.com/
+(800) 219-3102
+Date
+02-27-2024
+Application Number
+FLD5715006753
+Effective Date
+02-27-2024
+Expiration Date
+02-27-2025
+Waiting Period
+Loan Transaction - No Wait
+Building Information
+Building Located In CBRS/OPA:NO
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+protected area purpose?:
+Prior NFIP Claims:
+Building Severe Repetitive Loss (SRL)
+Property:
+Property on NFIP SRL list, Document(s)
+provided indicating non-SRL:
+Coverage Req'd for Disaster Assistance:
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Masonry
+Construction Type Description:
+Estimated Building Replacement Cost:450000
+Replacement Cost Value Returned by FEMA:356092
+Total sq. footage of building:2381
+Total # of floors in building:1
+Total # of units in building:1
+What floor is the unit located on?:
+Number of Detached Structures:0
+Building Located on Federal Land:
+Is the policy force-placed by the lender?:
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+Enclosure/Crawlspace Size:
+Number of Elevators:
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+Anchored By:
+Serial Number:
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+Number of Openings:
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+Are all appliances elevated above the first floor?:
+Does the building contain machinery and
+equipment servicing the building?:
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+Elevation Certificate Date:09-19-2023
+Diagram Number:1B
+Top of Bottom Floor:9
+Top of Next Higher Floor:
+Lowest Adjacent Grade (LAG):8
+Floodproofing Certificate:
+Flood Proofing Elevation:
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Flood Height:1
+FEMA First Floor Height:1
+First Floor Height Method Used:EC
+Premium Calculations
+RISK RATING 2.0
+COVERAGE
+DEDUCTIBLE
+COMPONENTS OF THE TOTAL
+AMOUNT DUE
+Building
+250,000.00
+5,000.00
+Building Premium:
+$ 3,586.00
+Content
+0.00
+0.00
+Content Premium:
+$ 0.00
+Increased Cost of Compliance (ICC) Premium:
+$ 68.00
+Mitigation Discount:
+$ 0.00
+Community Rating System Reduction:
+$ (864.00)
+Full Risk Premium:
+$ 2,790.00
+Annual Increase Cap Discount:
+$ 0.00
+Pre-Firm Discount:
+$ 0.00
+Discounted Premium:
+$ 2,790.00
+Reserve Fund Assessment:
+$ 502.00
+HFIAA Surchange:
+$ 250.00
+Federal Policy Fee:
+$ 47.00
+Probation Surcharge:
+$ 0.00
+Total Quoted Premium
+$ 3,589.00
+Signature of Insurance Agent/Producer
+Date
+Signature of Policy Holder (Optional)
+Date 
+  Date:
+   APC PRV 07 21
+ 
+FloodRisk Standard
+Report Date
+2/5/2024
+Report Number
+11819428
+Standard X
+Advanced  
+Premium
+ 
+Provided Location
+4102 NW 26TH ST, CAPE CORAL, FL 33993
+Standardized Location
+4102 NW 26TH ST, CAPE CORAL, FL 33993-3465
+Latitude, Longitude
+26.700719, -82.057222
+Parcel ID
+254322C3051790350
+FIPS / MSA / Tract
+12071 / 15980 / 101.10
+Community No.
+125095
+Community Name
+CAPE CORAL, CITY OF
+County Name
+LEE
+Flood Zone
+Zone AE
+Next Nearest Zone (Dist.)
+X500 (1396 ft)
+BFE
+8 Feet NAVD88 (9.18 ft NGVD29)
+USGS Ground Elev
+5 ft NAVD88
+FEMA Map
+12071C0233G, 11/17/2022
+Previous Map
+12071C0235F, 08/28/2008, Zone AE
+NFIP Status
+PARTICIPATING
+NFIP Program
+REGULAR
+First FIRM
+08/17/1981
+LOMA or LOMR
+NO
+CBRS / OPA
+NO
+EC On-File
+NO
+Claims* $ / #
+$443,868,794 / 7041
+NFIP PIF*
+35352
+NFIP Discount
+25%
+Flood Source
+250 ft
+Salt Water
+6346 ft
+Fresh Water
+327 ft
+*Aggregated by NFIP community.
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+300 ft
+Leaflet | © Mapbox © OpenStreetMap

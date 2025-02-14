@@ -1,0 +1,852 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB No. 1660-0008
+Federal Emergency Management Agency Expiration Date: November 30, 2022
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+
+Important: Follow the instructions on pages 1-9.
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A — PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+. Building Owner's Name Policy Number:
+HTS Job #21-0608
+
+A2. pais Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Company NAIC Number:
+ox No
+
+16713 MOBY DICK
+City ZIP Code
+JAMAICA BEACH TX 77554
+A3. Property Description (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+GCAD: 4197-0003-0004-000 LEGAL: LOT 4, BLOCK C, JAMAICA BEACH SECTION 10
+
+    
+     
+
+    
+
+    
+   
+
+ 
+
+   
+
+ 
+     
+     
+     
+   
+
+ 
+
+ 
+
+. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.) RESIDENTIAL
+AS. Latitude/Longitude: Lat. 29°11'07.2" Long. 94°58'43.6" Horizontal Datum: [-] NAD 1927 [7] NAD 1983
+
+  
+        
+  
+
+A6. Attach at least 2 photographs of the building if the Certificate is being used to obtain flood insurance.
+A7. Building Diagram Number 5 (FIVE)
+
+ 
+   
+ 
+  
+
+A8. For a building with a crawlspace or enclosure(s):
+
+   
+
+a) Square footage of crawlspace or enclosure(s) NA sq ft
+
+    
+ 
+
+b) Number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade NA
+
+   
+
+c) Total net area of flood openings in A8.b NA sq in
+L}Yes WI No
+
+. For a building with an attached garage:
+
+     
+
+  
+  
+
+   
+
+d) Engineered flood openings?
+
+ 
+    
+    
+ 
+
+a) Square footage of attached garage NA sq ft
+
+b) Number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade
+
+     
+
+c) Total net area of flood openings in A9.b NA sq in
+
+L] Yes No
+
+     
+
+ 
+
+d) Engineered flood openings?
+
+    
+   
+
+  
+   
+    
+
+SECTION B — FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1. NFIP Community Name & Community Number B2. County Name B3. State
+Jamaica Beach, City of - 481271 Galveston TX - TEXAS
+
+B4. Map/Panel B5. Suffix | B6. FIRM Index B7. FIRM Panel B8. Flood B9. Base Flood Elevation(s)
+Number Date Shesaleg Zone(s) (Zone AO, use Base Flood Depth)
+Revised Date
+
+Aug 15, 2019
+
+ 
+
+ 
+       
+
+   
+
+      
+   
+    
+
+ 
+
+     
+
+    
+ 
+
+      
+ 
+  
+
+    
+
+     
+ 
+
+       
+
+48167C 0511 Aug 15, 2019 AE 11
+
+ 
+ 
+
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in Item B9:
+[_] FIS Profile [7] FIRM [_] Community Determined [_] Other/Source:
+
+ 
+    
+ 
+
+B11. Indicate elevation datum used for BFE in Item B9: [[] NGVD 1929 [7] NAVD 1988 [_] Other/Source:
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [|] Yes [¥] No
+
+ 
+    
+
+Designation Date: [.] CBRS [] OPA
+
+  
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 1 of 6
+
+ 
+Bio an eee OMB No. 1660-0008
+ELEVATION CERTIFICATE Expiration Date: November 30, 2022
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. Policy Number:
+16713 MOBY DICK
+City ZIP Code Company NAIC Number
+
+JAMAICA BEACH 77554
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: [_] Construction Drawings* (_] Building Under Construction* Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—-A30, AR/AH, AR/AO.
+Complete Items C2.a—h below according to the building diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: HGCSD 62 (AW5708) Vertical Datum; NAVD 88
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+
+[_] NGVD 1929 [¥] NAVD 1988 [_] Other/Source:
+
+Datum used for building elevations must be the same as that used for the BFE.
+Check the measurement used.
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor) iv) feet [_] meters
+b) Top of the next higher floor [V7] feet [_] meters
+
+c) Bottom of the lowest horizontal structural member (V Zones only) = [YJ feet [_] meters
+d) Attached garage (top of slab) [V7] feet [_] meters
+
+e) Lowest elevation of machinery or equipment servicing the building f
+(Describe type of equipment and location in Comments) Ss Y | feet
+
+f) Lowest adjacent (finished) grade next to building (LAG) : [Y] feet [_] meters
+g) Highest adjacent (finished) grade next to building (HAG) i feet [_] meters
+
+h) Lowest adjacent grade at lowest elevation of deck or stairs, including
+structural support ‘ [V7] feet [_] meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by law to certify elevation information.
+| certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any false
+statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Vives LINo [_] Check here if attachments.
+
+[_] meters
+
+Certifier's Name License Number
+Brian S. House 6520 ZF =
+Title io Pere,
+Registered Professional Land Surveyor (RPLS)
+Company Name Registration Number
+High Tide Land Surveying, LLC 10193855
+Address 4
+*e: Sy
+
+ide Dr. Rocco
+
+8017 Harborside Dr (uy, FESSIO x
+
+Teregererserrcerscerereroeeeeroogeree
+
+Peeees0e?™
+
+City State ZIP Code SY SU
+Galveston TX 77554
+
+Signature Date Telephone
+
+© GS :
+AVM EA Jul 21, 2021 (409) 740-1517
+
+A “i AS 7
+opy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Comments (includin pe ofe Geet and location, per C2(e), if applicable)
+A5: LAT/LONG ESTABLISHED VIA RTK GPS AT SUBJECT TRACT.
+
+C2e: REFERS TO THE TOP OF AN AIR CONDITIONER DECK.
+
+ 
+
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 2 of 6
+ 
+ 
+
+<i TE aati EEE ETT en TTA
+—— = ceem cua
+
+/ gmmitpee
+
+ 
+  
+
+ 
+Report Date 12/4/2023
+
+XY,
+Xa C U S L “ ReportNumber 11409947
+“ss Standard X = Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 16713 MOBY DICK, JAMAICA BEACH, TX 77554
+Standardized Location 16713 MOBY DICK, JAMAICA BEACH, TX 77554
+
+Latitude, Longitude 29.185279, -94.978753 Parcel ID 4491
+FIPS / MSA/ Tract 48167 / 26420 / 7261.01 Community No. 481271
+Community Name JAMAICA BEACH, CITY OF
+
+County Name GALVESTON COUNTY
+
+inva
+SE Mia)
+
+zone\VE
+aa
+
+ 
+
+ZonewWE a . 4
+ai) eo
+\. oS gs.
+_ Leaflet © Mapbox © OpenStreetMa
+
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (10246 ft)
+BFE 11 Feet NAVD88 (10.99 ft NGVD29) USGS Ground Elev 5 ft NAVD8&8
+FEMA Map 48167C0511G, 08/15/2019 Previous Map 4812710002D, 12/06/2002, Zone AE
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 04/08/1971
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $/# $22,843,654 / 1603 NFIP PIF* 952 NFIP Discount 10%
+Flood Source 1245 ft Salt Water 1728 ft Fresh Water 1598 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+L/L
+
+Feedback
+
+(wyy'sbey
+\MM\//:S}]U)
+
+o
+Cc
+ix
+
+apoodizAgh}I9¢ wy" dnyoo|-apoo-dizjwioo'sdsn‘sjooy/:sdjjy
+
+(epoodiZAqAjI9g WY" dnyoo]-9spod-diz/) uleHy yYo1ees pue yp
+
+wi2P0D IZ 494JOUY dr 4007
+
+ 
+
+GIOAV OL SAWYN ALIO
+
+XL ONVISI MIL
+XL HOV VOIVIIVE
+
+wiGO9 dIZ SIHL NI SASSSAYCAV YOS GAZINDOOSY SAWVN ALIO HSAHLO
+
+XL NOLSAAIVS
+AWVN ALID GAGNAWWOOSY
+
+vSSlL
+
+-Ppo19}]US NOA
+
+" ,8POD dIZ SIU} 10} a|qissod Jenoueym seweu AjI9 pezjubode/ 10 pepuswWODeJ By} Bsn eseeld ‘UaAIJEp pides e10WW 404
+
+wi2P0D dIZ Aq SAID
+
+‘vd BPOD dIZ & dN 4007
+
+WL
+
+ 
+
+(epood|zAqAy94 WyYy"dnyoo|-epod-d)z/) m2P9D dIZ Aq Sol}yI9
+
+(unysbey
+M//:S0}}U)
+
+(e1eIsKyoAqeuAy'dnyoo|-epoo-diz/) a}B¥S pue AYO Aq | @poD dIZ (ssesppekagunyrdnyoo| Booo-<iz/ ssaippy Aq | 8pod dlZ
+
+n
+
+SdSN | dNy4007 wi8P0D dIZ WY 0S:2 ‘PZ/91/8
+Lor Texas Farmers Insurance Company
+v Texas Farmers Insurance Company https://www.farmers.com/
+
+FARMERS PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+INSURANCE NAIC# : 21660
+PROPERTY ADDRESS #: 16713 MOBY DICK, Galveston, TX, 77554 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660000279 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660000279
+POLICY TERM: 12-05-2023 (At time of loan closing) - 12-05-2024 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: THE Y CHAPTER LLC
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+THE Y CHAPTER LLC LUKE BOHLMAN
+17 NINOS, ELIZABETH SHAW
+Irvine, CA, 92620 522 WAUGH DR, Houston, TX, 77019
+
+Phone : 2813701000
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+ 
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ l 60 8
+Contents $ 30,000 $ 2,000 Total Anmyal Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence NO Building Premium: $ 842
+Building Occupancy Single Family Contents Premium: $ 348
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $ 23
+First Floor Height (FFH) 11 Community Rating System Discount: $ (102.00)
+Method Used to Determine FFH EC Full-Risk Premium: $1,111
+Property Description Elevated without enclosure on piers, posts & | Discounted Premium: $1,111
+piles, 1 Floors , Frame Fees and Surcharges:
+Date of Construction 03-01-2021 Reserve Fund Assessment: $ 200
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $ 250
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+Total Premium $ 1,608
+ADDITIONAL INTERESTS
+First Mortgagee
+
+HOMEXPRESS MORTGAGE CORP,
+1936 E DEERE AVE STE 200,
+Santa Ana, Orange County, CA, 92705
+
+Loan + aT
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+iled: 12-06- a oe ——
+Date Mailed: 12-06-2023 To learn more about your flood risk, please visit FloodSmart.gov ———“
+C—O
+NATIONAL FLOOD
+
+INSURANCE PROGRAM
+for
+
+ 
+
+FARMERS APPLICATION
+INSURANCE
+PO Box 2057 Kalispell MT 59903 USA
+Date Application Number Effective Date Expiration Date
+12-05-2023 FLD1660000279 12-05-2023 12-05-2024
+ee ee eee
+Mailing Address & Phone Property Address
+THE Y CHAPTER LLC
+17 NINOS, Irvine,CA,92620 16713 MOBY DICK, 77554, Galveston,
+,TX
+Home Phone:
+Work Phone: .
+Property Address Type:Location
+Cell Phone:(949)698-2279
+Email:naichen.cheng@gmail.com
+Applicant Type:BUSINESS
+Prior Company NAIC: .
+. . Other Policy Number:
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+STANDARD FLOOD INSURANCE
+
+ 
+
+Potential Duplicate Policy:
+
+ 
+
+Texas Farmers Insurance
+Company
+https://www.farmers.com/
+
+(888) 391-2810
+
+ 
+
+Waiting Period
+Loan Transaction - No Wait
+
+ 
+
+Agency Name, Address & Phone
+522 WAUGH DR, Houston,TX,77019
+
+Email:Ibohlman@farmersagent.com
+Phone Number:28 13701000
+Agent Name:LUKE BOHLMAN
+
+ 
+
+1st Mortgagee
+
+HOMEXPRESS MORTGAGE CORP
+1936 E DEERE AVE STE 200,
+
+Santa Ana, Orange County , CA, 92705
+
+Phone Number:
+Fax Number:
+
+Loan Number:
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:481271
+Map Panel:0511
+
+Map Panel Suffix:G
+
+Current Flood Zone:AE
+Current Base Flood Elevation(BFE):5
+FIRM Date:04-08-1971
+Program:FLOODREGULAR
+Program Status:
+
+County:
+
+Current Map Date:08-15-2019
+Rating Map Date:
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:04-08-1971
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+ 
+
+Construction Date
+Date of Original Construction:03-01-2021
+
+Building Substantially Improved:NO
+Post-FIRM Construction:YES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:YES
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+Occupancy Type:Single Family
+Building Description:
+
+Is this the Applicant's Primary
+
+Is the insured a small business with
+less than 100 employees?: NO
+
+Is the insured a nonprofit entity?:NO
+
+Date:
+
+APC PRV 07 21
+
+ATIO
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+Texas Farmers Insurance
+
+co". STANDARD FLOOD INSURANCE QUOTE Company
+
+FARMERS
+
+ 
+
+ 
+
+ 
+
+https://www.farmers.com/
+
+ 
+
+ 
+
+eas PO Box 2057 Kalispell MT 59903 USA
+(888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+12-05-2023 FLD1660000279 12-05-2024 Loan Transaction - No Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:250000
+Replacement Cost Value Returned by FEMA248474
+Total sq. footage of building:1621
+
+Total # of floors in building:1
+
+Total # of units in building:
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Elevated without enclosure on piers, posts & piles
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:07-21-2021
+Diagram Number:5
+
+Top of Bottom Floor:17
+
+Top of Next Higher Floor:27
+
+Lowest Adjacent Grade (LAG):6
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Flood Height:11
+FEMA First Floor Height:11
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 2,000.00
+Content 30,000.00 2,000.00
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 842.00
+Content Premium: $ 348.00
+Increased Cost of Compliance (ICC) Premium: $ 23.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (102.00)
+Full Risk Premium: $ 1,111.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,111.00
+Reserve Fund Assessment: $ 200.00
+HFIAA Surchange: $ 250.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 1,608.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+RX
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD1660000279 / THE Y CHAPTER LLC
+
+16713 MOBY DICK, Galveston, Galveston County, TX, 77554
+
+- 0000
+
+17 NINOS, Irvine, Orange County, CA, 92620
+
+naichen.cheng@gmail.com
+(949)698-2279 4
+
+ 
+
+Renew indicator: BATCH RENEWAL Agent Tasks :
+Term Start Date : 12/05/2023 Term End Date : 12/05/2024 Transaction Type : New Busi
+Business
+Transaction Eff. Dt. : 12/05/2023 Waiting Period: Loan Transaction - No Wait last Updated Date : 12-06-20
+Last Updated By : CHRISTINA POWELL Applicant Date : 12/05/2023
+Claims 0 Loss Run Risk Rating 2.0
+Total Premium Change: $1,608.00 Bill To : POLHOLDER Serv Rep:
+Total Premium : $1,608.00 U/writer :
+Product Name : Flood Pre
+Receivable View Invoicing Subledger [ unposted |
+ACCOUNTING DT. TRANS TYPE TRANS REF CHECK NO CERTIFIED DATE DEBIT CREDIT BALANCE sy:
+12/05/2023 PAYMENT F2166000000662 12/05/2023 $0.00 $(1,608.00) $(1,608.00) 12
+12/06/2023 INVOICE INV00773263 $1,608.00 $0.00 $0.00 12
+01/05/2024 INVOICE INV00782147 $0.00 $(1,608.00) $(1,608.00) 01
+01/08/2024 REFUND ref 800131015 $1,608.00 $0.00 $0.00 01
+
+Log Documents Agent Customer
+Portal Portal
+
+Term Selection: (1110025)
+12-05-2023/12-05-2024
+
+Transaction Selection: (1498480)
+CANCEL - ISSUED
+
+a~
+
+Last transaction
+   
+     
+
+Cancel Policy by NIKKI
+BUCHER
+
+Transaction date: 01-05-2024
+Transaction Eff. Dt. 2023-12-
+05
+
+Note
+
+(01-05-2024) Refund should
+be mailed to the insured at
+the address on file.
+
+ 
+
+ 
+
+Agency Info
+
+ 
+
+08811-12817-000 Luke
+Bohlman
+
+Elizabeth Shaw
+
+522 WAUGH DR
+
+ 
+12-05-2023 3:18:31 PM
+
+Chatted agent Carolyn wanted to verify if
+payment has been received. Assisted and vised
+payment has been received today. Advised to
+allow few days to update the payment and for
+the policy declaration available on the system.
+
+ANALIZA MODELO

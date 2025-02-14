@@ -1,0 +1,792 @@
+FEDERAL EMERGENCY MANAGEMENT AGENCY O.MB. No. 3067-0077
+
+ 
+
+NATIONAL FLOOD INSURANCE PROGRAM Expires July 31, 2002
+ELEVATION CERTIFICATE
+Important: Read the instructions on pages 1 - 7.
+SECTION A- PROPERTY OWNER INFORMATION
+RICHARD HOLLON.
+RICHARD HOLLON
+BUILDING STREET ADDRESS (including Apt., Unit, Suite, and/or Bldg. No.) OR P.O. ROUTE AND BOX NO.
+15198 HARBOR LANE
+CITY STATE ZIP CODE
+CLEARLAKE CA 95422
+PROPERTY DESCRIPTION (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+AP.N#040-431-03
+BUILDING USE (e.g., Residential, Non-residential, Addition, Accessory, etc. Use a Comments area, if necessary.)
+RESIDENTIAL
+LATITUDE/LONGITUDE (OPTIONAL) HORIZONTAL DATUM: SOURCE: [] GPS (Type):
+( FAP -4HE - EI or THEAHHHHP) [CINAD 1927 [NAD 1983 (1 USGS Quad Map CO Other:
+
+ 
+
+SECTION B- FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1. NFIP COMMUNITY NAME & COMMUNITY NUMBER B2. COUNTY NAME B3. STATE
+060714 LAKE
+B4. MAP AND PANEL BS. SUFFIX B7. FIRMPANEL B9. BASE FLOOD ELEVATION(S)
+NUMBER B6. FIRM INDEX DATE EFFECTIVE/REVISED DATE B8. FLOOD ZONE(S) (Zone AO, use depth of flooding)
+0005 C 080392 080392 AE 1331
+
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in B9.
+
+ 
+
+)
+
+CJ FIS Profile XI FIRM (1 Community Determined (C1 Other (Describe):
+B11. Indicate the elevation datum used for the BFE in B9: EX] NGVD 1929 [J NAVD 1988 [_] Other (Describe):
+B12. 's the building located in a Coastal Barrier Resources ‘CBRS) area or Othenwise Protected Area (OPA)? Yes [XINo ignation Date
+
+ 
+
+SECTION C - BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: [1] Construction Drawings* EX] Building Under Construction* - [] Finished Construction
+*Anew Elevation Certificate will be required when construction of the building is complete.
+
+C2. Building Diagram Number _ (Select the building diagram most similar to the building for which this certificate is being completed - see pages 6 and 7. Ifno diagram
+accurately represents the building, provide a sketch or photograph.)
+
+C3. Elevations — Zones A1-A30, AE, AH, A (with BFE), VE, V1-V30, V (with BFE), AR, ARYA, AR/AE, AR/A1-A30, ARVAH, AR/AO
+Complete Items C3.-24 below according to the building diagram specified in Item C2. State the datum used. If the datum is different from the datum used for the BFE in
+Section B, convert the datum to that used for the BFE. Show field measurements and datum conversion calculation. Use the space provided or the Comments area of
+Section D or Section G, as appropriate, to document the datum conversion.
+Datum NGVD1929 Conversion/Comments ALL ELEVATIONS BELOW ARE NGVD. BENCHMARK USED WAS LAKE LEVEL. RUMSEY GAUGE0.00=1318.26 NGVD.
+Elevation reference mark used LAKE Does the elevation reference mark used appear on the FIRM? [1] Yes [XJ No cae
+
+‘
+
+   
+
+> a) Top of bottom floor (including basement or enclosure) 1331. 9ft(m) g
+Pb) Topofnext higher floor __._ft(m) 2
+> c) Bottom of lowest horizontal structural member (V zones only) ttm) a5
+Pd) Attached garage (top of stab) __. _ft(m) 2z
+>) Lowest elevation of machinery and/or equipment ee
+servicing the building (Describe in a Comments area) __-__ft(m) Es
+f) Lowest adjacent (nished) grade (LAG) _—_-_fuim) zo.
+4) Highest adjacent (finished) grade (HAG) __. _fi(mn) :
+
+h) No. of permanent openings (flood vents) within 1 ft. above adjacent grade __
+i) Total area of all permanent openings (flood vents) inC3.h___sq. in. (sq. cm)
+
+SECTION D- SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by law to certify elevation information.
+| certify that the information in Sections A, B, and C on this certificate represents my best efforts to interpret the data available.
+| understand that any false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+vvvyv
+
+ 
+
+ 
+
+CERTIFIER'S NAME ROBERT L. BODIFORD LICENSE NUMBER LS 4058
+TITLELAND SURVEYOR COMPANY NAME BODIFORD LAND SURVEYS
+ADDRESS CITY STATE ZIP CODE
+PO RAY 3740 CLEAR! AKE CA 5492
+co DATE
+
+ 
+
+ 
+
+Nn?
+
+FEMA Form 81-31 -ilI 00 SFF REVERSE SINF FOR CONTINIIJATION RFPI ACES Ail PREVIOUIS FNITIONS
+IMPORTANT: In these spaces, copy the corresponding information from Section A. For Insurance Company Use:
+
+BUILDING STREET ADDRESS (Including Apt, Unit, Suite, and/or Blig. No.) OR P.O. ROUTE AND BOX NO.
+15198 HARBOR LANE
+
+CITY STATE ZIP CODE Company NAIC Number
+CLEARLAKE CA 96422
+
+SECTION D- SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION (CONTINUED)
+Copy bath sides of this Elevation Certificate for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+ 
+
+ 
+
+COMMENTS
+C3-A) TOP OF 1/2" BOLT "PAINTED YELLOW", ON SOUTHWEST CORNER OF ‘I* BEAM AT SUB- FLOOR.
+
+ 
+
+[_] Check here if attachments
+SECTION E - BUILDING ELEVATION INFORMATION (SURVEY NOT REQUIRED) FOR ZONE AO AND ZONE A (WITHOUT BFE)
+
+For Zone AO and Zone A (without BFE), complete Items E1 through E4. If the Elevation Certificate is intended for use as supporting information for a LOMA or LOMR-F,
+
+Section C must be completed.
+
+E1. Building Diagram Number _ (Select the building diagram most similar fo the building for which this certificate is being completed — see pages 6 and 7. Ino diagram accurately
+represents the building, provide a sketch or photograph.)
+
+E2. The top of the bottom floor (including basement or enclosure) of the buildingis  __ft(m)_in.{cm)[_] aboveor [[] below (check one) the highest adjacent grade. (Use
+natural grade, if available).
+
+E3. For Building Diagrams 6-8 with openings (see page 7), the next higher floor or elevated floor (elevation b) of the building is __ ft(m)__in.cm) above the highest adjacent
+grade. Complete items C3.h and C3.i on front of form.
+
+E4. For Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's floodplain management ordinance?
+(Yes [1No [1] Unknown. The local official must certify this information in Section G.
+
+SECTION F - PROPERTY OWNER (OR OWNER’S REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, C (Items C3.h and C3, only), and E for Zone A (without a FEMA4ssued or community-
+
+issued BFE) or Zone AO must sign here. The statements in Sections A, B, C, and E are correct to the best of my knowledge.
+
+PROPERTY OWNER'S OR OWNER'S AUTHORIZED REPRESENTATIVE’S NAME
+
+ 
+
+ 
+
+ADDRESS CITy STATE ZIP CODE
+SIGNATURE DATE TELEPHONE
+COMMENTS
+[_] Check here if attachments
+
+ 
+
+SECTION G - COMMUNITY INFORMATION (OPTIONAL)
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete Sections A, B, C (or E), and G of this Elevation
+
+ 
+
+state or local law to certify elevation information. (Indicate the source and date of the elevation data in the Comments area below.)
+G2. [1] A community official completed Section E for a building located in Zone A (without a FEMA-issued or community issued BFE) or Zone AO.
+G3. [7 The following information (Items G4-G9) is provided for community floodplain management purposes.
+
+G4. PERMIT NUMBER G5. DATE PERMIT ISSUED G6. DATE CERTIFICATE OF COMPLIANCE/OCCUPANCY ISSUED
+
+G7. This permit has been issued for: [_] New Construction [_] Substantial Improvement
+
+G8. Elevation of as-built lowest floor (including basement) of the building is: __.__fi(m) Datum:
+G9. BFE or (in Zone AO) depth of flooding at the building site is: ___._ft{m) Datum:
+LOCAL OFFICIAL’S NAME TITLE
+COMMUNITY NAME TELEPHONE
+SIGNATURE DATE
+COMMENTS
+[_] Check here if attachments
+
+FEMA Form 81-21 .IEH On RFPI ACFS All PREVIOLIS FNITIONS
+ 
+ 
+ 
+ 
+Report Date 2/9/2024
+
+‘ YY fg,
+Xa C U S LZ c Report Number 11866998
+Bor Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 15198 HARBOR LN, CLEARLAKE, CA 95422
+Standardized Location 15198 HARBOR LN, CLEARLAKE, CA 95422-8156
+
+Latitude, Longitude 38.930773, -122.628382 Parcel ID 04043103
+FIPS / MSA / Tract 06033 / 17340 / 8.01 Community No. 060714
+Community Name CLEARLAKE, CITY OF
+
+County Name LAKE
+
+Ce ae
+
+Be ae
+* (GREEN
+
+= tl rat AS
+
+T(ell133 1 ft)
+jolie
+
+Lacs
+
+ 
+
+300 ft wal cnaaal EEE OF Leatet | © Mapboxo QpenStreetMap
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (586 ft)
+BFE 1331 Feet NGVD29 (13312.81 ft NAVD88) USGS Ground Elev 1325 ft NAVD8&8
+FEMA Map 06033C0692D, 09/30/2005 Previous Map NOT AVAILABLE
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 10/17/1978
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $/# $778,933 / 102 NFIP PIF* 189 NFIP Discount 0%
+Flood Source 301 ft Salt Water >6 miles Fresh Water 118 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+Lm” FIRE INSURANCE EXCHANGE
+
+ 
+
+: FIRE INSURANCE EXCHANGE https://www.farmers.com/
+FARMERS PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+INSURANCE NAIC#H : 21660
+PROPERTY ADDRESS #: 15198 HARBOR LN, Clearlake, CA, 95422 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660018369 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660018369
+POLICY TERM: 03-24-2024 (12:01 AM) - 03-24-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: FIRE INSURANCE EXCHANGE
+PAYOR: STEVEN C BLUMBERG
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+STEVEN C BLUMBERG Timothy O'Rourke
+3229 PECAN COURT, Timothy O'Rourke
+Medford, OR, 97504 PO BOX 1967, Middletown, CA, 95461
+Phone : 7079873400
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+Policy Coverages & Endorsements
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 5,000 $ l 5 l 62
+Contents $0 $0 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence NO Building Premium: $719
+Building Occupancy Single Family Contents Premium: $0
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $14
+First Floor Height (FFH) 0 Community Rating System Discount: $0
+Method Used to Determine FFH EC Full-Risk Premium: $ 733
+Property Description Elevated without enclosure on piers, posts & | Discounted Premium: $ 733
+piles, 1 Floors , Frame Fees and Surcharges:
+Date of Construction 01-01-2001 Reserve Fund Assessment: $ 132
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $ 250
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+Total Premium $ 1,162
+ADDITIONAL INTERESTS
+First Mortgagee
+GUILD MORTGAGE,
+PO Box 202028,
+
+Florence, Florence County, SC, 29502
+Loan # : 5232006215
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+iled: 03-07- a oe ——
+Date Mailed: 03-07-2024 To learn more about your flood risk, please visit FloodSmart.gov ———“
+C—O
+NATIONAL FLOOD
+
+INSURANCE PROGRAM
+fo"
+
+FARMERS
+
+INSURANCE
+
+Date Application Number Effective Date Expiration Date
+02-23-2024 FLD1660018369 03-24-2024 03-24-2025
+ee ee eee
+Mailing Address & Phone Property Address
+STEVEN C BLUMBERG
+3229 PECAN COURT,Medford,OR,97504 15198 HARBOR LN, 95422, Clearlake,
+»CA
+Home Phone:
+Work Phone: .
+Property Address Type:Location
+Cell Phone:(541)621-0831
+Email:firemansteveb@yahoo.com
+Applicant Type:INDIVIDUAL
+Prior Company NAIC: .
+. . Other Policy Number:
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057 Kalispell MT 59903 USA
+
+ 
+
+Potential Duplicate Policy:
+
+ 
+
+FIRE INSURANCE
+EXCHANGE
+https://www.farmers.com/
+
+(888) 391-2810
+
+Waiting Period
+Standard - 30 Day Wait
+
+ 
+
+Agency Name, Address & Phone
+PO BOX 1967,Middletown,CA,95461
+
+Email:torourke@farmersagent.com
+Phone Number:7079873400
+Agent Name:Timothy O'Rourke
+
+ 
+
+1st Mortgagee
+
+GUILD MORTGAGE
+
+PO Box 202028,
+
+Florence, Florence County , SC, 29502
+
+Phone Number:
+Fax Number:
+
+Loan Number:5232006215
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:060714
+Map Panel:0005
+
+Map Panel Suffix:c
+
+Current Flood Zone:AE
+Current Base Flood Elevation(BFE):1331
+FIRM Date:08-03-1992
+Program:FLOODREGULAR
+Program Status:
+
+County:
+
+Current Map Date:08-03-1992
+Rating Map Date:
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:08-03-1992
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+ 
+
+Construction Date
+Date of Original Construction:01-01-2001
+
+Building Substantially Improved:NO
+Post-FIRM Construction:YES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:NO
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+Occupancy Type:Single Family
+Building Description:
+
+Is this the Applicant's Primary
+
+Is the insured a small business with
+less than 100 employees?: NO
+
+Is the insured a nonprofit entity?:NO
+
+Date:
+
+APC PRV 07 21
+
+ATIO
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FIRE INSURANCE
+
+fo" STANDARD FLOOD INSURANCE QUOTE EXCHANGE
+
+FARMERS
+
+ 
+
+ 
+
+ 
+
+https://www.farmers.com/
+
+ 
+
+ 
+
+INSURANCE PO Box 2057 Kalispell MT 59903 USA
+(888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+02-23-2024 FLD1660018369 03-24-2025 Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Partially over Water
+Building in Course of Construction:NO
+
+Building Construction Type:Frame
+
+Construction Type Description:
+
+Estimated Building Replacement Cost:400000
+Replacement Cost Value Returned by FEMA321871
+Total sq. footage of building:1220
+
+Total # of floors in building:1
+
+Total # of units in building:
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Elevated without enclosure on piers, posts & piles
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:08-21-2002
+Diagram Number:5
+
+Top of Bottom Floor:1331
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+
+Elevation Certificate First Flood Height:1331
+FEMA First Floor Height:1331
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 5,000.00
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 719.00
+Content Premium: $ 0.00
+Increased Cost of Compliance (ICC) Premium: $ 14.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ 0.00
+Full Risk Premium: $ 733.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 733.00
+Reserve Fund Assessment: $ 132.00
+HFIAA Surchange: $ 250.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 1,162.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+RX
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD1660018369 / STEVEN C BLUMBERG
+
+15198 HARBOR LN, Clearlake, Lake County, CA, 95422 -
+8156
+
+3229 PECAN COURT, Medford, Jackson County, OR, 97504
+Renew indicator: BATCH RENEWAL
+
+Term Start Date : 03/24/2024 Term End Date :
+Transaction Eff. Dt. :
+
+Last Updated By :
+
+03/24/2024
+MARCUS DUNCAN
+
+Waiting Period:
+Applicant Date :
+
+Claims 0 Loss Run
+
+Total Premium Change : Bill To :
+
+Total Premium :
+
+$1,162.00
+$1,162.00
+
+Quote Source: AGENT
+
+firemansteveb@yahoo.com
+(541)621-0831 5
+
+Agent Tasks : Needs
+Photos
+
+03/24/2025
+
+Standard - 30 Day Wait
+02/23/2024
+
+Risk Rating
+
+POLHOLDER
+
+ 
+
+Receivable View Invoicing Subledger
+
+[vrs
+
+ 
+
+ACCOUNTING DT.
+
+02/27/2024
+
+TRANS TYPE TRANS REF CHECK NO
+
+PAYMENT F2166000014312
+
+03/07/2024 INVOICE INV00802706
+
+Log Documents Agent Customer
+Portal Portal
+
+Term Selection: (1194128)
+03-24-2024/03-24-2025 v
+
+Transaction Selection: (1623002)
+NEWBUSINESS - ISSUED v
+
+Last transaction
+
+New Business by MARCUS
+DUNCAN
+
+ 
+
+CERTIFIED DATE DEBIT
+
+02/27/2024 $0.00
+
+$1,162.00
+
+Transaction Type : New Busi
+
+Business
+
+last Updated Date : 03-07-20
+2.0
+
+Serv Rep:
+
+U/writer :
+
+Product Name : Flood Pre
+CREDIT BALANCE SYS
+$(1,162.00) $(1,162.00) 02,
+$0.00 $0.00 03,
+  
+     
+
+Transaction date: 03-07-2024
+Transaction Eff. Dt. 2024-03-
+24
+
+Note
+
+(03-11-2024) Spoke with the
+agents wants to double check
+the premium , eoc
+
+a
+©
+
+ 
+
+Agency Info
+
+ 
+
+08808-48063-000 Timothy
+O'Rourke
+
+Timothy O'Rourke
+DN RAY 1067
+
+ 
+03-07-2024 9:17:44 AM
+
+03-07-2024 9:15:03 AM
+
+03-01-2024 8:58:05 PM
+
+Aprvd NB effective 3/24/24, 30 day MARCUS DUNCAN
+wait from Application Submission
+
+date of 2/23/24. Premium received
+
+within 9 days of Application
+
+Submission date of 2/23/24.
+
+Removed EC from policy as no FC
+
+EC or current dated photos
+
+received. Not Primary Residence.
+
+The EC should not have been MARCUS DUNCAN
+approved, as it is based on Under
+
+Construction elevations and not
+
+Finished Construction. Since no
+
+Finished Construction EC received,
+
+we will have to remove the EC
+
+rating.
+
+Photos are taken within 1 year.
+Insured does not have an elevation
+certificate after the build of the
+home. This was the only one
+provided to him. This is a
+vacation/seasonal residence, so if
+updated photos are required,
+please explain what angles of the
+home you need and how many,

@@ -1,0 +1,1241 @@
+.S, DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0008
+Fede ral Emergency Management gency Expiration Date: 08/90/2026
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+Copy all pages of this Elevation Certificate and al! attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+A1. Building Owner's Name: ALEX ALEXIS | Policy Number: _ :
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: ae NAIC Number
+5362 NW 4TH AVE.
+
+City. POMPANO BEACH State: FL ZIP Code: 33064
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): Residential
+
+A5. Latitude/Longitude: Lat. 26.2965511 Long. -80.1275447_____ Horizontal Datum: [T] NAD 1927 kj NAD 1983 [] WGS84
+A6. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+
+ 
+
+A7. Building Diagram Number: 5
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): 1,344 sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? {[] Yes. No. N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+
+Non-engineered flood openings: 0 Engineered flood openings:
+a) Total net open area of non-engineered flood openings in A8.c: 0 sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): 0 sq. ft.
+
+AQ. For a building with an attached garage:
+a) Square footage of attached garage: N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? [[] Yes. No. N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: 0 Engineered flood openings:
+
+a) Total net open area of non-engineered flood openings inA9.c: 0 sq. in.
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): sq. ft.
+
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions): 0 sq. ft.
+
+Bi.a. NFIP Community Name: BROWARD COUNTY B1.b. NFIP Community Identification Number: 125101
+
+B2. County Name: BROWARD COUNTY B3. State: FL B4. Map/Panel No.: 1201100167 BS. Suffix: H B6._
+FIRM Index Date: 08/18/2014 B7. FIRM Panel Effective/Revised Date: 08/18/2014
+
+B8. Flood Zone(s): AH/X B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 14
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+(1 Fis FIRM. (] Community Determined [] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [J NGVD 1929 [I NAVD 1988 [J Other/Source:
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [] Yes IX] No
+Designation Date: (1 cCBRS- [J OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? Yes [xX] No
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 1 of 7
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No..:
+5362 NW 4TH AVE.
+City: POMPANO BEACH State: FL ZIP Code: 33064
+
+ 
+    
+
+pany NAIC Numbe
+
+C1. Building elevations are based on: CL Construction Drawings“ [[] Building Under Construction* [K] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1-A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—-h beiow according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: AJ8792 Vertical Datum: NAVD 1988
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+CJ NGvD 1929 KJ NAVD 1988 [] Other:
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? LlYes [No
+
+If Yes, describe the source of the conversion factor in the Section D Comments area. Check the measurement used:
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 149 J feet (1 meters
+b) Top of the next higher floor (see Instructions): N/A ] feet () meters
+c) Bottom of the lowest horizontal structural member (see Instructions): N/A feet (] meters
+d) Attached garage (top of slab): N/A &) feet (] meters
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+
+(describe type of M&E and location in Section D Comments area): 13.3 XX feet (] meters
+f) Lowest Adjacent Grade (LAG) next to building: [[] Natural [] Finished. 12.6 & feet ( meters
+g) Highest Adjacent Grade (HAG) next to building: [] Natural [XJ Finished. 13.0 & feet (] meters
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+
+support: NIA J feet ( meters
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oo
+ee
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. / certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? [J Yes (] No
+CO Check here if attachments and describe in the Comments area.
+
+Certifiers Name: Kenneth J Osborne License Number: 6415 ont, h
+
+Coo ——_—_—_—Osos or oO Ny
+Title: Professional Surveyor and Mapper eK J O5g/ iy
+
+. epnse Numges
+Company Name: Target Surveying, LLC vs 15
+oo ed Realy signed
+Address: 6250 North Military Trail, Suite 102 +p (OSBORN cone
+City: West Palm Beach State. FL ZIP Code: 33407 vise 7S
+_ FLORIDA
+
+Signature: Date: 7/3/2024
+Telephone: (800) 226-4807 Ext: Email: info@targetsurveying.net
+
+ 
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e: and description of any attachments):
+Garage square footage rounded to the nearest 100th.
+C2 e=AC slab
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 2 of 7
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+    
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: | FOR INSURANCE COMPANY USE
+5362 NW 4TH AVE.
+City. POMPANO BEACH State: FL ZIP Code: 33064
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oats
+
+For Zones AO, AR/AO, and A (without BFE), complete Items E1—E5. For Items E1—E4, use natural grade, if available. If the Certificate is
+intended to support a Letter of Map Change request, complete Sections A, B, and C. Check the measurement used. In Puerto Rico only,
+enter meters.
+
+Building measurements are based on: (] Construction Drawings* [(] Building Under Construction* [Xj Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+E1. Provide measurements (C.2.a in applicable Building Diagram) for the following and check the appropriate boxes to show whether the
+measurement is above or below the natural HAG and the LAG.
+
+a) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: — feet ([)] meters. [Jaboveor. [] below the HAG.
+
+b) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: XK feet (] meters Ll above or [] belowthe LAG.
+
+E2. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1-2 of Instructions), the
+next higher floor (C2.b in applicable
+
+Building Diagram) of the building is: & feet (] meters LC] above or [J below the HAG.
+E3. Attached garage (top of slab) is: ) feet (J meters Claboveor [_] below the HAG.
+E4. Top of platform of machinery and/or equipment
+
+servicing the building is: & feet (J meters CL] above or (] belowthe HAG.
+
+E5. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? [] Yes [No X Unknown The local official must certify this information in Section G.
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without BFE) or Zone AO must
+sign here. The statements in Sections A, B, and E are correct to the best of my knowledge
+
+—X] Check here if attachments and describe in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+
+Address:
+
+City: State: ZIP Code:
+
+Signature: Date:
+Telephone: Ext: Email:
+
+Comments:
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 3 of 7
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: INSURANCE COMPANY |
+5362 NW 4TH AVE.
+City. POMPANO BEACH State: FL ZIP Code: 33064
+
+ 
+
+ 
+
+po
+
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+Section A, B, C, E, G, or H of this Elevation Certificate. Complete the applicable item(s) and sign below when:
+
+G1. (J The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+engineer, or architect who is authorized by state law to certify elevation information. (Indicate the source and date of the
+elevation data in the Comments area below.)
+
+(J A local official completed Section E for a building located in Zone A (without a BFE), Zone AO, or Zone AR/AO, or when item
+E5 is completed for a building located in Zone AO.
+
+(1 A local official completed Section H for insurance purposes.
+G3. (J In the Comments area of Section G, the local official describes specific corrections to the information in Sections A, B, E and H.
+G4. (J The following information (Items G5—G11) is provided for community floodplain management purposes.
+G5. = Permit Number: G6. Date Permit Issued:
+G7. Date Certificate of Compliance/Occupancy Issued:
+G8. __ This permit has been issued for: [_] New Construction [(] Substantial Improvement
+
+G9.a. Elevation of as-built lowest fioor (including basement) of the
+building: L] feet [| meters
+
+G9.b. Elevation of bottom of as-built lowest horizontal structural
+member: [] feet (| meters
+
+G10.a. BFE (or depth in Zone AO) of flooding at the building site: C1 feet [| meters
+
+G10.b. Community's minimum elevation (or depth in Zone AO)
+requirement for the lowest floor or lowest horizontal structural
+member: L] feet [] meters
+
+G11. Variance issued? LJ Yes _ [JNo If yes, attach documentation and describe in the Comments area.
+
+The local official who provides information in Section G must sign here. / have completed the information in Section G and certify that it is
+correct to the best of my knowleage. If applicable, | have also provided specific corrections in the Comments area of this section.
+
+Local Official's Name: Title:
+NFIP Community Name:
+
+Telephone:
+Address:
+City: ZIP Code:
+
+Signature: Date:
+
+Comments (including type of equipment and location, per C2.e; description of any attachments; and corrections to specific information in
+Sections A, B, D, E, or H):
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 4 of 7
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: ‘OR INSURANCE COMPANY USE
+5362 NW 4TH AVE.
+City: POMPANO BEACH State: FL ZIP Code: 33064
+
+ 
+
+ 
+
+pe ae oe ae
+The property owner, owner's authorized representative, or local floodplain management official may complete Section H for all flood zones
+to determine the building's first floor height for insurance purposes. Sections A, B, and | must also be completed. Enter heights to the
+nearest tenth of a foot (nearest tenth of a meter in Puerto Rico). Reference the Foundation Type Diagrams (at the end of Section H
+Instructions) and the appropriate Building Diagrams (at the end of Section | Instructions) to complete this section.
+
+H1. Provide the height of the top of the floor (as indicated in Foundation Type Diagrams) above the Lowest Adjacent Grade (LAG):
+
+a) For Building Diagrams 1A, 1B, 3, and 5-9. Top of bottom 2.3 [feet [meters [XX abovetheLAG
+floor (include above-grade floors only for buildings with
+subgrade crawlspaces or enclosure floors) is:
+
+b) For Building Diagrams 2A, 2B, 4, and 6-9. Top of next XK feet L] meters (_] above the LAG
+higher floor (i.e., the floor above basement, crawlspace, or
+enclosure floor) is:
+
+. ls all Machinery and Equipment servicing the building (as listed in tem H2 instructions) elevated to or above the floor indicated by the
+H2 arrow (shown in the Foundation Type Diagrams at end of Section H instructions) for the appropriate Building Diagram?
+
+CI Yes [XI No
+
+       
+
+The property owner or owner's authorized representative who completes Sections A, B, and H must sign here. The statements in Sections
+A, B, and H are correct to the best of my knowledge. Note: If the local floodplain management official completed Section H, they should
+indicate in Item G2.b and sign Section G.
+
+LJ Check here if attachments are provided (including required photos) and describe each attachment in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+Property Owner or Owner's Authorized Representative Name: Kenneth J Osborne
+
+Address: 6250 North Military Trail, Suite 102
+
+City. West Palm Beach State: FL ZIP Code: 33407
+
+Signature: Date: 7/8/2024
+Telephone: (800) 226-4807 7 Email: info@targetsurveying.net
+
+Comments
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 5 of 7
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: ; _ FOR INSURANCE COMPANY USE
+5362 NW 4TH AVE. oe ae
+City. POMPANO BEACH State: FL ZIP Code: 33064 oe c Number
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+Photo One
+
+Photo One Caption: Front View
+
+Photo Two
+
+Photo Two Caption: Rear View
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 6 of 7
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+BUILDING PHOTOGRAPHS
+Continuation Page
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: _ FOR INSURANCE COMPANY USE —
+
+5362 NW 4TH AVE. | Policy Number: _
+City: POMPANO BEACH State: FL ZIP Code: 33064 “Company NAIC Number: _
+
+ 
+
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View,” "Rear View,” "Right Side
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or
+vents, as indicated in Sections A8 and AQ.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Photo Three
+
+Photo Three Caption: Side View
+
+Photo Four
+
+Photo Four Caption: Side View
+
+ 
+
+~ FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 7 of 7
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+5362 NW 4TH AVE. Policy Number:
+City: POMPANO BEACH State: FL ZIP Code: 33064
+
+ 
+
+Company NAIC Number:
+
+ 
+
+ 
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and A9.
+
+Photo One
+
+Photo One Caption: Front View Clear Photo One
+
+Photo Two
+
+Photo Two Caption: Rear View Clear Photo Two
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 6 of 7
+
+ 
+ 
+ 
+ 
+ 
+Report Date 10/18/2024
+
+Xa C C U S yr Sea —
+Standard X
+
+FloodRisk Standard
+
+ 
+
+Provided Location
+Standardized Location
+Latitude, Longitude
+FIPS / MSA/ Tract
+Community Name
+
+County Name
+
+Rar AH
+(el.14) ft)
+
+Flood Zone Zone AH
+
+BFE 14 Feet NAVD88 (15.57 ft NGVD29)
+FEMA Map 12011C0167H, 08/18/2014
+
+ 
+
+5362 NW 4TH AVE, POMPANO BEACH, FL 33064
+
+5362 NW 4TH AVE, DEERFIELD BEACH, FL 33064-2336
+
+26.29651, -80.127563 Parcel ID 484211021210
+
+12011 / 22744 / 107.01 Community No. 125101
+DEERFIELD BEACH, CITY OF
+BROWARD COUNTY
+
+Northwest 54th Street PReIaUiheceedohtns
+
+Tater a} 4th Street
+Zone AH
+CVG
+
+a
+
+ray a
+(el\i4 ft)
+
+a
+is
+rs
+Pa
+Ao
+a
+i)
+ly
+cS
+a=
+p=
+[=]
+=
+
+rae) Wa
+
+Next Nearest Zone (Dist.) X500 (0 ft)
+
+USGS Ground Elev 13 ft NAVD88&
+Previous Map 12011C0120F, 08/18/1992, Zone X
+
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 11/10/1972
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $1,628,722 / 341 NFIP PIF* 5788 NFIP Discount 10%
+Flood Source 979 ft Salt Water 18260 ft Fresh Water 1095 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+9B
+
+monarch
+
+ 
+
+ 
+
+ 
+
+ 
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+MONARCH NATIONAL
+INSURANCE COMPANY
+
+https://monarchnational.com/
+
+(800) 219-3102
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date Application Number Effective Date Expiration Date Waiting Period
+10-19-2024 FLD5715011132 10-24-2024 10-24-2025 Loan Transaction - No Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+ALEX ALEXIS 5362 NW 4th Ave, 5362 NW 4TH AVE, 595 E SAMPLE RD,
+
+Pompano Beach, FL, 33064
+Home Phone:
+Work Phone:
+Cell Phone:(561)817-4050
+Email:JOALEX10@GMAIL.COM
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+Pompano Beach, FL, 33064 Pompano Beach, FL, 33064
+
+Email:info@ableusa.net
+Phone Number:9547380500
+Agent Name:ABLE INSURANCE AGENCY H W INC
+
+Property Address Type:Location
+
+Other Policy Number:
+Potential Duplicate Policy:
+
+ 
+
+1st Mortgagee
+
+Carrington Mortgage Services LLC
+ISAOA/ATIMA,
+
+San Antonio, Bexar County , TX, 78269
+
+Phone Number:
+Fax Number:
+
+Loan Number:2410092045
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:125101
+Map Panel:0167
+
+Map Panel Suffix:H
+
+Current Flood Zone:AH
+Current Base Flood Elevation(BFE):14
+FIRM Date:1 1-10-1972
+Program:FLOODREGULAR
+Program Status:
+County:Broward County
+Current Map Date:08-18-2014
+Rating Map Date:
+
+ 
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:1 1-10-1972
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Construction Date
+Date of Original Construction:1 2-31-1983
+
+Building Substantially Improved:NO
+Post-FIRM Construction:YES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:YES
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+Occupancy Information
+Occupancy Type:Residential Mobile/Manufactured Home
+
+Building Description:
+
+Is this the Applicant's Primary
+
+Residence: YES
+
+Is the insured a small business with
+less than 100 employees?: NO
+
+Is the insured a nonprofit entity?:NO
+
+Date:
+
+APC PRV 07 21
+
+AGIA
+Sr
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+9B
+
+monarch
+
+ 
+
+ 
+
+Date
+10-19-2024
+
+Effective Date
+10-24-2024
+
+Application Number
+FLD5715011132
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+MONARCH NATIONAL
+INSURANCE COMPANY
+
+https://monarchnational.com/
+
+(800) 219-3102
+
+ 
+
+ 
+
+Expiration Date
+10-24-2025
+
+Waiting Period
+Loan Transaction - No Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:‘NO
+Building Construction Type:Other
+Construction Type Description:
+
+Estimated Building Replacement Cost:159130
+Replacement Cost Value Returned by FEMA:103993
+Total sq. footage of building:1344
+
+Total # of floors in building:1
+
+Total # of units in building:
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Elevated without enclosure on piers, posts & piles
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:07-03-2024
+Diagram Number:5
+
+Top of Bottom Floor:14.9
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):12.6
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height:2.3
+FEMA First Floor Height:2.3
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 101,000.00 5,000.00
+
+Content 25,000.00 2,000.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 1,153.00
+Content Premium: $ 344.00
+Increased Cost of Compliance (ICC) Premium: $ 28.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (133.00)
+Full Risk Premium: $ 1,392.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,392.00
+Reserve Fund Assessment: $ 251.00
+HFIAA Surcharge: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 1,715.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+AIATINAIAL CIAAN
+JB
+
+monarch
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP241018742410
+
+Policy Number: FLD5715011132
+
+Insured Name: ALEX ALEXIS
+
+Property Address: 5362 NW 4TH AVE, Pompano Beach, FL, 33064
+Transaction Date: 11/04/2024
+
+Remittance ID: 27J119BP
+
+Premium Paid: $2115
+11/14/24, 12:58 PM Patriot Sketch
+
+Sketch: 484211021210
+Building: 1 of 1
+
+Code
+
+R_1/2_ ||Florida Rm
+(1.0) (1.0)
+UR_1/2_ ||Utility Room
+ALUMRF')|Aluminum R
+
+ 
+
+Code _||Description||Area|/Factor||Adj Area||Stories Uae nee Air
+FR 1/2 ||Florida Rm 4 0.50 12 [ 240
+M(1.0) _ |[M(..0) 1,344] 1.00[ 1,34 [ 1,344
+UR_1/2_ ||Utility Room 0.50
+0
+1,584
+
+|
+
+N
+So
+
+&
+;
+
+=)
+
+[
+ALUMRF'|Aluminum Rf 4 0.00
+
+ALUMREF')|Aluminum Rf)
+Total
+
+oS
+
+[
+
+a) a)
+a) a)
+ee
+
+1
+1
+1
+0
+0
+
+[4
+[
+[
+[4
+[4
+
+if
+
+sol
+
+—
+
+A
+
+S &
+\o NAY} RIL oO
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+https://web.bcpa.net/RecPatriotSketch.asp?Folio=484211021210
+COVERAGE ADJUSTMENT NOTICE MONARCH NATIONAL
+
+INSURANCE COMPANY
+https://monarchnational.com/
+
+Mona rch MONARCH NATIONAL INSURANCE COMPANY (800) 219-3102
+PO Box 2057 Kalispell MT 59903 USA NAIC# : 15715
+
+PROPERTY ADDRESS : 5362 NW 4TH AVE, Pompano Beach, FL, 33064
+POLICY # :FLD5715011132
+
+NFIP POLICY # :FLD5715011132
+
+POLICY ISSUED BY : MONARCH NATIONAL INSURANCE COMPANY
+POLICY TERM : 11-14-2024 (12:01 AM) - 11-14-2025 (12:01 AM)
+
+PAYOR : ALEX ALEXIS
+
+INSURED NAME & MAILING ADDRESS PAYOR CONTACT INFORMATION
+ALEX ALEXIS ALEX ALEXIS
+5362 NW 4TH AVE,
+
+5362 NW 4th Ave, Pompano Beach, FL, 33064
+Pompano Beach, FL, 33064
+
+DEAR ALEX ALEXIS,
+THIS IS A NOTICE OF PREMIUM DUE OF YOUR FLOOD POLICY FOR THE PROPERTY LOCATED AT:
+
+5362 NW 4TH AVE, Pompano Beach, FL, 33064
+As of today, we have not received the premium of $ 508
+
+Coverage has been reduced to what can be afforded with the premium on file.
+
+Requested Coverage Amount Reduced Coverage Amount
+Building $ 147,000 $ 107,000
+Contents $ 25,000 $ 18,000
+
+If the remaining payment of $ 508 is received by 12/13/2024, then coverage limits will be increased to the requested coverage amount. If payment is received after
+this date, there will be a 30-day wait from the premium receipt date to increase coverage.
+
+A copy of this premium request notice has been mailed to: _ 1. Carrington Mortgage Services LLC
+2. ABLE INSURANCE AGENCY H W INC
+
+Make check or money order payable to MONARCH NATIONAL INSURANCE COMPANY - PO BOX 2057, Kalispell, MT, 59903. Want to overnight your
+payment? MONARCH NATIONAL INSURANCE COMPANY - 555 Corporate Drive, Suite 101, Kalispell, MT, 59901 . If there have been any mortgagee
+
+changes, please contact your agent.
+Dd
+
+IF YOU HAVE ANY QUESTIONS ON YOUR POLICY, PLEASE CONTACT YOUR AGENT FOR ASSISTANCE
+
+AGENT : HASSAN WRAYA
+AGENCY : ABLE INSURANCE AGENCY H W INC
+PHONE : (954) 738-0500
+
+ 
+
+Date Mailed: 11-14-2024 Oa
+eee
+ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+96
+
+monarch
+
+PROPERTY ADDRESS #:
+POLICY #:
+
+NFIP POLICY #:
+POLICY TERM:
+POLICY ISSUED BY:
+PAYOR:
+
+5362 NW 4TH AVE, Pompano Beach, FL, 33064
+
+FLDS5715011132
+5715011132
+
+11-14-2024 (At time of loan closing) - 11-14-2025 (12:01 AM) RATE CATEGORY :
+
+MONARCH NATIONAL INSURANCE
+COMPANY
+https://monarchnational.com/
+
+(800) 219-3102
+
+NAIC# : 15715
+
+MONARCH NATIONAL INSURANCE COMPANY
+PO Box 2057 Kalispell MT 59903 USA
+
+POLICY FORM:
+POLICY DECLARATIONS TYPE: New Policy Declarations
+
+Dwelling Policy
+
+RatingEngine
+
+MONARCH NATIONAL INSURANCE COMPANY
+
+ALEX ALEXIS
+
+INSURED NAME & MAILING ADDRESS
+ALEX ALEXIS & MARY ALEXIS
+
+5362 NW 4th Ave,
+
+Pompano Beach, FL, 33064
+
+Building
+
+Contents
+
+Coverage limitations may apply. See your Policy Form for details.
+
+Primary Residence
+Building Occupancy
+Building Description
+First Floor Height (FFH)
+
+AGENT CONTACT INFORMATION
+
+ABLE INSURANCE AGENCY H W INC
+595 E SAMPLE RD, Pompano Beach, FL, 33064
+
+Phone : 9547380500
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Method Used to Determine FFH EC
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+$ 109,000 $ 5,000 $ 2 5 l l y)
+$17,000 $ 2,000 Total Annual Payment
+Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+YES Building Premium: $1,511
+Residential Mobile/Manufactured Home Contents Premium: $ 353
+Main House/Building Increased Cost of Compliance (ICC) Premium: $35
+23 Community Rating System Discount: $ (170.00)
+Full-Risk Premium: $ 1,729
+Crawlspace (includes subgrade), 1 Floors , Discounted Premium: $ 1,729
+
+Property Description
+
+Date of Construction
+Prior NFIP Claims
+
+Your property’s NFIP flood claims history can affect your premium.
+
+First Mortgagee
+
+Frame
+
+12-31-1983
+0 Claim(s)
+
+Carrington Mortgage Services LLC,
+
+ISAOA/ATIMA,
+
+P.O. Box 692408,
+
+San Antonio, TX, 78269
+Loan # : 2410092045
+
+Fees and Surcharges:
+
+Reserve Fund Assessment: $311
+HFIAA Surcharge: $ 25
+Federal Policy Fee: $47
+Total Premium $ 2,112
+ADDITIONAL INTERESTS
+
+Additional Insured
+
+MARY ALEXIS ,
+
+5362 NW 4th Ave,
+
+Pompano Beach, FL, 33064
+
+Date Mailed: 11-14-2024
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+
+To learn more about your flood risk, please visit FloodSmart.gov
+COVERAGE ADJUSTMENT NOTICE MONARCH NATIONAL
+
+INSURANCE COMPANY
+https://monarchnational.com/
+
+(800) 219-3102
+
+{ Y IONCl ch MONARCH NATIONAL INSURANCE COMPANY pepe
+PO Box 2057 Kalispell MT 59903 USA NAIC# : 15715
+
+PROPERTY ADDRESS : 5362 NW 4TH AVE, Pompano Beach, FL, 33064
+POLICY # :FLD5715011132
+
+NFIP POLICY # :FLD5715011132
+
+POLICY ISSUED BY : MONARCH NATIONAL INSURANCE COMPANY
+POLICY TERM : 11-14-2024 (At time of loan closing) - 11-14-2025 (12:01 AM)
+PAYOR : ALEX ALEXIS
+
+INSURED NAME & MAILING ADDRESS PAYOR CONTACT INFORMATION
+ALEX ALEXIS ALEX ALEXIS
+5362 NW 4TH AVE,
+
+5362 NW 4th Ave, Pompano Beach, FL, 33064
+Pompano Beach, FL, 33064
+
+DEAR ALEX ALEXIS,
+THIS IS A NOTICE OF PREMIUM DUE OF YOUR FLOOD POLICY FOR THE PROPERTY LOCATED AT:
+
+5362 NW 4TH AVE, Pompano Beach, FL, 33064
+
+As of today, we have not received the premium of $ 508
+
+Coverage has been reduced to what can be afforded with the premium on file.
+
+Requested Coverage Amount Reduced Coverage Amount
+Building $ 147,000 $ 107,000
+Contents $ 25,000 $ 18,000
+
+If the remaining payment of $ 508 is received by 12/13/2024, then coverage limits will be increased to the requested coverage amount. If payment is received after
+
+this date, there will be a 30-day wait from the premium receipt date to increase coverage.
+
+A copy of this premium request notice has been mailed to: _ 1. Carrington Mortgage Services LLC
+2. ABLE INSURANCE AGENCY H W INC
+
+Make check or money order payable to MONARCH NATIONAL INSURANCE COMPANY - PO BOX 2057, Kalispell, MT, 59903. Want to overnight your
+payment? MONARCH NATIONAL INSURANCE COMPANY - 555 Corporate Drive, Suite 101, Kalispell, MT, 59901 . If there have been any mortgagee
+
+changes, please contact your agent.
+Dd
+
+IF YOU HAVE ANY QUESTIONS ON YOUR POLICY, PLEASE CONTACT YOUR AGENT FOR ASSISTANCE
+
+AGENT : HASSAN WRAYA
+AGENCY : ABLE INSURANCE AGENCY H W INC
+PHONE : 9547380500
+
+ 
+
+Date Mailed: 11-14-2024 Oa
+eee
+ee
+
+NATIONAL FLOOD
+INSURANCE PROGRAM

@@ -1,0 +1,821 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0008
+Federal Emergency Management Agency expiration Date: 06/30/2026
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+oa all 1 Bags of this Elevation Certificate and all eave for (1) Sani official, (2) insurance ena, | aes (3) building c owner.
+
+ea ee ei — |
+
+A1. Building Owner's Name: AAP Design and Construction
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+2813 Ari Dr.
+
+City: Brownsville
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+
+Lot 27 Block 1 Central Park Community Section II
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.):
+Latitude/Longitude: Lat. 25'57'9.57276 Long. 97' 26' 39.6945 Horizontal Datum: [-] NAD 1927 [X]NAD 1983 [_] WGS 84
+
+   
+ 
+ 
+
+ 
+
+State: TX ZIP Code: 78526
+
+ 
+
+Residential
+
+Ad.
+A6. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8)
+
+A7. Building Diagram Number: 1B
+
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): 0.00 sq. ft.
+
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [] Yes []No [] NIA
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+
+Non-engineered flood openings: Engineered flood openings:
+
+d) Total net open area of non-engineered flood openings in A8.c: 0.00 sq. in.
+
+@) Total rated area of engineered ficod openings in A8.c (attach documentation — see Instructions):
+0.00 sa. ft
+
+0.00 sq. ft
+
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions):
+
+AQ. For a building with an attached garage:
+
+a) Square footage of attached garage: 0.00 sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? []Yes [X] No LI N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+
+Non-engineered flood openings: Engineered flood openings:
+
+d) Total net open area of non-engineered flood openings in A9.c: 0.00 sq. in.
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): 0.00 sq. ft
+0.00 sq. ft
+
+  
+ 
+ 
+
+f} Sum of A9.d and AG.e rated area e or see Instructions):
+
+STRANGE PATE AS CEM INE
+
+NB OOD IN ans 3
+B1.b. NFIP Community Identification Number- 480103
+
+  
+
+B1.a. NFIP Community Name: Brownsville
+
+ 
+
+B2. County Name: Cameron B3. State: TX B4, Map/Panel No.: 0580 B5. Suffice F
+B6. FIRM Index Date: 02/1 6/2018 B7. FIRM Panel Effective/Revised Date:
+): 18°
+
+B8. Flood Zone(s): AH B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+C] FIs [x] FIRM [LJ Community Determined (J Other:
+tion datum used for BFE in Item B9: [_] NGVD 1929 PX) NAVD 1988 [_] Other/Source:
+
+Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [Yes KX)No
+
+B12. ts the building located in a
+Designation Date: []CBRS [JOPA
+building located seaward of the Limit of Moderate Wave Action (LIMWA)? [] Yes Bd No
+. Page 2 of 19
+
+ 
+
+B11. Indicate eleva
+
+B13. Is the
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22)
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+ 
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No..: FOR INSURANCE COMPANY USE
+2813 Ari Dr.
+
+ 
+
+Policy Number:
+City: Brownsville ___ State: TX ZIP Code: 78526
+
+Company NAIC Number:
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+ 
+
+C1. Building elevations are based on: [kX] Construction Drawings* {_] Building Under Construction’ [_] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1-A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: Vertical Datum:
+
+ 
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+( NGvD 1929 [J NAVD 1988 [] Other:
+
+ 
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? (] Yes [J No
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 19.80 [<q feet [] meters
+b) Top of the next higher floor (see Instructions): LC] feet [] meters
+c) Bottom of the lowest horizontal structural member (see Instructions): L] feet (] meters
+d) Attached garage (top of slab): (1 feet [] meters
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area): LL] feet [] meters
+f) Lowest Adjacent Grade (LAG) next to building: Xx Natural | Finished 18.58 |X] feet [] meters
+g) Highest Adjacent Grade (HAG) next to building: Natural [_] Finished 18.75 [& feet [] meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: [] feet [] meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. / certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U. S. Code, Section 1001.
+
+ 
+  
+
+      
+    
+   
+    
+   
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? [x] Yes [[]No
+(_] Check here if attachments and describe in the Comments area.
+
+Certifier's Name: Daniel G Orive Jr License Number: 5958
+
+Title: Registered Professional Land Surveyor
+
+ 
+
+eet tee,
+
+Company Name: Orive Land Surveying
+Address: 5580 Paredes Line Road
+City: Brownsville State. TX — ZIP Code: 78526
+
+ 
+
+    
+      
+ 
+
+   
+
+. DANIELS ORWE IR”
+
+Sth ewes ecw ees
+
+ 
+
+TPO bese escee
+
+   
+   
+  
+ 
+    
+
+  
+  
+
+   
+
+Date: 03/06/2024
+
+Email: orivesurveying@gmail.com
+
+Signature:
+Teleptone; (956) 541-9806
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+  
+    
+  
+
+ 
+  
+ 
+
+ 
+  
+
+Place Séal Here
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+Proposed Finish Floor at elevation 19.80 feet
+TBM set at elevation 18.35 feet
+
+       
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 3 of 19
+VERIFICATION OF PRIMARY RESIDENCE STATUS FOR
+
+NFIP POLICY RATING
+Insured Name: Ar pe
+
+ene
+Policy or Quotes | A410 S 24 7 fle | q
+
+Property Address: 2% %% A \ \ De .
+City, State, Zip BrOWMSG WR VK E27
+
+The above address is my primary ea TT NAD, and ! and/or my spouse live at this location for
+more than 50% of the 365 days fo!’ -—-"1e po! _-v cffective cate.
+
+Insured Name no
+
+PURSUANT TO 28 U.S.C. § 17461 CE. 'FY UNDR PENALTY OF PERJURY UNDER THE
+LAWS OF THE UNITED STATES OF / . “RICA TE \T THE FOREGOING IS TRUE AND
+CORRECT. | UNDERSTAND THAT ANY f ALSE S’ ATEMENTS MAY CAUSE MY POLICY TO
+BE VOID, AND MAY BE PUNISHABLE PY FINE O° !MPRISONMENT UNDER APPLICABLE
+FEDERAL LAW.
+
+5-1 9-e"|
+
+Date
+
+ 
+
+ 
+
+ 
+
+Please submit your signed and dated « ‘sed statement, to your agent, or to the Insurance
+Company listed on the application.
+
+ 
+
+ 
+
+ 
+
+If you have any questions, please can! -! ->"r floo- ‘surance o7ent or licensed representative.
+Privacy Notice: The Flood Insurance [ ssing Ce ter collects and uses personal information
+to process transactions. This infor °* ' she with outs'de parties except to the extent
+necessary to provide the service. W« 2 appr riate data collection, storage and
+processing practices, and security m ‘0 pro’ -f against | ‘nauthorized access, alteration,
+disclosure or destruction of \ >ur jo: nati
+- g
+¥ TAURUS
+
+FLOOD
+WM,
+»
+
+& Report Date 5/23/2024
+x a C U S L a Report Number 12733052
+Br Standard X Advanced Premium
+
+FloodRisk Standard
+
+Provided Location 2813 ARI DR, BROWNSVILLE, TX 78526
+
+ 
+
+Standardized Location 2813 ARI DR, BROWNSVILLE, TX 78526
+
+Latitude, Longitude 25.952678, -97.444354 Parcel ID 120464
+FIPS / MSA / Tract 48061 / 15180 / 126.07 Community No. 480103
+Community Name BROWNSVILLE, CITY OF
+
+County Name CAMERON COUNTY
+
+ZonelAH
+Ea)
+
+PATA | Peele al Fahey ala
+
+(ell18)ft) Ei (ellt8\ft)
+
+Leaflet | © Mapbox © OpenStreetMap
+
+ 
+
+Flood Zone Zone AH Next Nearest Zone (Dist.) X (1653 ft)
+
+BFE 18 Feet NAVD88 (18.30 ft NGVD29) USGS Ground Elev 17 ft NAVD88
+
+FEMA Map 48061C0580F, 02/16/2018 Previous Map 4801010350B, 09/15/1983, Zone AH
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 12/01/1978
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $/# $10,357,193 / 861 NFIP PIF* 3173 NFIP Discount N/A
+
+Flood Source 1519 ft Salt Water 15057 ft Fresh Water 1014 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+Texas Farmers Insurance Company
+
+fo" : Texas Farmers Insurance Company https://www.farmers.com/
+ree PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 2813 ARI DR, Brownsville, TX, 78526 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660050787 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660050787
+POLICY TERM: 05-29-2024 (At time of loan closing) - 05-29-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: ADAN PENA
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+ADAN PENA Ivan Karr
+2039 E PRICE RD # 113, Ivan Karr
+Brownsville, TX, 78526 2039 E PRICE RD # 113, Brownsville, TX, 78521
+
+Phone : 9562050333
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+ 
+
+COVERAGE DEDUCTIBLE
+Building $ 145,000 $ 5,000 $ 3 6 9
+Contents $0 $0 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $ 247
+Building Occupancy Single Family Contents Premium: $0
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $5
+First Floor Height (FFH) 1.3 Community Rating System Discount: $0
+Method Used to Determine FFH EC Full-Risk Premium: $ 252
+Property Description Slab on Grade (non-elevated), 1 Floors , Discounted Premium: $ 252
+Masonry Fees and Surcharges:
+Date of Construction 05-29-2024 Reserve Fund Assessment: $45
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $25
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+Total Premium $ 369
+ADDITIONAL INTERESTS
+First Mortgagee
+
+FALCON INTERNATIONAL BANK,
+ATT: ESCROW DEPARTMENT,
+
+212 BOB BULLOCK LOOP,
+
+Laredo, TX, 78043
+
+Loan # : 5054039820
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+iled: 05-30- a oe ——
+Date Mailed: 05-30-2024 To learn more about your flood risk, please visit FloodSmart.gov ———“
+C—O
+NATIONAL FLOOD
+
+INSURANCE PROGRAM
+Texas Farmers Insurance
+
+Sor STANDARD FLOOD INSURANCE Company
+FARMERS APPLICATION https://www.farmers.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INSURANCE
+PO Box 2057, Kalispell, MT, 59903 (888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+05-29-2024 FLD1660050787 06-28-2024 06-28-2025 Loan Transaction - No Wait
+ee
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+ADAN PENA 2039 E PRICE RD # 113, 2813 ARI DR, 2039 E PRICE RD # 113,
+Brownsville, TX, 78526 Brownsville, TX, 78526 Brownsville, TX, 78521
+Home Phone: .
+Email:ikarr@farmersagent.com
+Work Phone:
+
+Property Address Type:Location Phone Number:9562050333
+
+Cell Phone:(956)204-9260
+Agent Name:Ivan Karr
+
+Email: [KARR@OUTLOOK.COM
+
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+
+. . Other Policy Number:
+Prior Policy Number:
+
+Potential Duplicate Policy:
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+1st Mortgagee
+
+FALCON INTERNATIONAL BANK
+ATT: ESCROW DEPARTMENT,
+Laredo, Webb County , TX, 78043
+
+Phone Number:
+Fax Number:
+
+Loan Number:5054039820
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:480103
+
+Map Panel:48061C0580F Prior Community Information
+Community Number:
+
+Map Panel Suffix:F
+Map Panel:
+
+Current Flood Zone:AH
+Map Panel Suffix:
+
+Current Base Flood Elevation(BFE):18
+FIRM Date:02-16-2018
+Program:FLOODREGULAR
+
+Program Status:
+
+Flood Zone:
+FIRM Date:02-16-2018
+Has This Property Been Remapped?:
+
+Map Revision Date:
+County:Cameron County
+
+Current Map Date:12-01-1978
+
+ 
+
+Rating Map Date:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:NO
+Construction Date Prior Owner Policy Number:
+Date of Original Construction:05-29-2024 Prior Owner Company Name: ;
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Residence: YES
+
+Date: fi 6
+
+_—
+—
+APC PRV 07 21 Oe es
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+for
+
+FARMERS
+
+INSURANCE
+
+ 
+
+ 
+
+Date
+05-29-2024
+
+Effective Date
+06-28-2024
+
+Application Number
+FLD1660050787
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+Texas Farmers Insurance
+Company
+https://www.farmers.com/
+
+(888) 391-2810
+
+ 
+
+ 
+
+Expiration Date
+06-28-2025
+
+Waiting Period
+Loan Transaction - No Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:YES
+Building Construction Type:Masonry
+Construction Type Description:
+
+Estimated Building Replacement Cost:145000
+Replacement Cost Value Returned by FEMA245610
+Total sq. footage of building:1666
+
+Total # of floors in building:1
+
+Total # of units in building:
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:03-06-2024
+Diagram Number:1B
+
+Top of Bottom Floor:19.8
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+
+Elevation Certificate First Floor Height:19.8
+FEMA First Floor Height:19.8
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 145,000.00 5,000.00
+
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+
+Building Premium: $ 290.00
+
+Content Premium: $ 0.00
+
+Increased Cost of Compliance (ICC) Premium: $ 6.00
+Mitigation Discount: $ 0.00
+
+Community Rating System Reduction: $ 0.00
+Full Risk Premium: $ 296.00
+
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+
+Discounted Premium: $ 296.00
+
+Reserve Fund Assessment: $ 53.00
+
+HFIAA Surcharge: $ 25.00
+
+Federal Policy Fee: $ 47.00
+
+Probation Surcharge: $ 0.00
+
+Total Quoted Premium $ 421.00
+
+Date
+
+ 
+
+ATIO
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD1660050787 / ADAN PENA Quote Source: AGENT
+
+2813 ARI DR, Brownsville, Cameron County, TX, 78526 - IKARR@OUTLOOK.COM
+
+ 
+
+0000 (956)204-9260 _)
+2039 E PRICE RD # 113, Brownsville, Cameron County, TX,
+78526
+Renew indicator: BATCH RENEWAL Agent Tasks :
+Term Start Date : 05/29/2024 Term End Date : 05/29/2025 Transaction Type : New Busi
+Business
+Transaction Eff. Dt. : 05/29/2024 Waiting Period: Loan Transaction - No Wait last Updated Date : 05-30-20
+Last Updated By : NOLA SKOLNIK Applicant Date : 05/29/2024
+Claims 0 Loss Run Risk Rating 2.0
+Total Premium Change: $369.00 Bill To : POLHOLDER Serv Rep:
+Total Premium : $369.00 U/writer :
+Product Name : Flood Pre
+Receivable View Invoicing Subledger [ unpostea |
+ACCOUNTING DT. TRANS TYPE TRANS REF CHECK NO CERTIFIED DATE DEBIT CREDIT BALANCE sys
+05/29/2024 PAYMENT F2166000034643 05/29/2024 $0.00 $(421.00) $(421.00) 05/
+05/30/2024 INVOICE INV00837072 $369.00 $0.00 $(52.00) 05/
+05/31/2024 REFUND INV00837072 800134787 $52.00 $0.00 $0.00 05/
+
+Log Documents Agent Customer
+Portal Portal
+
+Term Selection: (1360638)
+05-29-2024/05-29-2025 v
+
+Transaction Selection: (1840074)
+NEWBUSINESS - ISSUED v
+
+Last transaction
+
+ 
+ 
+
+New Business by NOLA
+SKOLNIK
+
+Transaction date: 05-30-2024
+Transaction Eff. Dt. 2024-05-
+29
+
+ 
+   
+
+Note
+
+(05-30-2024) Aprvd NB
+effective LC date of 05/29/24.
+Premium received within 9
+days of LC dat...
+
+ 
+
+ 
+
+08811-11923-000 Ivan Karr
+
+Iwan Vavr
+System Log Pivot Response Log
+
+ 
+
+ 
+
+Print Log
+Type note here
+0/500
+Make hidden?: ©
+(7)
+Date Description Inserted By Mark Hidden
+
+05-30-2024 11:19:04 ... Aprvd NB effective LC date of 05/29/24. Premium NOLA SKOLNIK
+received within 9 days of LC date. Proof of residence
+in file. Reviewed EC. No photos needed as in COC.
+
+05-30-2024 11:18:33 ... NOLA SKOLNIK - Processed refund for $52 NOLA SKOLNIK
+
+05-29-2024 4:56:03 PM AGT PI TO CHECK IF PYMNT IS POSTED ON THE POL HANNA VICENTA

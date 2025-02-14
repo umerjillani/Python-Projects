@@ -1,0 +1,1625 @@
+National Flood Insurance Program
+
+Elevation
+Certificate
+
+and Instructions
+
+2023 EDITION
+
+   
+
+ 
+
+ 
+ 
+
+U.S. DEPARTMENT OF HOMELAND SECURITY eMe Control No. 1660-0008
+piration Date: 06/30/2026
+Federal Emergency Management Agency
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE AND INSTRUCTIONS
+PAPERWORK REDUCTION ACT NOTICE
+
+Public reporting burden for this data collection is estimated to average 3.75 hours per response. The burden estimate includes the time for
+reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and submitting this form.
+You are not required to respond to this collection of information unless a valid OMB control number is displayed on this form. Send comments
+regarding the accuracy of the burden estimate and any suggestions for reducing the burden to: Information Collections Management,
+Department of Homeland Security, Federal Emergency Management Agency, 500 C Street SW, Washington, DC 20742, Paperwork
+Reduction Project (1660-0008). NOTE: Do not send your completed form to this address.
+
+PRIVACY ACT STATEMENT
+
+ 
+
+ 
+
+ 
+
+Authority: Title 44 CFR § 61.7 and 61.8.
+
+Principal Purpose(s): This information is being collected for the primary purpose of documenting compliance with National Flood
+Insurance Program (NFIP) floodplain management ordinances for new or substantially improved structures in designated Special Flood
+Hazard Areas. This form may also be used as an optional tool for a Letter of Map Amendment (LOMA), Conditional LOMA (CLOMA), Letter
+of Map Revision Based on Fill (LOMR-F), or Conditional LOMR-F (CLOMR-F), or for flood insurance rating purposes in any flood zone.
+
+Routine Use(s): The information on this form may be disclosed as generally permitted under 5 U.S.C. § 552a(b) of the Privacy Act of 1974,
+as amended. This includes using this information as necessary and authorized by the routine uses published in DHS/ FEMA-003 — National
+Flood Insurance Program Files System of Records Notice 79 Fed. Reg. 28747 (May 19, 2014) and upon written request, written consent, by
+agreement, or as required by law.
+
+Disclosure: The disclosure of information on this form is voluntary; however, failure to provide the information requested may impact the
+flood insurance premium through the NFIP. Information will only be released as permitted by law.
+
+PURPOSE OF THE ELEVATION CERTIFICATE
+
+ 
+
+The Elevation Certificate is an important administrative tool of the NFIP. It can be used to provide elevation information necessary to ensure
+compliance with community floodplain management ordinances, to inform the proper insurance premium, and to support a request for a
+LOMA, CLOMA, LOMR-F, or CLOMR-F.
+
+The Elevation Certificate is used to document floodplain management compliance for Post-Flood Insurance Rate Map (FIRM) buildings,
+which are buildings constructed after publication of the FIRM, located in flood Zones A1—A30, AE, AH, AO, A (with Base Flood Elevation
+(BFE)), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO, and AQ9. It may also be used to provide elevation
+information for Pre-FIRM buildings or buildings in any flood zone.
+
+As part of the agreement for making flood insurance available in a community, the NFIP requires the community to adopt floodplain
+management regulations that specify minimum requirements for reducing flood losses. One such requirement is for the community to obtain
+the elevation of the lowest floor (including basement) of all new and substantially improved buildings, and maintain a record of such
+information. The Elevation Certificate provides a way for a community to document compliance with the community's floodplain
+management ordinance.
+
+Use of this certificate does not provide a waiver of the flood insurance purchase requirement. Only a LOMA or LOMR-F from the Federal
+Emergency Management Agency (FEMA) can amend the FIRM and remove the federal mandate for a lending institution to require the
+purchase of flood insurance. However, the lending institution has the option of requiring flood insurance even if a LOMA/LOMR-F has been
+issued by FEMA. The Elevation Certificate may be used to support a LOMA, CLOMA, LOMR-F, or CLOMR-F request. Lowest Adjacent
+Grade (LAG) elevations certified by a land surveyor, engineer, or architect, as authorized by state law, will be required if the certificate is
+used to support aLOMA, CLOMA, LOMR-F, or CLOMR-F request. ALOMA, CLOMA, LOMR-F, or CLOMR-F request must be submitted
+with either a completed FEMA MT-EZ or MT-1 application package, whichever is appropriate. If the certificate will only be completed to
+support a LOMA, CLOMA, LOMR-F, or CLOMR-F request, there is an option to document the certified LAG elevation on the Elevation Form
+included in the MT-EZ and MT-1 application.
+
+This certificate is used only to certify building elevations. A separate certificate is required for floodproofing. Under the NFIP, non-residential
+buildings can be floodproofed up to or above the BFE. A floodproofed building is a building that has been designed and constructed to be
+watertight (substantially impermeable to floodwaters) below the BFE. Floodproofing of residential buildings is not permitted under the NFIP
+unless FEMA has granted the community an exception for residential floodproofed basements. The community must adopt standards for
+design and construction of floodproofed basements before FEMA will grant a basement exception. For both floodproofed non-residential
+buildings and residential floodproofed basements in communities that have been granted an exception by FEMA, a floodproofing certificate
+is required.
+
+The expiration date on the form herein does not apply to certified and completed Elevation Certificates, as a completed Elevation Certificate
+does not expire, unless there is a physical change to the building that invalidates information in Section A Items A8 or AQ, Section C, Section
+E, or Section H. In addition, this form is intended for the specific building referenced in Section A and is not invalidated by the transfer of
+building ownership.
+
+Additional guidance can be found in FEMA Publication 467-1, Floodplain Management Bulletin: Elevation Certificate.
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 1 of 8
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0008
+Federal Emergency Management Agency Expiration Date: 06/30/2026
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A — PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+ 
+
+A1. Building Owner's Name: REUBEN ADAN Policy Number:
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: Company NAIC Number:
+248 E 23RD STREET
+
+City: RIVIERA BEACH State: FL ZIP Code: 33404
+
+ 
+
+ 
+
+ 
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+TAX PARCEL NO. 56434228150000990
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): RESIDENTIAL
+A5. Latitude/Longitude: Lat. 26.78151 Long. -80.0505 Horiz. Datum: [_] NAD 1927 NAD 1983 [_] WGS 84
+
+ 
+
+ 
+
+A6. Attach at least two and when possible four clear color photographs (one for each side) of the building (see Form pages 7 and 8).
+A7. Building Diagram Number: 8
+A8. For a building with a crawlspace or enclosure(s):
+
+a) Square footage of crawlspace or enclosure(s): 1133 sq. ft.
+
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [_] Yes [_] No N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: 15 Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in A8.c: 1470 sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): N/A sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): N/A sq. ft.
+AQ. For a building with an attached garage:
+a) Square footage of attached garage: N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? [ ]Yes [_] No N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A — Engineered flood openings: NO
+
+d) Total net open area of non-engineered flood openings in A9.c: N/A sq. in.
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): N/A sq. ft.
+
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions): N/A sq. ft.
+
+SECTION B — FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1.a. NFIP Community Name: CITY OF RIVIERA BEACH B1.b. NFIP Community Identification Number: 125142
+B2. County Name: PALM BEACH COUNTY B3. State: FL B4. Map/Panel No.: 12099C0391 B5. Suffix: F
+B6. FIRM Index Date: 10/05/2017 B7. FIRM Panel Effective/Revised Date: 10/05/2017
+
+ 
+
+ 
+
+B8. Flood Zone(s): AE B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 5
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+[_] FIs FIRM [_] Community Determined [_] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [_] NGVD 1929 NAVD 1988 [_] Other/Source:
+
+ 
+
+ 
+
+ 
+
+ 
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [_] Yes No
+Designation Date: []CBRS []OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [_] Yes No
+
+ 
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 2 of 8
+ELEVATION CERTIFICATE
+
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+248 E 23RD STREET
+
+ 
+
+City: RIVIERA BEACH State: FL ZIP Code: 33404
+
+ 
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+FOR INSURANCE COMPANY USE
+
+Policy Number:
+
+Company NAIC Number:
+
+ 
+
+ 
+
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+Benchmark Utilized: PALM BEACH CO. B.M. AD 2876 Vertical Datum: NAVD 1988
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+|] NGVD 1929 NAVD 1988 [_] Other:
+
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor):
+b) Top of the next higher floor (see Instructions):
+c) Bottom of the lowest horizontal structural member (see Instructions):
+d) Attached garage (top of slab):
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area):
+
+f) Lowest Adjacent Grade (LAG) next to building: [] Natural [x] Finished
+g) Highest Adjacent Grade (HAG) next to building: [] Natural Finished
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support:
+
+ 
+
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+Were latitude and longitude in Section A provided by a licensed land surveyor? [_] Yes No
+[_] Check here if attachments and describe in the Comments area.
+
+Certifier's Name: CLYDE MCNEAL License Number: LB 8111
+
+Title: REG. LAND SURVEYOR
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used?
+
+[-] Yes
+
+Check the
+6.4 | feet
+N/A &X] feet
+N/A {X] feet
+N/A {X] feet
+3.8 [x] feet
+3.5 [&X] feet
+4.2 |X feet
+N/A [] feet
+
+ 
+
+C]
+
+L
+C]
+
+OOO OO
+
+ 
+
+O
+
+C1. Building elevations are based on: [_] Construction Drawings* [_] Building Under Construction* Finished Construction
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—-A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+No
+
+measurement used:
+
+meters
+meters
+meters
+
+meters
+
+meters
+meters
+
+meters
+
+meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. | certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+
+ 
+
+Clyde
+
+ 
+
+Company Name: NEXGEN SURVEYING, LLC
+
+ 
+
+Address: 1547 PROSPERITY FARMS ROAD
+
+Telephone: (561) 508-6272 Ext.: Email:
+
+City. LAKE PARK State: FL ZIP Code: 33403
+
+O
+
+al
+
+ 
+
+ 
+
+Digitally signed by Clyde O McNeal
+
+C | yd e O M C N ea | Date: 2024.02.26 13:20:45 -05'00'
+
+Signature: Date: 02/26/2024
+
+insurance and is not to be used for any construction permitting purposes.
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23)
+
+McNe
+
+Digitally
+signed by
+Clyde O
+McNeal
+Date:
+2024.02.26
+13:20:34
+-05'00'
+
+Place Seal Here
+
+ 
+
+Latitude/Longitude in A5 derived from Google Maps. Machinery/Equipment in C2e is an A/C Pad.
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+This information is being collected for the primary purpose of estimating the risk premium rates necessary to provide flood
+
+Form Page 3 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+248 E 23RD STREET
+
+ 
+
+Policy Number:
+City: RIVIERA BEACH State: FL ZIP Code: 33404
+
+ 
+
+Company NAIC Number:
+
+SECTION E — BUILDING MEASUREMENT INFORMATION (SURVEY NOT REQUIRED)
+FOR ZONE AO, ZONE AR/AO, AND ZONE A (WITHOUT BFE)
+
+For Zones AO, AR/AO, and A (without BFE), complete Items E1—E5. For Items E1—E4, use natural grade, if available. If the Certificate is
+intended to support a Letter of Map Change request, complete Sections A, B, and C. Check the measurement used. In Puerto Rico only,
+enter meters.
+
+  
+
+Building measurements are based on: [| Construction Drawings* [] Building Under Construction* [|] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+E1. Provide measurements (C.2.a in applicable Building Diagram) for the following and check the appropriate boxes to show whether the
+measurement is above or below the natural HAG and the LAG.
+
+a) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: [| feet [-] meters [| aboveor [_] below the HAG.
+
+ 
+
+ 
+
+b) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: feet [_] meters [ | aboveor below the LAG.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E2. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1-2 of Instructions), the
+next higher floor (C2.b in applicable
+Building Diagram) of the building is: [| feet [-] meters [| aboveor [_] below the HAG.
+
+ 
+
+ 
+
+E3. Attached garage (top of slab) is: [| feet [|] meters [| aboveor [_] below the HAG.
+
+ 
+
+ 
+
+E4. Top of platform of machinery and/or equipment
+servicing the building is: feet [_] meters [ | aboveor below the HAG.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E5. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? [_] Yes [_] No [_] Unknown The local official must certify this information in Section G.
+
+SECTION F — PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without BFE) or Zone AO must
+sign here. The statements in Sections A, B, and E are correct to the best of my knowledge
+
+[_] Check here if attachments and describe in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+
+ 
+
+Address:
+
+ 
+
+City: State: ZIP Code:
+
+Telephone: Ext.: Email:
+
+ 
+
+ 
+
+Signature: Date:
+
+ 
+
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 4 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+248 E 23RD STREET
+City: RIVIERA BEACH State: FL ZIP Code: 33404
+
+ 
+
+Policy Number:
+
+ 
+
+Company NAIC Number:
+
+ 
+
+SECTION G — COMMUNITY INFORMATION (RECOMMENDED FOR COMMUNITY OFFICIAL COMPLETION)
+
+ 
+
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+Section A, B, C, E, G, or H of this Elevation Certificate. Complete the applicable item(s) and sign below when:
+
+ 
+
+G1. [_] The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+engineer, or architect who is authorized by state law to certify elevation information. (Indicate the source and date of the
+elevation data in the Comments area below.)
+
+ 
+
+G2.a. [_] A local official completed Section E for a building located in Zone A (without a BFE), Zone AO, or Zone AR/AO, or when item
+E5 is completed for a building located in Zone AO.
+
+G2.b. L] A local official completed Section H for insurance purposes.
+
+G3. [] Inthe Comments area of Section G, the local official describes specific corrections to the information in Sections A, B, E and H.
+
+G4. [] The following information (Items G5—G11) is provided for community floodplain management purposes.
+
+G5. = Permit Number: G6. Date Permit Issued:
+
+G7. Date Certificate of Compliance/Occupancy Issued:
+
+ 
+
+ 
+
+G8. — This permit has been issued for: L_] New Construction [_] Substantial Improvement
+
+G9.a. Elevation of as-built lowest floor (including basement) of the
+
+ 
+
+ 
+
+ 
+
+ 
+
+building: [ |feet [] meters Datum:
+
+G9.b. Elevation of bottom of as-built lowest horizontal structural
+member: feet [| meters Datum:
+G10.a. BFE (or depth in Zone AO) of flooding at the building site: []feet [| meters Datum:
+
+G10.b. Community's minimum elevation (or depth in Zone AO)
+requirement for the lowest floor or lowest horizontal structural
+
+member: [| feet [| meters Datum:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+G11. Variance issued? [|] Yes [_]No_ If yes, attach documentation and describe in the Comments area.
+
+The local official who provides information in Section G must sign here. / have completed the information in Section G and certify that it is
+correct to the best of my knowledge. If applicable, | have also provided specific corrections in the Comments area of this section.
+
+Local Official's Name: Title:
+
+ 
+
+ 
+
+NFIP Community Name:
+
+Telephone: Ext.: Email:
+
+Address:
+
+ 
+
+City: State: ZIP Code:
+
+ 
+
+Signature: Date:
+
+ 
+
+Comments (including type of equipment and location, per C2.e; description of any attachments; and corrections to specific information in
+Sections A, B, D, E, or H):
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 5 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+
+FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+248 E 23RD STREET
+
+ 
+
+Policy Number:
+City: RIVIERA BEACH State: FL ZIP Code: 33404
+
+ 
+
+Company NAIC Number:
+
+SECTION H — BUILDING'S FIRST FLOOR HEIGHT INFORMATION FOR ALL ZONES
+(SURVEY NOT REQUIRED) (FOR INSURANCE PURPOSES ONLY)
+
+The property owner, owner's authorized representative, or local floodplain management official may complete Section H for all flood zones
+to determine the building's first floor height for insurance purposes. Sections A, B, and | must also be completed. Enter heights to the
+nearest tenth of a foot (nearest tenth of a meter in Puerto Rico). Reference the Foundation Type Diagrams (at the end of Section H
+Instructions) and the appropriate Building Diagrams (at the end of Section | Instructions) to complete this section.
+
+  
+
+H1. Provide the height of the top of the floor (as indicated in Foundation Type Diagrams) above the Lowest Adjacent Grade (LAG):
+
+a) For Building Diagrams 1A, 1B, 3, and 5-8. Top of bottom [ |feet [_] meters [_] above the LAG
+floor (include above-grade floors only for buildings with
+crawlspaces or enclosure floors) is:
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) For Building Diagrams 2A, 2B, 4, and 6—9. Top of next [_] feet [_] meters [ _] above the LAG
+higher floor (i.e., the floor above basement, crawlspace, or
+enclosure floor) is:
+
+H2. Is all Machinery and Equipment servicing the building (as listed in Item H2 instructions) elevated to or above the floor indicated by the
+H2 arrow (shown in the Foundation Type Diagrams at end of Section H instructions) for the appropriate Building Diagram?
+
+[] Yes []No
+SECTION I - PROPERTY OWNER (OR OWNER'S AUTHORIZED REPRESENTATIVE) CERTIFICATION
+
+The property owner or owner's authorized representative who completes Sections A, B, and H must sign here. The statements in Sections
+A, B, and H are correct to the best of my knowledge. Note: If the local floodplain management official completed Section H, they should
+indicate in Item G2.b and sign Section G.
+
+ 
+
+ 
+
+ 
+
+[_] Check here if attachments are provided (including required photos) and describe each attachment in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+Address:
+City: State: ZIP Code:
+
+ 
+
+Telephone: Ext.: Email:
+
+ 
+
+Signature: Date:
+
+ 
+
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 6 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+248 E 23RD STREET
+City: RIVIERA BEACH State: FL ZIP Code: 33404
+
+Policy Number:
+
+ 
+
+Company NAIC Number:
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+ 
+
+ 
+
+Photo One
+
+ 
+
+Photo One Caption: Photo Taken 02/23/2024 "Front View" Clear Photo One
+
+ 
+
+ 
+
+Photo Two
+Photo Two Caption: Photo Taken 02/23/2024 "Rear View"
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 7 of 8
+
+ 
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON INSTRUCTION PAGES 1-11
+BUILDING PHOTOGRAPHS
+
+Continuation Page
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+248 E 23RD STREET .
+Policy Number:
+
+City: RIVIERA BEACH State: FL ZIP Code: 33404
+
+Company NAIC Number:
+
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View," "Rear View," "Right Side
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or
+vents, as indicated in Sections A8 and AQ.
+
+ 
+
+ 
+
+Photo Three
+
+Photo Three Caption: Photo Taken 02/23/2024 "Side View with A/C"
+
+ 
+
+ 
+
+Photo Four
+
+Photo Four Caption: Photo Taken 02/23/2024 "Side View"
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Form Page 8 of 8
+
+ 
+DocuSign Envelope ID: 842FODB6-1861-4A16-AA89-36396DEE51A7
+
+E
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057 Kalispell MT 59903 USA
+
+FOREMOST
+
+‘A Farmers Insurance® Company
+
+Date
+03-06-2024
+
+ 
+
+Application Number
+
+FLD1660019668 03-30-2024
+
+ 
+
+Mailing Address & Phone
+248 E 23rd St,West Palm Beach,FL,33404
+
+Insured Name(s)
+REUBEN ADAN
+
+Home Phone:
+Work Phone:
+Cell Phone:(954)701-1152
+Email:reuben.adan@gmail.com
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+Current Community Information
+Community Name:RIVIERA BEACH, CITY OF
+
+Community Number:125142
+Map Panel:0391
+
+Map Panel Suffix:F
+
+Current Flood Zone:AE
+Current Base Flood Elevation(BFE)4
+FIRM Date:09-22-1972
+Program:FLOODREGULAR
+Program Status:
+
+County:Palm Beach
+
+Current Map Date:10-05-2017
+Rating Map Date:
+
+ 
+
+Effective Date
+
+Foremost Insurance Company
+Grand Rapids MI
+https://www.foremost.com/
+
+(800) 260-9270
+
+ 
+
+ 
+
+Expiration Date
+03-30-2025
+
+Waiting Period
+Standard - 30 Day Wait
+
+ 
+
+ 
+
+Property Address
+248 E 23RD ST, 33404, West Palm Beach,
+Palm Beach, FL
+
+Agency Name, Address & Phone
+7860 PETERS RD STE 102 F,Fort Lauderdale,FL,33324
+
+Email:Jason@lordinsurancegroup.com
+Phone Number:9544749501
+Agent Name:LORD INSURANCE GROUP INC
+
+Property Address Type:Location
+
+Other Policy Number:
+Potential Duplicate Policy:
+
+ 
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:09-22-1972
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Construction Date
+Date of Original Construction:12-31-1951
+
+Building Substantially Improved:NO
+Post-FIRM Construction:NO
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:YES
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+Occupancy Type:Single Family
+Building Description:
+
+Is this the Applicant's Primary
+
+Residence: YES
+
+Date:
+
+APC PRV 07 21
+
+Is the insured a small business with
+
+less than 100 employees?: NO
+
+Is the insured a nonprofit entity?:NO
+
+DS
+
+ 
+
+FOREMOST’
+
+A Farmers Insurance® Company
+
+————
+Oe ee
+NATIONAL FLOOD
+
+ 
+DocuSign Envelope ID: 842FODB6-1861-4A16-AA89-36396DEE51A7
+
+STANDARD FLOOD INSURANCE QUOTE Grand Rapids MI
+
+E FOREMOST
+
+‘A Farmers Insurance® Company
+
+Foremost Insurance Company
+
+https://www.foremost.com/
+
+PO Box 2057 Kalispell MT 59903 USA
+
+ 
+
+Date Application Number
+03-06-2024 FLD 1660019668
+
+ 
+
+ 
+
+Effective Date
+
+(800) 260-9270
+
+ 
+
+ 
+
+Expiration Date Waiting Period
+03-30-2025 Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Masonry
+Construction Type Description:
+
+Estimated Building Replacement Cost:250000
+Replacement Cost Value Returned by FEMA:180790
+Total sq. footage of building:1182
+
+Total # of floors in building:1
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Crawlspace (includes subgrade)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:02-26-2024
+Diagram Number:8
+
+Top of Bottom Floor:6
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Flood Height:0
+FEMA First Floor Height:1.1
+
+First Floor Height Method Used:TOOL
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 2,000.00
+Content 100,000.00 2,000.00
+
+     
+
+DocuSigned by:
+
+Jason Lord
+
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 1,161.00
+Content Premium: $ 734.00
+Increased Cost of Compliance (ICC) Premium: $ 36.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (173.00)
+Full Risk Premium: $ 1,758.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,758.00
+Reserve Fund Assessment: $ 316.00
+HFIAA Surchange: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+(a Total Quoted Premium $ 2,146.00
+
+DocuSigned by:
+
+3/6/2024 | 6:41 pm ledtuben Adaw
+
+Signature of Policy Holder (Optional) Date
+
+3/6/2024 | 6:38 PM EST
+
+   
+
+ 
+
+FOREMOST #868Q
+
+A Farmers Insurance® Company = "anne
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+
+ 
+FLD1660019668 / REUBEN ADAN - Quote Source: AGENT
+
+@ #248 E 23RD ST, West Palm Beach, Paim Beach County, FL, 33404 - 4512 @ reuben.adan@gmail.com 4
+
+e & (954)701-n152 Fs
+
+@ 248 E 23rd St, West Palm Beach, Palm Beach County, FL, 33404 - 4512
+
+Renew indicator: BATCH RENEWAL Agent Tasks; #
+
+Term Start Date: 03/30/2024 Term End Date : 03/30/2025. Transaction Type: Cancel Policy-
+Cancel and rewrite
+due to
+administrative error
+
+Transaction Eff.Dt.: 03/30/2024 Waiting Period: Standard - 30 Day Wait last Updated Date: 04-02-2024
+
+Last UpdatedBy: | SOPHIECOOPER Applicant Date: 02/29/2024
+
+Claims o Loss Run Risk Rating 2.0
+Total Premium Change $() 946.00) Bill To: POLHOLDER Serv Rep:
+Total Premium : $16.00 U/writer =
+
+Coverage
+
+Property Info
+
+Additional info
+
+ 
+
+ACCOUNTING DT. TRANSTYPE TRANS REF CHECKNO CERTIFIEDDATE © OEBIT. == CREDIT. «= BALANCE = SYSTEMDT
+03/07/2024 PAYMENT  F2166000016138 03/07/2024 ¢ $0.00 $12,146.00) 2,146.00) 03/07/2024
+03/14/2024 INVOICE INVOO805335 $2,146.00 $0.00 $0.00 03/14/2024
+04/02/2024 INVOICE INVOO811505 $0.00 $(200.00) $(200.00) 04/02/2024
+04/02/2024 INVOICE INVO0811736 $0.00 $11,946.00) $(2,146.00) 04/02/2024
+
+04/02/2024 REVERSAL REF2108748N13 $2,146.00 $0.00 $0.00 04/02/2024
+Foremost Insurance Company Grand Rapids MI
+
+cE FOREMOST Foremost Insurance Company Grand Rapids MI https://www.foremost.com/
+Cea eee PO Box 2057 Kalispell MT 59903 USA (800) 260-9270
+NAIC# : 21660
+PROPERTY ADDRESS #: 248 E 23RD ST, West Palm Beach, FL, 33404 ENDORSEMENT EFFECTIVE DATE: 05-02-2024
+POLICY #: FLD1660019668 REASON FOR CHANGE: Building Information,
+Mortgagee
+NFIP POLICY #: 1660019668 POLICY FORM: Dwelling Policy
+POLICY TERM: 03-30-2024 (12:01 AM) - 03-30-2025 (12:01 AM) POLICY DECLARATIONS TYPE: Revised Policy Declarations
+POLICY ISSUED BY: Foremost Insurance Company Grand Rapids MI RATE CATEGORY :
+PAYOR: REUBEN ADAN
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+REUBEN ADAN & BONNIE BREEDLOVE LORD INSURANCE GROUP INC
+248 E 23rd St, JASON LORD
+West Palm Beach, FL, 33404 7860 PETERS RD STE 102 F, Fort Lauderdale, FL, 33324
+Phone : 9544749501
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+Policy Coverages & Endorsements
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ l Q? 7
+Contents $ 100,000 $ 2,000 Total Anmgal Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $ 1,038
+Building Occupancy Single Family Contents Premium: $ 655
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $ 32
+First Floor Height (FFH) 2.9 Community Rating System Discount: $ (153.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 1,572
+Property Description Crawlspace (includes subgrade), 1 Floors , Discounted Premium: $ 1,572
+Masonry Fees and Surcharges:
+Date of Construction 12-31-1951 Reserve Fund Assessment: $ 283
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $25
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+Total Premium $ 1,927
+ADDITIONAL INTERESTS
+First Mortgagee
+ServiceMac, LLC ISAOA / ATIMA, ADDITIONALINSURED
+PO Box 29411, BONNIE BREEDLOVE ,
+Phoenix, AZ, 85038 248 E 23rd St
+
+Loan # : 2101063185
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+, . -7- . a ———a
+Date Mailed: 04-02-2024 To learn more about your flood risk, please visit FloodSmart.gov Cee
+
+NATIONAL FLOOD
+
+ 
+Closing Disclosure
+
+This form is a statement of final loan terms and closing costs. Compare this
+document with your Loan Estimate.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Closing Information Transaction Information Loan Information
+Date Issued 03/27/2024 Borrower Reuben S Adan LoanTerm 30 years
+Closing Date 04/08/2024 1777 SE 15TH ST. APT 308 Purpose Purchase
+Disbursement Date 04/08/2024 Fort Lauderdale, FL 33316 Product Fixed Rate
+Seller JOHN WAGNER .
+
+Settlement Agent COMPLETE TITLE SOLUTIONS 248 E 23RD ST LoanType [X]Conventional (1 FHA
+vile # INC Riviera Beach, FL 33404 VA
+
+le 2024-26 Lender Homebridge Financial Services, Inc. DBA LoanID# 2101063185
+Property 248 E 23rd St Real Estate Mortgage Network MIC #
+
+Riviera Beach, FL 33404-4512
+
+Sale Price $403,900
+
+Can this amount increase after closing?
+
+ 
+
+ 
+
+ 
+
+Loan Amount $323,120 NO
+Interest Rate 7.125% NO
+Monthly Principal & Interest $2,176.92 NO
+
+See Projected Payments below for your
+Estimated Total Monthly Payment
+
+ 
+
+Does the loan have these features?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prepayment Penalty NO
+Balloon Payment NO
+
+» e ‘= se . 5 ‘=
+Payment Calculation Years 1-30
+
+Principal & Interest $2,176.92
+
+Mortgage Insurance + 0
+
+Estimated Escrow + 1,171.00
+
+mount can increase over time
+Estimated Total
+Monthly Payment $3,347.92
+This estimate includes In escrow?
+
+Estimated Taxes, Insurance X] Property Taxes YES
+& Assessments $1, 171.00 XX] Homeowner's Insurance YES
+Amount can increase over time a month Other:
+
+See page 4 for details
+
+ 
+
+ 
+
+ 
+
+ 
+
+See Escrow Account on page 4 for details. You must pay for other property
+costs separately.
+
+ 
+
+Closing Costs
+
+ 
+
+Includes $6,326.54 in Loan Costs + $19,175.10 in Other Costs - $2,688.36
+in Lender Credits. See page 2 for details.
+
+$22,813.28
+
+ 
+
+Cash to Close
+
+ 
+
+$111,178.72 Includes Closing Costs. See Calculating Cash to Close on page 3 for details.
+
+ 
+
+ 
+
+ 
+
+ 
+
+EX} 18566.1502 CLOSING DISCLOSURE
+
+ 
+
+PAGE 1 OF 5 - LOAN ID #2101063185
+CANCELLATION NOTICE Foremost Insurance Company
+
+Grand Rapids MI
+
+E . FOREMOST https://www.foremost.com/
+
+ry Bow 2057 Kalispell MT 39003 USA Nal ot6ee
+Ox alispe NAIC# : 21660
+
+PROPERTY ADDRESS : 248 E 23RD ST, West Palm Beach, FL, 33404
+POLICY # :FLD1660019668
+
+NFIP POLICY # :1660019668
+
+POLICY ISSUED BY: Foremost Insurance Company Grand Rapids MI
+
+INSURED NAME & MAILING ADDRESS
+REUBEN ADAN
+
+MAILED TO: 248 E 23rd St, West Palm Beach, FL, 33404
+
+DEAR REUBEN ADAN,
+
+THIS IS A NOTICE OF CANCELLATION OF YOUR FLOOD POLICY FOR THE PROPERTY LOCATED AT:
+248 E 23RD ST, West Palm Beach, FL, 33404
+This notice is to advise that the above policy has been cancelled effective: 03-30-2024
+
+The reason for cancellation is:
+
+e 22 - Cancel and rewrite due to administrative error
+
+Return Premium Amount: $ 0.00
+
+29
+
+IF YOU HAVE ANY QUESTIONS ON YOUR POLICY, PLEASE CONTACT YOUR AGENT FOR ASSISTANCE.
+AGENT : LORD INSURANCE GROUP INC AGENCY ADDRESS : 7860 PETERS RD STE 102 F,
+AGENCY : LORD INSURANCE GROUP INC Fort Lauderdale, FL, 33324
+PHONE : 9544749501
+
+ 
+
+sovce te 0407-202 E FOREMOST ra
+
+ee ————
+A Farmers Insurance® Company "sna
+NATIONAL FLOOD
+
+ 
+
+  
+Foremost Insurance Company Grand Rapids MI
+
+cE FOREMOST Foremost Insurance Company Grand Rapids MI https://www.foremost.com/
+
+seiiaaaaiaaedl PO Box 2057 Kalispell MT 59903 USA (800) 260-9270
+NAIC# : 21660
+
+PROPERTY ADDRESS #: 248 E 23RD ST, West Palm Beach, FL, 33404 POLICY FORM: Dwelling Policy
+
+POLICY #: FLD1660036885 POLICY DECLARATIONS TYPE: New Policy Declarations
+
+NFIP POLICY #: 1660036885
+
+POLICY TERM: 04-08-2024 (12:01 AM) - 04-08-2025 (12:01 AM) RATE CATEGORY :
+
+POLICY ISSUED BY: Foremost Insurance Company Grand Rapids MI
+
+PAYOR: REUBEN ADAN
+
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+
+REUBEN ADAN & LORD INSURANCE GROUP INC
+
+248 E 23RD ST, JASON LORD
+
+West Palm Beach, FL, 33404 7860 PETERS RD STE 102 F, Fort Lauderdale, FL, 33324
+
+Phone : 9544749501
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ l Q? 7
+Contents $ 100,000 $ 2,000 Total Apmal Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $ 1,038
+Building Occupancy Single Family Contents Premium: $ 655
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $ 32
+First Floor Height (FFH) 2.9 Community Rating System Discount: $ (153.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 1,572
+Property Description Crawlspace (includes subgrade), | Floors , Discounted Premium: $ 1,572
+Masonry Fees and Surcharges:
+
+Date of Construction 12-31-1951 Reserve Fund Assessment: $ 283
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $ 25
+
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+
+Total Premium $ 1,927
+ADDITIONAL INTERESTS
+
+First Mortgagee
+ServiceMac, LLC ISAOA / ATIMA, ADDITIONALINSURED
+PO Box 29411,
+
+>
+
+Phoenix, AZ, 85038
+Loan # : 2101063185
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+, . -7- . a ———a
+Date Mailed: 04-02-2024 To learn more about your flood risk, please visit FloodSmart.gov Cee
+
+NATIONAL FLOOD
+
+ 
+Report Date 2/22/2024
+
+Xa ct us KH Report Number si97i073
+Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 248 E 23RD ST, WEST PALM BEACH, FL 33404
+Standardized Location 248 E 23RD ST, RIVIERA BEACH, FL 33404-4512
+
+Latitude, Longitude 26.781501, -80.050513 Parcel ID 56434228150000990
+FIPS / MSA/ Tract 12099 / 48424 / 15 Community No. 125142
+
+Community Name RIVIERA BEACH, CITY OF
+
+County Name PALM BEACH
+
+Jr
+
+-
+— (8G _
+froae i Fall a
+
+dea
+B/N |
+
+Zone AE
+(ely) ft)
+
+7 TEV cere ete erate)
+#
+
+ui
+
+Leaflet | © Mapbox © OpenStreetMap
+
+ 
+
+Flood Zone Zone AE Next Nearest Zone (Dist.) X (61 ft)
+
+BFE 5 Feet NAVD88 (6.52 ft NGVD29) USGS Ground Elev 4 ft NAVD88
+
+FEMA Map 12099C0391F, 10/05/2017 Previous Map = 1251420003D, 09/30/1982, Zone A7
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 09/22/1972
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $1,458,600 / 274 NFIP PIF* 5222 NFIP Discount 10%
+
+Flood Source 263 ft Salt Water 6983 ft Fresh Water 287 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+04-02-2024 5:15:1...
+
+04-02-2024 4:23:...
+
+04-02-2024 4:23:....
+
+04-02-2024 1:03°1...
+
+04-02-2024 12:54...
+wo 2 30 50
+
+Date
+
+04-02-2024 12:48...
+04-02-2024 12:47...
+
+04-02-2024 12:05...
+
+04-02-2024 11:24...
+
+m0 25 30 50
+
+Description
+
+deleting refund.. need to cxi/ rewrite to
+correct LC date 4/8
+
+refund due to change in first floor height
+method from Tool to EC
+
+SOPHIE COOPER - Processed refund for
+$200
+
+Chat with agent Eli wants to change the
+effective date for LC adv the pol was issued
+as per support we can no longer change it
+then needs to be canceled and rewritten/eoc
+
+ENDORSE - Transaction Deleted: (1717133)
+
+Description
+
+Effective date change
+
+Updated the Mtg and added EC info.
+Chatted w/ Eli asking assistance in updating
+the mortgagee adv to kindly leave a note in
+the pol so we can do the update internally.
+Mortgagee Updated
+
+Please update the mortgagee information to:
+First Mortgagee ServiceMac, LLC ISAOA /
+
+ATIMA PO Box 29411 Phoenix, AZ 85038-
+9411 loan # 2101063185
+
+ODESA RECIO
+
+Mark Hidden
+
+E
+
+Mark Hidden
+9 Ddicmveloee
+
+estng ron sete
+ques ed it to be Isited.

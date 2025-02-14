@@ -1,0 +1,824 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY er — = Teeowo0e
+Federal Emergency Management Agency _—-
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Copy all pages of this Elevation Certificate and all attachments for (1) communit Official, (2) insurance agent/company, and (3) building owner.
+SECTION A— PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+A1. Building Owner's Name; HTS Job# 23-0171 CD Policy Number:
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+26618 BAY WATER DR
+
+City; GALVESTON State: TX ZIP Code; 77554
+
+   
+   
+
+  
+   
+   
+
+ 
+ 
+  
+    
+       
+ 
+
+  
+
+Company NAIC Number:
+
+   
+
+ 
+
+   
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+GCAD: 5912-2003-0037-000 BLOCK 3, LOT 37, POINTE WEST SECTION 4-B
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): RESIDENTIAL
+AS. Latitude/Longitude: Lat_29°06'06.6" 95°06'24.5" Horizontal Datum: [_]NAD 1927 [¥]NAD 1983 [_] WGS 84
+
+A6. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+
+     
+       
+
+Long.
+
+     
+   
+    
+
+AT. Building Diagram Number: 6
+
+      
+
+A8. For a building with a crawlspace or enclosure(s):
+
+    
+ 
+
+a) Square footage of crawlspace or enclosure(s): 9 sq. ft.
+
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? L]Yes [JNo WIN/A
+
+ 
+ 
+
+c) Enter number of permanent flood openings in the crawispace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: ° Engineered flood openings: 9
+
+     
+    
+ 
+
+d) Total net open area of non-engineered flood openings in A8.c: 9 sq. in.
+
+e€) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): 9 sq. ft.
+
+ 
+ 
+
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): 9 sq. ft.
+
+ 
+ 
+
+A9. For a building with an attached garage:
+
+ 
+   
+ 
+
+a) Square footage of attached garage: NA sq. ft.
+
+ 
+ 
+
+b) Is there at least one permanent flood opening on two different sides of the attached garage? []Yes []No MIN/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: NA Engineered flood openings: NA
+
+        
+   
+ 
+
+d) Total net open area of non-engineered flood openings in A9.c: NA sq. in.
+
+  
+  
+
+@) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): NA sq. ft.
+
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions): NA sq. ft.
+
+SECTION B — FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1.a. NFIP Community Name: GALVESTON, CITY OF B1.b. NFIP Community Identification Number; 485469
+B2. County Name: GALVESTON B3. State: TX B4. Map/Panel No.: 48167C0576 B5. Suffix: G
+B6. FIRM Index Date: Aug 15, 2019 B7. FIRM Panel Effective/Revised Date: Aug 15, 2019
+
+  
+         
+    
+        
+
+B8. Flood Zone(s): VE B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 15°
+
+   
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+[-] FIs FIRM [_]Community Determined [] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [_] NGVD 1929 [7] NAVD 1988 [_] Other/Source:
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? []Yes [W|No
+Designation Date: [JCBRS []OPA
+
+    
+ 
+
+ 
+
+ 
+     
+     
+
+B he building located seaward of the Limit of Moderz
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 2 of 19
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+26618 BAY WATER DR
+
+Policy Number:
+City: GALVESTON State. TX — ZIP Code: 77554
+
+Company NAIC Number:
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: Construction Drawings* [_] Building Under Construction* [—] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1—V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: HGCSD 62 (AW5708) Vertical Datum; NAVD 1988
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+[_] NGVD 1929 NAVD 1988 [_] Other:
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? lW] Yes [_] No
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 6.0 feet [_] meters
+
+b) Top of the next higher floor (see Instructions): 20.0 feet [_] meters
+
+c) Bottom of the lowest horizontal structural member (see Instructions): 18.0 feet
+
+meters
+
+CX
+feet [_] meters
+
+NAW
+
+d) Attached garage (top of slab): 20.0
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area): NA
+
+f) Lowest Adjacent Grade (LAG) next to building: Natural [_] Finished 5.0
+g) Highest Adjacent Grade (HAG) next to building: Natural [_] Finished 5.8
+
+feet meters
+
+feet meters
+
+Nw
+
+feet meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support:
+
+[s]
+
+feet meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. | certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? [¥] Yes [_]No
+
+Check here if attachments and describe in the Comments area.
+
+Certifier's Name; Stephen C. Blaskey License Number; 5856
+
+Title. Registered Professional Land Surveyor PGS ZO
+Company Name: High Tide Land Surveying, L.L.C. PAG re oN S TERS:
+
+oY, x
+Address: 8017 Harborside Dr.
+
+City: Galveston —“i‘“C‘State;-«CTX ZIP Code: 77554 | \ oa 5856 ea
+. x meme a
+Signature: Date: 04/17/2023 URN
+
+Telephone: 409-740-1517 i \stephen@hightidesurveying.com
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+
+A5: LAT/LONG ESTABLISHED VIA RTK GPS AT SUBJECT TRACT.
+THIS CERTIFICATE IS BASED ON CONSTRUCTION DRAWINGS.
+
+THERE IS A TEMPORARY BENCHMARK BEING A RAILROAD SPIKE, NEAR THE CENTERLINE OF BAY WATER DR AT THE WESTERLY CORNER
+OF THE SUBJECT TRACT, HAVING AN ELEVATION OF 7.15 FEET.
+
+PLEASE CHECK WITH LOCAL OFFICIALS FOR ADDITIONAL REQUIREMENTS.
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 3 of 19
+Report Date 12/22/2023
+
+Xa ct U S yh ReportNumber = 11547589
+mienien Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 26618 BAYWATER DR, GALVESTON, TX 77554
+Standardized Location 26618 BAY WATER DR, GALVESTON, TX 77554-1508
+
+Latitude, Longitude 29.101831, -95.106778 Parcel ID 6852485
+FIPS / MSA/ Tract 48167 / 26420 / 7261.02 Community No. 485469
+Community Name GALVESTON, CITY OF
+
+County Name GALVESTON
+
+rasa
+CUS)
+réaeyiy dS
+Zone\VE EU Uy)
+Cy)
+
+ez
+Ei cb} a
+
+rae
+(el,16)ft)
+
+FATS d 5
+[= (el ets ia) Cn Ne *
+
+ 
+
+j (alli 4'ft) u Zone/AE © /
+is a = y OR ~ ue
+sooft , ee Tes Leaflet |© Maphox@QpenSireetMap
+
+Flood Zone Zone VE Next Nearest Zone (Dist.) X500 (932 ft)
+
+BFE 14 Feet NAVD88 (13.99 ft NGVD29) USGS Ground Elev 5 ft NAVD8&8
+
+FEMA Map 48167C0576G, 08/15/2019 Previous Map 4854690081E, 12/06/2002, Zone VE
+
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 05/26/1970
+
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+
+Claims* $/# $771,473,254 / 18291 NFIP PIF* 18424 NFIP Discount 20%
+
+Flood Source 73 ft Salt Water 141 ft Fresh Water 958 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+fo"
+
+Texas Farmers Insurance Company
+
+ 
+
+Texas Farmers Insurance Company https://www.farmers.com/
+FARMERS .
+asuaaune PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 26618 BAYWATER DR, Galveston, TX, 77554 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660008487 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660008487
+POLICY TERM: 02-10-2024 (12:01 AM) - 02-10-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: JIM SITU
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+JIM SITU ACOSTA INSURANCE AGENCY LLC
+4707 NORSWORTHY DR, ACOSTA INSURANCE AGENCY LLC
+Sugar Land, TX, 77479 2743 SMITH RNCH RD UNIT 201, Pearland, TX, 77584
+Phone : 7139844611
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+Policy Coverages & Endorsements
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 10,000 $ 2 5 9 6
+9
+Contents $0 $0 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Building Premium: $ 2,433
+Primary Residence NO .
+Contents Premium: $0
+Building Occupancy Single Family . .
+Increased Cost of Compliance (ICC) Premium: $ 46
+Building Description Main House/Building an .
+Mitigation Discounts: $ (93.00)
+First Floor Height (FFH) 15 . . .
+Community Rating System Discount: $ (438.00)
+Method Used to Determine FFH EC
+Full-Risk Premium: $ 1,948
+, Elevated with enclosure on piers, posts & . .
+Property Description Discounted Premium: $ 1,948
+
+piles, 3 Floors , Frame
+Fees and Surcharges:
+
+ 
+
+Date of Construction 01-17-2024
+. . . Reserve Fund Assessment: $351
+Prior NFIP Claims 0 Claim(s)
+. . . HFIAA Surcharge: $ 250
+Your property’s NFIP flood claims history can affect your premium.
+Federal Policy Fee: $47
+Total Premium $ 2,596
+ADDITIONAL INTERESTS
+
+Date Mailed: 01-22-2024
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+To learn more about your flood risk, please visit FloodSmart.gov ———“
+C—O
+NATIONAL FLOOD
+
+INSURANCE PROGRAM
+Texas Farmers Insurance
+
+Sor STANDARD FLOOD INSURANCE Company
+FARMERS APPLICATION https://www.farmers.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INSURANCE
+PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+01-11-2024 FLD1660008487 02-10-2024 02-10-2025 Standard - 30 Day Wait
+ee ee eee
+Insured Name(s) Mailing Address & Phone EE
+JIM SITU 4707 NORSWORTHY DR,S Property Address Agency Name, Address & Phone
+. ar
+me 26618 BAYWATER DR, 77554, Galveston, 2743 SMITH RNCH RD UNIT 201,Pearland,TX,77584
+Land,TX,77479
+,TX
+Home Phone: a
+Email:jacosta2@farmersagent.com
+Work Phone: .
+Property Address Type:Location Phone Number:7139844611
+Cell Phone:(713)822-3894
+spot Agent Name:ACOSTA INSURANCE AGENCY LLC
+
+Email:jim@jks-tx.com
+Applicant Type:INDIVIDUAL
+Prior Company NAIC: .
+
+. . Other Policy Number:
+
+Prior Policy Number:
+
+Potential Duplicate Policy:
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+ 
+
+Current Community Information
+Community Name:
+Community Number:485469
+
+Map Panel:48167C0576 Prior Community Information
+Community Number:
+
+Map Panel Suffix:G
+Map Panel:
+Current Flood Zone:VE
+. Map Panel Suffix:
+Current Base Flood Elevation(BFE):15
+Flood Zone:
+
+FIRM Date:08-15-2019
+
+FIRM Date:08-15-2019
+Program:FLOODREGULAR
+
+Has This Property Been Remapped?:
+Program Status:
+
+ 
+
+Map Revision Date:
+County:
+Current Map Date:08-15-2019
+Rating Map Date:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:YES
+Construction Date Prior Owner Policy Number:
+Date of Original Construction:0 1-17-2024 Prior Owner Company Name: ;
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Residence: NO
+
+Date: fi 6
+
+_—
+—
+APC PRV 07 21 Oe es
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+Texas Farmers Insurance
+
+co". STANDARD FLOOD INSURANCE QUOTE Company
+
+FARMERS
+
+ 
+
+ 
+
+ 
+
+https://www.farmers.com/
+
+ 
+
+ 
+
+eas PO Box 2057 Kalispell MT 59903 USA
+(888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+01-11-2024 FLD1660008487 02-10-2025 Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:900000
+Replacement Cost Value Returned by FEMA:674250
+Total sq. footage of building:4018
+
+Total # of floors in building:3
+
+Total # of units in building:
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Elevated with enclosure on piers, posts & piles
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: YES
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:04-17-2023
+Diagram Number:6
+
+Top of Bottom Floor:6
+
+Top of Next Higher Floor:20
+
+Lowest Adjacent Grade (LAG):5
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Flood Height:15
+FEMA First Floor Height:15
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 10,000.00
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 2,433.00
+Content Premium: $ 0.00
+Increased Cost of Compliance (ICC) Premium: $ 46.00
+Mitigation Discount: $ (93.00)
+Community Rating System Reduction: $ (438.00)
+Full Risk Premium: $ 1,948.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,948.00
+Reserve Fund Assessment: $ 351.00
+HFIAA Surchange: $ 250.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 2,596.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+RX
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD1660008487 / JIM SITU
+
+26618 BAYWATER DR, Galveston, Galveston County, TX,
+77554 - 1508
+
+4707 NORSWORTHY DR, Sugar Land, Fort Bend County,
+TX, 77479
+
+Renew indicator: BATCH RENEWAL
+
+Term Start Date : 02/10/2024 Term End Date :
+Transaction Eff. Dt. :
+
+Last Updated By :
+
+02/10/2024
+MARCUS DUNCAN
+
+Waiting Period:
+Applicant Date :
+
+Claims 0 Loss Run
+
+$2,596.00
+$2,596.00
+
+Total Premium Change : Bill To :
+
+Total Premium :
+
+Quote Source: AGENT
+
+jim@jks-tx.com
+(713)822-3894
+
+Agent Tasks : File
+complete
+
+02/10/2025
+
+Standard - 30 Day Wait
+01/11/2024
+
+Risk Rating
+
+POLHOLDER
+
+ 
+
+Receivable View Invoicing Subledger
+
+=
+
+ 
+
+ACCOUNTING DT.
+
+01/11/2024
+
+TRANS TYPE TRANS REF CHECK NO
+
+PAYMENT F2166000006735
+
+01/22/2024 INVOICE INV00787376
+
+Log Documents Agent Customer
+Portal Portal
+
+Term Selection: (1138778)
+02-10-2024/02-10-2025 v
+
+Transaction Selection: (1540352)
+ENDORSE - ISSUED v
+
+Last transaction
+
+ 
+
+CERTIFIED DATE DEBIT
+
+01/11/2024 $0.00
+
+$2,596.00
+
+Transaction Type : New Busi
+
+Business
+
+last Updated Date : 01-22-20
+2.0
+
+Serv Rep:
+
+U/writer :
+
+Product Name : Flood Pre
+CREDIT BALANCE sys
+$(2,596.00) $(2,596.00) 01,
+$0.00 $0.00 01,
+   
+     
+
+Endorsement by MARCUS
+DUNCAN
+
+Transaction date: 01-23-2024
+Transaction Eff. Dt. 2024-02-
+10
+
+Note
+
+(01-23-2024) Chatted and
+assisted Tran on adding
+additional insureds.
+
+ 
+
+ 
+
+Agency Info
+
+ 
+
+08811-05985-000 ACOSTA
+INSURANCE AGENCY LLC
+ACOSTA INSURANCE
+
+ 
+ 
+
+<div pseudo="-webkit-input-placeholder" id="placeholder" style="color: rgb(115, 129, 143); opacity: 1; display: block !important;"><br class="Apple-interchange-newline">Type note here</div>
+
+<div></div>
+
+  
+
+ 
+
+0/500
+Make hidden? : O
+C=
+Date Description Inserted By Mark Hidden
+01-23-2024 9:51:19 AM Add name James Acosta *
+01-22-2024 9:44:11 AM Aprvd NB effective 2/10/2024, 30 day wait from Premium MARCUS DUNCAN
+Submission date of 1/11/2024. Premium received within 9
+days of Application Submission date of 1/11/24. Removed
+EC from rating as EC completed based on Construction
+Drawings and the app was submitted as finished
+Construction. Not Primary Residence.
+01-22-2024 9:42:20 AM Agent task : File complete. UW Note: Completed MARCUS DUNCAN
+01-11-2024 4:34:48 PM The application submitted states the structure is not MARCUS DUNCAN
+currently under construction, so we need an EC and
+photos based on Finished Construction.
+01-11-2024 4:34:00 PM Agent task : Needs elevation cert. UW Note: Please MARCUS DUNCAN
+submit the elevation certificate that was completed based
+on finished construction and current dated photos that v
+4 »
+
+els |e,

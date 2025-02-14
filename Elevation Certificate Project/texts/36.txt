@@ -1,0 +1,881 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0008
+
+irati : /
+Federal Emergency Management Agency EEE
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+ae PEF IFORMATIC — | FOR INSURANCE COMPANY USE
+
+  
+ 
+    
+
+     
+       
+
+A1. Building Owner's Name: UWC CUSTOM BUILDERS
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+178 SUNRISE AVE.
+
+City. PORT ARANSAS State: TX ZIP Code: 78373
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+LOT 9A, BLOCK 3, PALMILLA BEACH PUD, UNIT 2, CITY OF PORT ARANSAS, NUECES COUNTY, TEXAS
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): _ RESIDENTIAL- PROPOSED FINISHED FLOOR
+A5. Latitude/Longitude: Lat. N27°47'53.00” Long. W97°05'03.40" __ Horizontal Datum: [-] NAD 1927 [_]NAD 1983 [x] WGS 84
+
+A6. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+
+  
+
+  
+
+    
+
+Policy Number:
+
+ 
+   
+
+  
+
+Company NAIC Number:
+
+       
+ 
+      
+    
+      
+
+ 
+
+    
+
+       
+   
+   
+     
+   
+    
+  
+
+A7. Building Diagram Number: 1B
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): 0.00 sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [_] Yes [_]No [x] N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: 0 Engineered flood openings:
+
+d) Total net open area of non-engineered flood openings in A8.c: 0.00 sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): 0.00 sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): * 0.00 sq. ft.
+
+. For a building with an attached garage:
+
+ 
+    
+     
+        
+   
+
+a) Square footage of attached garage: 792.00 sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? []Yes []No [XJN/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: 0 Engineered flood openings: 0
+
+d) Total net open area of non-engineered flood openings in A9.c: 0.00 sq. in.
+
+e) Total rated area of engineered flood openings in A9.c (attach documentation — see Instructions): 0.00 sq. ft.
+
+     
+  
+   
+
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions): 0.00 sq. ft.
+
+  
+  
+   
+
+    
+
+B1.a. NFIP Community Name: PORT ARANSAS B1.b. NFIP Community Identification Number: 485498
+B2. County Name: NUECES COUNTY B3. State: TX B4. Map/Panel No.: 48355C/0390 B5. Suffix: G
+B6. FIRM Index Date: 10/13/2022 B7. FIRM Panel Effective/Revised Date: 10/13/2022
+
+     
+
+   
+
+       
+   
+     
+
+B8. Flood Zone(s): X BQ. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): N/A
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+[-] FIS FIRM [_]Community Determined [_] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [_] NGVD 1929 [X] NAVD 1988 [_] Other/Source:
+
+ 
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? L]Yes [X]No
+Designation Date: [.]CBRS []OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [_] Yes [x] No
+
+     
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 2 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+FOR INSURANCE COMPANY USE
+
+   
+
+   
+    
+    
+   
+  
+
+ 
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+178 SUNRISE AVE.
+
+ee ene
+
+City; PORT ARANSAS State. TX ZIP Code: 78373
+
+(S
+
+C1. Building elevations are based on: —X] Construction Drawings* [_] Building Under Construction” {_] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+ 
+    
+ 
+
+   
+        
+  
+ 
+    
+     
+
+Policy Number:
+
+ 
+
+Company NAIC Number:
+
+ 
+
+C2. Elevations — Zones A1—-A30, AE, AH, AO, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—-A30, AR/AH, AR/AO,
+A99. Complete Items C2.a-h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: AH1674 Vertical Datum: 1988
+
+ 
+
+       
+       
+      
+   
+  
+   
+  
+  
+  
+  
+  
+       
+ 
+      
+     
+     
+     
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+[-] NGVD 1929 KX] NAVD 1988 [_] Other:
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? [_] Yes Xx] No
+
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+   
+  
+ 
+ 
+    
+   
+
+feet [_] meters
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 13.00 [ feet [|] meters
+b) Top of the next higher floor (see Instructions): 24.00 | feet [|] meters
+c) Bottom of the lowest horizontal structural member (see Instructions): [] feet [_] meters
+d) Attached garage (top of slab): 11.00 [Xx] feet [_] meters
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+
+(describe type of M&E and location in Section D Comments area): [] feet [-] meters
+f) Lowest Adjacent Grade (LAG) next to building: DX] Natural [_] Finished 9.80 [ feet [] meters
+g) Highest Adjacent Grade (HAG) next to building: DX] Natural [_] Finished 10.40 [X feet [_] meters
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+
+support: C]
+
+ 
+
+      
+
+Bs
+
+ 
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+
+information. | certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? [Xx] Yes [_]No
+(J Check here if attachments and describe in the Comments area.
+
+Certifier's Name: BRIDGET A. BRUNDRETT License Number: 6073
+
+Title: RPLS
+
+Company Name: GRIFFITH & BRUNDRETT SURVEYING & ENGINEERING, INC
+Address: 411 S. PEARL ST.
+
+ee ee a
+
+City, ROCKPORT State: TX ZIP Code: 78382
+H Digitally signed by Bridget Brundrett
+Signature: Bridget Brundrett pete 2023 12.21 09:34:10 0600 pate: 01/23/2024
+
+Telephone: (361) 729-6479 Ext.: Email: bridgetb@gbsurveyor.com Place Seal Here
+
+ 
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Se
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+PROPOSED FINISHED FLOOR FOR A MULTI STORY WOOD FRAME RESIDENCE ON CONCRETE SLAB WITH
+ATTACHED GARAGE ON CONCRETE SLAB. NO MACHINERY INSTALLED. LAT/LONG BY HANDHELD GPS.
+
+      
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 3 of 19
+€70¢ dew seuonen s9sn :a241n0s Asageuy dewaseg
+
+*sosodund Aioyejngau
+
+JO} pasn aq }ouUed Seale paziusapowun pue paddewun
+
+Joy soseuul dela] ‘ayep 9ANoayjo Wd Pue “aquunu joued WHId
+‘siaijuap! AyJuNnUWWOd ‘a}ep UONeaJ9 dew ‘eq ajeos ‘puaga|
+‘sjoqe| au0z pooy ‘Auaseuul dewaseq «weadde jou op s}uawayja
+dew SuIMojjO} BY} JO BJOW JO BUO JU} JI PIOA SI ASE dew siyL
+
+NuS@LboLé MuLSivoL6
+
+“9ll} J2AO BYEp MoU Aq papesiedns aw0seq
+
+Jo asueYS ACW UONELUJAOJU! 9AI}D9jJ9 PUe THAN OU “WI}
+pue 9}ep Siu} 0} Juanbasqns sjuawpuawe Jo sagueyd JD9}Jo/
+you sop pue WY €v:6 3€ yZ0Z/PT/8 UO payodxe sem
+
+dew sIUL ‘WING Aq paplAoid saolAsas Gam HAN 3A}e}OUNe
+34} Wo APOOIP POALAP SI UOHBLUUOJU! PuezZeY Pool} OUL
+
+spiepueys Aoesnzoe
+
+dewaseq s,VINJ4 YM Saljdu09 uMoYs dewaseg aul
+“MO|3Q PIQUOSEP Se PIOA }OU SI }! J] SdeW poo} |eUSIP
+
+JO aSN ay) 10} Spuepue}s S, VINA YUM Sal|dwios dew siuL
+
+‘uoneso] Ayedoid 9al}e}OY}Ne Ue
+juasaida, Jou saop pue Jasn ay} Aq pa}sajas julod
+d}euxoudde ue si dew ay} uo pateydsip uid ayy 6
+
+paddewun STANVd dVIN
+aqejieny e}eq |e131G ON
+
+aiqeneay eyeq [eUsIq / f 7 )\\au07 Za ,
+
+radian etl sy lc)
+aunyeay d1ydeszoipAH sauniva4 - : y , = ee
+auljaseg a|lJold YaHLO ’ : oi be pe esu,
+auljaseg Joosueyy je}se0g ; : <——— al
+
+Asepunog uonoipsunr
+
+Apnis jou) | 86rS8
+
+(34g) eur] uoNeAe|y poo|y aseg _ -
+yasuely je}seo9 SESUE C J10 q/FO/AItD
+uo}eAa|y adepINS 19}eEM\ v .
+aoueyg Jenuuy %T YyIM SuoNoas ssol9 n
+
+7
+
+HleMpoo|4 40 ‘ay!q 990971111011] SFUNLONULS
+JAMO WO} JO Vaan ‘JauuUeyO = —— = | TWYANAD
+
+gd 9u0z pAeZEH Poo}, paulwuayapun jo ealy SVauV YaHLO
+
+SYINOT eADAYZ [——=J
+
+xX eu0Z pJEZEH POO], [EWIUIIA| JO BAJY Naas ON
+
+d 2407 88A97] 0} ANP YSIY POO|y YM Bay "| GHVZVH GOO14
+X 2U0z "S9JON 99S “89A97 dO SV4YV YSHLO
+0} ONp ¥SIY Poo|4 paonpay YM ealy 04.
+
+X 8u0z pueZBH poo|4 soueyy
+
+lenuuy %T suonpuog aunyn4 Nt
+X 9u0z QI auenbs auo ue} ssa| Jo Seale
+aZeUleJp YM 10 }00} UO UY} ssa] Y}dap
+
+aZesaAe YIM pools BoueYD Jenuue %T Jo
+seaiy ‘prezey pooj4 aoueyy jenuuy %zZ"0
+
+Kempoo|4 Aioyeingey = tititSs«*Y SW WZ
+
+uy “3A ‘Hy ‘ov ‘Zv eu0z yydaq 40 348 UM dgoo1s IvldsdS
+
+66 ‘A ‘y au0z
+(34g) Uo}eA9/3 pooj4 aseg INOYM
+
+LNOAW1 TANVd Wald 4Od dVIN XSGNI ONV GN3937 G3 1IWlad YOs LYOd3u Sid 35S NuZS.2Zb0Z7 MuSE,S0Z6
+
+puefiey SHEWYI4 JeAe7 puezey poojy jeuoien
+
+ 
+Texas Farmers Insurance Company
+
+fo" : Texas Farmers Insurance Company https://www.farmers.com/
+ree PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 178 SUNRISE AVE, Port Aransas, TX, 78373 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660041577 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660041577
+POLICY TERM: 04-29-2024 (At time of loan closing) - 04-29-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: UWC CUSTOM BUILDERS
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+UWC CUSTOM BUILDERS Bryan Richter
+830 OCEAN SIDE DR., Bryan Richter
+Port Aransas, TX, 78373 PO BOX 59, Port Aransas, TX, 78373
+
+Phone : 3617494940
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+ 
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 1,250 $ l 5 0 9 0
+Contents $0 $0 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence NO Building Premium: $ 659
+Building Occupancy Single Family Contents Premium: $0
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $13
+First Floor Height (FFH) 3.1 Community Rating System Discount: $0
+Method Used to Determine FFH EC Full-Risk Premium: $ 672
+Property Description Slab on Grade (non-elevated), 3 Floors , Discounted Premium: $ 672
+Frame Fees and Surcharges:
+Date of Construction 04-24-2024 Reserve Fund Assessment: $121
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $ 250
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+Total Premium $ 1,090
+ADDITIONAL INTERESTS
+First Mortgagee
+City National Bank of Taylor,
+PO BOX 1099,
+
+Taylor, TX, 76574
+Loan # : 169486
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+iled: 04-30- a oe ——
+Date Mailed: 04-30-2024 To learn more about your flood risk, please visit FloodSmart.gov ———“
+C—O
+NATIONAL FLOOD
+
+INSURANCE PROGRAM
+for
+
+ 
+
+ 
+
+STANDARD FLOOD INSURANCE
+
+ 
+
+FARMERS APPLICATION
+INSURANCE
+PO Box 2057 Kalispell MT 59903 USA
+Date Application Number Effective Date Expiration Date
+04-29-2024 FLD1660041577 04-29-2024 04-29-2025
+ee ee eee
+Mailing Address & Phone Property Address
+UWC CUSTOM BUILDERS
+830 OCEAN SIDE DR..,Port Aransas,TX,78373 178 SUNRISE AVE, 78373, Port Aransas,
+,TX
+Home Phone:
+Work Phone: .
+Property Address Type:Location
+Cell Phone:(281)723-2744
+Email:cshimaitis@gmail.com
+Applicant Type:BUSINESS
+Prior Company NAIC: .
+. . Other Policy Number:
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+Potential Duplicate Policy:
+
+ 
+
+Texas Farmers Insurance
+Company
+https://www.farmers.com/
+
+(888) 391-2810
+
+ 
+
+Waiting Period
+Loan Transaction - No Wait
+
+ 
+
+Agency Name, Address & Phone
+PO BOX 59,Port Aransas, TX,78373
+
+Email:brichter@farmersagent.com
+Phone Number:3617494940
+Agent Name:Bryan Richter
+
+ 
+
+1st Mortgagee
+
+City National Bank of Taylor
+
+PO BOX 1099,
+
+Taylor, Williamson County , TX, 76574
+
+Phone Number:
+Fax Number:
+
+Loan Number:169486
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:485498
+Map Panel:0390
+
+Map Panel Suffix:G
+
+Current Flood Zone:X
+Current Base Flood Elevation(BFE):
+FIRM Date:01-01-1971
+Program:FLOODREGULAR
+Program Status:
+
+County:
+
+Current Map Date:10-13-2022
+Rating Map Date:
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:01-01-1971
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+ 
+
+Construction Date
+Date of Original Construction:04-24-2024
+
+Building Substantially Improved:NO
+Post-FIRM Construction:YES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:YES
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+Occupancy Type:Single Family
+Building Description:
+
+Is this the Applicant's Primary
+
+Is the insured a small business with
+NO
+
+Is the insured a nonprofit entity?:NO
+
+less than 100 employees?:
+
+Date:
+
+APC PRV 07 21
+
+ATIO
+——
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+Texas Farmers Insurance
+
+co". STANDARD FLOOD INSURANCE QUOTE Company
+
+FARMERS
+
+ 
+
+ 
+
+ 
+
+https://www.farmers.com/
+
+ 
+
+ 
+
+eas PO Box 2057 Kalispell MT 59903 USA
+(888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+04-29-2024 FLD1660041577 04-29-2025 Loan Transaction - No Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:YES
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:1531000
+Replacement Cost Value Returned by FEMA427138
+Total sq. footage of building:2988
+
+Total # of floors in building:3
+
+Total # of units in building:
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:01-23-2024
+Diagram Number:1B
+
+Top of Bottom Floor:13
+
+Top of Next Higher Floor:24
+
+Lowest Adjacent Grade (LAG):9.8
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height3.1
+FEMA First Floor Height:3.1
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 1,250.00
+Content 0.00 0.00
+
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 659.00
+Content Premium: $ 0.00
+Increased Cost of Compliance (ICC) Premium: $ 13.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ 0.00
+Full Risk Premium: $ 672.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 672.00
+Reserve Fund Assessment: $ 121.00
+HFIAA Surchange: $ 250.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 1,090.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+RX
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD1660041577 / UWC CUSTOM BUILDERS
+
+178 SUNRISE AVE, Port Aransas, Nueces County, TX, 78373
+- 0000
+
+830 OCEAN SIDE DR., Port Aransas, Nueces County, TX,
+78373
+
+Renew indicator: BATCH RENEWAL
+
+Term Start Date : 04/29/2024 Term End Date :
+
+Transaction Eff. Dt. : 04/29/2024 Waiting Period:
+
+Last Updated By : MARCUS DUNCAN Applicant Date :
+Claims 0 Loss Run
+
+Total Premium Change: $1,090.00 Bill To :
+
+Total Premium : $1,090.00
+
+Receivable View Invoicing Subledger
+
+Quote Source: AGENT
+
+cshimaitis@gmail.com
+(281)723-2744
+
+ 
+
+ACCOUNTING DT. TRANS TYPE TRANS REF CHECK NO
+04/29/2024 PAYMENT F2166000025968
+04/30/2024 INVOICE INV00822038
+
+Log Documents Agent Customer
+Portal Portal
+
+Term Selection: (1307195)
+04-29-2024/04-29-2025 v
+
+Transaction Selection: (1771157)
+NEWBUSINESS - ISSUED v
+
+ 
+
+Last transaction
+
+New Business by MARCUS
+DUNCAN
+Transaction date: 04-30-2024
+
+Agent Tasks :
+04/29/2025 Transaction Type : New Busi
+Business
+Loan Transaction - No Wait last Updated Date : 04-30-20
+04/29/2024
+Risk Rating 2.0
+
+POLHOLDER Serv Rep:
+
+U/writer :
+Product Name : Flood Pre
+CERTIFIED DATE DEBIT CREDIT BALANCE sys
+04/29/2024 $0.00 $(1,090.00) $(1,090.00) 04,
+$1,090.00 $0.00 $0.00 04,
+Transaction Eff. Dt. 2024-04- (4
+29
+
+Note
+
+(04-30-2024) Aprvd NB
+effective LC date of 4/29/24.
+Premium received within 9
+days of LC dat...
+
+ 
+
+Agency Info
+
+ 
+
+08811-00958-000 Bryan
+Richter
+
+Bryan Richter
+PO BOX 59
+
+ 
+Notes System Log Pivot Response Log
+
+Notes
+
+Print Log
+
+Type note here
+
+Make hidden? : oO
+
+0/500
+
+ 
+
+ 
+
+Date Description Inserted By Mark Hidden
+04-30-2024 2:15:22 PM Aprvd NB effective LC date of 4/29/24. Premium received MARCUS DUNCAN
+within 9 days of LC date. Under Construction Drawings
+‘ noe ae a
+
+Arum: moe4
+
+»
+els |m |
+
+ 
+
+de>

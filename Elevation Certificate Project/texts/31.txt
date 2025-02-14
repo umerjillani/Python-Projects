@@ -1,0 +1,836 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Control No. 1660-0008
+Federal Emergency Management Agency Expiration Date: 06/30/2026
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+ 
+
+SECTION A — PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+ 
+
+A1. Building Owner's Name: Newmark Homes Policy Number:
+
+ 
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: Company NAIC Number:
+11310 Desert Orangetip Drive
+
+ 
+
+ 
+
+ 
+
+City: Cypress State: Texas ZIP Code: 77433
+
+ 
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+Lot 2, Block 1, Bridgeland Prairieland Village Sec 20
+
+ 
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.): Residential
+A5. Latitude/Longitude: Lat. 29°57'2.23"N Long, 95°47'8.12"W Horizontal Datum: | NAD 1927 [m]NAD 1983 [_] WGS 84
+
+A6. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+
+ 
+
+ 
+
+A7. Building Diagram Number: 1B
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s): N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [_] Yes [_]No_ [m] N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in A8.c: N/A sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): N/A sq. ft.
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): N/A sq. ft.
+AQ. For a building with an attached garage:
+a) Square footage of attached garage: N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? []Yes [_]No [m] N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in A9.c: N/A sq. in.
+e) Total rated area of engineered flood openings in AY.c (attach documentation — see Instructions): N/A sq. ft.
+
+f) Sum of A9.d and AY.e rated area (if applicable — see Instructions): sq. ft.
+
+ 
+
+SECTION B — FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+ 
+
+B1.a. NFIP Community Name: Harris County Unincorporated Areas B1.b. NFIP Community Identification Number, 480287
+
+ 
+
+ 
+
+ 
+
+B2. County Name: Harris B3. State: Texas B4. Map/Panel No.: 4820100385 B5. Suffix: N
+B6. FIRM Index Date: 11/15/2019 B7. FIRM Panel Effective/Revised Date: 11/15/2019
+B8. Flood Zone(s): AE B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth): 159.4'
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+a] FIS [_] FIRM [_] Community Determined [_] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [_] NGVD 1929 [_] NAVD 1988 [m] Other/Source: NAVD 88 (2001 Adj)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [| Yes [m] No
+Designation Date: []CBRS []OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [_] Yes [m] No
+
+ 
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 2 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+11310 Desert Orangetip Drive
+City: Cypress ————S—sStatte: TEXAS ZIP Code: 77433
+
+Policy Number:
+
+Company NAIC Number:
+
+SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1. Building elevations are based on: [_] Construction Drawings* [_] Building Under Construction* [m] Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2. Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, V1—V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: HCFCD RM200120 Vertical Datum: NAVD 88 (2001 Adj)
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+[] NGVD 1929 [_] NAVD 1988 [m] Other: NAVD 88 (2001 Adj)
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? [.] Yes [m] No
+
+If Yes, describe the source of the conversion factor in the Section D Comments area.
+Check the measurement used:
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 163.6 feet [_] meters
+
+b) Top of the next higher floor (see Instructions): 172.6 feet [_] meters
+
+c) Bottom of the lowest horizontal structural member (see Instructions): N/A feet [_] meters
+
+d) Attached garage (top of slab): 163.2 feet [[] meters
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+
+(describe type of M&E and location in Section D Comments area): 163.3 feet meters
+
+meters
+
+L
+f) Lowest Adjacent Grade (LAG) next to building: [~] Natural [m] Finished 162.5 feet 1
+
+g) Highest Adjacent Grade (HAG) next to building: [| Natural [m] Finished 162.6 feet [|] meters
+L
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+
+support: N/A feet meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+information. | certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? [| Yes [m]No
+
+[m] Check here if attachments and describe in the Comments area.
+
+Certifier's Name: _ Lawrence W. Borski License Number: 3926
+Title, RPLS
+
+Company Name: Allpoints Land Survey TBPELS # 10122600
+Address: 1515 Witte Road
+City; Houston State: Texas ZIP Code: 77080
+
+Signature: _ Date: 10/24/2023
+
+Telephone: (713) 468-7707 Ext: 0 Email: lborski@allpointsgroup.com
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+C2. e) AC Pad
+500 Yr. Elevation = 160.0'
+
+Centerline of Street = 160.4'
+Top of Curb = 160.7'
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 3 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+ 
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+11310 Desert Orangetip Drive
+City: Cypress
+
++ 77433 Policy Number:
+State: | exas ZIP Code:
+—_ | Company NAIC Number:
+
+ 
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+  
+
+ 
+
+Date Taken: 10/24/23 Front View Date Taken: 10/24/23 Right Front View
+
+ 
+
+ 
+
+Date Taken: 10/24/23 Rear View
+
+ 
+
+Date Taken: 10/24/23 Left Front View
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 7 of 19
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 9-19
+BUILDING PHOTOGRAPHS
+
+Continuation Page
+
+ 
+
+FOR INSURANCE COMPANY USE
+
+ 
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.:
+11310 Desert Orangetip Drive .
+Policy Number:
+
+State; Texas ZIP Code: 77433
+
+City: Cypress
+Company NAIC Number:
+
+ 
+
+ 
+
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View," "Rear View," "Right Side
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or
+
+vents, as indicated in Sections A8 and AQ.
+
+ 
+
+ 
+
+Date Taken: 10/24/23 Left Rear View Date Taken: 10/24/23 Right Rear View
+
+ 
+
+ 
+
+Date Taken: 10/24/23 AC Pad Date Taken:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (10/22) Page 8 of 19
+ 
+
+Report Date 12/6/2023
+x a C U S Report Number 11433471
+Standard X Advanced Premium
+
+FloodRisk Standard
+
+Provided Location 11310 DESERT ORANGETIP DRIVE, CYPRESS, TX 77433
+
+ 
+
+Standardized Location 11310 DESERT ORANGETIP DR ,CYPRESS ,TX 77433
+
+Latitude, Longitude 29.950612, -95.785941 Parcel ID
+
+FIPS / MSA / Tract 48201 / 26420 / 5430.05 Community No. 480287
+Community Name HARRIS COUNTY*
+
+County Name HARRIS COUNTY
+
+. faean\a
+
+ 
+
+Leaflet | © Mapbox © OpenStreetMap
+
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (317 ft)
+
+BFE 159.5 Feet NAVD88 (159.47 ft NGVD29) USGS Ground Elev 160 ft NAVD88
+
+FEMA Map 48201C0385N, 11/15/2019 Previous Map 48201C0385M, 10/16/2013, Zone AE
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 05/26/1970
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $/# $2,538,032,397 / 49223 NFIP PIF* 100357 NFIP Discount 15%
+Flood Source 897 ft Salt Water >6 miles Fresh Water 1936 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+Texas Farmers Insurance Company
+
+fo" : Texas Farmers Insurance Company https://www.farmers.com/
+ree PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 11310 DESERT ORANGETIP DRIVE, Cypress, TX, 77433 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660003221 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660003221
+POLICY TERM: 01-17-2024 (12:01 AM) - 01-17-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: MINNA DU MINDY DU
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+MINNA DU MINDY DU Tony Poncio
+11310 Desert Orangetip Drive, Tony Poncio
+Cypress, TX, 77433 PO BOX 1250, Red Oak, TX, 75154
+
+Phone : 9726172368
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+ 
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ l 7 3 5
+Contents $ 100,000 $ 2,000 Total Anmyal Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $999
+Building Occupancy Single Family Contents Premium: $ 594
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $ 30
+First Floor Height (FFH) 1 Community Rating System Discount: $ (214.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 1,409
+Property Description Elevated without enclosure on piers, posts & | Discounted Premium: $ 1,409
+piles, 2 Floors , Masonry Fees and Surcharges:
+Date of Construction 12-31-2022 Reserve Fund Assessment: $ 254
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $25
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+Total Premium $ 1,735
+ADDITIONAL INTERESTS
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+iled: 12-28- a oe ——
+Date Mailed: 12-28-2023 To learn more about your flood risk, please visit FloodSmart.gov ———“
+C—O
+NATIONAL FLOOD
+
+INSURANCE PROGRAM
+Texas Farmers Insurance
+
+Sor STANDARD FLOOD INSURANCE Company
+FARMERS APPLICATION https://www.farmers.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INSURANCE
+PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+
+Date Application Number Effective Date Expiration Date Waiting Period
+12-18-2023 FLD1660003221 01-17-2024 01-17-2025 Standard - 30 Day Wait
+ee ee eee ee ee
+Insured Name(s) Mailing Address & Phone Property Address A N: Add & Ph
+MINNA DU MINDY DU 11310 Desert Orangetip 11310 DESERT ORANGETIP DRIVE, 77433,  “S8eney Name, Acres & N hone
+
+. PO BOX 1250,Red Oak,TX,75154
+
+Drive,Cypress,TX,77433 Cypress,
+,TX
+
+Home Phone:
+
+Work Phone:
+
+Cell Phone:(469)867-9395
+Email:minnadu2010@gmail.com
+
+Email:tponcio@farmersagent.com
+Property Address Type:Location Phone Number:9726172368
+Agent Name:TONY PONCIO
+
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+
+. . Other Policy Number:
+Prior Policy Number:
+
+Potential Duplicate Policy:
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+ 
+
+Current Community Information
+
+Community Name:
+
+Community Number:480287
+
+Map Panel:0385 Prior Community Information
+Community Number:
+
+Map Panel Suffix:N
+Map Panel:
+Current Flood Zone:AE
+. Map Panel Suffix:
+Current Base Flood Elevation(BFE):160
+Flood Zone:
+
+FIRM Date:05-26-1970
+Program:FLOODREGULAR
+Program Status:
+
+FIRM Date:05-26-1970
+Has This Property Been Remapped?:
+
+ 
+
+Map Revision Date:
+County:
+Current Map Date:1 1-15-2019
+Rating Map Date:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:YES
+Construction Date Prior Owner Policy Number:
+Date of Original Construction:12-3 1-2022 Prior Owner Company Name: ;
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Residence: YES
+
+Date: fi 6
+
+_—
+—
+APC PRV 07 21 Oe es
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+Texas Farmers Insurance
+
+co". STANDARD FLOOD INSURANCE QUOTE Company
+
+FARMERS
+
+ 
+
+ 
+
+ 
+
+https://www.farmers.com/
+
+ 
+
+ 
+
+eas PO Box 2057 Kalispell MT 59903 USA
+(888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+12-18-2023 FLD1660003221 01-17-2025 Standard - 30 Day Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Masonry
+Construction Type Description:
+
+Estimated Building Replacement Cost:800000
+Replacement Cost Value Returned by FEMA:783480
+Total sq. footage of building:4532
+
+Total # of floors in building:2
+
+Total # of units in building:
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:10-04-2023
+Diagram Number:1B
+
+Top of Bottom Floor:164
+
+Top of Next Higher Floor:173
+
+Lowest Adjacent Grade (LAG):163
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Flood Height:1
+FEMA First Floor Height:1
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 2,000.00
+Content 100,000.00 2,000.00
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 999.00
+Content Premium: $ 594.00
+Increased Cost of Compliance (ICC) Premium: $ 30.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (214.00)
+Full Risk Premium: $ 1,409.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,409.00
+Reserve Fund Assessment: $ 254.00
+HFIAA Surchange: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 1,735.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+RX
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+€202/82/ZL
+
+€202/8L/ZL
+
+Ld WALSAS
+
+weiboidg pool
+
+€c0¢-8¢-CL
+ssauisng
+
+juaby-sseulsng MaN
+
+00°0$ 00°0$ OO'SEL'LS$
+(o0'SEz'L)$ (00°SEZ'L)$ 00°0$
+JONVIVa aaa 1ia3q
+
+[essen
+
+> sWeN PNpold
+: 13}M/N
+: day Aas
+
+02 bul
+
+€202/8L/Z1L
+
+alvd d3ldiLua>
+
+YAG1TOH10d
+
+yey STY
+
+€c02/8L/ZL
+
+:ayeq payepdy ysey =e Ae O¢€ - puepueds
+
+: adAL uoIpesUeIL
+
+9}0]dwWod ajly : syse_ juaby
+
+C) s6€6-298(69r)
+
+wo |lewH@oLoznpeuuiw
+
+SZO2/LL/L0
+
+ON 1ID4HD
+
+> OL Id
+
+> a3eq JUeDI|\ddy
+:polag Bune
+
+> a}eq puq ual
+
+Z8Z6LZLOOANI ADIOANI| €20¢/82/cL
+LZZE00000991L 24 LNAWAVd €202/8L/cL
+47d SNVUL adAL SNVUL ‘Ld SNILNNODDV
+
+Jabpayqns  Gurioauj = MalA ajqealazey | main auno20y |
+
+OO'SEL'LS$
+O0'SEL'LS
+
+uny sso7 0
+
+NVONNG SNDUVA
+v20e/LL/LO
+
+v202/LL/LO
+
+> WINIWadld [LOL
+: abueyD winiwiaid [EOL
+
+swle|D
+
+: Ag payepdy¢ yseq
+23d J¥a UONDesuely
+
+2 9}eq Mes UWaL
+
+TWM4N3x HOLE: 402e2!pul mauay
+
+68€0
+
+- €EPZZ ‘XL ‘Ayuno>D sep ‘ssaidA> ‘ang diyabueig Waseq OLELL
+
+680 - E€VLL
+
+"XL ‘Ajunod siey ‘ssaidA> ‘ZAIN dILIDNVYO LY3ASIC OLELL
+
+Nd AGNIW NG VNNIW / L2z€000991d14
+a OZ6ZLL9ZLE
+C89EZZL92Z6
+
+VSLSZ'XL'3eO pey’AjunoD sij[3
+OSZL XO Od
+o1nuog Auol
+
+o19u0d Auol 000-€1L8Z0-LL880
+
+ojuy Asuaby
+
+ 
+
+                  
+   
+
+  
+
+a
+. yey} yuaby pasiapy ‘sabe1an02
+
+jo Asewuuns ‘abed dap 103 Bupjse
+2aq 19 Auo, uaby (7202-62-20)
+
+ 
+
+ 
+
+ 
+
+Va
+LL-LO-7Z02 (30 ‘JJ4 UO!}IeSUeIL
+
+€Z02-82-ZL :a}ep uo! esuelL
+NVONNG
+SNDUVIN Aq sseulsng MaN
+
+ 
+
+L uol}esSUeI} SET
+
+GANSSI - SSANISNEMIAN
+(€VZSOSL) :UONda]a5 UO!DesUeIL
+
+G20¢-ZL-LO0/vz02-ZL-LO
+(S79VLLL) :uOnsa]a5 Wey
+
+Jeuog Jeyog
+Jawojysn> yueby = sJuawind0q 607
+12-28-2023 9:36:12 AM
+
+12-28-2023 9:34:21 AM
+
+12-27-2023 4:54:07 PM
+
+Aprvd NB effective 1/17/2024, MARCUS DUNCAN
+30 day wait from Application
+
+Submission date of 12/18/2023.
+
+Premium received within 9 days
+
+of Application Submission date
+
+of 12/18/23. EC and photos
+
+used for rating on file.
+
+Addresses match for Primary
+
+Residence.
+
+Agent task : File complete. UW MARCUS DUNCAN
+Note: Aprvd
+
+Spoke with the agent following JOSEPH BAUTISTA
+up on the EC, asissted

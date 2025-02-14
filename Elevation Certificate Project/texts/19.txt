@@ -1,0 +1,1015 @@
+sess
+
+ 
+
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB No. 1660-0008
+Federal Emergency Management Agency Expiration Date: November 30, 2022
+
+National Flood insurance Program
+ELEVATION CERTIFICATE
+
+Important: Follow the instructions on pages 1-9.
+
+ 
+
+Copy all pages of this Elevation Certificate and alt attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+SECTION A- PROPERTY INFORMATION FOR INSURANCE COMPANY USE
+
+A1. Building Owner's Name Policy Number:
+
+Burke Ronald L/Bonnie Tr
+
+A2. Bullding Street Address {including Apt., Unit, Suite, and/or Bldg. No.} or P.O. Route and
+ox No.
+
+26630 N. 162nd St
+
+City State ZIP Code
+
+Scottsdale Arizona 85262
+
+A3. Property Description (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+
+APN# 219-37-646
+
+   
+ 
+    
+
+   
+
+    
+
+   
+
+ 
+
+ 
+
+Company NAIC Number:
+
+   
+     
+  
+
+    
+
+ 
+
+   
+     
+     
+   
+           
+
+ 
+
+ 
+
+ 
+
+   
+
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.) Residential
+AS. Latitude/Longitude: Lat. 33 43'40.6374"W Long.-141 43'51.2023"W Horizontal Datum: [_] NAD 1927 NAD 1983
+
+ 
+
+A6. Attach at least 2 photographs of the building if the Certificate is being used to obtain flood insurance.
+
+       
+        
+       
+   
+       
+     
+ 
+
+A7. Building Diagram Number 8
+A8. For a building with a crawlspace or enclosure(s):
+
+a) Square footage of crawlspace or enclosure(s} 4500.00 sq ft
+b) Number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade 0
+
+c) Total net area of flood openings in A8.b 0.00 sqin
+Ll Yes No
+
+. For a building with an attached garage:
+
+d) Engineered flood openings?
+
+     
+
+a) Square footage of attached garage 660.00 sq ft
+b) Number of permanent flood openings in the attached garage within 1,0 foot above adjacent grade 0
+
+c) Total net area of flood openings in A9.b 0,00 sqin
+[] Yes No
+
+SECTION B ~ FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+
+B1. NFIP Community Name & Community Number B2. County Name B3. State
+Maricopa County & 040037 Maricopa Arizona
+
+     
+   
+
+   
+
+d) Engineered flood openings?
+
+        
+
+    
+ 
+
+ 
+ 
+
+    
+          
+    
+  
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+             
+  
+     
+   
+   
+ 
+ 
+
+B4, Map/Panel B5, Suffix | B6. FIRM Index B7. FIRM Panel B8. Flood B9. Base Flood Elevation(s)
+Number Date Effective/ Zone{s) (Zone AO, use Base Flood Depth)
+Revised Date
+0401301351 M 11-04-2015 41-04-2015 AE &X 2052.00
+
+    
+
+ 
+
+ 
+
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in Item B9:
+FIS Profle [] FIRM [_] Community Determined [_] Other/Source:
+
+ 
+
+B11. Indicate elevation datum used for BFE in Item 89: [-] NGVD 1929 NAVD 1988 [_] Other/Source:
+
+B12. 1s the building located in a Coastal Barrier Resources System (CBRS) area or Olherwise Protected Area (OPA)? [_] Yes No
+Designation Date: [}CBRS [j OPA
+
+   
+
+FEMA Form 086-0-33 (42/19) Replaces all previous editions. Form Page 1 of 6
+Seaenct
+
+ELEVATION CERTIFICATE ee Non Bate November 30, 2022
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt. Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. Policy Number:
+26630 N. 162nd St
+
+City State ZIP Code
+Scottsdale Arizona 85262
+
+_ SECTION C — BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+
+C1, Building elevations are based on: — [[} Construction Drawings* [_] Building Under Construction* Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2, Elevations — Zones A1—-A30, AE, AH, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1-A30, AR/AH, AR/AQ.
+Complete Items G2.a-h below according to the building diagram specified in Item A7. In Puerto Rico only, enter meters.
+
+Benchmark Utilized: See comments Vertical Datum: NAVD 88
+Indicate elevation datum used for the elevations in items a) through h) below.
+
+[-] NGVD 1829 NAVD 1988 [] Other/Source:
+Datum used for building elevations must be the same as that used for the BFE.
+
+ 
+  
+
+ 
+   
+ 
+   
+ 
+
+  
+   
+  
+ 
+
+  
+   
+ 
+
+ 
+
+ 
+
+Company NAIC Number
+
+     
+     
+    
+    
+   
+   
+    
+     
+      
+
+ 
+
+ 
+
+Check the measurement used.
+
+      
+         
+       
+   
+   
+     
+  
+
+ 
+
+ 
+
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor) 2052.0 feet [_] meters
+b) Top of the next higher floor 2057.8 feet [[] meters
+¢) Bottom of the lowest horizontal structural member (V Zones only) N/A [J feet [Jj meters
+d) Attached garage (top of slab) 2055.1 feet ((] meters
+©) (Ssserieiyoe of equement ad localionin Comments) N/A [] feet [J meters
+f) Lowest adjacent (finished) grade next to building (LAG) 2052.4 feet [_] meters
+g) Highest adjacent (finished) grade next to building (HAG) 2054.4 feet ((] meters
+
+h) Lowest adjacent grade at lowest elevation of deck or stairs, including
+structural support N/A {_] feet [[] meters
+
+SECTION D — SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by law to certify elevation information.
+{ certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any false
+statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Yes L]No
+
+   
+          
+   
+
+(_] Check here if attachments,
+
+   
+   
+
+ 
+
+Certifier's Name License Number
+Lance Dickson 46643
+
+Title
+President
+
+     
+ 
+  
+  
+   
+    
+     
+      
+    
+   
+
+   
+
+ 
+
+ 
+
+  
+ 
+ 
+
+ 
+
+Company Name
+Arizona Surveying and Mapping
+
+Address
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2440 W. Mission Lane, Suite 4
+City State ZIP Code
+Phoenix Arizona
+
+ 
+
+ 
+  
+
+Signature Date Telephone
+— - 07-24-2020 (602) 246-9919
+
+Copy ail pages of this Elevation Certificate and all altachments for (1) community official, (2) insurance agentcompany, and (3) building owner.
+
+ 
+
+Comments (including type of equipment and location, per C2(e), if applicable)
+
+Benchmark Held: Southeast corner of Section 33, TSN, R6E. GLO Cap Elevation=2086.59 (NAVD 88)
+
+Air unit on South side of home 3 feet above adjacent grade.
+
+Crawl space elevation shown in C2a is an average of 3 elevation changes. Lowest 2050.80, Middle 2052.30 Highest 2052.90
+
+FEMA Forms 086-0-33 (12/19) Replaces all previous editions. Form Page 2 of 6
+BUILDING PHOTOGRAPHS ;
+ELEVATION CERTIFICATE See Instructions for ftem A6. Ce imation Date: November 30, 2022
+
+FOR INSURANCE COMPANY USE
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. Policy Number:
+
+26630 N. 162nd Si
+
+City State ZiP Code
+Scottsdale Arizona 85262
+
+   
+
+IMPORTANT: in these spaces, copy the corresponding Information from Section A.
+
+Company NAIC Number
+
+If using the Elevation Certificate to obtain NFIP flood insurance, affix at least 2 building photographs below according to the
+instructions for Item A6, Identify all photographs with date taken; "Front View" and “Rear View"; and, if required, “Right Side View" and
+"Left Side View.” When applicable, photographs must show the foundation with representative examples of the flood openings or
+vents, as indicated in Section A8. If submitting more photographs than will fit on this page, use the Continuation Page.
+
+ 
+
+Photo One Caption North side date of photo 07-24-2020
+
+ 
+
+Clear Photo One
+
+Photo Two
+
+Photo Two Caption West side, HAG date of photo 07-23-2020
+
+“Clear Photo Two
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. Form Page 5 of 6
+BUILDING PHOTOGRAPHS “cove
+ELEVATION CERTIFICATE Continuation Page ore Me, Date: November 30, 2022
+
+IMPORTANT: In these spaces, copy the corresponding information from Section A. FOR INSURANCE COMPANY USE
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No. Policy Number:
+26630 N. 162nd St
+City
+Scottsdale
+
+     
+
+ 
+    
+ 
+
+  
+
+     
+      
+
+ 
+
+  
+ 
+
+ 
+
+Company NAIC Number
+
+ 
+
+State ZIP Code
+Arizona 85262
+
+  
+ 
+
+      
+      
+ 
+   
+  
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+if submitting more photographs than will fit on the preceding page, affix the additional photographs below. Identify all photographs
+with: date laken; "Front View" and "Rear View", and, if required, “Right Side View" and “Left Side View." When applicable,
+photographs must show the foundation with representative examples of the flood openings or vents, as indicated in Section A8.
+
+ 
+
+   
+
+ 
+
+Photo Three Caption South side, outside access to crawl space date of photo 07-23-2020 Clear.Photo Three
+
+ 
+
+Sos
+ee
+
+Photo Four
+
+Photo Four Caption East side, LAG date of photo 07-23-2020 Clear Photo Four
+
+ 
+      
+
+FEMA Form 086-0-33 (12/19) Replaces ail previous editions. Form Page 6 of 6
+Report Date 12/7/2023
+
+x a C U S L Report Number 11436637
+BRA Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 26630 N 162 ST, SCOTTSDALE, AZ 85262
+
+Standardized Location 26630 N 162ND ST, SCOTTSDALE, AZ 85262-7883
+
+Latitude, Longitude 33.727388, -111.731039 Parcel ID 21937646
+FIPS / MSA/ Tract 04013 / 38060 / 101.03 Community No. 040037
+Community Name MARICOPA COUNTY*
+
+County Name UNINCORPORATED AREAS
+
+a
+A. +
+a ee a Ly
+oo Pr
+ay hs
+St
+
+4s RY 4
+eS
+
+North.1 60th] Street
+
+=
+
+me aa => a
+Li.) ne ey ss
+
+oe
+ots:
+
+ 
+
+a ra pet
+
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (100 ft)
+
+BFE 2055 Feet NAVD88 (2053.06 ft NGVD29) USGS Ground Elev 2055 ft NAVD88
+
+FEMA Map 04013C1351M, 11/04/2015 Previous Map 04013C1276G, 09/30/2005, Zone X
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 07/02/1979
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $/# $5,244,154 / 467 NFIP PIF* 2248 NFIP Discount 30%
+Flood Source 1137 ft Salt Water >6 miles Fresh Water 334 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+Farmers Insurance Company of Arizona
+
+fo" Farmers Insurance Company of Arizona https://www.farmers.com/
+FARMERS .
+asuaaune PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 26630 N 162 ST, Scottsdale, AZ, 85262 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660003120 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660003120
+POLICY TERM: 12-21-2023 (At time of loan closing) - 12-21-2024 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Farmers Insurance Company of Arizona
+PAYOR: BURKE, RONALD L & BONNIE
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+BURKE, RONALD L & BONNIE & THE BURK FAMILY TRUST,
+Scott Schlossberg
+BONITA & RONALD BURK
+Tiffany Deloach
+
+26630 N 162 St,
+17100 E SHEA BLVD STE 200, Fountain Hills, AZ, 85268
+
+ 
+
+ 
+
+Scottsdale, AZ, 85262
+Phone : 4808330194
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+Policy Coverages & Endorsements
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ 9 6 5
+Contents $ 100,000 $ 2,000 Total Annual Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $615
+Building Occupancy Single Family Contents Premium: $ 363
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $19
+First Floor Height (FFH) 1 Community Rating System Discount: $ (240.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 757
+Property Description Slab on Grade (non-elevated), 1 Floors , Discounted Premium: $757
+Frame Fees and Surcharges:
+
+Date of Construction 12-31-1984 Reserve Fund Assessment: $ 136
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $25
+
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+
+Total Premium $ 965
+ADDITIONAL INTERESTS
+
+First Mortgagee
+FINEMARK NATIONAL BANK AND TRUST ISAOA, ADDITIONALINSURED
+PO BOX 1354, THE BURK FAMILY TRUST, BONITA & RONALD BURK ,
+Kennesaw, Cobb County, GA, 30156 26630 N 162 St
+
+Loan # : 30156
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+iled: 12-28- a oe ——
+Date Mailed: 12-28-2023 To learn more about your flood risk, please visit FloodSmart.gov ———“
+C—O
+NATIONAL FLOOD
+
+INSURANCE PROGRAM
+Farmers Insurance Company of
+
+Sor STANDARD FLOOD INSURANCE Arizona
+FARMERS APPLICATION https://www.farmers.com/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INSURANCE
+PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+12-18-2023 FLD1660003120 12-21-2023 12-21-2024 Loan Transaction - No Wait
+ee ee eee
+Insured Name(s) Mailing Address & Phone SS~™S ProavAdes A N a & Ph
+BURKE, RONALD L & BONNIE ailing ress one perty gency Name, ress one
+26630 N 162 St,Scottsdale,AZ,85262 26630 N 162 ST, 85262, Scottsdale, 17100 E SHEA BLVD STE 200,Fountain Hills,AZ,85268
+, AZ
+
+Home Phone:
+
+Work Phone:
+
+Cell Phone:(480)720-8001
+Email:bonnie@bonnieburke.com
+
+Email:sschlossberg@farmersagent.com
+Property Address Type:Location Phone Number:4808330194
+Agent Name:SCOTT SCHLOSSBERG
+
+Applicant Type:INDIVIDUAL
+Prior Company NAIC:
+
+. . Other Policy Number:
+Prior Policy Number:
+
+Potential Duplicate Policy:
+Prior Company Name:
+Renewal Billing:
+
+ 
+
+1st Mortgagee
+
+FINEMARK NATIONAL BANK AND TRUST ISAOA
+PO BOX 1354,
+
+Kennesaw, Cobb County , GA, 30156
+
+Phone Number:
+Fax Number:
+
+Loan Number:30156
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:040037
+
+Map Panel:1351 Prior Community Information
+Community Number:
+
+Map Panel Suffix:M
+Map Panel:
+
+Current Flood Zone:AE
+Map Panel Suffix:
+
+Current Base Flood Elevation(BFE):2055
+
+Flood Zone:
+FIRM Date:07-02-1979
+
+FIRM Date:07-02-1979
+
+ 
+
+Program:FLOODREGULAR .
+
+Has This Property Been Remapped?:
+Program Status: a
+
+Map Revision Date:
+County:
+Current Map Date:1 1-04-2015
+Rating Map Date:
+
+Prior Policy Information
+
+Is this a new purchase (within the last year)?:NO
+Construction Date Prior Owner Policy Number:
+Date of Original Construction:12-31-1984 Prior Owner Company Name: ;
+Building Substantially Improved:NO Did the applicant have a prior NFIP policy for
+Post-FIRM Construction:YES the building that lapsed?:
+Substantial Improvement Date: Was the policy receviing a PRE-FIRM or
+Building is on list of Historic Buildings: Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+ 
+
+Occupancy Information
+
+Occupancy Type:Single Family Is the insured a small business with
+Building Description: less than 100 employees?: NO
+
+Is this the Applicant's Primary Is the insured a nonprofit entity?:NO
+Date: fi 6
+———
+——
+
+APC PRV 07 21 i
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+Farmers Insurance Company of
+
+fo" STANDARD FLOOD INSURANCE QUOTE Arizona
+
+FARMERS
+
+ 
+
+ 
+
+ 
+
+https://www.farmers.com/
+
+ 
+
+ 
+
+eas PO Box 2057 Kalispell MT 59903 USA
+(888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+12-18-2023 FLD1660003120 12-21-2024 Loan Transaction - No Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:939000
+Replacement Cost Value Returned by FEMA351011
+Total sq. footage of building:2100
+
+Total # of floors in building:1
+
+Total # of units in building:
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:07-24-2020
+Diagram Number:1A
+
+Top of Bottom Floor:2057
+
+Top of Next Higher Floor:
+
+Lowest Adjacent Grade (LAG):2056
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Flood Height:1
+FEMA First Floor Height:1
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+Building 250,000.00 2,000.00
+Content 100,000.00 2,000.00
+Signature of Insurance Agent/Producer Date
+
+Date:
+
+APC PRV 07 21
+
+COMPONENTS OF THE TOTAL AMOUNT DUE
+Building Premium: $ 615.00
+Content Premium: $ 363.00
+Increased Cost of Compliance (ICC) Premium: $ 19.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (240.00)
+Full Risk Premium: $ 757.00
+Annual Increase Cap Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 757.00
+Reserve Fund Assessment: $ 136.00
+HFIAA Surchange: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 965.00
+
+Signature of Policy Holder (Optional) Date
+
+ 
+
+RX
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+FLD1660003120 / BURKE, RONALD L & BONNIE
+
+26630 N 162 ST, Scottsdale, Maricopa County, AZ, 85262 -
+7883
+
+26630 N 162 St, Scottsdale, Maricopa County, AZ, 85262 -
+7883
+
+Renew indicator: BATCH RENEWAL
+
+Term Start Date : 12/21/2023 Term End Date :
+
+Transaction Eff. Dt. : 12/21/2023 Waiting Period:
+
+Last Updated By : MARCUS DUNCAN Applicant Date :
+Claims 0 Loss Run
+
+Total Premium Change: $965.00 Bill To :
+
+Total Premium : $965.00
+
+bonnie@bonnieburke.com
+(480)720-8001 >
+
+Agent Tasks : File
+
+ 
+
+Receivable View Invoicing Subledger
+
+ 
+
+ACCOUNTING DT. TRANS TYPE TRANS REF CHECK NO
+12/18/2023 PAYMENT F2166000003196
+12/28/2023 INVOICE INV00779792
+
+Log Documents Agent Customer
+Portal Portal
+
+Term Selection: (1114626)
+12-21-2023/12-21-2024 v
+
+Transaction Selection: (1505154)
+NEWBUSINESS - ISSUED v
+
+Last transaction
+
+ 
+
+complete
+12/21/2024 Transaction Type : New Busi
+Business
+Loan Transaction - No Wait last Updated Date : 12-28-20
+12/18/2023
+Risk Rating 2.0
+POLHOLDER Serv Rep:
+U/writer :
+Product Name : Flood Pre
+CERTIFIED DATE DEBIT CREDIT BALANCE SYS]
+12/18/2023 $0.00 $(965.00) $(965.00) 12/
+$965.00 $0.00 $0.00 12/,
+   
+     
+
+New Business by MARCUS
+DUNCAN
+
+Transaction date: 12-28-2023
+Transaction Eff. Dt. 2023-12-
+21
+
+Note
+
+(03-22-2024) spoke with the
+agent wants to know if policy
+already issued
+
+ 
+
+a
+©
+
+ 
+
+Agency Info
+
+ 
+
+08802-02491-000 Scott
+
+Schlossberg
+Tiffanv Deloach
+
+ 
+System Log
+
+Pivot Response Log
+
+ 
+
+ 
+
+Print Log
+Type note here
+0/500
+Make hidden? : O
+C=)
+Date Description Inserted By Mark Hidden
+03-22-2024 6:33:32 PM spoke with the agent wants to know if policy already JOSEPH BAUTISTA
+issued
+03-05-2024 6:56:48 PM Agt closed the chat. SYDNEY PASIA
+
+12-28-2023 9:57:31 AM
+
+Aprvd NB effective LC date of 12/21/23. Premium
+received within 9 days of LC date. Removed EC from
+rating as no current dated photos were received.
+
+AddAvncenc motel fav Deimans Dacidanan
+
+MARCUS DUNCAN

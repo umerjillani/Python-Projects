@@ -1,0 +1,1002 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY OMB Control No, 1660-0008
+Federal Emergency Management Agency a a
+
+National Flood Insurance Program
+
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+a - pages of this Elevation Certificate and all attachments for (1) community official, (2); insurance agent/company, and (3) building owner.
+
+SECTIONA-PROPERTY INFORMATION = =—_|_ FOR INSURANCE COMPANY USE
+
+A1. Building Owner's Name: PERRY HOMES, LLC Policy Number:
+
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: Company NAIC Number:
+21742 MERIDIAN DUSKYWING DRIVE
+
+City; CYPRESS State; TX ZIP Code: 77433
+
+A3. Property Description (e.g., Lot and Block Numbers or Legal Description) and/or Tax Parcel Number:
+LOT 15, BLOCK 3, BRIDGELAND PRAIRIELAND VILLAGE SEC 19 (FILM CODE NO. 701676, M.R.H.C.TX.)
+
+. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.); RESIDENTIAL
+. Latitude/Longitude; Lat. N 29.947850" | ong. W 95.788940" _ torzontal Datum: [NAD 1927 [X]NAD 1983 [] WGS 84
+. Attach at least two and when possible four clear photographs (one for each side) of the building (see Form pages 7 and 8).
+. Building Diagram Number; 1B
+. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s); N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of each enclosed area? [_] Yes [_] No N/A
+
+c) Enter number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in A8.c: N/A sq. in.
+e) Total rated area of engineered flood openings in A8.c (attach documentation — see Instructions): N/A
+f) Sum of A8.d and A8.e rated area (if applicable — see Instructions): N/A sq. ft.
+. For a building with an attached garage:
+a) Square footage of attached garage: N/A sq. ft.
+b) Is there at least one permanent flood opening on two different sides of the attached garage? [[] Yes [[] No [x] N/A
+
+c) Enter number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade:
+Non-engineered flood openings: N/A Engineered flood openings: N/A
+
+d) Total net open area of non-engineered flood openings in A9.c: N/A sq. in.
+e) Total rated area of engineere@flood openings in A9.c (attach documentation — see Instructions); N/A
+f) Sum of A9.d and A9.e rated area (if applicable — see Instructions); N/A sq. ft.
+
+B1.a. NFIP Community Name: UNINCORPORATED HARRIS COUNTY 1.b, NFIP Community Identification Number: 480287
+
+B2. County Name: HARRIS B3, State: TX B4. Map/Panel No.: 48201C0385 BS. Suffix: No
+B6. FIRM Index Date: 11/15/2019 B7. FIRM Panel Effective/Revised Date: 11/15/2019
+
+B8. Flood Zone(s); AE B9. Base Flood Elevation(s) (BFE) (Zone AO, use Base Flood Depth); 159.5!
+
+B10. Indicate the source of the BFE data or Base Flood Depth entered in Item B9:
+FIS [] FIRM [[] Community Determined [[] Other:
+
+B11. Indicate elevation datum used for BFE in Item B9: [[] NGVD 1929 [[] NAVD 1988 [x] Other/Source: NAVD88, 2001 ADJ.
+
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? [[] Yes No
+Designation Date: LJCBRS [] OPA
+
+B13. Is the building located seaward of the Limit of Moderate Wave Action (LIMWA)? [_] Yes [Xx] No
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 2 of 8
+
+ 
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O, Route and Box No: FOR INSURANCE COMPANY USE
+21742 MERIDIAN DUSKYWING DRIVE
+
+ne SS ae Ee
+City, CYPRESS State: TX ZIP Code: 77433
+
+Company NAIC Number:
+___ SECTION C - BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+C1. Building elevations are based on: [[] Construction Drawings* [[] Building Under Construction” Finished Construction
+*A new Elevation Certificate will be required when construction of the building is complete.
+
+C2, Elevations — Zones A1—A30, AE, AH, AO, A (with BFE), VE, Vi-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1—A30, AR/AH, AR/AO,
+A99. Complete Items C2.a—h below according to the Building Diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized: H.C.F.C. RM NO. 200120 Vertical Datum: NAVD88, 2001 ADJ.
+
+Indicate elevation datum used for the elevations in items a) through h) below.
+[-] NGVD 1929 [_] NAVD 1988 Other: NAVD88, 2001 ADJ.
+
+Datum used for building elevations must be the same as that used for the BFE. Conversion factor used? (CO Yes [X] No
+If Yes, describe the source of the conversion factor in the Section D Comments area. :
+Check the measurement used:
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor): 165.2 feet [[] meters
+b) Top of the next higher floor (see Instructions): 175.6 [x] feet [] meters
+c) Bottom of the lowest horizontal structural member (see Instructions): N/A (1 feet [[] meters
+d) Attached garage (top of slab): 164.6 [xX] feet [] meters
+
+e) Lowest elevation of Machinery and Equipment (M&E) servicing the building
+(describe type of M&E and location in Section D Comments area): 164.7 [X] feet meters
+
+f) Lowest Adjacent Grade (LAG) next to building: [[] Natural Finished 163.6 feet meters
+g) Highest Adjacent Grade (HAG) next to building: [_] Natural Finished 164.2 [X] feet meters
+
+h) Finished LAG at lowest elevation of attached deck or stairs, including structural
+support: N/A C feet meters
+
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by state law to certify elevation
+
+information. | certify that the information on this Certificate represents my best efforts to interpret the data available. | understand that any
+
+false statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+
+Were latitude and longitude in Section A provided by a licensed land surveyor? Yes [[]No
+
+[_] Check here if attachments and describe in the Comments area.
+
+Certifier's Name: MARK S. BROWN License Number: 5553
+
+Title: R.P.L.S. ap ee
+a Se a OB ee gfx OF Te
+
+Company Name: TRI-TECH SURVEYING COMPANY, LP, f Re Teaty. }
+
+27:02 ——————L—— Hf ne,
+Address; 10401 WESTOFFICE DRIVE fp i* for |
+City, HOUSTON State: TX ZIP Code: 77042 @ MARKS. BROWN” D
+
+yoreelersoaeuersrsnaenverwosevsoreeener!
+
+> 6660 </ 4g
+
+\ So ay
+Signature: Date; 09-19-2024 Ri dgnkS Serf
+Raf Sway XO) yj
+
+Telephone: (713) 667-0800 Ext: ___ Email; Mbrown@tritechtx.com
+
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+
+Comments (including source of conversion factor in C2; type of equipment and location per C2.e; and description of any attachments):
+BENCHMARK: H.C.F.C.RM NO. 200120, ELEV=158.60, NAVD88,2001 ADJ.
+
+C2 e TOP OF AC PAD.
+
+C2 fag ARE EXISTING GRADES AT TIME OF SURVEY.
+
+STREET CROWN ELEVATION = 162.44', TOP OF CURB ELEVATION = 162.52'.
+
+500 YEAR = 160.2",
+
+JOB NO. Y40192-24 FIRM REG NO. 10115900
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 3 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-14
+
+Building Street Address (including Apt. Unit, Suite, and/or Bldg. No.) or P.O, Route and Box No.: FOR INSURANCE COMPANY USE
+21742 MERIDIAN DUSKYWING DRIVE
+
+Policy Number;
+City; CYPRESS State; TX ZIP Code; 77433
+
+Company NAIC Number:
+
+ECHO cer BUILDING MEASUREMENT INFORMATION (SURVEY NOT SECURED) |
+
+FOR ZONE AO, ZONE ARIAO, “AND ZONE A (WITHOUT BFE) —
+
+For zones AO, ARIAO, and A (without BFE), complete Items E1—E5, For Items E1—E4, use natural grade, if avelabie. If the Certificate is
+intended to support a Letter of Map Change request, complete Sections A, B, and C. Check the measurement used. In Puerto Rico only,
+enter meters.
+
+Building measurements are based on: [_] Construction Drawings* [_] Building Under Construction* [_] Finished Construction
+“A new Elevation Certificate will be required when construction of the building is complete.
+
+E1. Provide measurements (C.2.a in applicable Building Diagram) for the following and check the appropriate boxes to show whether the
+measurement is above or below the natural HAG and the LAG.
+
+a) Top of bottom floor (including basement,
+crawlspace, or enclosure) is: [-] feet [[] meters [[] aboveor [_] below the HAG.
+
+b) Top of bottom floor (including basement,
+crawispace, or enclosure) is: [] feet [] meters [[] aboveor [[] below the LAG.
+
+. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1—2 of Instructions), the
+next higher floor (C2.b in applicable
+Building Diagram) of the building is: [] feet [[] meters [[] aboveor [] below the HAG,
+
+. Attached garage (top of slab) is: [] feet [{] meters [[] aboveor [] below the HAG,
+
+. Top of platform of machinery and/or equipment
+servicing the building is: [_] feet [[] meters [[] aboveor [_] below the HAG,
+
+. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? [_] Yes [_] No [_] Unknown The local official must certify this information in Section G.
+
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without BFE) or Zone AO must
+sign here. The statements in Sections A, B, and E are correct fo the best of my knowledge
+
+(_] Check here if attachments and describe in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+
+Address:
+
+City: ; ZIP Code:
+
+Signature:
+
+Telephone:
+Comments:
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 4 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+
+Building Street Address (inclucling Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+21742 MERIDIAN DUSKYWING DRIVE
+
+Policy Number:
+City; CYPRESS State: TX ZIP Code; 77433
+
+Company NAIC Number:
+OMMUNITY INFORMATION (RECOMMENDED. FOR COMMUNITY OFF AL COMPLETION)
+
+The oat off cial who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+Section A, B, C, E, G, or H of this Elevation Certificate. Complete the applicable item(s) and sign below when:
+
+G1. [_] The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+engineer, or architect who is authorized by state law to certify elevation information. (Indicate the source and date of the
+elevation data in the Comments area below.)
+
+. [J Aloeal official completed Section E for a building located in Zone A (without a BFE), Zone AO, or Zone AR/AO, or when item
+E5 is completed for a building located in Zone AO.
+
+[1 A local official completed Section H for insurance purposes.
+
+[-] In the Comments area of Section G, the local official describes specific corrections to the information in Sections A, B, E and H.
+[J The following information (Items G5—G11) is provided for community floodplain management purposes.
+
+Permit Number: G6. Date Permit Issued:
+
+Date Certificate of Compliance/Occupancy Issued:
+
+This permit has been issued for: (J New Construction L] substantial Improvement
+
+. Elevation of as-built lowest floor (including basement) of the
+building: [_] feet [[] meters
+
+. Elevation of bottom of as-built lowest horizontal structural
+member: (_] feet [_] meters
+
+. BFE (or depth in Zone AO) of flooding at the building site: (| feet [[] meters
+
+. Community's minimum elevation (or depth in Zone AQ)
+requirement for the lowest floor or lowest horizontal structural
+
+member: (_] feet [[] meters
+G11. Varianceissued? [[] Yes [-] No Ifyes, attach documentation and describe in the Comments area.
+
+The local official who provides information in Section G must sign here. / have completed the information in Section G and certify that it is
+correct to the best of my knowledge. If applicable, | have also provided specific corrections in the Comments area of this section.
+
+Local Official's Name: Title:
+NFIP Community Name:
+
+Telephone:
+Address:
+
+City: ; ZIP Code:
+
+Signature: Date:
+
+Comments (including type of equipment and location, per C2.e; description of any attachments; and corrections to specific information in
+Sections A, B, D, E, or H):
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 5 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O, Route and Box No.' FOR INSURANCE COMPANY USE
+21742 MERIDIAN DUSKYWING DRIVE
+
+Policy Number;
+City, CYPRESS State: TX ZIP Code; 77433
+
+Company NAIC Number:
+
+‘SECTION H — BUILDING'S FIRST FLOOR HEIGHT INFORMATION FOR ALL: ZONES:
+basi (SURVEY NOT REQUIRED) (FOR INSURANCE PU RPOSES ONLY) | }
+
+The orceaerty owner, owner's authorized representative, or local floodplain management official may complete Section H tor all flood zones
+to determine the building's first floor height for insurance purposes, Sections A, B, and | must also be completed. Enter heights to the
+nearest tenth of a foot (nearest tenth of a meter in Puerto Rico). Reference the Foundation Type Diagrams (at the end of Section H
+Instructions) and the appropriate Building Diagrams (at the end of Section | Instructions) to complete this section.
+
+ 
+
+H1. Provide the height of the top of the floor (as indicated in Foundation Type Diagrams) above the Lowest Adjacent Grade (LAG);
+
+a) For Building Diagrams 1A, 1B, 3, and 5-8. Top of bottom (_] feet [-] meters [_] above the LAG
+floor (include above-grade floors only for buildings with
+
+subgrade crawlspaces or enclosure floors) is:
+
+b) For Building Diagrams 2A, 2B, 4, and 6-9. Top of next [_] feet [[] meters [_] above the LAG
+higher floor (i.e., the floor above basement, crawlspace, or
+enclosure floor) is:
+
+H2. Is all Machinery and Equipment servicing the building (as listed in Item H2 instructions) elevated to or above the floor indicated by the
+H2 arrow (shown in the Foundation Type Diagrams at end of Section H instructions) for the appropriate Building Diagram?
+
+iE Yes []No
+_ SECTION I - PROPERTY OWNER (OR OWNER’ ; AUTHORIZED REPRESENTATIVE) CERTIF CATION
+
+The oat owner or owner's authorized representative who completes Sections A, B, and H must sign here. The cetariage! in Sections
+A, B, and H are correct fo the best of my knowledge. Note: If the local floodplain management official completed Section H, they should
+indicate in Item G2.b and sign Section G.
+
+{_] Check here if attachments are provided (including required photos) and describe each attachment in the Comments area.
+
+Property Owner or Owner's Authorized Representative Name:
+Address:
+City: ; ZIP Code:
+
+Signature:
+
+Telephone:
+Comments: a
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 6 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+21742 MERIDIAN DUSKYWING DRIVE
+
+$$$ | Policy Number:
+city, CYPRESS State; TX ZIP Code: 77433
+
+Company NAIC Number:
+
+Instructions; Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+ 
+
+Photo One Caption: FRONT VIEW 09-19-2024 _ Clear Photo One |
+
+  
+
+| Photo Two Caption. REAR VIEW 09-19-2024 Clear Photo Two | |
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 7 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+BUILDING PHOTOGRAPHS
+
+Continuation Page
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+21742 MERIDIAN DUSKYWING DRIVE
+
+Policy Number:
+City. CYPRESS State: TX ZIP Code: 77433
+
+Company NAIC Number:
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View," "Rear View," "Right Side
+
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or
+vents, as indicated in Sections A8 and AQ.
+
+Pe rye
+
+Photo Three Caption: RIGHT SIDE VIEW 09-19-2024 Clear Photo Three|
+
+Photo Four Caption: LEFT SIDE VIEW 09-19-2024 Clear Photo Four |
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 8 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+21742 MERIDIAN DUSKYWING DRIVE :
+Policy Number:
+
+City; CYPRESS State: 1X ZIP Code: 77433
+
+Company NAIC Number:
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses),. Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+vile fedlinc Th ¥ Sean 3 Pee it ot ear ‘ riser
+[ calieaas fi j iN ‘ ;
+
+ 
+
+ 
+
+Photo One Caption: AC PAD VIEW 09-19-2024 . _ Clear Photo One |
+
+Photo Two Caption: _ Clear Photo Two |
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 7 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+21742 MERIDIAN DUSKYWING DRIVE
+
+Policy Number:
+City: CYPRESS State: TX ZIP Code: 77433
+
+Company NAIC Number:
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and AQ.
+
+ 
+
+Photo One Caption: FRONT VIEW 09-19-2024 | Clear Photo One
+
+    
+
+  
+
+Photo Two Caption’ REAR VIEW 09-19-2024
+
+ 
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 7 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-11
+BUILDING PHOTOGRAPHS
+
+Continuation Page
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+
+21742 MERIDIAN DUSKYWING DRIVE
+City; CYPRESS State: TX ZIP Code: 77433
+
+ 
+
+Policy Number:
+
+Company NAIC Number:
+Insert the third and fourth photographs below. Identify all photographs with the date taken and "Front View," "Rear View," "Right Side
+
+View," or "Left Side View." When flood openings are present, include at least one close-up photograph of representative flood openings or
+vents, as indicated in Sections A8 and AQ.
+
+‘Clear Photo Three
+
+Photo Four Caption: LEFT SIDE VIEW 09-19-2024 | Clear Photo Four
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 8 of 8
+ELEVATION CERTIFICATE
+IMPORTANT: MUST FOLLOW THE INSTRUCTIONS ON PAGES 1-14
+BUILDING PHOTOGRAPHS
+
+See Instructions for Item A6.
+
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.: FOR INSURANCE COMPANY USE
+21742 MERIDIAN DUSKYWING DRIVE
+
+Policy Number:
+City, CYPRESS State: TX ZIP Code; 77433
+——————————EEs —S= Company NAIC Number:
+
+ 
+
+Instructions: Insert below at least two and when possible four photographs showing each side of the building (for example, may only be
+able to take front and back pictures of townhouses/rowhouses). Identify all photographs with the date taken and "Front View," "Rear View,"
+"Right Side View," or "Left Side View." Photographs must show the foundation. When flood openings are present, include at least one
+close-up photograph of representative flood openings or vents, as indicated in Sections A8 and Ag.
+
+  
+  
+
+ 
+
+   
+
+Photo Two Caption:
+
+ 
+
+ 
+
+FEMA Form FF-206-FY-22-152 (formerly 086-0-33) (8/23) Page 7 of 8
+fo"
+
+ 
+
+ 
+
+ 
+
+ 
+
+STANDARD FLOOD INSURANCE
+
+ 
+
+Texas Farmers Insurance
+
+Company
+
+ 
+
+ 
+
+ 
+
+ 
+
+FARMERS APPLICATION https://www.farmers.com/
+INSURANCE
+PO Box 2057, Kalispell, MT, 59903 (888) 391-2810
+Date Application Number Effective Date Expiration Date Waiting Period
+11-11-2024 FLD1660098247 11-15-2024 11-15-2025 Loan Transaction - No Wait
+Insured Name(s) Mailing Address & Phone Property Address Agency Name, Address & Phone
+
+JOHN KIRKLEY 21742 Meridian Duskywing Dr,
+Cypress, TX, 77433
+
+Home Phone:
+
+Work Phone:
+
+Cell Phone:(832)906-1678
+Email:cptkirkley@gmail.com
+Applicant Type:INDIVIDUAL
+
+Prior Company NAIC:
+
+Prior Policy Number:
+
+Prior Company Name:
+Renewal Billing:
+
+21742 MERIDIAN DUSKYWING DR,
+Cypress, TX, 77433
+
+12103 HEATHERWICK DR,
+Cypress, TX, 77429
+
+Email:khastings@farmersagent.com
+Phone Number:2813795400
+Agent Name:Kimberly Hastings
+
+Property Address Type:Location
+
+Other Policy Number:
+Potential Duplicate Policy:
+
+ 
+
+1st Mortgagee
+
+Crestmark Mortgage Company, LTD
+
+PO Box 961254,
+
+Fort Worth, Tarrant County , TX, 76161
+
+Phone Number:
+Fax Number:
+
+Loan Number:7300036910
+Required under
+
+Mandatory
+Purchase:
+
+ 
+
+Current Community Information
+Community Name:
+
+Community Number:480287
+Map Panel:0385
+
+Map Panel Suffix:N
+
+Current Flood Zone:AE
+Current Base Flood Elevation(BFE):160
+FIRM Date:05-26-1970
+Program:FLOODREGULAR
+Program Status:
+County:Harris County
+Current Map Date:1 1-15-2019
+Rating Map Date:
+
+ 
+
+Prior Community Information
+Community Number:
+
+Map Panel:
+
+Map Panel Suffix:
+
+Flood Zone:
+
+FIRM Date:05-26-1970
+
+Has This Property Been Remapped?:
+Map Revision Date:
+
+ 
+
+Construction Date
+Date of Original Construction:1 2-31-2023
+
+Building Substantially Improved:NO
+Post-FIRM Construction:YES
+Substantial Improvement Date:
+Building is on list of Historic Buildings:
+
+Prior Policy Information
+Is this a new purchase (within the last year)?:YES
+
+Prior Owner Policy Number:
+
+Prior Owner Company Name:
+Did the applicant have a prior NFIP policy for
+
+the building that lapsed?:
+Was the policy receviing a PRE-FIRM or
+Newly Mapped disocount?:
+
+Mapped discount when it lapsed?:
+Did the Policy lapse for a valid reason?:
+
+Occupancy Information
+Occupancy Type:Single Family
+Building Description:
+
+Is this the Applicant's Primary
+
+Residence: YES
+
+Is the insured a small business with
+less than 100 employees?: NO
+
+Is the insured a nonprofit entity?:NO
+
+Date:
+
+APC PRV 07 21
+
+AGIA
+Sr
+
+NATIONAL FLOOD
+INSURANCE PROGRAM
+va
+FARMERS
+
+INSURANCE
+
+ 
+
+ 
+
+Date
+11-11-2024
+
+Effective Date
+11-15-2024
+
+Application Number
+FLD1660098247
+
+STANDARD FLOOD INSURANCE
+APPLICATION
+
+PO Box 2057, Kalispell, MT, 59903
+
+ 
+
+Texas Farmers Insurance
+Company
+https://www.farmers.com/
+
+(888) 391-2810
+
+ 
+
+ 
+
+Expiration Date
+11-15-2025
+
+Waiting Period
+Loan Transaction - No Wait
+
+ 
+
+Building Information
+Building Located In CBRS/OPA:NO
+
+CBRS/OPA Designation Date:
+If the building is in the buffer zone, did USFWS issue an official determination
+
+showing the building outside the system unit or OPA?:
+Is the building use consistent with the
+
+protected area purpose?:
+
+Prior NFIP Claims:
+
+Building Severe Repetitive Loss (SRL)
+
+Property:
+
+Property on NFIP SRL list, Document(s)
+
+provided indicating non-SRL:
+
+Coverage Req'd for Disaster Assistance:
+
+Building Located Over Water:Not over Water
+Building in Course of Construction:‘NO
+Building Construction Type:Frame
+Construction Type Description:
+
+Estimated Building Replacement Cost:577000
+Replacement Cost Value Returned by FEMA370361
+Total sq. footage of building:2594
+
+Total # of floors in building:2
+
+Total # of units in building:1
+
+What floor is the unit located on?:
+
+Number of Detached Structures:0
+
+Building Located on Federal Land:
+
+Is the policy force-placed by the lender?:
+
+ 
+
+Foundation Information
+Foundation:Slab on Grade (non-elevated)
+
+Enclosure/Crawlspace Size:
+Number of Elevators:
+
+Mobilehome/Travel Trailer Information
+On Permanent Foundation:
+
+Anchored By:
+Serial Number:
+
+ 
+
+Venting Information (excluding V-Zones)
+Enclosure/Crawlspace Has Valid Flood Openings:
+
+Number of Openings:
+
+Area of Permanent Openings (Sq. In.):
+Has Engineered Openings:
+
+ 
+
+Building Machinery, Equipment and Appliances
+Does the building contain appliances?:
+
+Are all appliances elevated above the first floor?:
+
+Does the building contain machinery and
+equipment servicing the building?:
+
+Is all machinery and equipment servicing
+the building, located inside or outside the
+building, elevated above the first floor?: NO
+
+ 
+
+Elevation Certificate Information
+Elevation Certificate Section Used:C
+
+Elevation Certificate Date:09-20-2024
+Diagram Number:1B
+
+Top of Bottom Floor:165.2
+
+Top of Next Higher Floor:175.6
+Lowest Adjacent Grade (LAG):163.6
+
+Premium Calculations
+
+Floodproofing Certificate:
+
+Flood Proofing Elevation:
+
+Lowest (Rating) Floor Elevation:
+Elevation Certificate First Floor Height:1.6
+FEMA First Floor Height:1.6
+
+First Floor Height Method Used:EC
+
+ 
+
+RISK RATING 2.0 COVERAGE DEDUCTIBLE
+
+Building 250,000.00 2,000.00
+
+Content 100,000.00 2,000.00
+
+Signature of Insurance Agent/Producer Date Signature of Policy Holder (Optional)
+
+ 
+
+AMOUNT DUE
+Building Premium: $ 891.00
+Content Premium: $ 560.00
+Increased Cost of Compliance (ICC) Premium: $ 28.00
+Mitigation Discount: $ 0.00
+Community Rating System Reduction: $ (192.00)
+Full Risk Premium: $ 1,287.00
+Annual Increase Cap Discount: $ 0.00
+Newly Mapped Discount: $ 0.00
+Pre-Firm Discount: $ 0.00
+Discounted Premium: $ 1,287.00
+Reserve Fund Assessment: $ 232.00
+HFIAA Surcharge: $ 25.00
+Federal Policy Fee: $ 47.00
+Probation Surcharge: $ 0.00
+Total Quoted Premium $ 1,591.00
+
+Date
+
+Date:
+
+APC PRV 07 21
+
+A
+
+AOA
+
+AIATINAIAL CIAAN
+Report Date 11/8/2024
+
+Xa C C U S yr —
+Standard X Advanced Premium
+
+FloodRisk Standard
+
+ 
+
+Provided Location 21742 MERIDIAN DUSKYWING DR, CYPRESS, TX 77433
+Standardized Location 21742 MERIDIAN DUSKYWING DRIVE , CYPRESS, TX 77433
+
+Latitude, Longitude 29.947818, -95.789005 Parcel ID
+
+FIPS / MSA/ Tract 48201 / 26420 / 5430.05 Community No. 480287
+Community Name HARRIS COUNTY*
+
+County Name HARRIS COUNTY
+
+rae) ate yes
+
+Paulie yes
+
+#
+
+ 
+
+yy, Leaflet ' © = © OpenStreetMap
+
+Flood Zone Zone AE Next Nearest Zone (Dist.) X500 (725 ft)
+
+BFE 160 Feet NAVD88 (159.97 ft NGVD29) USGS Ground Elev 161 ft NAVD88&
+
+FEMA Map 48201C0385N, 11/15/2019 Previous Map 48201C0385M, 10/16/2013, Zone AE
+NFIP Status PARTICIPATING NFIP Program REGULAR First FIRM 05/26/1970
+LOMA or LOMR NO CBRS / OPA NO EC On-File NO
+Claims* $ / # $2,552,514,366 / 49769 NFIP PIF* 95495 NFIP Discount 15%
+Flood Source 1875 ft Salt Water >6 miles Fresh Water 1142 ft
+
+*Aggregated by NFIP community.
+
+Copyright Xactus. All Rights Reserved. This is not a guaranteed flood hazard determination, it is not a substitute for an elevation certificate, and it cannot be used to acquire
+a Letter of Map Amendment. Go to massivecert.com for certified products, building elevation and construction data, and flood risk scores. If you have questions about this
+report, call us toll-free at 844-4EZ-CERT, or email us at customersupport@xactus.com.
+FARMERS
+
+INSURANCE
+
+Flood Insurance Payment Confirmation Receipt
+
+Quote Number: TMP241 108775439
+
+Policy Number: FLD1660098247
+
+Insured Name: JOHN KIRKLEY
+
+Property Address: 21742 MERIDIAN DUSKYWING DR, Cypress, TX, 77433
+Transaction Date: 11/11/2024
+
+Remittance ID: 27J721TH
+
+Premium Paid: $1591
+Texas Farmers Insurance Company
+
+fo" ‘ Texas Farmers Insurance Company https://www.farmers.com/
+FARMERS .
+ee waee PO Box 2057 Kalispell MT 59903 USA (888) 391-2810
+NAIC# : 21660
+PROPERTY ADDRESS #: 21742 MERIDIAN DUSKYWING DR, Cypress, TX, 77433 POLICY FORM: Dwelling Policy
+POLICY #: FLD1660098247 POLICY DECLARATIONS TYPE: New Policy Declarations
+NFIP POLICY #: 1660098247
+POLICY TERM: 11-15-2024 (At time of loan closing) - 11-15-2025 (12:01 AM) RATE CATEGORY : RatingEngine
+POLICY ISSUED BY: Texas Farmers Insurance Company
+PAYOR: JOHN KIRKLEY
+INSURED NAME & MAILING ADDRESS AGENT CONTACT INFORMATION
+JOHN KIRKLEY
+Kimberly Hastings
+
+21742 Meridian Duskywing Dr,
+
+12103 HEATHERWICK DR, Cypress, TX, 77429
+Cypress, TX, 77433
+
+Phone : 2813795400
+
+FLOOD INSURANCE POLICY DECLARATIONS
+This Declarations Page is part of your policy. THIS IS NOT A BILL.
+
+Policy Coverages & Endorsements
+
+COVERAGE DEDUCTIBLE
+Building $ 250,000 $ 2,000 $ l 43 6
+Contents $ 100,000 $ 2,000 Total Anmgal Payment
+Coverage limitations may apply. See your Policy Form for details. Includes Premium, Discounts, Fees, and Surcharges
+Property Information Premium Calculations
+COMPONENTS OF THE TOTAL PREMIUM
+Primary Residence YES Building Premium: $ 799
+Building Occupancy Single Family Contents Premium: $501
+Building Description Main House/Building Increased Cost of Compliance (ICC) Premium: $25
+First Floor Height (FFH) 1.6 Community Rating System Discount: $ (169.00)
+Method Used to Determine FFH EC Full-Risk Premium: $ 1,156
+Property Description Slab on Grade (non-elevated), 2 Floors , Discounted Premium: $ 1,156
+Masonry Fees and Surcharges:
+Date of Construction 12-31-2023 Reserve Fund Assessment: $ 208
+Prior NFIP Claims 0 Claim(s) HFIAA Surcharge: $25
+Your property’s NFIP flood claims history can affect your premium. Federal Policy Fee: $47
+Total Premium $ 1,436
+ADDITIONAL INTERESTS
+First Mortgagee
+
+Crestmark Mortgage Company, LTD,
+PO Box 961254,
+
+Fort Worth, TX, 76161
+
+Loan # : 7300036910
+
+If there have been any mortgagee changes, please make sure your profile reflects the changes.
+For questions about your flood insurance rating, contact your agent or insurance company.
+i 2 11-14- : oe eee
+Date Mailed: 11-14-2024 To learn more about your flood risk, please visit FloodSmart.gov ———
+NATIONAL FLOOD
+
+INSURANCE PROGRAM

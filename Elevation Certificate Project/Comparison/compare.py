@@ -73,6 +73,7 @@ state_value_app = normalize_string(state_value_app)
 zipcode_value_pdf = normalize_string(zipcode_value_pdf)
 zipcode_value_app = normalize_string(zipcode_value_app)
 
+print("Rule 1\n----------------------------------------------------")
 print(f"City from PDF: {city_value_pdf}")
 print(f"State from PDF: {state_value_pdf}")
 print(f"ZIPCode from PDF: {zipcode_value_pdf}")
@@ -106,6 +107,7 @@ try:
 except (ValueError, TypeError):
     diagram_number_app = -1 
 
+print("Rule 2\n----------------------------------------------------")
 print(f"PDF diagram number : {diagramNumber_pdf}\nApplication diagram number : {diagram_number_app}\n")
 
 if diagramNumber_pdf and diagram_number_app:
@@ -137,7 +139,8 @@ if isinstance(enclosure_Size, dict):
 total_square_footage = crawlspace_square_footage + garage_square_footage
 diagram_no_choices = ['6', '7', '8', '9']  
 
-if diagramNumber_pdf in str(diagram_no_choices): 
+print("\nRule 3\n----------------------------------------------------")
+if diagramNumber_pdf in diagram_no_choices: 
 
     if (total_square_footage == 0 and enclosure_Size is None) or (total_square_footage == enclosure_Size):
         print(f"Diagram Number is among {', '.join(map(str, diagram_no_choices))}. and Crawlspace and Garage square footage '{crawlspace_square_footage + garage_square_footage}' is aligned with Total Enclosure size '{enclosure_Size}' in the application.")
@@ -146,15 +149,16 @@ if diagramNumber_pdf in str(diagram_no_choices):
 else:
     print(f"Diagram Number is not among {', '.join(map(str, diagram_no_choices))}. so no comparison is required.")
 
-# Searching for CBRS/OPA details  cbrsSystemUnitOrOpa
+# Searching for CBRS/OPA details  cbrsSystemUnitOrOpa 
+print("\nRule 4\n----------------------------------------------------")
 CBRS = search_key(data_pdf, 'CBRS')
 OPA = search_key(data_pdf, 'OPA') 
 CBRS_OPA_app = search_key(data_app, 'cbrsSystemUnitOrOpa') 
 
 if CBRS_OPA_app != CBRS or CBRS_OPA_app != OPA:
-    print("\nCBRS/OPA details do not match.")
+    print("CBRS/OPA details do not match.")
 else:
-    print("\nCBRS/OPA details matched with the application.")
+    print("CBRS/OPA details matched with the application.")
 
 if CBRS.lower() == "yes" or OPA.lower() == "yes":
     print("Area in CBRS/OPA, Additional Documentation Required.")
@@ -167,6 +171,7 @@ Construction_status_pdf_V2 = search_key(data_pdf, 'Elevation_Basis')
 Construction_status_pdf_V3 = search_key(data_pdf, 'BuildingUnderConstruction') 
 Construction_status_app = search_key(data_app, 'buildingUnderConstruction') 
 
+print("Rule 5\n----------------------------------------------------")
 if normalize_string(Construction_status_pdf_V1) == "finishedconstruction" and Construction_status_app:
     print("Construction status PDF: Finished Construction.\nConstruction Status Application: Finished Construction.\n") 
 
@@ -206,8 +211,54 @@ elif normalize_string(Construction_status_pdf_V3) != "finishedconstruction" and 
 
 # Rule 7 - Elevation Logic 
 top_of_bottom_floor_pdf = float(search_key(data_pdf, 'Top of Bottom Floor'))
+LAG = search_key(data_app, 'ecSectionCLowestAdjacentGrade')
 
 diagram_choices_1 = ['1', '1a', '3', '6', '7', '8']
+
+print("Rule 7\n----------------------------------------------------")
+if diagramNumber_pdf.lower() in diagram_choices_1:  
+    if top_of_bottom_floor_pdf > LAG and top_of_bottom_floor_pdf <= (LAG + 2):
+        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_1))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic matched.")
+    else:
+        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_1))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic not matched.") 
+
+diagram_choices_2 = '1b' 
+C2A , C2B = None , None
+
+if diagramNumber_pdf.lower() == diagram_choices_2:  
+    if top_of_bottom_floor_pdf <= LAG + 6:
+        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_2))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic matched.") 
+    else:
+        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_2))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic not matched.")
+       
+diagram_choices_3 = ['2', '2a', '2b', '4', '9']
+
+if diagramNumber_pdf.lower() in diagram_choices_3:  
+    if top_of_bottom_floor_pdf < LAG:
+        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_3))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic matched.")
+    else:
+        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_3))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic not matched.")
+
+top_of_next_higher_floor_pdf = search_key(data_pdf, 'Top of Next Higher Floor')
+diagram_choices_5 = ['2', '4', '6', '7', '8', '9'] 
+
+if diagramNumber_pdf.lower() in diagram_choices_5:
+    if top_of_next_higher_floor_pdf:
+        print("The top of next higher floor is present\n")
+    else:
+        print("The top of next higher floor is not present\n")
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,60 +1,62 @@
 import json
 
 def normalize_string(value):
-    if value is None:
+    if not value:  
         return ""  
     if not isinstance(value, str):
-        value = str(value)  
+        value = str(value)
     return value.lower().strip().replace(" ", "").replace("-", "").replace("_", "")
+
 
 def search_key(data, target_key, default_value=''):
     target_key = normalize_string(target_key) 
     stack = [data]
+
     while stack:
         current = stack.pop(0)
         if isinstance(current, dict):
             for key, value in current.items():
                 normalized_key = normalize_string(key)  
-                if target_key in normalized_key:  
+                if target_key == normalized_key:  
                     return value
                 stack.append(value)
                 
         elif isinstance(current, list):
             stack.extend(current)
-    if isinstance(target_key, int): 
-        default_value = 0 
-    return {target_key: default_value}
 
+    return 0 if isinstance(target_key, int) else default_value   
 
 def diagram_number_pdf(data, key_variants):
     if isinstance(data, dict):
         for key, value in data.items():
-            if key in key_variants:
-                return value  
-            result = diagram_number_pdf(value, key_variants)
-            if result is not None:
-                return result
+            if normalize_string(key) in [normalize_string(k) for k in key_variants]: 
+                return value
+
+            deeper_result = diagram_number_pdf(value, key_variants)
+            if deeper_result is not None:
+                return deeper_result  
+
     elif isinstance(data, list):
         for item in data:
-            result = diagram_number_pdf(item, key_variants)
-            if result is not None:
-                return result
-    return None  
+            deeper_result = diagram_number_pdf(item, key_variants)
+            if deeper_result is not None:
+                return deeper_result
+    return None 
 
 def extract_int_value(value):
     if isinstance(value, str):
         numeric_part = ''.join(filter(str.isdigit, value))
-        return int(numeric_part) if numeric_part else None
+        return int(numeric_part) if numeric_part else 0
     elif isinstance(value, int):
         return value  
     return 0
 
 # Files paths
 # --------------------------------------------------------------------------------------------------------------------------------------
-with open(r"C:\Users\Technologist\OneDrive - Higher Education Commission\Job Project\Elevation Ceritificate Project\Comparison\31.json") as f:
+with open(r"31.json") as f:
     data_pdf = json.load(f) 
 
-with open(r"C:\Users\Technologist\OneDrive - Higher Education Commission\Job Project\Elevation Ceritificate Project\Comparison\application.json") as f:
+with open(r"application.json") as f:
     data_app = json.load(f) 
 # ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -64,14 +66,7 @@ zipcode_value_pdf = search_key(data_pdf, 'ZIPCode')
 
 city_value_app = search_key(data_app, 'city')
 state_value_app = search_key(data_app, 'state')
-zipcode_value_app = search_key(data_app, 'zipCode')
-
-city_value_pdf = normalize_string(city_value_pdf)
-city_value_app = normalize_string(city_value_app)
-state_value_pdf = normalize_string(state_value_pdf)
-state_value_app = normalize_string(state_value_app)
-zipcode_value_pdf = normalize_string(zipcode_value_pdf)
-zipcode_value_app = normalize_string(zipcode_value_app)
+zipcode_value_app = search_key(data_app, 'zipCode') 
 
 print("Rule 1\n----------------------------------------------------")
 print(f"City from PDF: {city_value_pdf}")
@@ -89,6 +84,8 @@ else:
     print("Parameters do not match.\n")
 
 # Diagram Numbers 
+print("Rule 2\n----------------------------------------------------")
+
 key_variants = [
     "BuildingDiagramNumber",
     "Building Diagram Number",
@@ -97,6 +94,7 @@ key_variants = [
     "buildingDiagramNo",
     "Diagram Number"
 ]
+
 try:
     diagramNumber_pdf = diagram_number_pdf(data_pdf, key_variants)
 except (ValueError, TypeError):
@@ -107,7 +105,6 @@ try:
 except (ValueError, TypeError):
     diagram_number_app = -1 
 
-print("Rule 2\n----------------------------------------------------")
 print(f"PDF diagram number : {diagramNumber_pdf}\nApplication diagram number : {diagram_number_app}\n")
 
 if diagramNumber_pdf and diagram_number_app:
@@ -120,6 +117,8 @@ else:
 
 
 # Crawlspace and Garage Square Footage details
+print("\nRule 3\n----------------------------------------------------")
+
 crawlspace_details = search_key(data_pdf, 'CrawlspaceDetails')
 if crawlspace_details and 'SquareFootage' in crawlspace_details:
     crawlspace_square_footage = extract_int_value(crawlspace_details['SquareFootage'])
@@ -139,7 +138,6 @@ if isinstance(enclosure_Size, dict):
 total_square_footage = crawlspace_square_footage + garage_square_footage
 diagram_no_choices = ['6', '7', '8', '9']  
 
-print("\nRule 3\n----------------------------------------------------")
 if diagramNumber_pdf in diagram_no_choices: 
 
     if (total_square_footage == 0 and enclosure_Size is None) or (total_square_footage == enclosure_Size):
@@ -210,51 +208,71 @@ elif normalize_string(Construction_status_pdf_V3) != "finishedconstruction" and 
 
 
 # Rule 7 - Elevation Logic 
+#----------------------------------------------------------------------------------
+print("Rule 7\n----------------------------------------------------")
+
+Section_C_FirstFloor_Height_app = float(search_key(data_app, 'ecSectionCFirstFloorHeight'))
+Section_C_LAG_app = float(search_key(data_app, 'ecSectionCLowestAdjacentGrade'))
+Section_C_Lowest_Floor_Elevation_app = float(search_key(data_app, 'ecSectionCLowestFloorElevation'))
+
+section_c_measurements_used = False
+
+if Section_C_FirstFloor_Height_app > 0 or Section_C_LAG_app > 0 or Section_C_Lowest_Floor_Elevation_app > 0:
+    section_c_measurements_used = True  
+    print("\nA: Section C measurements are used in the application.\n")
+
 top_of_bottom_floor_pdf = float(search_key(data_pdf, 'Top of Bottom Floor'))
-LAG = search_key(data_app, 'ecSectionCLowestAdjacentGrade')
+top_of_next_higher_floor_pdf = search_key(data_pdf, 'Top of Next Higher Floor') 
+LAG_pdf = extract_int_value(search_key(data_pdf, 'Lowest Adjacent Grade (LAG)'))
+HAG_pdf = extract_int_value(search_key(data_pdf, 'HAG_Variable'))
 
 diagram_choices_1 = ['1', '1a', '3', '6', '7', '8']
-
-print("Rule 7\n----------------------------------------------------")
-if diagramNumber_pdf.lower() in diagram_choices_1:  
-    if top_of_bottom_floor_pdf > LAG and top_of_bottom_floor_pdf <= (LAG + 2):
-        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_1))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic matched.")
-    else:
-        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_1))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic not matched.") 
-
-diagram_choices_2 = '1b' 
-C2A , C2B = None , None
-
-if diagramNumber_pdf.lower() == diagram_choices_2:  
-    if top_of_bottom_floor_pdf <= LAG + 6:
-        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_2))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic matched.") 
-    else:
-        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_2))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic not matched.")
-       
+diagram_choices_2 = '1b'
 diagram_choices_3 = ['2', '2a', '2b', '4', '9']
+diagram_choices_4 = '5' 
+diagram_choices_5 = ['2', '4', '6', '7', '8', '9']
 
-if diagramNumber_pdf.lower() in diagram_choices_3:  
-    if top_of_bottom_floor_pdf < LAG:
-        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_3))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic matched.")
+if section_c_measurements_used:
+    if diagramNumber_pdf.lower() in diagram_choices_1:   
+        if LAG_pdf <= top_of_bottom_floor_pdf <= LAG_pdf + 2:
+            print(f"C2a: For diagram no. in '{', '.join(map(str, diagram_choices_1))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n") 
+        else:
+            print(f"C2a: For diagram no. in '{', '.join(map(str, diagram_choices_1))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+
+    elif diagramNumber_pdf.lower() == diagram_choices_2:  
+        if LAG_pdf <= top_of_bottom_floor_pdf <= LAG_pdf + 6:
+            print(f"C2a: For diagram no. in '{diagram_choices_2}' The elevation should be within 6 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
+        else:
+            print(f"C2a: For diagram no. in '{diagram_choices_2}' The elevation should be within 6 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+
+    elif diagramNumber_pdf.lower() in diagram_choices_3:
+        if top_of_bottom_floor_pdf < LAG_pdf:
+            print(f"C2a: For diagram no. in '{', '.join(map(str, diagram_choices_3))}' The elevation should be below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n") 
+        else:
+            print(f"C2a: For diagram no. in '{', '.join(map(str, diagram_choices_3))}' The elevation should be below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+
+    elif diagramNumber_pdf.lower() in diagram_choices_4:
+        if LAG_pdf <= top_of_bottom_floor_pdf <= (LAG_pdf + 20):
+            print(f"C2a: For diagram no. in '{diagram_choices_4}' The elevation should be within 20 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
+        else:
+            print(f"C2a: For diagram no. in '{diagram_choices_4}' The elevation should be within 20 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+
+    if diagramNumber_pdf.lower() in diagram_choices_5:
+        if top_of_next_higher_floor_pdf and top_of_next_higher_floor_pdf > top_of_bottom_floor_pdf:
+            print(f"C2b: For diagrams '{', '.join(map(str, diagram_choices_3))}' The top of next higher floor should be present, and the elevation should be greater than the top of bottom floor (C2a).\nTop of next higher floor: {top_of_next_higher_floor_pdf}\nTop of bottom floor: {top_of_bottom_floor_pdf}\nElevation Logic matched.\n")
+        else: 
+            print(f"C2b: For diagrams '{', '.join(map(str, diagram_choices_3))}' The top of next higher floor should be present, and the elevation should be greater than the top of bottom floor (C2a).\nTop of next higher floor: {top_of_next_higher_floor_pdf}\nTop of bottom floor: {top_of_bottom_floor_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+    
+    # top of bottom floor = C2a || top of next higher floor = C2b
+    if abs(LAG_pdf-top_of_bottom_floor_pdf) > 20: 
+        print("E: LAG and C2a difference is greater than 20\nFailed -> Underwritter review required.\n")
     else:
-        print(f"For diagram no. in '{', '.join(map(str, diagram_choices_3))}'\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG}\nElevation Logic not matched.")
-
-top_of_next_higher_floor_pdf = search_key(data_pdf, 'Top of Next Higher Floor')
-diagram_choices_5 = ['2', '4', '6', '7', '8', '9'] 
-
-if diagramNumber_pdf.lower() in diagram_choices_5:
-    if top_of_next_higher_floor_pdf:
-        print("The top of next higher floor is present\n")
+        print("E: LAG and C2a difference is smaller than 20\nPassed -> No underwritter review required.\n")
+ 
+    if abs(LAG_pdf-top_of_next_higher_floor_pdf) > 20:
+        print("E: LAG and C2b difference is greater than 20\nFailed -> Underwritter review required.\n")
     else:
-        print("The top of next higher floor is not present\n")
-
-
-
-
-
-
-
-
+        print("E: LAG and C2b difference is smaller than 20\nPassed -> No underwritter review required.\n") 
 
 
 

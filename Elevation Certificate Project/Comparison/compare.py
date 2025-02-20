@@ -349,24 +349,23 @@ if section_e_measurements_used:
     else:
         print("Red Flag -> EC Top of Bottom Floor does not match with Section E First Floor Height in Application.\n") 
 
-
     if diagramNumber_pdf.lower() in diagram_choices_6:
-        if LAG_pdf <= e1a <= LAG_pdf + 2:
-            print(f"E1b: For diagram no. in '{', '.join(map(str, diagram_choices_6))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n") 
+        if LAG_pdf <= e1b <= LAG_pdf + 2:
+            print(f"E1b: For diagram no. in '{', '.join(map(str, diagram_choices_6))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {e1b}\nLAG: {LAG_pdf}\nElevation Logic matched.\n") 
         else:
-            print(f"E1b: For diagram no. in '{', '.join(map(str, diagram_choices_6))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")  
+            print(f"E1b: For diagram no. in '{', '.join(map(str, diagram_choices_6))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {e1b}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")  
         
     elif diagramNumber_pdf.lower() == diagram_choices_7:  
-        if LAG_pdf <= e1a <= LAG_pdf + 6:
-            print(f"E1b: For diagram no. in '{diagram_choices_7}' The elevation should be within 6 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
+        if LAG_pdf <= e1b <= LAG_pdf + 6:
+            print(f"E1b: For diagram no. in '{diagram_choices_7}' The elevation should be within 6 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {e1b}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
         else:
-            print(f"E1b: For diagram no. in '{diagram_choices_7}' The elevation should be within 6 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+            print(f"E1b: For diagram no. in '{diagram_choices_7}' The elevation should be within 6 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {e1b}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
 
     elif diagramNumber_pdf.lower() in diagram_choices_8:
-        if LAG_pdf <= e1a <= (LAG_pdf + 20):
-            print(f"E1b: For diagram no. in '{ diagram_choices_8}' The elevation should be within 20 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
+        if LAG_pdf <= e1b <= (LAG_pdf + 20):
+            print(f"E1b: For diagram no. in '{diagram_choices_8}' The elevation should be within 20 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {e1b}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
         else: 
-            print(f"E1b: For diagram no. in '{diagram_choices_8}' The elevation should be within 20 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")   
+            print(f"E1b: For diagram no. in '{diagram_choices_8}' The elevation should be within 20 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {e1b}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")   
 
     elif diagramNumber_pdf.lower() in diagram_choices_9:
         if e1a < LAG_pdf: 

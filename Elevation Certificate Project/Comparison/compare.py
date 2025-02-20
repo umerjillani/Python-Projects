@@ -22,8 +22,23 @@ def search_key(data, target_key, default_value=''):
                 
         elif isinstance(current, list):
             stack.extend(current)
-
     return 0 if isinstance(target_key, int) else default_value   
+
+def search_second_key(data, target_key, default_value=''):
+    target_key = normalize_string(target_key)
+    stack = [data]
+    matches = []
+
+    while stack:
+        current = stack.pop(0)
+        if isinstance(current, dict):
+            for key, value in current.items():
+                if normalize_string(key) == target_key:
+                    matches.append(value)
+                stack.append(value)
+        elif isinstance(current, list):
+            stack.extend(current)
+    return matches[1] if len(matches) > 1 else default_value
 
 def diagram_number_pdf(data, key_variants):
     if isinstance(data, dict):
@@ -42,17 +57,21 @@ def diagram_number_pdf(data, key_variants):
                 return deeper_result
     return None 
 
-def extract_int_value(value):
+def extract_float_value(value):
     if isinstance(value, str):
-        numeric_part = ''.join(filter(str.isdigit, value))
-        return int(numeric_part) if numeric_part else 0
-    elif isinstance(value, int):
-        return value  
-    return 0
+        numeric_part = ''.join(c if c.isdigit() or c == '.' else '' for c in value)
+        try:
+            return float(numeric_part) if numeric_part else 0.0
+        except ValueError:
+            return 0.0
+    elif isinstance(value, (int, float)):
+        return float(value)
+    return 0.0
+
 
 # Files paths
 # --------------------------------------------------------------------------------------------------------------------------------------
-with open(r"31.json") as f:
+with open(r"31.json") as f: 
     data_pdf = json.load(f) 
 
 with open(r"application.json") as f:
@@ -120,13 +139,13 @@ print("\nRule 3\n----------------------------------------------------")
 
 crawlspace_details = search_key(data_pdf, 'CrawlspaceDetails')
 if crawlspace_details and 'SquareFootage' in crawlspace_details:
-    crawlspace_square_footage = extract_int_value(crawlspace_details['SquareFootage'])
+    crawlspace_square_footage = extract_float_value(crawlspace_details['SquareFootage'])
 else:
     crawlspace_square_footage = 0
 
 garage_details = search_key(data_pdf, 'GarageDetails')
 if garage_details and 'SquareFootage' in garage_details:
-    garage_square_footage = extract_int_value(garage_details['SquareFootage'])
+    garage_square_footage = extract_float_value(garage_details['SquareFootage'])
 else:
     garage_square_footage = 0
 
@@ -225,23 +244,19 @@ try:
 except (ValueError, TypeError):
     Section_C_Lowest_Floor_Elevation_app = 0
 
-try:
-    Section_E_First_Floor_Height = search_key(data_app, 'ecSectionEFirstFloorHeight') 
-except (ValueError, TypeError):
-    Section_E_First_Floor_Height = 0
-
 section_c_measurements_used = False
-section_e_measurements_used = False
 
 if Section_C_FirstFloor_Height_app > 0 or Section_C_LAG_app > 0 or Section_C_Lowest_Floor_Elevation_app > 0:
     section_c_measurements_used = True  
     print("\nA: Section C measurements are used in the application.\n")
+else:
+    print("\nA: Section C measurements are not used in the application.\n") 
 
-
-top_of_bottom_floor_pdf = float(search_key(data_pdf, 'Top of Bottom Floor'))
-top_of_next_higher_floor_pdf = search_key(data_pdf, 'Top of Next Higher Floor') 
-LAG_pdf = extract_int_value(search_key(data_pdf, 'Lowest Adjacent Grade (LAG)'))
-HAG_pdf = extract_int_value(search_key(data_pdf, 'HAG_Variable'))
+section_C = search_key(data_pdf, 'Section C') 
+top_of_bottom_floor_pdf = extract_float_value(search_key(section_C, 'Top of Bottom Floor')) 
+top_of_next_higher_floor_pdf = extract_float_value(search_key(section_C, 'Top of Next Higher Floor')) 
+LAG_pdf = extract_float_value(search_key(section_C, 'Lowest Adjacent Grade (LAG)'))
+HAG_pdf = extract_float_value(search_key(section_C, 'Highest Adjacent Grade'))    
 
 diagram_choices_1 = ['1', '1a', '3', '6', '7', '8']
 diagram_choices_2 = '1b'
@@ -250,6 +265,16 @@ diagram_choices_4 = '5'
 diagram_choices_5 = ['2', '4', '6', '7', '8', '9']
 
 if section_c_measurements_used:
+    if top_of_bottom_floor_pdf == Section_C_FirstFloor_Height_app:
+        print("EC Top of Bottom Floor matches with Section C First Floor Height in Application.\n")
+    else:
+        print("Red Flag -> EC Top of Bottom Floor does not matche with Section C First Floor Height in Application.\n")  
+
+    if LAG_pdf == Section_C_LAG_app:
+        print("EC Lowest Adjacent Grade (LAG) matches with Section C LAG in Application.\n")
+    else:
+        print("Red Flag -> EC Lowest Adjacent Grade (LAG) does not match with Section C LAG in Application.\n") 
+
     if diagramNumber_pdf.lower() in diagram_choices_1:   
         if LAG_pdf <= top_of_bottom_floor_pdf <= LAG_pdf + 2:
             print(f"C2a: For diagram no. in '{', '.join(map(str, diagram_choices_1))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n") 
@@ -289,7 +314,109 @@ if section_c_measurements_used:
     if abs(LAG_pdf-top_of_next_higher_floor_pdf) > 20:
         print("E: LAG and C2b difference is greater than 20\nFailed -> Underwritter review required.\n")
     else:
-        print("E: LAG and C2b difference is smaller than 20\nPassed -> No underwritter review required.\n") 
+        print("E: LAG and C2b difference is smaller than 20\nPassed -> No underwritter review required.\n")
+
+
+# Section E measurements used
+print("Rule 8\n----------------------------------------------------")
+try: 
+    Section_E_First_Floor_Height = extract_float_value(search_key(data_app, 'ecSectionEFirstFloorHeight')) 
+except (ValueError, TypeError): 
+    Section_E_First_Floor_Height = 0 
+
+section_e_measurements_used = False 
+
+if Section_E_First_Floor_Height > 0: 
+    section_e_measurements_used = True
+    print("A: Section E measurements are used in the application.\n")
+else:
+    print("A: Section E measurements are not used in the application.\n")
+
+section_E = search_key(data_pdf, 'Section E') 
+e1a = extract_float_value(search_key(section_E, 'Top of Bottom Floor')) 
+e1b = extract_float_value(search_second_key(section_E, 'Top of Bottom Floor'))  
+e2 = extract_float_value(search_key(section_E, 'Next Higher Floor')) 
+
+diagram_choices_6 = ["1", "1a", "3", "6", "7", "8"]
+diagram_choices_7 = "1b"
+diagram_choices_8 = "5" 
+diagram_choices_9 = ["2", "2a", "2b", "4", "9"]
+diagram_choices_10 = ["6", "7", "8", "9"] 
+
+if section_e_measurements_used:
+    if top_of_bottom_floor_pdf == Section_E_First_Floor_Height:
+        print("EC Top of Bottom Floor matches with Section E First Floor Height in Application.\n")
+    else:
+        print("Red Flag -> EC Top of Bottom Floor does not match with Section E First Floor Height in Application.\n") 
+
+
+    if diagramNumber_pdf.lower() in diagram_choices_6:
+        if LAG_pdf <= e1a <= LAG_pdf + 2:
+            print(f"E1b: For diagram no. in '{', '.join(map(str, diagram_choices_6))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n") 
+        else:
+            print(f"E1b: For diagram no. in '{', '.join(map(str, diagram_choices_6))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")  
+        
+    elif diagramNumber_pdf.lower() == diagram_choices_7:  
+        if LAG_pdf <= e1a <= LAG_pdf + 6:
+            print(f"E1b: For diagram no. in '{diagram_choices_7}' The elevation should be within 6 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
+        else:
+            print(f"E1b: For diagram no. in '{diagram_choices_7}' The elevation should be within 6 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+
+    elif diagramNumber_pdf.lower() in diagram_choices_8:
+        if LAG_pdf <= e1a <= (LAG_pdf + 20):
+            print(f"E1b: For diagram no. in '{ diagram_choices_8}' The elevation should be within 20 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
+        else: 
+            print(f"E1b: For diagram no. in '{diagram_choices_8}' The elevation should be within 20 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")   
+
+    elif diagramNumber_pdf.lower() in diagram_choices_9:
+        if e1a < LAG_pdf: 
+            print(f"E1b: For diagram no. in '{diagram_choices_9}' the elevation should be below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
+        else:
+            print(f"E1b: For diagram no. in '{diagram_choices_9}' the elevation should be below the LAG.\nTop of Bottom Floor: {top_of_bottom_floor_pdf}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n") 
+
+    if diagramNumber_pdf.lower() in diagram_choices_10:
+        if e2 > e1a:
+            print(f"E2: The elevation should be present for building diagrams 6, 7, 8, and 9.  The elevation should be a higher value when compared to E1a.\nTop of next higher floor: {e2}\nTop of bottom floor: {e1a}\nElevation Logic matched.\n") 
+        else:
+            print(f"E2: The elevation should be present for building diagrams 6, 7, 8, and 9.  The elevation should be a higher value when compared to E1a.\nTop of next higher floor: {e2}\nTop of bottom floor: {e1a}\nRed Flag -> Elevation Logic not matched.\n")
+
+    if e1a > 20 or e1b > 20 or e2 > 20:  
+        print("E: E1a, E1b, or E2 is greater than 20\nFailed -> Underwritter review required.\n")
+    else:
+        print("E: E1a, E1b, and E2 are smaller than 20\nPassed -> No underwritter review required.\n")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

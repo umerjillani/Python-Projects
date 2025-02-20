@@ -7,7 +7,6 @@ def normalize_string(value):
         value = str(value)
     return value.lower().strip().replace(" ", "").replace("-", "").replace("_", "")
 
-
 def search_key(data, target_key, default_value=''):
     target_key = normalize_string(target_key) 
     stack = [data]
@@ -211,15 +210,33 @@ elif normalize_string(Construction_status_pdf_V3) != "finishedconstruction" and 
 #----------------------------------------------------------------------------------
 print("Rule 7\n----------------------------------------------------")
 
-Section_C_FirstFloor_Height_app = float(search_key(data_app, 'ecSectionCFirstFloorHeight'))
-Section_C_LAG_app = float(search_key(data_app, 'ecSectionCLowestAdjacentGrade'))
-Section_C_Lowest_Floor_Elevation_app = float(search_key(data_app, 'ecSectionCLowestFloorElevation'))
+try:
+    Section_C_FirstFloor_Height_app = float(search_key(data_app, 'ecSectionCFirstFloorHeight'))
+except (ValueError, TypeError):
+    Section_C_FirstFloor_Height_app = 0 
+
+try:
+    Section_C_LAG_app = float(search_key(data_app, 'ecSectionCLowestAdjacentGrade'))
+except (ValueError, TypeError):
+    Section_C_LAG_app = 0
+
+try:
+    Section_C_Lowest_Floor_Elevation_app = float(search_key(data_app, 'ecSectionCLowestFloorElevation'))
+except (ValueError, TypeError):
+    Section_C_Lowest_Floor_Elevation_app = 0
+
+try:
+    Section_E_First_Floor_Height = search_key(data_app, 'ecSectionEFirstFloorHeight') 
+except (ValueError, TypeError):
+    Section_E_First_Floor_Height = 0
 
 section_c_measurements_used = False
+section_e_measurements_used = False
 
 if Section_C_FirstFloor_Height_app > 0 or Section_C_LAG_app > 0 or Section_C_Lowest_Floor_Elevation_app > 0:
     section_c_measurements_used = True  
     print("\nA: Section C measurements are used in the application.\n")
+
 
 top_of_bottom_floor_pdf = float(search_key(data_pdf, 'Top of Bottom Floor'))
 top_of_next_higher_floor_pdf = search_key(data_pdf, 'Top of Next Higher Floor') 
@@ -273,9 +290,6 @@ if section_c_measurements_used:
         print("E: LAG and C2b difference is greater than 20\nFailed -> Underwritter review required.\n")
     else:
         print("E: LAG and C2b difference is smaller than 20\nPassed -> No underwritter review required.\n") 
-
-
-
 
 
 

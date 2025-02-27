@@ -78,7 +78,7 @@ with open(r"application.json") as f:
     data_app = json.load(f) 
 # ---------------------------------------------------------------------------------------------------------------------------------------
 
-city_value_pdf = search_key(data_pdf, 'City')
+city_value_pdf = search_key(data_pdf, 'City') 
 state_value_pdf = search_key(data_pdf, 'State')
 zipcode_value_pdf = search_key(data_pdf, 'ZIPCode')
 
@@ -144,7 +144,7 @@ else:
     crawlspace_square_footage = 0
 
 garage_details = search_key(data_pdf, 'GarageDetails')
-if garage_details and 'SquareFootage' in garage_details:
+if garage_details and 'SquareFootage' in garage_details: 
     garage_square_footage = extract_float_value(garage_details['SquareFootage'])
 else:
     garage_square_footage = 0
@@ -385,23 +385,54 @@ if section_e_measurements_used:
         print("E: E1a, E1b, and E2 are smaller than 20\nPassed -> No underwritter review required.\n")
 
 
+# Section H 
+#------------------------------------------------------------------------------- 
+print("Rule 9 - Section H\n----------------------------------------------------")
+
+section_H_in_pdf = search_key(data_pdf, 'Section H')
+h1a_top_of_bottom_floor = extract_float_value(search_key(section_H_in_pdf, 'Top of Bottom Floor'))
+h1b_top_of_next_higher_floor = extract_float_value(search_key(section_H_in_pdf, 'Top of Next Higher Floor')) 
+
+diagram_choices_11 = ['1', '1a', '3', '6', '7','8']
+diagram_choices_12 = ['2', '2a', '2b', '4', '9']
+diagram_choices_13 = ['2', '2a', '2b', '4', '6', '7', '8', '9']
+
+if diagramNumber_pdf.lower() in diagram_choices_11:
+    if LAG_pdf <= h1a_top_of_bottom_floor <= LAG_pdf + 2:
+        print(f"H1a: For diagram no. in '{', '.join(map(str, diagram_choices_11))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {h1a_top_of_bottom_floor}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
+    else:   
+        print(f"H1a: For diagram no. in '{', '.join(map(str, diagram_choices_11))}' The top of bottom floor elevation should be within 2 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {h1a_top_of_bottom_floor}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+
+elif diagramNumber_pdf.lower() == '1b':
+    if LAG_pdf <= h1a_top_of_bottom_floor <= LAG_pdf + 6:
+        print(f"H1a: For diagram no. in '1b' The elevation should be within 6 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {h1a_top_of_bottom_floor}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
+    else:
+        print(f"H1a: For diagram no. in '1b' The elevation should be within 6 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {h1a_top_of_bottom_floor}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+
+elif diagramNumber_pdf.lower() in diagram_choices_12:
+    if LAG_pdf > h1a_top_of_bottom_floor:
+        print(f"H1a: For diagram no. in '{', '.join(map(str, diagram_choices_12))}' The elevation should be below the LAG.\nTop of Bottom Floor: {h1a_top_of_bottom_floor}\nLAG: {LAG_pdf}\nElevation Logic matched.\n")
+    else:
+        print(f"H1a: For diagram no. in '{', '.join(map(str, diagram_choices_12))}' The elevation should be below the LAG.\nTop of Bottom Floor: {h1a_top_of_bottom_floor}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+
+elif diagramNumber_pdf.lower() == '5':
+    if LAG_pdf <= h1a_top_of_bottom_floor <= (LAG_pdf + 20):
+        print(f"H1a: For diagram no. in '5' The elevation should be within 20 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {h1a_top_of_bottom_floor}\nLAG: {LAG_pdf}\nElevation Logic matched.\n") 
+    else:
+        print(f"H1a: For diagram no. in '5' The elevation should be within 20 feet of the LAG, but not below the LAG.\nTop of Bottom Floor: {h1a_top_of_bottom_floor}\nLAG: {LAG_pdf}\nRed Flag -> Elevation Logic not matched.\n")
+
+if diagramNumber_pdf.lower() in diagram_choices_13:
+    # the next higher floor should be present, and it should be greater than top of bottom floor 
+    if h1b_top_of_next_higher_floor and h1b_top_of_next_higher_floor > h1a_top_of_bottom_floor: 
+        print(f"H1b: For diagrams '{', '.join(map(str, diagram_choices_13))}' The top of next higher floor should be present, and the elevation should be greater than the top of bottom floor (H1a).\nTop of next higher floor present.\nTop of next higher floor: {h1b_top_of_next_higher_floor}\nTop of bottom floor: {h1a_top_of_bottom_floor}\nElevation Logic matched.\n") 
+    else:
+        print(f"H1b: For diagrams '{', '.join(map(str, diagram_choices_13))}' The top of next higher floor should be present, and the elevation should be greater than the top of bottom floor (H1a).\nEither Top of next higher floor not present.\nOR\nTop of next higher floor: {h1b_top_of_next_higher_floor}\nTop of bottom floor: {h1a_top_of_bottom_floor}\nRed Flag -> Elevation Logic not matched.\n") 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+if h1a_top_of_bottom_floor > 20 or h1b_top_of_next_higher_floor > 20:
+    print("E: H1a or H1b is greater than 20. Extremely rare case.\nFailed -> Underwritter review required.\n")
+else:
+    print("E: H1a and H1b are smaller than 20.\nPassed -> No underwritter review required.\n") 
 
 
 
